@@ -1,0 +1,674 @@
+--------------------
+0623
+********************
+Outside, I can hear the sounds of impatient autumn insects.
+Beyond that, it is a remarkably quiet night.
+Qwon isn't here right now—she’s downstairs taking a bath.
+$Qwon
+“—Please, do not peek.”
+$Sousuke
+“As if I would.”
+$Qwon
+“...I suppose a woman with a figure like Tachibana-san’s is more to your liking.”
+$Sousuke
+“...How did you even reach that conclusion?”
+...Well, it was just the usual banter.
+I didn't even feel like picking up one of the books piled against the wall; I just lay there, sprawling across the tatami.
+—Maybe I should just sleep like this.
+I pulled myself up and switched off the light.
+The silence was heavy enough already, but the darkness made the stillness feel even more profound.
+Perhaps it would feel different if there were a wind chime hanging somewhere.
+The sound of footsteps echoed with strange clarity.
+The sliding door opened, and Qwon returned.
+A faint mist of steam rose from her freshly bathed body, carrying the scent of soap with it.
+$Qwon
+“—Sousuke-san.”
+$Sousuke
+“...Yeah?”
+I sat up as she called my name.
+$Qwon
+“Please, comb my hair.”
+$Sousuke
+“...Do it yourself.”
+I grumbled, looking at her long, cascading hair.
+$Qwon
+“It is quite a difficult task.”
+Qwon pressed the comb into my hand.
+$Sousuke
+“I might snag it, you know?”
+$Qwon
+“If it hurts, I shall be cross.”
+$Sousuke
+“...You’re something else.”
+Ignoring my complaints, Qwon wedged herself into the space between my legs.
+$Sousuke
+“—Good grief.”
+I gave a wry smile at her forceful behavior and took a lock of her long hair in my hand.
+The damp strands shimmered with a soft luster.
+I touched the teeth of the comb to the hair near the crown of her head.
+$Qwon
+“Ngh... ah...”
+$Sousuke
+“Don’t make such strange noises.”
+I gave her a playful poke on the back of her head.
+$Qwon
+“...How rude.”
+Qwon looked back at me, her cheeks puffing out just a tiny bit.
+$Sousuke
+“...Just stay still.”
+I started combing, ignoring her pout. The fine, silver-silk strands offered no resistance as they were straightened into place.
+Perhaps she’d used some kind of fragrance, because a sweet scent wafted up every time the comb passed through.
+$Qwon
+“Phew...”
+$Sousuke
+“What is it?”
+I asked as she let out a deep breath.
+$Qwon
+“—It has been a long time since I have had this done for me.”
+Qwon began to speak quietly.
+$Qwon
+“When my sister was still alive, we used to comb each other’s hair. We were identical, so we had no need for a mirror.”
+Qwon closed her eyes, looking nostalgic as she delved into her memories.
+$Qwon
+“My sister’s hair was so beautiful, like threads of silk. It was soft, as if it held a permanent moisture.”
+$Sousuke
+“—Yours is exactly the same.”
+$Qwon
+“...Perhaps so. At times—I feel an overwhelming anxiety, wondering if I am truly myself.”
+$Qwon
+“The one living now... is it truly Mikanagi Qwon, or is it Mikanagi Towa—which one am I?”
+$Sousuke
+“...You’re Mikanagi Qwon, aren’t you?”
+$Qwon
+“That is the name I have given you. If that were a lie—”
+$Sousuke
+“...I wouldn't be able to tell the difference.”
+$Qwon
+“—I suppose not. That is only natural.”
+Qwon’t answer sounded like a fading breath.
+$Qwon
+“Perhaps they—wished to take my sister instead.”
+$Sousuke
+“...They?”
+I stopped combing.
+$Qwon
+“Yes. The ones who killed my parents and took me away—my sister would have had far more utility than I.”
+$Sousuke
+“Utility...?”
+Did they kidnap her to make her do something? It was hard to imagine it was for ransom. Qwon’s parents—were killed during the break-in.
+The purpose of "them" was—
+$Qwon
+“—I was taken to be a researcher.”
+$Sousuke
+“A researcher?”
+$Qwon
+“Yes—for weapons development.”
+Qwon let the words fall, short and heavy.
+$Qwon
+“As researchers of Western science, we both drew a great deal of attention. They must have believed we would be useful in developing new armaments.”
+$Sousuke
+“—Wait. If it’s weapons development, are you saying the opposition is the military?”
+$Qwon
+“The military never shows its face, but they are certainly involved. It seems former officers are the ones at the heart of the activity.”
+$Sousuke
+“Why the hell would they want someone like Qwon—”
+$Qwon
+“A chronic shortage of talent, perhaps? Or an overestimation of my abilities—”
+$Sousuke
+“And that... has been for two years?”
+$Qwon
+“Yes. Fortunately, I was not treated poorly. Though I was granted no freedom in exchange.”
+$Qwon
+“I was half-imprisoned—and tasked with the design of a certain weapon.”
+I swallowed hard.
+$Sousuke
+“—What kind?”
+Qwon turned around.
+$Qwon
+“—A tool to drive people mad.”
+$Sousuke
+“............!”
+The words wouldn't come.
+A tool to drive people mad—
+That was—
+$Qwon
+“—The prototype was taken the moment it was finished.”
+—She sounded almost disappointed.
+$Qwon
+“It was still only theoretical; we hadn’t even conducted sufficient testing.”
+Qwon muttered it with such genuine regret.
+$Sousuke
+“—Is that thing... functional—?”
+My throat felt parched.
+$Qwon
+“—Regardless of the efficacy—it was in a usable state.”
+Qwon stated it with conviction.
+$Qwon
+“I created something that is fully capable of driving others into a state of insanity.”
+$Sousuke
+“The possibility of that—being used on me...?”
+$Qwon
+“The possibility—is entirely plausible.”
+Qwon nodded.
+$Qwon
+“Based on what you have told me, Sousuke-san—the symptoms you experienced during the incidents, the dizziness and the headaches, are exactly as I predicted.”
+$Qwon
+“However—it differed slightly from my expectations.”
+$Sousuke
+“...Differed how?”
+$Qwon
+“The degree of effectiveness, perhaps—I did not intend for the subject to lose their memories.”
+$Qwon
+“I designed it so that they would retain their normal faculties even in the midst of madness.”
+$Qwon
+“However—if this tool was used on you, you would be found innocent. One cannot be held responsible for crimes committed in a state of insanity.”
+$Qwon
+“If that is the case, then the one who used the tool on you is the true culprit.”
+$Sousuke
+“...Ayane told me something like that, too...”
+That I wasn't guilty.
+She’d said that, trying to cheer me up.
+And yet, even Ayane—
+$Sousuke
+“...It’s all bullshit.”
+I didn't want to think about any of this anymore.
+$Sousuke
+“...I’m going to sleep.”
+I lay down on the futon without waiting for her reply.
+For a split second, I thought I saw a shadow cross Qwon’s face.
+$Sousuke
+“...Either way, it doesn't change the fact that I killed her.”
+$Qwon
+“—Perhaps not.”
+Qwon nodded quietly.
+It was—the gaze of an observer. She wasn't blaming me for my sins; she was simply accepting things as they were, with cold indifference.
+I wasn't angry. Everything was my responsibility.
+But—the white nape of her neck, right there in front of me.
+I felt as if it were enticing me.
+Slender and fragile, like the stem of a flower.
+The fingers that had been playing with her hair naturally reached for that neck.
+—It felt so normal.
+—As if it were nothing at all.
+Slowly, but surely, I began to tighten my grip.
+I could feel Qwon’s pulse, thumping against my fingertips.
+She must have been in pain, yet she made no sound.
+Instead, Qwon relaxed her body and leaned back against me.
+Was she—hoping to be killed by me?
+Hesitation. The strength drained slightly from my hands.
+$Qwon
+“—Please.”
+Even as she struggled for breath, her voice wasn't raspy; she simply urged me on quietly.
+$Qwon
+“You have the right to do this.”
+$Sousuke
+“Guh... ugh...”
+—I couldn't do it.
+There was no way I could kill someone while I was still conscious.
+I wasn't—I wasn't strong enough to end a life of my own free will.
+$Qwon
+“—You are not going to kill me?”
+Qwon’s voice sounded almost regretful.
+$Sousuke
+“...I can’t.”
+If I strangled her here—I would be validating everything.
+In the body I held tight, I could feel a comforting warmth and a steady heartbeat.
+$Sousuke
+“Qwon... I’m sorry...”
+$Qwon
+“I do not mind.”
+Despite having just been nearly strangled, Qwon was perfectly calm.
+$Qwon
+“Just as you wish—the fact remains that part of the responsibility for you killing her lies with me.”
+$Sousuke
+“—You idiot.”
+I tightened my arms around her.
+$Sousuke
+“You... aren’t to blame.”
+Even if she was the one who made the tool to drive people mad, the people who made her build it—the people who used it—are the ones who should be held responsible.
+Them—or me, the one who carried it out—we are the ones who should bear the sin.
+$Sousuke
+“You—aren’t the one at fault... Qwon.”
+My voice hitched.
+It hurt.
+Even though I wasn't the one being choked, it felt like I couldn't breathe.
+$Qwon
+“—It is alright to cry.”
+Qwon’s voice was right by my ear.
+$Sousuke
+“...I’ve forgotten... how to cry... and the person who would have cried for me... I killed her...”
+$Qwon
+“—I see.”
+Qwon gave her usual, indifferent nod.
+Right now—that detachment was a mercy I was desperately grateful for.
+$Sousuke
+“I can’t... I can’t cry...”
+Contradicting my words, something began to overflow from my eyes, hot and unstoppable.
+$Sousuke
+“Guh... ugh...”
+$Qwon
+“—Anything forgotten can surely be remembered. ...Because it has not been truly lost.”
+Qwon’s words echoed deep within my heart, where I had lost Ayane.
+--------------------
+0661
+********************
+Night fell, and Ayane wandered into the bar in Kagurazaka.
+She’d thought about going to Sousuke’s place at the Bunka Apartments, but she hesitated to go there every single day.
+Knowing Sousuke, he wouldn't turn her away, but since he was hiding as a suspect, he couldn't exactly have people coming and going constantly.
+Hoping that Sousuke might show up here, she pushed open the door.
+Chika was inside, cleaning up the shop.
+$Chika
+“—Oh, I’m sorry, we aren’t open today—”
+Recognizing Ayane, Chika stopped mid-sentence.
+$Ayane
+“Ah... sorry.”
+$Chika
+“Um... you’re the one who came with Kudou-san the other day...?”
+As Ayane turned to leave, Chika called out to her.
+$Chika
+“Please, come in. Friends of the family are always welcome.”
+Chika smiled and pulled out a stool.
+$Ayane
+“Th-thank you.”
+Ayane sat down, feeling a bit flustered.
+She was happy to be called "family." She wondered if Chika really thought she was Sousuke’s relative.
+...If she thought Ayane was his sister, that would be a bit complicated, though.
+$Chika
+“I can’t serve any cocktails, but I can take an order for coffee and maybe a light snack.”
+$Ayane
+“Oh, just coffee is fine.”
+$Chika
+“Coming right up.”
+Chika went behind the counter and started preparing the coffee.
+Ayane watched her with a vacant gaze.
+$Chika
+“Which beans would you like?”
+$Ayane
+“Eh?”
+Ayane was confused. She didn't really know anything about where coffee beans came from.
+$Ayane
+“Ah... just the regular ones.”
+$Chika
+“Hehe, let’s go with Mocha then.”
+Chika measured out the beans with a spoon and started grinding them in the mill.
+$Chika
+“...Oh, please have these while you wait.”
+Chika held out a plate of biscuits.
+$Ayane
+“Ah... thank you.”
+Ayane took one and put it in her mouth. A faint, sweet aroma filled her senses.
+$Qwon
+“—Please give me one as well.”
+$Ayane
+“Eh—?”
+Ayane spun around at the sudden voice.
+$Ayane
+“You’re—”
+$Qwon
+“Good evening.”
+Qwon gave a small bow and sat down next to Ayane.
+$Chika
+“Would you like something to drink too, Qwon-chan?”
+$Qwon
+“A café au lait, please.”
+Qwon picked up a biscuit and popped it into her mouth.
+$Chika
+“Here you go.”
+Steaming cups were placed in front of Ayane and Qwon.
+$Ayane
+“Thanks.”
+She pulled the sugar bowl closer and added three spoonfuls.
+$Qwon
+“You have a sweet tooth.”
+$Ayane
+“Mmm, it’s not really like that...”
+Ayane gave a wry smile.
+$Ayane
+“Aren’t you putting any sugar in yours, Qwon-chan?”
+$Qwon
+“I have no need for it.”
+Even as she said that, the sight of Qwon blowing on her cup to cool it down was quite charming.
+Chika took off her apron and came out from behind the counter.
+$Chika
+“Well then, I’ll be off for a bit.”
+$Ayane
+“Wait? Is it okay for us to stay here?”
+$Chika
+“It’s fine. And you don’t need to pay.”
+$Ayane
+“But...”
+$Chika
+“It’s lonely when the shop is quiet. Besides, I can’t take money from a friend.”
+$Ayane
+“...Thank you.”
+Ayane was incredibly happy that Chika called her a friend.
+Chika left the shop.
+The absence of just one person made the space feel suddenly empty.
+Having Qwon next to her was at least some comfort.
+Qwon was sipping her café au lait little by little.
+Noticing Ayane’s gaze, Qwon looked up slightly.
+$Qwon
+“—Is something the matter?”
+$Ayane
+“Ah... no, it’s nothing special...”
+$Qwon
+“I see.”
+Qwon lowered her gaze again.
+Ayane took a sip of her coffee. The sugar had dulled the bitterness, making it just right.
+Qwon spoke up.
+$Qwon
+<—Why is it that you remain alive?>
+$Ayane
+“—...!”
+Ayane’s hand froze with the cup halfway to her lips.
+She didn't understand the meaning of the question.
+She didn't understand, and yet—it somehow caught in the depths of her heart.
+$Ayane
+“The reason... I’m alive?”
+Qwon didn't answer.
+$Ayane
+“I’m alive... because I want to learn about all sorts of things, I guess.”
+Deciding that must be what she meant, Ayane started to explain.
+$Ayane
+“That’s why I left the countryside and came to Tokyo. ...Well, there are other reasons, too.”
+Qwon stayed silent, listening quietly.
+$Ayane
+“I thought it’d be fun to study and gather all kinds of knowledge.”
+$Qwon
+“...How ordinary.”
+$Ayane
+“What’s wrong with being ordinary? I don’t want to be special, and I could never be like you anyway, Qwon-chan.”
+$Qwon
+“Is that meant to be a jab at me?”
+$Ayane
+“No, not at all. You’re amazing, Qwon-chan. We’re totally different.”
+$Qwon
+“...I am a mere human. My knowledge is nothing more than things anyone could learn. It is just a collection of facts crammed together without rhyme or reason.”
+$Qwon
+“There are many things that even I cannot know.”
+$Ayane
+“...Like the human heart?”
+$Qwon
+“—I can understand it to a certain extent. But it never goes beyond the realm of conjecture.”
+$Ayane
+“Yeah, you’re right... no one can ever truly know what’s in someone else’s heart.”
+Ayane muttered the words softly.
+$Qwon
+“...On a side note, I am a complete outsider to matters of love, so please do not bring them up with me.”
+$Ayane
+“Hehe...”
+Ayane let out a little laugh at Qwon’s words.
+$Ayane
+“—I want to live my life as fully as I possibly can.”
+That was all Ayane could do right now.
+$Ayane
+“If I can come to understand the person I love even just a little bit more, wouldn't that be wonderful?”
+$Qwon
+“...I told you not to bring up matters of love.”
+$Ayane
+“Don’t you have someone you like, Qwon-chan?”
+Ayane ignored her and pressed on.
+$Qwon
+“As I said...”
+Qwon, who had been almost expressionless until now, looked a bit annoyed.
+Finding that fun and exciting, Ayane showered her with questions.
+$Ayane
+“The Master is handsome, isn't he? He’s got that cool, mature vibe. Sousuke doesn't have that kind of flavor yet.”
+$Qwon
+“...Phew.”
+Qwon let out an exasperated sigh.
+$Qwon
+“—I feel as though your presence is upsetting my calculations.”
+Qwon muttered the words with deep feeling.
+Ayane didn't understand the meaning behind them. She didn't understand, but there was no hint of blame in Qwon’s voice.
+$Qwon
+“But I suppose that, too—is interesting.”
+Ayane thought she saw Qwon smile.
+--------------------
+0662
+********************
+When I visited the bar, Ayane and Mikage were the only ones sitting there together.
+$Sousuke
+“...Mikage’s here, too?”
+$Mikage
+“...Got a problem with that?”
+I sat down next to Ayane, ignoring Mikage’s sidelong glare.
+$Mikage
+“...Don’t worry, I won’t get in your way.”
+Mikage muttered grumpily as she tilted her glass of ice.
+$Sousuke
+“Hm... where’s Chika?”
+$Ayane
+“Upstairs, maybe? She went out to buy coffee beans, and went straight to the back as soon as she got back.”
+$Sousuke
+“Hm... I see.”
+Nothing for it then. I grabbed a bottle from the shelf. Tanqueray gin.
+I went behind the counter, took some ice from the freezer, and dropped it into a glass.
+$Ayane
+“Is it okay for you to just go back there?”
+$Sousuke
+“It’s fine.”
+I answered as I poured the gin.
+The ice crackled in the glass.
+$Sousuke
+“Do you want something too, Ayane?”
+$Ayane
+“I’m fine. I still have my coffee.”
+Ayane showed me her cup.
+$Sousuke
+“Hm, okay.”
+I tilted my glass. The cold bite was a relief on a hot night.
+$Sousuke
+“Anything to snack on...”
+$Ayane
+“We have biscuits.”
+$Sousuke
+“No... they don't go with alcohol.”
+$Ayane
+“Boo... Sousuke’s so cold.”
+$Mikage
+“...Seems the same as always to me.”
+Mikage muttered indifferently.
+$Sousuke
+“Hm... there are walnuts.”
+I pulled a basket from the corner of the counter toward me.
+Inside were several walnuts in their hard shells.
+As usual, there was no nutcracker in sight.
+$Ayane
+“No nutcracker dolls?”
+$Sousuke
+“You’d think there’d be one... well, whatever.”
+I took my knife from my pocket and flicked open the blade.
+$Ayane
+“—Eh?”
+$Sousuke
+“Eh? What...?”
+I looked over at Ayane, who had suddenly stood up, knocking her chair over.
+$Ayane
+“Ah, I... what’s wrong with me.”
+$Mikage
+“Are you okay?”
+Mikage set the chair back up and had Ayane sit down.
+$Ayane
+“Ah... yeah, thanks, Mikage-san.”
+Ayane looked at my hands, tilting her head in confusion.
+$Ayane
+“That knife... is it yours, Sousuke?”
+$Sousuke
+“Hm... yeah.”
+I answered as I cracked a walnut shell.
+$Sousuke
+“I’ve had it for a long time, so it’s gotten pretty beat up.”
+Even so, it was still good enough for cracking walnuts.
+$Ayane
+“I see...”
+Ayane stared at it intently.
+$Ayane
+“...Can I ask you something?”
+$Sousuke
+“...What?”
+$Ayane
+“Don’t be mad, okay? ...Is that the same knife you had when the geisha attacked you?”
+—The walnut shell cracked.
+$Ayane
+“Ah...”
+$Sousuke
+“...Yeah.”
+I nodded, not feeling angry.
+$Ayane
+“...You know, I heard there’s a way to tell if a knife was used in a crime. I think it’s the Renoir reaction—”
+$Qwon
+“—It is the Luminol reaction.”
+The voice came from the back of the shop.
+$Sousuke
+“Qwon...?”
+Qwon appeared from the hallway next to the piano that led to the kitchen.
+$Ayane
+“Right, that’s it. They say if blood gets on it once, no matter how much you wash it, that medicine can tell.”
+$Sousuke
+“...Is that true?”
+I looked to Qwon for confirmation, not Ayane.
+$Qwon
+“...Yes. I hear it is already being used in criminal investigations in places like England.”
+$Mikage
+“I wonder if we could ask Takuma the detective to check it for us?”
+$Qwon
+“I do not believe it is being used in this country yet. Besides, asking the police would be far too much trouble.”
+$Ayane
+“Hmm... so it’s impossible then...”
+$Qwon
+“—I suppose it can’t be helped.”
+Qwon let out a sigh.
+$Qwon
+“Sousuke-san, let me borrow that knife. I shall conduct the test.”
+$Sousuke
+“Qwon...?”
+$Qwon
+“Luminol is difficult to obtain, but I may be able to find colorless Malachite Green or Benzidine, which yield similar results.”
+$Qwon
+“If there is a blood reaction, we would normally need to prove it is human blood and determine the blood type, but for now, we need not worry about that.”
+Saying that, Qwon silently held out her hand.
+$Sousuke
+“...I’m counting on you.”
+I pressed the folded knife into her small palm.
+$Qwon
+“—I have one more thing to ask.”
+Qwon opened the blade and spoke while looking at it.
+$Qwon
+“Have you ever stabbed a person with this knife, Sousuke-san—?”
+$Sousuke
+“No. And for the record, I’ve never even used it for meat or fish.”
+$Qwon
+“—Understood.”
+Qwon folded the knife and nodded.
+$Qwon
+“I do not know how long it will take to get the reagents, so I do not believe the results will be immediate.”
+$Sousuke
+“...Right.”
+$Ayane
+“...Please, Qwon-chan.”
+$Qwon
+“...It is not for your sake.”
+With a huff, Qwon puffed out her cheeks and turned away.
+--------------------
+0663
+********************
+$Sousuke
+“...Phew.”
+I closed the fallboard of the piano and let out a long breath.
+The clear tone echoed in the room.
+$Sousuke
+“—I guess that’ll do.”
+I sat on the stool after finishing the tuning.
+The pitch had felt a little off, so I fixed it, though I was disgusted by how much dust was inside when I opened the lid.
+$Sousuke
+“Now then—”
+—Might as well play for a bit.
+I moved my hands idly.
+A melody began to spin out, independent of my mood.
+Without thinking, without being bound by anything.
+I simply played with a vacant mind, letting my fingers move as they pleased.
+Today’s form wasn't bad.
+It didn't have the resonance of a grand piano, but the tone was more than sufficient.
+I felt that a melody played on a whim was truly free.
+The calm was enough to make me forget all the bullshit—
+$Ayane
+“Ah...”
+$Sousuke
+“—Hm?”
+I looked over without pausing my hands.
+$Sousuke
+“Oh—Ayane.”
+$Ayane
+“'Oh'? That’s all you have to say?”
+Ayane put her hands on her hips and puffed out her cheeks.
+$Sousuke
+“I’m just glad it’s you and not some suspicious types.”
+$Ayane
+“I wonder...”
+Ayane muttered under her breath as she came over to stand beside me.
+$Ayane
+“I thought you might be out, but the door wasn't locked. And I could hear the piano a little.”
+$Sousuke
+“...No apology for barging in?”
+$Ayane
+“Hmm—are you doing something you wouldn't want me to see, Sousuke?”
+$Sousuke
+“...As if.”
+—Probably.
+$Ayane
+“...Am I in the way?”
+Ayane asked tentatively.
+$Sousuke
+“No, I was just playing because I was bored.”
+$Ayane
+“I see.”
+Relieved, Ayane stepped closer.
+$Ayane
+“...It’s a beautiful melody.”
+$Sousuke
+“I just finished tuning it, after all.”
+$Ayane
+“That’s not what I mean. ...How do I say it? The songs you play are beautiful, Sousuke.”
+$Sousuke
+“I don’t need flattery.”
+$Ayane
+“It’s not flattery, it’s the truth. I love your piano, Sousuke. I told you that before, didn't I?”
+$Sousuke
+“Did you?”
+$Ayane
+“I did! I said your free way of playing was so natural, and it even helped me with my worries.”
+$Sousuke
+“Ah—yeah, I remember now.”
+That was—when we first met.
+$Sousuke
+“...I thought you were a refined young lady back then. But it turns out you’re quite a handful.”
+$Ayane
+“Hmph... that’s your fault for trying to seduce me out of nowhere. I was surprised, you know?”
+Ayane pouted, looking a bit sulky.
+$Ayane
+“But it’s strange... your playing. It’s so... peaceful.”
+$Sousuke
+“Hmph...”
+—Well, I suppose some people feel that way.
+Even I can be moved by the performance of a famous pianist.
+If my clumsy playing can touch someone, there’s no greater blessing.
+I continued to play for a while.
+Ayane stayed silent, listening quietly.
+—It was a nice atmosphere for a twilight evening.
+$Sousuke
+“...Hey, Ayane—”
+$Ayane
+“Zzz...”
+Ayane was leaning back against the sofa, breathing softly.
+$Sousuke
+“Heh—”
+I gave a wry smile and changed the tune.
+I played something quieter, so as not to disturb her.
+$Ayane
+“Mmm...”
+A warm breeze was blowing through.
+She must have been tired.
+—I have to wonder about someone who comes to a man’s room just to take a nap.
+Normally, wouldn't you be on your guard?
+Well—I guess that’s just like her.
+I continued to play a quiet lullaby until she woke up.

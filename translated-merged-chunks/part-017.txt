@@ -1,0 +1,775 @@
+--------------------
+0561
+********************
+Ayane emerged from the kitchen, carrying a plate.
+$Ayane
+“Breakfast is ready~”
+$Sousuke
+“Yeah.”
+I push myself up from the bed and move toward the table.
+$Ayane
+“I didn't realize this room came with an electric toaster too.”
+$Sousuke
+“Mm... really?”
+I never use this place for actual cooking, so it hadn't even crossed my mind.
+$Ayane
+“So I made some toast and fried eggs. Western style!”
+$Sousuke
+“...Well, as long as it's edible, I don't care.”
+$Ayane
+“Geez! If you're going to be like that, maybe I won't let you eat at all!”
+$Sousuke
+“No—I mean I'm fine with Western or Japanese, as long as you're the one feeding me.”
+I quickly try to soothe Ayane before she actually gets angry.
+$Ayane
+“I wonder if you really mean that...”
+Despite her skepticism, Ayane sets the breakfast down in front of me.
+$Ayane
+“Well then, let's eat!”
+Ayane takes a seat across from me and offers her thanks for the meal.
+$Sousuke
+“...Get dressed before we do that.”
+$Ayane
+“Eh? ...Ah.”
+Ayane finally seems to notice her state of undress, her face flushing a deep crimson.
+$Ayane
+“Honestly... Sousuke-san, you pervert.”
+$Sousuke
+“...Just go get changed already.”
+$Ayane
+“Fine, fine. ...No peeking, okay?”
+Leaving me with that, Ayane heads toward the bathroom.
+She has no right to say that after wandering around the room in nothing but a single dress shirt.
+—Not that I have any intention of peeking at this point, anyway.
+$Ayane
+“Sorry to keep you waiting!”
+Ayane returns, having quickly changed her clothes.
+$Ayane
+“It looked like the laundry was starting to pile up.”
+$Sousuke
+“I’ll get around to doing it all at once eventually.”
+$Ayane
+“Want me to do it for you?”
+$Sousuke
+“Sure... do whatever you want.”
+$Ayane
+“Yay! —Okay, let’s try this again. Let’s eat!”
+$Sousuke
+“...You’re awfully energetic this morning.”
+$Ayane
+“Being energetic is a good thing!”
+$Sousuke
+“...Well, it’s certainly better than moping around since sunrise, I suppose.”
+$Ayane
+“Right?”
+Ayane nods, looking thoroughly satisfied.
+I reach for the seasonings on the table to start on my fried egg.
+There’s only sauce and mayonnaise.
+$Sousuke
+“Ayane, didn’t you bring out the soy sauce?”
+$Ayane
+“Eh? What would you even use soy sauce for?”
+$Sousuke
+“The fried egg, obviously.”
+Nobody puts soy sauce on toast.
+$Ayane
+“Whaaaat?! Don't you use mayo and sauce for fried eggs?”
+$Sousuke
+“No way. Soy sauce is the standard.”
+$Ayane
+“You’re lying! It’s a Western dish, so it has to be sauce.”
+$Sousuke
+“—Look, I can compromise on the sauce, but mayonnaise? That’s crossing a line.”
+$Ayane
+“Why?! It tastes great if you mix them together!”
+$Sousuke
+“Fried eggs and mayo? They're both basically just eggs!”
+$Ayane
+“So what? It's fine!”
+Ayane pouts, puffing out her cheeks.
+$Ayane
+“I think it tastes better this way, and I bet Sousuke-san would like it too!”
+$Sousuke
+“...I highly doubt that.”
+$Ayane
+“Hmph...”
+Letting out a huff of annoyance, Ayane proceeds to drizzle both sauce and mayo onto the egg.
+$Sousuke
+“...Ugh.”
+The two condiments swirl together into a color I can’t quite describe.
+$Ayane
+“Here, say ‘ahhh’!”
+She lifts a piece of the egg with her chopsticks and brings it to my lips.
+$Sousuke
+“...Eat it yourself.”
+$Ayane
+“It’s good, I promise! Ahhh!”
+Undeterred, Ayane tries to force the egg into my mouth.
+$Ayane
+“Ahhh, please?”
+$Sousuke
+“............”
+I silently open my mouth.
+Immediately, the egg is shoved inside.
+$Sousuke
+“Mguu...”
+$Ayane
+“See? It’s delicious, right?”
+$Sousuke
+“...It’s edible.”
+It actually tastes decent, but I’m too stubborn to admit it, so I keep my answer vague.
+$Ayane
+“Aw, is that all?”
+$Sousuke
+“...What else do you want me to say?”
+$Ayane
+“Like, ‘I’m so moved!’ or ‘This is amazing!’? Anything?”
+$Sousuke
+“...No, not quite that far.”
+$Ayane
+“Hmm, that’s weird...”
+I don't think it's something worth agonizing over.
+$Sousuke
+“...Well, I still prefer soy sauce.”
+Since Ayane shows no sign of moving, I have no choice but to get up and fetch the soy sauce from the kitchen myself.
+—I feel a twinge of frustration, like I’ve somehow lost this argument.
+$Ayane
+“—Come to think of it.”
+Ayane speaks up while sipping her post-meal coffee.
+$Ayane
+“Sousuke-san, you seemed like you were having a nightmare earlier—did you see something unpleasant?”
+$Sousuke
+“Mm... I forgot.”
+That’s the truth.
+I remember feeling some kind of suffocating pain, but just looking at Ayane's face felt like the weight on my chest had completely vanished.
+$Ayane
+“Hmm...”
+Ayane nods noncommittally, as if she can’t quite tell if I’m telling the truth.
+$Ayane
+“...I had a dream, too.”
+Ayane sets her cup down.
+$Ayane
+“—A dream where Sousuke-san killed me.”
+$Sousuke
+“—!”
+For a split second, my breath hitches.
+$Ayane
+“It’s your fault, you know? You kept saying you might end up killing me, so that’s why I had a dream like that!”
+$Sousuke
+“...Maybe so.”
+I have no words to argue back.
+$Ayane
+“...Don't look so serious. You’re making it look like I’m bullying you. Nothing actually happened, so it’s fine, right?”
+Ayane speaks with a soft smile. That smile makes me feel as if I've been granted some kind of salvation.
+$Ayane
+“I told you, Sousuke-san isn't the kind of person who could kill someone. So it's okay.”
+$Sousuke
+“Well—it was just some dream you had on your own. It’s not like I can take responsibility for that.”
+$Ayane
+“Why do you always have to say things like that...?”
+We trade jokes back and forth.
+If only this everyday life could continue—if only those peaceful days could return. Somewhere deep in my heart, I kept on praying for it.
+--------------------
+0562
+********************
+$Sousuke
+“...Are you really sure about this?”
+I lower my voice, checking in with Ayane beside me.
+$Ayane
+“Sousuke-san, you worry too much. People don't really pay that much attention to others, you know?”
+$Sousuke
+“Even so...”
+I glance around. Now that we’ve come out to Kagurazaka with its heavy foot traffic, I can’t help but feel the weight of everyone’s gaze.
+$Ayane
+“You’re wearing your tinted glasses, so as long as you act confident, you’ll be fine.”
+Ayane gives me a firm smack on the back.
+My spine straightens, and I take one more look around.
+Well, as expected—no one seems to be paying the slightest bit of attention to me.
+$Ayane
+“Feel better?”
+$Sousuke
+“...A little.”
+$Ayane
+“Just because you’re a little handsome, don't go getting full of yourself, okay?”
+$Sousuke
+“...I’m not.”
+We manage to make it to the bar without incident.
+$Ayane
+“...Come to think of it, this is the first time the two of us have come here together.”
+$Sousuke
+“...We’ve been here several times before.”
+$Ayane
+“No, we haven't! ...Who are you confusing me with?”
+Ayane’s voice drops an octave.
+$Sousuke
+“No—I mean we’ve seen each other in the shop plenty of times, right? Just the other day—”
+$Ayane
+“...I’m saying this is the first time we’ve walked through the door *together*!”
+$Sousuke
+“Ah—I see.”
+The last time I met Ayane here was when she had that argument with Mikage-san and stormed out of the room.
+I had been exhausted from searching for her and ended up at this bar. Finding her here was nothing but a complete coincidence.
+$Sousuke
+“The Master told me not to come while the shop is open, but... well, it should be fine.”
+$Chika
+“Ah, welcome—!”
+Chika’s greeting stops dead the moment she sees me.
+$Ayane
+“...What is it?”
+$Chika
+“Ah, no! P-Please, come in...!”
+Chika steps aside and leads us to the counter.
+$Ayane
+“Thanks~”
+As I move to sit down after Ayane, Chika tugs on my sleeve.
+$Chika
+“...Kudou-san.”
+$Sousuke
+“Hm? What’s wrong?”
+$Chika
+“Um... the Master...”
+$Sousuke
+“What about the Master?”
+Now that she mentions it—I don't see him anywhere in the shop.
+$Chika
+“...It seems he’s gone somewhere.”
+$Sousuke
+“Somewhere...?”
+I’m not quite following.
+$Chika
+“I don't really understand it myself... Um, someone came to tell me...”
+$Sousuke
+“Came to tell you—who?”
+$Qwon
+“—That would be me, Sousuke-san.”
+I spin around at the sound of a familiar voice.
+$Sousuke
+“Qwon...”
+$Qwon
+“It has been a long time.”
+Qwon offers a slight bow.
+$Ayane
+“Ah... Qwon-chan. Good evening.”
+$Qwon
+“...Good evening.”
+Qwon returns Ayane’s greeting as well.
+$Qwon
+“Uncle Godou became involved in the incident I was caught up in, and he mentioned he would be going into hiding for a while.”
+$Sousuke
+“...What do you mean, caught up in an incident?”
+$Qwon
+“...I had been kidnapped by a certain organization.”
+$Ayane
+“Eh—!?”
+Ayane gasps.
+$Qwon
+“Uncle assisted me in escaping from the organization. I was being sheltered at his house after we successfully got away, but the organization found us there as well—”
+$Qwon
+“...Uncle told me. He told me to seek shelter at this bar for a while.”
+I instinctively look at Chika.
+$Chika
+“I just assumed she was one of the Master’s relatives...”
+$Qwon
+“It couldn't be helped, as I was acting that way. It was the best way to deceive the eyes of others.”
+$Ayane
+“Kidnapped... so, even when I saw you at the shop back then—?”
+$Qwon
+“...I had already been rescued by that time. Someone who was still kidnapped wouldn't be able to wander out to a place like this so easily.”
+$Ayane
+“...I guess that’s true.”
+Ayane slumps her shoulders at Qwon’s somewhat biting remark.
+$Ayane
+“Ah, but... in that case, what about the police...?”
+$Qwon
+“It would be pointless.”
+Qwon flatly rejects Ayane’s suggestion without a second thought.
+$Qwon
+“Sousuke-san should know better than anyone that the police and the military police cannot be relied upon.”
+$Sousuke
+“...Yeah.”
+There’s no telling where the police or the military police might be connected to the underworld. The people who captured Qwon are likely of that ilk.
+$Ayane
+“But if you were kidnapped, then... what about telling your parents...?”
+$Qwon
+“—Regrettably, it is still far too early for the Obon festival.”
+$Ayane
+“Eh—ah, I-I’m so sorry...!”
+Realizing the weight behind Qwon’s words, Ayane hurriedly apologizes for her rudeness.
+$Qwon
+“No—please, do not concern yourself with it.”
+Qwon gives Ayane a brief glance before turning her attention back to Chika.
+$Qwon
+“—And so, I will be in your care for a while. I look forward to working with you.”
+$Chika
+“Ah... yes, likewise.”
+Chika offers a small bow.
+$Ayane
+“Sousuke-san... aren't you going to drink?”
+Ayane tugs on my sleeve.
+$Sousuke
+“—Chika, can I order?”
+$Chika
+“Ah—yes, what would you like?”
+Chika turns to face us.
+$Sousuke
+“Let's see—”
+Then, I remember the Master isn't here.
+That means she probably can't serve cocktails.
+$Ayane
+“Ah, for me—”
+$Sousuke
+“—Could you brew two coffees?”
+I cut Ayane off, ordering something Chika should be able to manage.
+$Chika
+“Yes! Right away.”
+$Ayane
+“Hey, Sousuke-san... I wanted to drink a Sidecar cocktail...”
+Ayane glares at me resentfully.
+$Sousuke
+“Just deal with it.”
+$Ayane
+“Uuu...”
+$Sousuke
+“The Master isn't here. There’s no way you’re getting a complicated cocktail like that.”
+$Ayane
+“...But it’s just mixing things together.”
+$Sousuke
+“If it were just mixing things together, there wouldn't be any need for bartenders.”
+$Ayane
+“...Then you make it, Sousuke-san.”
+$Sousuke
+“Why would it end up being me?”
+We trade whispers back and forth, making sure Chika doesn't overhear.
+$Chika
+“Hmhmm~ hm~ hmmm~”
+Chika hums a carefree tune while she brews the coffee.
+$Ayane
+“...Can't that girl make them?”
+$Sousuke
+“...Do you really want to drink alcohol with glass shards in it?”
+$Ayane
+“...I think I’ll pass on that.”
+$Chika
+“What are you two talking about?”
+Chika asks as she lines up the steaming cups.
+$Sousuke
+“...Just something trivial.”
+$Chika
+“Pardon?”
+Chika tilts her head curiously.
+Well—it’s not exactly something I can say to her face.
+$Chika
+“Come to think of it... are you two dating?”
+$Sousuke
+“Ngah—!?”
+I almost drop the cup I was about to take a sip from.
+$Chika
+“Am I wrong?”
+$Sousuke
+“Ah—...”
+When asked such a direct question, I’m not sure how to respond.
+$Ayane
+“Ah, um... well, we’re—”
+$Sousuke
+“—Chika, what brand of coffee is this?”
+I change the subject before the fidgeting Ayane can open her mouth.
+$Chika
+“Fueh?! ...Ah, it should be Mocha Mattari.”
+$Sousuke
+“It has quite a strong acidity... Ow!?”
+A sharp pain shoots through my side.
+$Ayane
+“Hmph...”
+Ayane is pinching my side with incredible force, glaring at me with terrifying intensity.
+$Sousuke
+“...What is it?”
+$Ayane
+“...Why won't you just say it clearly?”
+$Qwon
+“You shouldn't let it bother you. Sousuke-san is likely just feeling embarrassed.”
+Qwon suddenly chimes in, speaking for my feelings.
+...Honestly, that kind of sharp intuition is a bit troublesome.
+$Ayane
+“Heh~, so Sousuke-san is embarrassed?”
+Ayane laughs, peering into my face.
+$Sousuke
+“Give me a break...”
+--------------------
+0563
+********************
+An unnervingly peaceful day passes by.
+I spent most of it just spacing out, lying on my bed.
+A few cicadas flew in through the open window, buzzing and screeching inside the room, but other than that, it was a perfectly ordinary day.
+None of the Seihoukai members, including Aoi-san, showed their faces. Time just continued to slip away.
+$Sousuke
+“Hm... rain?”
+Before I knew it, summer rain clouds had spread across the sky, and the room had suddenly grown dim.
+I can hear thunder rumbling in the distance.
+I close the window before the downpour truly begins.
+Immediately after, the rain starts to fall.
+$Sousuke
+“—Good grief.”
+With it coming down like this, I can't even go out for groceries.
+No—the truth is I just don't have the motivation to go out.
+Maybe I’ll just stay like this and sleep—
+—But the sound of someone already ruining my plans reaches my ears.
+Is it Ayane...? I’d rather not think it’s those Seihoukai thugs.
+I stand up and walk toward the entrance.
+$Sousuke
+“...Who is it?”
+Feeling a sense of distrust toward whoever keeps pounding on the door, I call out through the wood.
+$Mikage
+“Sousuke-san, it's me—”
+$Sousuke
+“Mikage-san—?”
+The voice coming from the other side belongs to Mikage-san.
+$Sousuke
+“What’s wrong?”
+I open the door.
+$Ayane
+“Sousuke-san, lend me a towel!”
+$Sousuke
+“Ayane!?”
+A soaking wet Ayane and Mikage-san burst into the room.
+$Mikage
+“If we had been just a little bit faster, we wouldn't have been caught in the rain.”
+$Ayane
+“Sorry, it’s my fault for being late to our meeting...”
+$Mikage
+“Don't worry about it. My work was running over, too.”
+$Sousuke
+“What’s with you two? Did you go out of your way to meet up before coming here?”
+$Ayane
+“Yep. It's nice to do that once in a while, right?”
+$Sousuke
+“Well—I don't mind, but...”
+But—they look incredible.
+The thin fabric of their shirts has become completely translucent.
+$Ayane
+“...Why are you staring at Mikage-san so much?”
+$Mikage
+“...Eh?”
+$Sousuke
+“—It’s your imagination.”
+...I definitely can't tell them that the visual impact is on a completely different level.
+$Ayane
+“Geez... Sousuke-san, can I borrow the shower? Even if it is summer, I’ll catch a cold.”
+$Sousuke
+“...Do whatever you want.”
+$Ayane
+“Yay! Then, Mikage-san, let's go in together!”
+$Mikage
+“Eh—!? M-Me too!?”
+$Ayane
+“If we go in one by one, the person waiting will definitely catch a cold, right? Besides, the bathroom in this room is huge, so it’s fine.”
+$Mikage
+“That might be true, but... how do you know the bathroom is huge...?”
+Mikage-san looks at me with wonder—or rather, a somewhat piercing gaze.
+$Ayane
+“Come on, Mikage-san, let's go! Sousuke-san... want to join us?”
+$Sousuke
+“...Don't talk nonsense.”
+As if I could ever do something so terrifying.
+While muttering something under her breath, Mikage-san is pushed through the bathroom door by Ayane.
+Did I... manage to dodge that?
+--------------------
+0564
+********************
+Steam rises in the bathroom, enveloping the space in a veil of white. Led by Ayane, Mikage sheds her wet clothes and steps into the bathing area.
+$Ayane
+“...They really are big...”
+As soon as she opens her mouth, Ayane stares intently at Mikage’s breasts.
+$Mikage
+“W-What all of a sudden...?”
+She instinctively covers her chest with both hands.
+$Ayane
+“See, you can't even hide them with both hands!”
+Ayane pokes at the side of Mikage’s breast with her fingertip.
+$Mikage
+“H-Hey, stop that...”
+$Ayane
+“Hehe, come on~”
+$Mikage
+“Ah... nnh, no... s-stop...”
+Ayane’s hands reach out and cup Mikage’s breasts.
+$Ayane
+“Whoa... my fingers are just sinking right in...”
+$Mikage
+“I told you to stop...”
+Toyed with at Ayane’s whim, Mikage protests in a voice no louder than a mosquito’s buzz.
+She’s never been touched like this by a man, let alone another woman.
+$Ayane
+“Uuu... I’m so jealous. I bet you can really feel the weight of them...”
+As she lifts the twin mounds from below, Ayane lets out a wistful sigh.
+$Mikage
+“It’s not a good thing... People just think I’m fat...”
+$Ayane
+“Fat? With these?!”
+Ayane wraps her hands around Mikage’s waist.
+$Mikage
+“Hyau?!”
+$Ayane
+“There isn't any extra fat here at all...”
+$Mikage
+“H-Hey—ah, wait, h-hiuu!”
+Caressed along her flank, Mikage can’t help but crouch down.
+$Ayane
+“Ah... did that feel good?”
+$Mikage
+“What are you even talking about...?”
+—Who is this girl, anyway?
+$Ayane
+“Do you really drink milk every day?”
+$Mikage
+“Eh... not particularly...”
+Mikage answers, her voice filled with confusion. She drinks it occasionally, but the truth was she didn't actually like milk that much.
+$Ayane
+“Whaaat?! Back in the countryside, my family had a dairy farm, so I drank fresh milk every single day! Was it... all for nothing?”
+$Mikage
+“I... I don't know...”
+She doesn't know how to respond to such a question. Mikage could only offer a strained smile.
+$Ayane
+“Then... maybe you had someone massage them for you...?”
+$Mikage
+“T-That’s not it at all!”
+As Ayane wiggles her fingers in front of her chest in a strange way, Mikage answers instantly.
+$Ayane
+“Ehh...”
+—What on earth is this girl going to say next?
+$Ayane
+“The world is so unfair, isn't it...?”
+Ayane softly places her hands over her own chest.
+$Mikage
+“I-It’s okay.”
+$Ayane
+“...I don't need your sympathy.”
+Ayane mutters, looking thoroughly disgruntled.
+$Mikage
+“—But... you’re dating Sousuke-san, aren't you?”
+She was reasonably certain.
+When she caught glimpses of the two of them together, it was obvious how much they cared for each other.
+—Honestly, she thought it was unfair.
+I’ve done so much for Sousuke-san, too.
+I’ve liked Sousuke-san for much longer.
+And yet, the one he chose was Ayane.
+$Ayane
+“...Yeah. Sorry for keeping it a secret.”
+Ayane nods honestly.
+$Mikage
+“...You don't have to apologize.”
+—It only makes me feel more miserable.
+$Ayane
+“But you liked him too, didn't you, Mikage-san...? Sousuke-san, I mean.”
+$Mikage
+“...Not really. He’s just an old friend, and I can't quite leave him to his own devices.”
+—Liar.
+Mikage felt a deep sense of self-loathing at how she tried to maintain appearances even at a time like this.
+$Mikage
+“So you really don't have to worry about it at all.”
+She was glad she was taking a shower.
+The droplets of water helped to hide the fact that she looked as if she were about to cry.
+$Ayane
+“But—”
+$Mikage
+“...It’s fine.”
+Mikage offers Ayane a smile.
+She wasn't confident that she was actually smiling properly.
+$Mikage
+“...But, can I ask you for just one favor?”
+$Ayane
+“Eh...?”
+$Mikage
+“About Sousuke-san. That guy... he doesn't know how to live any way other than the most awkward one possible, so please protect him. I can't... really stay by his side anymore.”
+$Ayane
+“Mikage-san...”
+$Mikage
+“I wouldn't want to get in the way of you two. Like a third wheel, or... whatever they say.”
+$Ayane
+“...Thank you very much.”
+Ayane bows her head.
+To Mikage, it seemed as if she were shedding tears, but she decided to believe it was just the spray from the shower.
+--------------------
+0601
+********************
+—Darkness.
+A rhythmically ticking sound stimulates the core of my brain.
+It’s useless to cover my ears.
+I have to stop it.
+I have to stop it.
+I have to put an end to this unpleasant, grating, and depressing sound.
+An impulse swells up from within my body.
+I wanted to be liberated as soon as possible.
+My body feels heavy, as if bound by chains.
+My struggling right hand grasps something.
+I remember this sensation.
+A sharp, folding knife.
+The one I always kept hidden in my pocket.
+As I flip the blade open with a light flick, the weight on my body seems to ease slightly.
+—This is good.
+My body grows lighter.
+My heart grows lighter.
+I feel as if I can do anything.
+That’s right.
+To start with, I’ll stop this sound.
+A sound that seems to sear my very brain.
+I can do it easily now.
+I stand up light on my feet and take aim at the source of the sound.
+White.
+White, translucent skin.
+Sleeping soundly.
+If I destroy this, I can be at peace—
+—Sshhk.
+Without much resistance, the tip of the blade sinks into the white skin.
+Splashes of red dots begin to surface.
+A fountain is complete. It sprays red water, drenching the entire room.
+I carve another hole. This fountain is weaker, the red water only trickling out sluggishly.
+Another. And another.
+No matter how many times I repeat it, I can't recreate a fountain as beautiful as the first one.
+I give up and plunge the knife into the spot.
+Ah—I’m covered in blood.
+Well, it doesn't matter.
+Thanks to this, I can't hear that unpleasant sound anymore, so I’ll count that as a win.
+Now that the sound is gone, even Ayane will be able to sleep peacefully.
+Right—isn't that so?
+I turn to speak to Ayane’s dead face, lying there with the knife still buried in her chest—
+$Sousuke
+“—!”
+And then—I bolt upright.
+$Sousuke
+“Ah... h-haah, haah, haah...”
+My heart is screaming.
+I’m drenched in sweat.
+Even though it’s midsummer, I feel incredibly cold.
+I can't stop shaking.
+Even though it was a dream, it felt strangely real.
+Well—maybe that was what actually happened.
+But for now, I feel a sense of relief that it was only a dream.
+$Sousuke
+“A... Ayane...”
+Why did she have to die?
+Why did I have to kill her?
+Why—
+$Ayane
+“Why... why did you kill me?”
+$Sousuke
+“—!”
+Faced with Ayane, who suddenly appeared before my eyes.
+I let out a wordless scream.
+--------------------
+0602
+********************
+$Sousuke
+“—!!”
+This time, I truly wake up.
+$Sousuke
+“Guh... ugh, aa...”
+A wave of intense nausea.
+Ayane’s voice echoing in the back of my mind.
+A splitting headache.
+$Sousuke
+“—Damn it.”
+This is why I didn't want to sleep.
+She must hate me.
+That’s why—night after night, she appears in my dreams.
+I drink the water from the jar in the corner of the kitchen as if I were drowning in it.
+$Sousuke
+“—!? Geho, goho!”
+The water goes down the wrong pipe, and I cough violently.
+$Sousuke
+“Gahah! Ugh... damn it.”
+—Pathetic.
+If I could just drown by sticking my face in the water, how much easier would that be?
+After washing my face and calming down to some extent, I return to the second floor.
+Qwon has sat up from her futon and is watching me.
+$Sousuke
+“...Sorry, did I wake you?”
+$Qwon
+“No, I have been awake this entire time.”
+$Sousuke
+“Couldn't you sleep?”
+$Qwon
+“Yes. It seemed as if you were suffering from a nightmare, Sousuke-san.”
+$Sousuke
+“...My apologies for that.”
+$Qwon
+“It is no matter. I am not particularly sleepy, anyway.”
+$Sousuke
+“...You should get some sleep.”
+$Qwon
+“The same could be said for you.”
+Qwon stares into my eyes, her voice quiet.
+$Qwon
+“It is only natural for someone’s mental state to suffer after they have committed murder.”
+$Sousuke
+“...You knew?”
+$Qwon
+“I read it in the newspaper. I met her—the victim—once before at the tavern.”
+$Sousuke
+“Ah—that’s right.”
+On the day Ayane stormed out of my room, she had been talking to Qwon at the bar.
+$Qwon
+“I thought we could have become good conversation partners—it is a shame to have lost such a person.”
+$Sousuke
+“...It’s my fault.”
+To think I had affected even Qwon in a place I didn't know—it’s just—unbearable.
+$Qwon
+“You are not to blame, Sousuke-san. This was—likely her fate.”
+$Sousuke
+“...How can there be a fate like that?”
+I can't even find the strength to get angry; I only mutter the words weakly.
+It offers me no comfort whatsoever.
+$Qwon
+“It seems you are not a fan of fatalism.”
+$Sousuke
+“—Of course not.”
+The idea that everything was decided from the very beginning—I can't stand it.
+The idea that Ayane was fated to be killed by me—I can't forgive it.
+$Qwon
+“—In that case, I wonder why she had to die.”
+$Sousuke
+“...Because she was... with me.”
+If I hadn't held Ayane that day.
+If I had sent her home because it was late.
+Maybe Ayane wouldn't have died.
+$Qwon
+“—If that is the case, then I will be killed as well.”
+$Sousuke
+“—!?”
+I stare into Qwon’s face.
+She was wearing a faint smile.
+$Sousuke
+“...Before I... end up killing you—please, get out of here.”
+$Qwon
+“—I have nowhere else to go.”
+Qwon states firmly.
+$Qwon
+“I am all alone now. No—since you are here, Sousuke-san, perhaps we are all alone together.”
+$Sousuke
+“If you stay with me... I might end up killing you.”
+$Qwon
+“...It is not me that you are most worried about, is it?”
+$Sousuke
+“...What do you... mean?”
+I’m just worried that Qwon will be killed by me—
+$Qwon
+“—You are merely worried about the fact that you will commit murder once again.”
+$Sousuke
+“—!”
+She’s right—that might be exactly it.
+More than anything, I’m terrified of being a serial killer.
+$Sousuke
+“But that doesn't mean... I’m not worried about you.”
+$Qwon
+“I suppose so. If you weren't worried about me—I would be quite hurt, after all.”
+$Sousuke
+“That’s why—it’s better if you aren't near me. One day, for sure—I’ll kill you.”
+—Just like when I killed Ayane.
+In a place where I myself have no knowledge of it—I’ll commit murder again.
+I don't want to involve anyone else anymore.
+$Qwon
+“—Please, rest assured, Sousuke-san.”
+Qwon continues, her lips curling into the shape of a smile.
+$Qwon
+“—I will not be killed by someone of your caliber.”
+For an instant—
+A terrifying chill ran down my spine.
