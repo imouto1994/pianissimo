@@ -1,0 +1,302 @@
+--------------------
+0000
+********************
+Group 1
+プロローグを見る → Watch the Prologue
+プロローグを見ない → Skip the Prologue
+--------------------
+0002
+********************
+Group 1
+目の前の女は？ → Who was the woman in front of me?
+こいつは何をしている？ → What was she doing?
+俺に襲いかかって来て――何の意味が？ → Attacking me—what was the point?
+--------------------
+0104
+********************
+Group 1
+話し掛ける → Talk to him
+無視する → Ignore him
+--------------------
+0105
+********************
+Group 1
+見た――？ → She saw...?
+何を――？ → Saw what...?
+昨日の事か……？ → Last night...?
+
+Group 2
+この女が一部始終を見ていた――？ → Did this woman see the whole damn thing—?
+どうする？ → What now?
+
+Group 3
+受ける → Accept
+断る → Decline
+--------------------
+0106
+********************
+Group 1
+抱く → Embrace her
+気分じゃない → Not in the mood
+--------------------
+0108
+********************
+Group 1
+いや――本当に見ていたとしたら？ → Wait—what if I really *did* see her?
+忘れているだけだとしたら？ → What if I just forgot?
+--------------------
+0201
+********************
+Group 1
+受けない → Refuse
+受ける → Accept
+--------------------
+0202
+********************
+Group 1
+弾く → Play
+断る → Refuse
+--------------------
+0205
+********************
+Group 1
+諦める → Give up
+扉を蹴破る → Kick down the door
+--------------------
+0206
+********************
+Group 1
+気にするなと言う → Tell her not to worry
+無言 → Stay silent
+--------------------
+0210
+********************
+Group 1
+受け取る → Accept
+受け取らない → Decline
+--------------------
+0211
+********************
+Group 1
+抱く → Embrace her
+気分じゃない → Not in the mood
+--------------------
+0213
+********************
+Group 1
+美華夏を止める → Stop Mikage
+綾音を止める → Stop Ayane
+--------------------
+0214
+********************
+Group 1
+弾く → Play
+弾かない → Don't play
+
+Group 2
+秀でた能力を持つ人 → A person with superior abilities
+様々な知識を備える人 → A person equipped with various knowledge
+--------------------
+0302
+********************
+Group 1
+断る → Refuse
+受ける → Accept
+--------------------
+0303
+********************
+Group 1
+珈琲を頼む → Order coffee
+水割りを頼む → Order a mizuwari
+--------------------
+0304
+********************
+Group 1
+行く → Go
+行かない → Don't go
+--------------------
+0307
+********************
+Group 1
+幼馴染み → Childhood friend
+答えない → Don't answer
+--------------------
+0308
+********************
+Group 1
+柚芭 → Yuzuha
+千花 → Chika
+--------------------
+0309
+********************
+Group 1
+ダメだ → No
+ああ → Yes
+--------------------
+0310
+********************
+Group 1
+黙れ → Shut up
+そうかもな → Perhaps
+--------------------
+0311
+********************
+Group 1
+見なかったことにする → I noticed him, but I decided to pretend I didn't.
+タコ焼きを買う → I could just buy some takoyaki.
+--------------------
+0312
+********************
+Group 1
+暗示を掛けられた → I might have been under a suggestion.
+あくまで小説の話 → That's strictly just a story in a novel.
+--------------------
+0315
+********************
+Group 1
+謝る → Apologize
+何も言わない → Don't say anything
+--------------------
+0501
+********************
+Group 1
+何故、こんな終わり方をする？ → Why does it have to end like this?
+やはり……俺が悪いのか？ → Is it... really my fault?
+--------------------
+0503
+********************
+Group 1
+抱きしめる → Embrace her
+謝る → Apologize
+--------------------
+0603
+********************
+Group 1
+殺した → I killed her
+殺してない → I didn't kill her
+--------------------
+0605
+********************
+Group 1
+考えておく → I’ll think about it
+駄目だ → No way
+--------------------
+0606
+********************
+Group 1
+それもいいな → That didn't sound bad.
+いや → No.
+
+Group 2
+する → Do it.
+しない → Don’t do it.
+--------------------
+0608
+********************
+Group 1
+そうかもしれない → That might be it.
+そんな莫迦な → Don't be ridiculous.
+--------------------
+0671
+********************
+Group 1
+慰める → Comfort her.
+水を飲ませる → Give her some water.
+--------------------
+0701
+********************
+Group 1
+窓 → The window.
+綾音 → Ayane.
+シーツ → The sheets.
+綾音 → Ayane.
+シーツ → The sheets.
+窓 → The window.
+シーツ → The sheets.
+
+Group 2
+綾音 → Ayane.
+俺 → Me.
+布団 → The duvet.
+--------------------
+0705
+********************
+Group 1
+無視する → Ignore him.
+話しかける → Talk to him.
+--------------------
+0721
+********************
+Group 1
+逃げる → Run away.
+逃げない → Don’t run away.
+--------------------
+0743
+********************
+Group 1
+無言でいる → Stay silent
+帰れと言う → Tell him to leave
+--------------------
+0761
+********************
+Group 1
+抱く → Embrace her
+拒否する → Reject her
+
+Group 2
+断る → Refuse
+断らない → Don't refuse
+--------------------
+0772
+********************
+Group 1
+口の中に出す → Come in her mouth
+外に出す → Come on her face
+--------------------
+0773
+********************
+Group 1
+逃げる → Run away
+逃げない → Stay
+--------------------
+0802
+********************
+Group 1
+照明が消えた――？ → The lights went out—?
+何が起こった――？ → What happened—?
+硝子の割れる音――窓か？ → The sound of shattering glass—a window?
+--------------------
+0804
+********************
+Group 1
+マスターが――殺したのか……？ → The Master—he was the one who killed her...?
+それで、俺を犯人に仕立て上げた……？ → And then, he framed me for the crime...?
+何故――？ → But why—?
+--------------------
+0842
+********************
+Group 1
+柚芭の想いを受け入れる → Accept Yuzuha's feelings
+柚芭は大切な家族だと突っぱねる → Reject her, saying she is precious family
+--------------------
+0903
+********************
+Group 1
+声を掛ける → Talk to him
+無視する → Ignore him
+
+Group 2
+いやそれ処の騒ぎではなく歯を立てた途端に中で固まっていない熱されたどろどろの小麦粉が口の中へ流れ込んできて舌が痛み口内が痺れてきて死にそうな程吐きたいのだが → No, "hot" didn't even begin to cover it. The moment I bit down, a torrent of scalding, uncooked, gooey flour-paste flooded my mouth, searing my tongue and numbing my entire oral cavity.
+吐き出す訳にもいかずかと言って飲み込める筈もなく俺は苦痛にのたうち回って居たのだが親父はそれを見て満足そうに頷いているのが妙に腹立たしくて殴ってやりたいとか → I wanted to vomit so badly I thought I might die, but I couldn't exactly spit it out in front of him, yet there was no way in hell I could swallow it either.
+--------------------
+0926
+********************
+Group 1
+赦されたい → I want to be forgiven
+赦されない → I cannot be forgiven
+--------------------
+0941
+********************
+Group 1
+マスターが殺したのか――？ → The Master was the one who killed her—?
+そして、俺を犯人に仕立て上げた――？ → And then he framed me—?

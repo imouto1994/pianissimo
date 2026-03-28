@@ -1,15 +1,15 @@
 /**
  * Export Translation Map
  *
- * Reads `merged-original.txt` and `merged-translated.txt`, parses them into
- * matching sections, and builds a JSON mapping of every unique original line
- * to its translated counterpart.
+ * Reads original and translated merged chunks, parses them into matching
+ * sections, and builds a JSON mapping of every unique original line to its
+ * translated counterpart.
  *
- * Speech source lines (＃ in original, # in translated) and their following
+ * Speech source lines (＃ in original, $ in translated) and their following
  * content lines are merged into a single entry:
  *
- *   Original:  ＃奏介                     →  key:   "〈奏介〉：雨なんてのは大抵が嫌なモンだろ"
- *              「雨なんてのは大抵が嫌なモンだろ」  value: "Sousuke: \u201CRain is usually unpleasant.\u201D"
+ *   Original:  ＃マスター          →  key:   "マスター「……嫌な雨だ」"
+ *              「……嫌な雨だ」       value: "Master: \"...Nasty rain we're having.\""
  *
  * Narration lines are mapped directly:
  *
@@ -100,26 +100,6 @@ function parseSections(text) {
   return sections;
 }
 
-/**
- * Strip the 「」 brackets from a Japanese speech content line.
- */
-function stripBracketsJP(line) {
-  if (line.startsWith("「") && line.endsWith("」")) {
-    return line.slice(1, -1);
-  }
-  return line;
-}
-
-/**
- * Strip the \u201C\u201D curly quotes from an English speech content line.
- */
-function stripBracketsEN(line) {
-  if (line.startsWith("\u201C") && line.endsWith("\u201D")) {
-    return line.slice(1, -1);
-  }
-  return line;
-}
-
 async function main() {
   // Step 1: Read and concatenate all chunks from both directories.
   const originalText = await readChunks(ORIGINAL_CHUNKS_DIR);
@@ -152,7 +132,7 @@ async function main() {
       }
 
       // Step 3b: Handle speech lines (＃ source + content on next line).
-      // Original uses full-width ＃, translated uses half-width #.
+      // Original uses full-width ＃, translated uses $.
       if (origLine.startsWith("＃")) {
         const speakerJP = origLine.slice(1);
         const speakerEN = SPEAKER_MAP.get(speakerJP);
@@ -166,10 +146,9 @@ async function main() {
           const contentOrig = origLines[i + 1];
           const contentTrans = transLines[i + 1];
 
-          // Key uses 〈name〉：content format, stripping 「」 from original.
-          const key = `〈${speakerJP}〉：${stripBracketsJP(contentOrig)}`;
-          // Value uses EN name: \u201Ccontent\u201D, stripping translated quotes.
-          const value = `${speakerEN || speakerJP}: \u201C${stripBracketsEN(contentTrans)}\u201D`;
+          // Key uses inline format: speaker name + bracketed content.
+          const key = `${speakerJP}${contentOrig}`;
+          const value = `${speakerEN || speakerJP}: ${contentTrans}`;
 
           if (!map.has(key)) {
             map.set(key, value);
