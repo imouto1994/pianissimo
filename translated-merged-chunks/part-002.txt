@@ -1,146 +1,146 @@
 --------------------
 0004
 ********************
-Fortunately, there were no military police in the direction of my home.
-In fact, I didn't cross paths with a single soul, allowing me to reach my room without anyone casting a suspicious glance at my current state.
+Fortunately, there were no military police in the direction of my house.
+In fact, I didn't pass a single soul, so I managed to reach my room without anyone casting a suspicious glance at the state I was in.
 I opened the door and stepped inside.
-Since it was a collective housing complex for bachelors, the cramped Japanese-style room appeared immediately. Yuzuha, who was sitting at the low table, looked up at me with a startled expression.
+Since it was an apartment complex for bachelors, the cramped washitsu appeared immediately. Yuzuha, who had been sitting at the low dining table, looked up at me with a startled expression.
 $Yuzuha
-“B-big brother!?”
+“O... Onii-chan!?”
 $Sousuke
 “...I'm home.”
 $Yuzuha
-“Don't you ‘I'm home’ me!! Honestly! What happened to you, getting so soaking wet!?”
+“Don't give me ‘I'm home,’ geez!! What happened to you, getting so soaking wet!?”
 $Sousuke
-“...I just slipped a bit on the way back and took a tumble.”
+“...I just slipped a bit on the way back and took a fall.”
 $Yuzuha
-“That's a lie... you couldn't possibly get hurt like that just from falling!? Hurry and take off your shirt, I have to treat it...”
-Seeing the blood seeping through my left sleeve, Yuzuha’s voice took on a desperate edge.
+“That's... You wouldn't get hurt like that just from falling, right!? Hurry, take off your shirt so I can treat it...”
+Seeing the blood seeping through my left sleeve, Yuzuha cried out in a panicked voice.
 $Sousuke
-“The bleeding’s already stopped, so don't worry so much.”
+“The bleeding has already stopped, so don't worry so much.”
 $Yuzuha
-“I have to worry!! What if germs get into the wound!?”
+“No!! What if germs get into the wound!?”
 $Yuzuha
-“Besides, you're drenched, you'll catch a cold...”
-Yuzuha’s voice began to tremble with tears.
-Well—it was true that I felt like changing and soaking in the hot water of the communal bath in the apartment basement.
-I certainly didn't want to draw attention to myself in this filthy state anywhere people might be watching.
+“Besides, you're soaking wet, you'll catch a cold...”
+Yuzuha's voice began to tremble with tears.
+Well—I certainly was in the mood to change and soak in the hot water of the communal bath in the apartment basement.
+As expected, I didn't want to draw attention to myself in this filthy state where people might see me.
 $Sousuke
 “—Can you get me a change of clothes?”
 $Yuzuha
-“Oh, right!”
-Yuzuha headed for the closet. In the meantime, I stripped off my shirt. It seemed even my underwear was soaked through from the rain.
+“Ah, right.”
+Yuzuha headed for the closet. Meanwhile, I pulled off my shirt. It seemed even my underwear was drenched from the rain.
 $Yuzuha
-“Eek!? B-big brother!! I told you not to wander around the room naked!!”
+“Kyah!? O-Onii-chan!! I've told you not to wander around the room naked!!”
 $Sousuke
 “I’m not exactly wandering.”
 $Yuzuha
 “Just put some clothes on already, geez!!”
-Yuzuha threw my change of clothes toward me while keeping her face turned away.
-Good grief, she's at a difficult age.
+Still facing away, Yuzuha tossed my change of clothes toward me.
+Good grief, she’s at a difficult age.
 $Yuzuha
 “...Are you dressed yet?”
 $Sousuke
-“...Yeah, I’m good.”
-At my reply, Yuzuha finally turned back toward me.
+“...Yeah, you're good.”
+At my reply, Yuzuha finally turned toward me.
 $Sousuke
-“Well then, I’m heading to the bath.”
+“Well then, I'm heading to the bath.”
 $Yuzuha
-“Okay! Take care!”
-Perhaps because it was late, there was no one in the communal bath in the basement.
-I washed the grime from my body and sank into the lukewarm tub.
+“Okay, have a good soak.”
+Perhaps because it was late, there was no one in the communal bath in the apartment basement.
+I washed the dirt off my body and soaked in the lukewarm tub.
 It had been a strange day.
-No matter how turbulent the times were, I never expected such a disaster to befall me personally.
-I wondered what had happened to that woman.
+No matter how turbulent the times were, I never expected such a disaster to befall me.
+I wondered what on earth had happened to that woman.
 $Sousuke
-“...Well, it’s none of my business.”
-To be honest, I didn't care.
+“...Well, it's none of my business.”
+Honestly, I didn't care.
 As long as it didn't involve me, I didn't care who was doing what or where.
-When I returned to the room, Yuzuha had laid out two sets of futons side by side.
+When I returned to the room, Yuzuha had laid out two sets of futons side-by-side.
 $Yuzuha
-“How was it, big brother? Did it feel good?”
+“Onii-chan, how was it? Did it feel good?”
 $Sousuke
-“Yeah, it was refreshing.”
+“Yeah, I feel refreshed.”
 $Yuzuha
-“...By the way, big brother.”
+“...By the way, Onii-chan.”
 $Sousuke
 “What is it?”
 $Yuzuha
-“Were you in a fight...?”
-When you're attacked unilaterally without knowing why, does that really qualify as a fight?
+“Did you get into a fight...?”
+When you're one-sidedly attacked without rhyme or reason, can you really call it a fight?
 $Sousuke
-“Well... something like that.”
-I remained vague.
-A simple fight and being ambushed carried a different weight—both in words and in the severity of the situation.
+“Well... a little bit.”
+I spoke vaguely.
+The weight of the words—of the situation itself—is different between a mere fight and being targeted for an attack.
 $Yuzuha
-“Honestly! Is the other person okay!?”
+“Geez! Is the other person okay!?”
 $Sousuke
 “...Yeah.”
 The truth was, I didn't know.
-But I couldn't exactly tell her the truth either.
-Much less the fact that I’d struck a woman.
+But I couldn't exactly tell her the truth.
+Least of all that I had knocked a woman flying.
 $Yuzuha
 “Really?”
 $Sousuke
 “Of course.”
 $Yuzuha
 “Well, if you say so...”
-Yuzuha was still eyeing me with a suspicious gaze.
+Yuzuha was still peering at me with a suspicious gaze.
 $Yuzuha
-“You can't do that, you know, getting into so many fights.”
+“You can't do that, okay? Getting into fights all the time.”
 $Sousuke
 “I know.”
 $Yuzuha
 “—Mm.”
 Yuzuha nodded with a satisfied air.
 $Yuzuha
-“It’s late already, shall we sleep?”
+“It's already late, shall we sleep?”
 $Sousuke
 “I suppose so.”
-I lay down on the futon as I spoke.
-Good grief—I was exhausted.
-Attacked by a madwoman, struck by a strange girl.
+As I spoke, I lay down on the futon.
+Man—I was exhausted.
+Getting attacked by a madman and slapped by a strange woman.
 $Sousuke
 “Shirakawa—Ayane, was it?”
 $Yuzuha
-“...What is it?”
+“...What was that?”
 Yuzuha turned toward me, her sharp ears catching my faint murmur.
 $Sousuke
-“No, it’s nothing.”
+“No, it's nothing.”
 It really was nothing.
 I wondered if I’d ever have the chance to return the handkerchief she’d pressed against my wound.
 $Yuzuha
-“Lights out!”
-As the surroundings grew dark, the sound of the rain outside suddenly began to weigh on my mind.
+“Turning off the light now—”
+As the surroundings went dark, the sound of the rain outside suddenly began to weigh on my mind.
 $Sousuke
 “Phew...”
-I exhaled and let the tension leave my body.
-With a rustle, Yuzuha, now changed into her nightgown, crawled into the adjacent futon. Because the room was cramped, our bodies felt as if they might touch despite being on separate futons.
+I exhaled and let the strength drain from my body.
+With a rustle, Yuzuha, having changed into her sleepwear, crawled into the neighboring futon. Because the room was so small, our bodies felt like they might touch despite being on separate futons.
 $Yuzuha
-“...Hey, big brother...?”
+“...Hey, Onii-chan...?”
 $Sousuke
 “What?”
-I shifted my body and turned toward Yuzuha.
+I shifted my body to face Yuzuha.
 $Yuzuha
-“Your piano today... it was really good.”
+“The piano today... it was good.”
 $Sousuke
-“Was it?”
+“I see.”
 $Yuzuha
-“Yeah. I was talking about it with Mikage-chan on the way back, and it felt like... like the sound became transparent, or like the harshness was gone...”
-Yuzuha tried to explain, even moving her hands for emphasis.
+“Yeah. I was talking about it with Mikage-chan on the way back, and you know, it felt like the sound became transparent, or like the thorns were gone...”
+Yuzuha tried to explain, even moving her hands.
 $Yuzuha
-“Anyway... it was great. You always tell me not to come to the shop so much, but I want to hear you play more.”
+“Anyway... it was great. You always tell me not to come to the shop much, but I want to hear you play more.”
 $Sousuke
-“...I see.”
-I thought it was too early for Yuzuha to be frequenting bars. That said, Chika—who was around the same age—worked there, so I couldn't be too strict about it.
-I’d be in trouble if she got involved with the rare drunk customer who decided to be troublesome. I was technically hired as a bodyguard too, but even if they were drunk, I couldn't very well go around hitting customers.
+“...I guess so.”
+I thought it was still too early for Yuzuha to be hanging around bars. That said, since Chika, who was the same age, worked there, I couldn't say it too strongly.
+It would be a problem if she got tangled up with the extremely rare drunk customer. I was technically hired as a bodyguard too, but even if they're drunk, I can't exactly go around punching the customers.
 $Yuzuha
-“Big brother...?”
+“Onii-chan...?”
 $Sousuke
-“Hm...?”
+“Hmm...?”
 $Yuzuha
 “Were you listening...?”
-Yuzuha asked with a sulky puff of her cheeks.
+Yuzuha asked with a disgruntled look, puffing out her cheeks slightly.
 $Sousuke
 “I’m listening.”
 $Yuzuha
@@ -148,265 +148,265 @@ $Yuzuha
 $Sousuke
 “...Maybe.”
 $Yuzuha
-“...Okay.”
-Yuzuha grew quiet. Yet her eyes remained open, staring toward me.
-Feeling awkward, I turned my gaze toward the ceiling.
-Fresh wood grain. It was a new building, only two years old, and since Yuzuha didn't approve of me smoking indoors, there was no staining yet.
-The rain continued to fall. I wondered if it would stop by morning.
+“...Mmn.”
+Yuzuha grew quiet. Even so, her eyes remained open, gazing at me.
+Feeling awkward, I turned my eyes to the ceiling.
+The wood grain looked brand new. The building was only two years old, and since Yuzuha didn't appreciate me smoking indoors, there was no staining yet.
+The rain was still falling. I wondered if it would stop by tomorrow morning.
 I hoped nothing would happen tomorrow.
 I’d had quite enough of disasters like today.
 $Yuzuha
-“Mmm...”
-She seemed to have fallen asleep.
-I watched Yuzuha’s sleeping face for a while.
+“Nn...”
+It seemed she had fallen asleep.
+I observed Yuzuha's sleeping face for a while.
 $Yuzuha
-“Nngh...”
-We’d started living together a little over a year ago, right after moving into this apartment.
-Since the earthquake, we’d been staying at Mikage’s house—the Tachibana residence. My late father and Mikage’s father had been old friends.
-Yuzuha, who was still very young then, probably hardly remembered our parents’ faces. So—for Yuzuha, home might mean the Tachibana family.
-For me—there was nothing.
-I hardly ever approached the Tachibana house, and consequently, I rarely saw Yuzuha’s face.
-Then suddenly—the grown-up Yuzuha had appeared before me out of the blue.
-To be honest, I didn't know how to handle her. I didn't know how to act.
-It seemed I didn't understand anything about family after all.
-Yuzuha often called me a “kind brother.”
-But—she was wrong. I wasn't kind.
-I just didn't know how to act around her, so I treated her with caution, as if handling something fragile.
+“Nnuu...”
+I had started living with Yuzuha just after moving into this apartment, a little over a year ago.
+After the earthquake, we had taken shelter at Mikage's house—the Tachibana residence. It helped that my late father and Mikage's father were old friends.
+Yuzuha, who was still young then, probably hardly remembered our parents' faces. So—to Yuzuha, ‘family’ might mean the Tachibana household.
+As for me—I had nothing.
+I hardly went near the Tachibana house, and consequently, I hardly ever saw Yuzuha face-to-face.
+And then suddenly—a grown Yuzuha had popped up before me.
+Honestly, I found her difficult to handle. I didn't know how to interact with her.
+It seemed I didn't understand anything about family either.
+Yuzuha often called me a “kind older brother.”
+But—she’s wrong. It’s not that I’m kind.
+I just don't know how to act, so I treat her carefully, like I'm handling a fragile object.
 $Yuzuha
-“Zzz...”
+“Kuu...”
 $Sousuke
-“Good grief.”
-I straightened her disheveled nightgown.
+“Good grief—”
+I fixed her disheveled sleepwear.
 $Yuzuha
-“Mmm... nngh...”
+“Nn... Mmn...”
 $Sousuke
-“—Heh.”
+“—Hah.”
 A smile escaped me despite myself.
-To avoid making Yuzuha worry, I’d have to cut back on the fighting.
+To keep Yuzuha from worrying, I really should refrain from fighting.
 Praying that nothing like today would happen again, I closed my eyes.
 --------------------
 0101
 ********************
-I woke to the dazzling sunlight streaming through the window.
+I was woken up by the dazzling sunlight streaming through the window.
 $Sousuke
-“...Ngh.”
-My head hurt a bit. I shouldn't have drunk enough to have a hangover.
+“...Ugh.”
+My head hurt a bit. I shouldn't have drunk enough to get a hangover, though.
 $Yuzuha
-“Ah, you’re awake, big brother? Good morning!”
+“Ah, Onii-chan, you’re up? Good morning.”
 $Sousuke
-“...Morning.”
+“...Yeah.”
 I sat up on the futon.
 $Sousuke
 “What... time is it?”
 $Yuzuha
-“It’s seven-thirty.”
+“It's seven-thirty.”
 $Sousuke
-“That’s early...”
+“That's early...”
 $Yuzuha
-“Well, I have to go out.”
-Is that why she was already in her school uniform?
+“Well, I'm heading out, after all.”
+I suppose that’s why she was wearing her uniform.
 $Yuzuha
-“So come on, let’s eat breakfast together, okay?”
+“So look, let's eat breakfast together, okay?”
 $Sousuke
-“Alright, alright.”
-I stood up and put away the futon. In the space I’d cleared, I set up the low table, and Yuzuha brought over the breakfast.
+“Alright, fine.”
+I stood up and put away the futons. In the space I’d cleared, I set up the table, and Yuzuha brought over the breakfast.
 Rice, miso soup, croquettes, and pickles. A perfectly ordinary breakfast.
 $Yuzuha
-“Let’s eat!”
+“Itadakimasu!”
 At Yuzuha’s signal, I picked up my chopsticks.
 $Yuzuha
-“Big brother, where’s your ‘thank you for the food’?”
+“Onii-chan, where’s your ‘itadakimasu’?”
 $Sousuke
-“...Thank you for the food.”
+“...Itadakimasu.”
 I obeyed quietly.
-I was never very good with this kind of atmosphere.
+I’m really not good at this kind of atmosphere.
 $Yuzuha
-“Well then, big brother, I’m off.”
+“Well then, Onii-chan, I’m off.”
 $Yuzuha
-“I’ll be back in the evening, but you have work again today, right?”
+“I’ll be back by evening, but you’ve got work again today, right?”
 $Sousuke
 “Yeah. You can go ahead and eat dinner without me.”
 $Yuzuha
-“Okay. Well then, I’m leaving!”
+“Got it. Well, I’m leaving now!”
 Yuzuha left the room.
-Now alone, I sprawled out on the tatami mats. Outside the window, the sky was perfectly clear, as if last night’s rain had been a lie.
-Idle time.
-I wouldn't show my face at the bar until after noon at the earliest.
-Feeling a slight resentment toward Yuzuha for waking me so early, I closed my eyes.
+Left alone, I sprawled out on the tatami mats. Outside the window, the sky was perfectly clear, as if last night’s rain had been a lie.
+Time to kill.
+I wouldn't show my face at the bar until at least after noon.
+Feeling a bit resentful toward Yuzuha for waking me up so early, I closed my eyes.
 Sunlight filtered through my eyelids.
 The cicadas seemed to be buzzing noisily.
 $Sousuke
 “...It’s summer...”
-I wondered if it would get hot today.
-The Master would probably start complaining about beer sales dropping if it didn't warm up soon.
+I wondered if it would be hot today.
+If it didn't start getting warmer soon, the Master would likely grumble about beer sales dropping.
 $Sousuke
-“—Well, none of my business.”
+“—Well, it's none of my business.”
 $Sousuke
-“Mmm...”
-I seemed to have dozed off for a bit.
+“Hmm...”
+It seemed I had slept for a bit.
 I sat up and checked the clock. It was just past noon.
-My shoulders popped. My body ached a little from sleeping on the tatami without a futon.
+My shoulders cracked. My body ached a little from sleeping on the tatami without a futon.
 $Sousuke
-“...Time to go.”
-The bar should be open by this time. Of course, it wasn't open for business yet; Chika, who lived on the floor above the bar, was just getting things ready.
-I changed clothes and lightly straightened my hair in the mirror.
+“...Guess I’ll go.”
+At this hour, the bar should be open. Not for business, of course, but Chika, who lived on the floor above the bar, would be there getting things ready.
+I changed my clothes and lightly tidied my hair while looking in the mirror.
 $Sousuke
 “—Right.”
-I wondered if any customers would come today. I hoped it wouldn't just be regulars—those acquaintances I was stuck with—like yesterday.
+I wondered if any customers would come today. I’d had enough of days where it was nothing but regulars—or rather, acquaintances I was stuck with.
 --------------------
 0102
 ********************
-Kagurazaka in the early afternoon was a scene of bustling activity.
-The shops were full of life, and stalls lined the area around Bishamonten.
-The pleasure quarters wouldn't start getting busy until later.
-Both sides of the slope were lined with Japanese, Western, and Chinese restaurants, sweet shops, cafes, and bars. Not only that, but venerable old shops that had existed since the Edo period stood side-by-side.
-Under the circumstances, it was perhaps inevitable that not many customers came to a shop on a back street. Any ordinary customer would choose the flashy shops on the main thoroughfare.
-After a few turns, I arrived in front of “CADENZA.”
+Kagurazaka in the early afternoon was a scene of miscellaneous bustle.
+The shops were full of energy, and stalls lined the area around Bishamonten.
+The geisha district wouldn't start getting lively until later.
+Both sides of the slope were lined with Japanese, Western, and Chinese restaurants, along with sweet shops, cafes, and bars. Not only that, but long-standing shops dating back to the Edo period were also in the mix.
+Because of that, it was only natural that not many customers came to the shop on the back street. Ordinary customers would choose the glamorous shops on the main street.
+I took a few turns around the corners and arrived in front of “CADENZA.”
 Chika was sweeping the front of the shop with a broom.
 $Sousuke
 “...Yo.”
 $Chika
-“Eek!? ...Ah, K-Kudou-san...!?”
-Exactly as I’d expected. The moment she saw me, Chika let out a scream and jumped back.
-I gave a wry smile at the sight. Even if I’d appeared unexpectedly, I didn't think I was *that* disliked.
+“Kyah!? ...Ah, K-Kudou-san...!?”
+Just as I expected. As soon as Chika saw me, she let out a scream and jumped back.
+I gave a wry smile at her reaction. Even if I’d shown up unexpectedly, I didn't think I was that disliked.
 $Chika
-“W-what are you doing!? Hurry and get inside!!”
+“W... What are you doing here!? Please, get inside quickly!!”
 $Sousuke
-“Hm...?”
+“Huh...?”
 Something was wrong.
-Before I could say a word, Chika grabbed my arm and pulled me into the bar.
+Before I could say anything, Chika grabbed my arm and dragged me into the bar.
 $Sousuke
 “What happened...?”
 $Chika
-“What do you mean, ‘what happened’... I don't think there’s any way you wouldn't know...”
-Chika rambled as she hung the ‘Closed’ sign on the entrance. Seeing her like this was rare.
-It was very like Chika to be backing away even while she was worked up.
+“What do you mean, ‘what’... I don't think there’s any way you wouldn't know...”
+Chika spoke rapidly as she hung the “Closed” sign on the entrance. Seeing her like this was rare.
+It was just like Chika to be backing away even while she was fuming, though.
 $Master
-“—You’re here.”
-I turned at the Master’s voice.
-The Master, who rarely stepped away from the counter, was looking at me with a sour expression.
+“—So you've come.”
+I turned around at the Master's voice.
+The Master, who rarely left the counter, was looking this way with an expression like he’d just chewed on a bitter bug.
 $Sousuke
 “What happened?”
 $Master
 “That’s my line.”
 $Master
-“The police were here this morning. Apparently, they’re looking for you.”
+“The police came here this morning. Apparently, they're looking for you.”
 $Sousuke
 “Hah—”
-Was it about yesterday? True, I’d lost myself in the moment and beaten her to a pulp, but surely it was self-defense. Well—I suppose I couldn't exactly make a plea since my opponent was a woman.
+I wondered if it was about yesterday. I certainly went all out on them in the heat of the moment, but that should have been self-defense. Well—since the opponent was a woman, I might not be able to make an excuse for it.
 $Master
 “—So you do have an idea.”
-The Master’s gaze seemed to grow colder.
+The Master's gaze seemed to grow harsher.
 $Sousuke
 “But that was...”
 $Master
-“Honestly... you’ve done something truly unthinkable.”
+“Honestly... you've done something incredible.”
 $Sousuke
-“...I was a little drunk.”
+“...I was a little drunk, after all.”
 $Master
-“Even so, there was no need to kill her.”
+“Even so, that's no reason to kill them.”
 $Sousuke
 “—!?”
 I couldn't believe my ears.
 $Sousuke
-“Kill her...!?”
-Absurd.
-I... I’d beaten the woman down, but I certainly hadn't killed her.
-I hadn't killed her—I was sure of it.
+“Kill...!?”
+That's ridiculous.
+I... I beat that woman down, but I certainly didn't kill her.
+I didn't kill her—I shouldn't have.
 $Master
-“According to the police... a woman’s body was found on the street in Shin-ogawamachi, a little north of here.”
+“According to the officer... a woman's body was discovered on the street in Shin-ogawamachi, just north of here.”
 The location—it matched.
 $Master
-“A man who looked just like you was reportedly seen running away from the scene by a passerby. They said he was covered in blood, his shirt stained red.”
+“A man very similar to you was reportedly seen by a passerby running away from the scene. Covered in blood, with his shirt stained red.”
 $Sousuke
-“W-wait a minute. That was because I was injured—”
-I rolled up my left sleeve. In my panic, I scratched the wound slightly, and a jolt of pain shot through me.
+“W... Wait a minute. That was because I got hurt—”
+I rolled up my left sleeve. Because I was panicking, I scratched the wound slightly, and pain shot through me.
 $Sousuke
-“...The woman did this to me.”
+“...This is a wound that woman gave me.”
 $Master
 “So you killed her because she attacked you?”
 $Sousuke
 “...No way. I lost my temper and beat her up, but I definitely didn't kill her.”
-I knew my own strength. People don't die that easily.
+I know how to hold back. People don't die that easily.
 $Master
-“...Raising a hand to a woman isn't exactly admirable either.”
+“...Raising your hand against a woman isn't something to be proud of either, though.”
 $Sousuke
-“As if she were a woman. ...If I hadn't, I might have been the one killed, you know?”
+“You call that a woman? ...If things had gone wrong, I might have been the one killed, you know?”
 $Master
-“...The more I hear, the more I can only think you did it... Sousuke, you really didn't kill her?”
+“...The more I hear, the more it sounds like you did it... Sousuke, you really didn't kill her?”
 $Sousuke
-“I’ve told you a dozen times—”
+“I’ve been telling you over and over—”
 $Master
 “You’re fired.”
 $Sousuke
 “—!!”
-I slammed my fist on the counter and stood up. Chika shrank back in fear.
+I slammed my fist on the counter and stood up. Chika flinched and pulled her body away.
 He wasn't listening to a word I said.
 $Sousuke
-“...Oh, I see. Fine.”
+“...Oh, fine, I get it.”
 $Master
 “Calm down, Sousuke.”
 $Sousuke
-“How am I supposed to be calm!? I’m being framed and now I’ve lost my job!!”
+“How can I be calm!? I'm being framed and I’ve lost my job!!”
 $Sousuke
 “—!?”
 For a moment, my brain rattled. A pain as if my jaw had been dislocated.
 $Master
 “—Calm down, you fool.”
-...The Master’s fist.
+...Was that the Master's fist?
 $Sousuke
 “...Hah.”
-I sat down roughly on a stool.
+I sat down roughly on the stool.
 $Master
-“I told you the police were here. If you’re just sitting here casually playing the piano, you’ll be caught in an instant.”
+“I told you the police came here. If you were to casually show up and play the piano, you'd be caught in an instant.”
 $Master
-“Fortunately, the police didn't seem to know your identity, so I managed to deflect them somehow... but it’s only a matter of time before they find out.”
+“Fortunately, the officer didn't seem to know your identity, so I managed to dodge the questions somehow... but it’s only a matter of time before they find out.”
 $Sousuke
 “—They don't know my identity?”
-Then why had they known I would be here?
+In that case, why on earth did they think I was here?
 $Master
-“Hm... it seems the witness is someone who’s been to the shop a few times and recognized you.”
+“Mm... it seems the witness was someone who had visited the shop a few times, so they recognized your face.”
 $Sousuke
 “Hmph...”
 $Master
-“...You should go into hiding. In these times, you won't escape imprisonment even if it’s a false accusation.”
+“...You should hide yourself. In times like these, even if you’re innocent, you won’t escape being thrown in prison.”
 $Sousuke
 “Good grief...”
-What a mess. Go into hiding? Where? Some place where barracks still stood and the dark underbelly of the civilized city spread out—
-Negishi, Asakusa, or Aoicho—or perhaps cross the river all at once toward Kawasaki or Chiba—
-At any rate, I couldn't go home. I felt bad for Yuzuha, but I couldn't involve her.
+Things had become a mess. Hide myself? Where? Someplace where barracks still line the streets and the dark side of the civilized city spreads out—
+Negishi, Asakusa, Aoi-cho—or maybe cross the river all at once toward Kawasaki or Chiba—
+At any rate, I couldn't go back home. I felt bad for Yuzuha, but I couldn't get her mixed up in this.
 $Sousuke
 “Can you tell Yuzuha not to worry?”
 $Master
-“Hmph. ...Chika, can you do that for him?”
+“Hmm. ...Chika, would you do that for me?”
 $Chika
 “Eh...? Ah, yes, I understand.”
 Chika nodded.
 $Sousuke
-“Good grief.”
+“Good grief—”
 $Master
 “What do you plan to do now?”
 $Sousuke
-“...Who knows. I haven't a clue.”
+“...Who knows. I don’t have a clue.”
 I shrugged my shoulders.
-The Master returned behind the counter and tossed an envelope toward me.
+The Master returned to the inside of the counter and tossed an envelope toward me.
 $Master
-“It’ll be hard with just the clothes on your back.”
+“It'll be hard with just the clothes on your back.”
 $Sousuke
 “...Hey, what is this...?”
-The envelope was stuffed with a wad of cash. It looked like nearly a hundred one-yen bills. There were five and ten-yen bills mixed in too.
+The envelope was stuffed with a wad of bills. There looked to be nearly a hundred one-yen bills. Five-yen and ten-yen bills were mixed in as well.
 $Master
-“Consider it your severance.”
-It was probably enough to cover several months’ pay.
+“In place of your wages.”
+This was probably worth several months' pay.
 $Master
-“Show your face once in a while. I can't have you here while the shop’s open, but you’re welcome anytime after we close. ...Just make sure no one sees you.”
+“Show your face once in a while. It’ll be a problem while the shop is open, but after closing, you can come by anytime. ...Just make sure no one finds you.”
 $Sousuke
 “...Sorry about this.”
 $Master
 “Don't worry about it. ...Sousuke.”
 The Master paused for a moment.
 $Sousuke
-“...Hm?”
+“...Hmm?”
 $Master
 “...You really didn't kill her, did you?”
 $Sousuke
@@ -415,216 +415,216 @@ $Master
 “I see.”
 $Sousuke
 “...Sorry for the trouble.”
-I stood up and prepared to leave the shop.
+I stood up and made to leave the shop.
 $Chika
 “Please wait.”
 $Sousuke
-“Hm?”
-Chika stopped me, then peeked out the door to check the surroundings.
+“Hmm?”
+Chika stopped me, then poked her head out the door to check the situation outside.
 $Chika
-“...It’s okay now. ...A-and... um, do your best. Be careful...”
+“...It’s okay for now. ...A-And... well, do your best. Please be careful...”
 $Sousuke
 “...Yeah. Thanks.”
-Raising a hand slightly, I vanished into the afternoon crowd.
+Raising one hand slightly, I blended into the afternoon crowd.
 --------------------
 0103
 ********************
-—Now then, what to do?
-I couldn't afford to draw attention to myself.
-On the other hand, I couldn't go back home.
-Furthermore, this area was close to the scene, and there was a chance I’d run into police officers conducting their investigation.
-Should I head for Ueno, or maybe Asakusa?
-Take the train to Manseibashi? Or pay seven sen to ride the streetcar and get off wherever seemed convenient?
-No—the police were likely staked out at places where people gathered, like train stations. To prevent someone from escaping to a far-off place, waiting at the station was the best bet.
-In that case, I’d have to go on foot. If I walked along the outer moat, it wouldn't be that far, but it would still be conspicuous.
-I’d have to take the back roads from Koishikawa through Hongo.
-I put on my tinted glasses. The sunlight was blocked, and the surroundings grew dim. It was meant to be a disguise, but it might just make me stand out even more.
-Well—as long as no one recognized me, it shouldn't be a problem.
+—Now then, what should I do?
+I couldn't act too conspicuously.
+That said, I couldn't go back home either.
+Furthermore, this area was close to the scene, and there was a possibility I might run into the police who were investigating.
+Should I head toward Ueno, or maybe go out as far as Asakusa?
+Should I take the train to Manseibashi? Or should I pay seven sen to ride the city tram and get off somewhere that seems convenient?
+No—the police are likely staking out places where people gather, like station buildings. To prevent an escape to a distant area, waiting at the station would be their best bet.
+In that case, on foot? Walking along the outer moat wouldn't be much distance, but it would still be conspicuous.
+It seemed I had no choice but to take the back roads from Koishikawa through Hongo.
+I put on tinted glasses. The sunlight was blocked, and my surroundings grew dim. This was meant as a disguise, but it might actually make me stand out even more.
+Well—as long as they don't realize it's me, there shouldn't be a problem.
 $Sousuke
 “—Good grief.”
-I never realized being wanted by the police would be such a hassle.
-I avoided the main streets and took the narrow paths that wound between the buildings. Gradually, my sense of direction began to falter, and I lost track of which way I was heading.
-I must have passed through Koishikawa and entered Hongo. Or perhaps I’d already reached Shitaya.
-The Imperial University should have been nearby, but I couldn't see it. Well, I wasn't walking with a specific goal in mind, so anywhere I could hide was fine.
+I didn't realize being a wanted man would be this much of a hassle.
+Avoiding the main roads, I moved along the narrow paths that wound between the buildings. Gradually, my sense of direction began to falter, and I lost track of which way I was heading.
+Was I around the point where I’d passed Koishikawa Ward and entered Hongo Ward? Or had I already made it as far as Shitaya Ward?
+The Imperial University should have been nearby, but I couldn't find it. Well, since I wasn't walking with a firm goal in mind, anywhere would do as long as I could hide myself.
 $Sousuke
 “...Hmph.”
-—The public order didn't seem to be very good around here. Several men had been following me for a while now. Some local thugs, perhaps?
+—The public order didn't seem very good. Several men had been following behind me for a while now. Are they the local hoodlums?
 Honestly, what a pain—
-I checked the condition of my left arm, which I’d injured yesterday. It was still painful because of the scar, but it seemed there was no problem with swinging it.
+I checked the condition of my left arm, which I’d injured yesterday. There was pain since the scar remained, but it didn't seem like there would be any problem with swinging my arm.
 $Sousuke
-“Well—I suppose I’m just a punk myself.”
-I gave a wry smile. I wasn't much different from the guys behind me right now. Neither of us could show our faces in polite society.
+“Well—I guess I'm a hoodlum too.”
+I gave a wry smile. Right now, I wasn't much different from the guys behind me. It was the same in that I couldn't show my face in society.
 $Man
-“Hold it right there, brother.”
-The way he called out to me, as if nothing had changed since the Edo period, almost made me burst out laughing.
+“Wait a second, brother.”
+I almost burst out laughing at the way he called out to me, which seemed unchanged since the Edo period.
 $Sousuke
-“—What?”
-I turned around and looked at the men; sure enough, they had the unmistakable look of low-life thugs.
-A strange, affected man approached with a leering grin.
+“—What is it?”
+Turning around to look at the men again, I saw that they did indeed exude the air of hoodlums.
+A strange, affected man approached with a smirking grin.
 $Man
-“Say... you’ve got a face we don't see around these parts—”
+“Hey... you’ve got a face we don't see around here—”
 $Man
-“Gwoh!?”
-I didn't wait to hear the rest before burying my toe in his solar plexus.
+“Fobuh!?”
+Without listening to the end, I buried the tip of my toe in his solar plexus.
 $Man
-“Y-you bastard...!!”
-As the man curled up, clutching his stomach, a large man stepped forward.
+“Y-You bastard...!!”
+In place of the man who was crouching and clutching his stomach, a large man stepped forward.
 $Sousuke
 “—Hah.”
 $Man
-“Gugh!?”
-A kick to the side of the head. The man went tumbling into a fence, his large frame echoing the impact.
+“Gebu!?”
+A kick to the side of his head. The man went rolling into the fence, just as his physique suggested he would.
 $Sousuke
-“—About right, I suppose...”
-I thought back to last night. I confirmed for myself that people didn't die from attacks like this.
+“—It's something like that, I guess...”
+I thought back to last night. I confirmed to myself that an attack like this shouldn't kill a person.
 $Man
-“W-why you!!”
+“Y-You...!!”
 $Sousuke
-“Not done yet...?”
-Had I hit her more than this? I’d forgotten my position as a piano player and used my fists yesterday.
-Right now, I couldn't push myself too hard because of the injury to my left arm.
+“Still more...?”
+Had I hit them more? Forgetting my position as a piano player, I had used my fists yesterday.
+Right now, I couldn't overdo it because of the injury to my left arm.
 So—I kicked.
 $Man
-“H-eek!! Eeek!!”
-I continued to kick the man as he rolled on the ground. Where had all that bluster from before gone? The thug curled up his limbs, making a futile attempt to minimize the pain.
+“Hi-Hieee!!”
+I kept kicking the rolling man. I wondered where his bravado from just a moment ago had gone; the hoodlum curled up his limbs, making a futile struggle to reduce the pain even a little.
 $Man
-“T-that’s enough, have mercy. I can't afford to be killed—”
+“Please, give me a break. I can't afford to be killed—”
 $Sousuke
 “Hah—”
-I swiped at a man who tried to grab my shoulder.
+I brushed aside the man who had tried to shake my shoulder.
 $Sousuke
-“As if this could kill you—”
-I hadn't even used half the strength I’d used yesterday.
+“Like you'd die from this much—”
+I hadn't even put out half of yesterday's strength yet.
 There was no way I could kill someone with my bare hands.
 So—I could still go on.
 $Man
-“H-eek!! S-stop...!!”
-More. More.
+“Hi!! S-Stop...!!”
+More. Even more.
 $Man
-“H... eek...”
-The man’s groans gradually grew quieter.
-Was that all it took?
-The woman yesterday had still been moving.
-Then why was this man crouching so easily?
+“Hi... Hieee...”
+The man's groans gradually grew quieter.
+Was it something like this?
+That woman yesterday should have still been moving.
+Then why is this man crouching so easily?
 $Sousuke
 “What—are you weak?”
 $Man
-“H-eek...! I-I’m weak, so please spare me...”
-Seeing the servile man who wouldn't even argue with my casual murmur, I suddenly felt a pang of pity.
-My leg was getting tired from all the kicking.
+“Hi...! Y-Yeah, I'm weak, so please spare me...”
+Seeing the figure of the abject man who didn't even try to argue against the mutter I’d accidentally let slip, I suddenly felt a sense of pity.
+The leg I’d been using to kick was getting tired too.
 $Sousuke
-“...That’s enough. Go.”
+“...That's enough. Go.”
 $Man
-“H-eek...!!”
-The man scrambled away as fast as he could.
+“Hieee...!!”
+The man scrambled away in a wretched state.
 $Sousuke
-“...What the hell am I doing?”
-I was supposed to be keeping a low profile, yet here I was, fighting in the street. No—it couldn't even be called a fight; it was just one-sided violence.
+“...What on earth am I doing?”
+Even though I was supposed to be restraining myself to avoid standing out, before I knew it, I was fighting on the street. No—it couldn't even be called a fight, just one-sided violence.
 $Sousuke
-“Hah—I’m broken.”
-I was referring to myself, of course.
+“Hah—I'm broken.”
+Referring to myself, of course.
 --------------------
 0104
 ********************
 $Sousuke
-“—Well now, what should I do...?”
-Before I knew it, I’d crossed the Kanda River and reached the Kudanshita area.
-I’d intended to head toward Ueno, but I was being careless.
-Large buildings lined the streets, and buses wove through the throngs of people.
-There were police boxes at the major intersections, and the officers were keeping a watchful eye on their surroundings, but they didn't seem to have noticed me.
-Of course they hadn't—in a city this bustling, no one could possibly identify every single face and recognize a criminal.
-As long as I didn't act suspicious, I should be fine. As long as I didn't conspicuously lower my head when passing a police box.
-When I thought about it that way, I started to feel a bit more relaxed.
-I had to avoid brawls like the one just now—
+“—Now then, what should I do...?”
+Before I realized it, I had crossed the Kanda River and arrived around Kudanshita.
+Even though I’d been thinking of heading toward Ueno, I really was aimless.
+Large buildings lined the area, and buses were running through the gaps where the streets were overflowing with people.
+There were police boxes at the major intersections, and while the officers seemed to be keeping an eye on their surroundings, they didn't show any sign of noticing me.
+That was only natural—in a city this bustling, there was no way they could distinguish each individual face and recognize one as a criminal.
+As long as I didn't act suspiciously, I should be fine. Provided I didn't conspicuously lower my face when passing in front of a police box.
+Thinking that way, I felt a little bit of leeway.
+I had to avoid a fight like the one just now—
 $???
 “............”
-...Yes, I had to avoid trouble as much as possible.
+...Yes, I had to avoid troublesome things as much as possible.
 $???
 “............”
 Good grief.
-I’d made eye contact with a suspicious man who was staring intently at me. An unnervingly sharp gaze. Perhaps he was a spy for the Special Higher Police.
-I moved away as if nothing were wrong, but the man’s eyes followed me relentlessly, even through the crowd.
-Operating a stall in a place like this—right in front of the Army Hall where the Martial Law Headquarters had been located during the 2.26 Incident—was suspicious in itself.
-Was he a member of the Army’s military police rather than the Special Higher Police? Either way, it was a major pain.
+I’d ended up making eye contact with a suspicious man who was staring intently this way. An unusually sharp gaze. He might be an agent of the Special Higher Police.
+I moved away while pretending to be casual, but the man's eyes continued to follow me. Even in the crowd where many people were coming and going.
+Having a stall in a place like this—right in front of the Military Hall where the Martial Law Headquarters had been placed during the February 26 Incident—was also suspicious.
+If not the Special Higher Police, perhaps he was a man from the Army Military Police. Either way, it was plenty troublesome.
 It was better not to get involved.
 $???
 “............”
-...For some reason, I thought the suspicious man looked sad.
+...I felt as though the suspicious man had made a sad face, if only for a moment.
 Talk to him
 Ignore him
 $Sousuke
 “—Tch.”
-It was ridiculous—yet despite my thoughts, I approached the stall.
+It was ridiculous—even as I thought that, I approached the stall.
 $Sousuke
 “—Hey, old man, what are you selling?”
 $Old Man
 “............”
-The old man silently pointed to a price tag nearby.
+The old man silently pointed to the price tag beside him.
 "Ten pieces for ten sen—"
 $Sousuke
 “...No, before the price, what are you selling—”
 $Old Man
-“...Takoyaki.”
+“...It's takoyaki.”
 The old man muttered in a gloomy voice.
 $Sousuke
 “Takoyaki...?”
-Looking at the old man’s hands, I saw a black iron plate with several round indentations.
-He was spreading a batter made of flour over it.
+Looking at the old man's hands, a black iron plate with several round depressions was laid out.
+On top of it, he was spreading a batter made of flour.
 $Old Man
-“They used to call it ‘Choboyaki’ or ‘Radioyaki’... I don't know who thought of it, but they went and put octopus in it out of nowhere...”
+“It used to be called ‘choboyaki’ or ‘radioyaki’... I don't know who thought of it, but they went and put octopus in it all of a sudden...”
 $Old Man
-“It’s enough to make you sick... honestly...”
-The old man grumbled and complained under his breath.
-Was this guy—even interested in selling anything?
+“It’s depressing... really...”
+The old man let out his complaints in a mumble.
+Does this guy—actually want to sell anything?
 $Old Man
-“The big shots are always like that. Only thinking about things for their own convenience... and it’s always us vermin who have to suffer for it... heh-heh...”
-...I wanted to go home.
+“The big shots are always like that. Only thinking about things for their own convenience... and it’s always us vermin who suffer the consequences... Heh heh heh...”
+...I want to go home.
 $Old Man
-“—So, young man... you buying?”
-The way he stared at me was terrifying.
-If I said I wasn't buying, I felt like something irreversible would happen.
+“—So, brother... are you buying?”
+The eyes staring at me were frightening.
+If I said I wouldn't buy anything here, it felt like something irreversible might happen.
 $Sousuke
-“I’ll take—one serving.”
+“I'll take one serving—please.”
 $Old Man
 “...Hmph.”
-The old man gave a derisive snort and began flipping the browned batter with a tool that looked like an awl.
-It was interesting to watch the batter turn into round balls.
-Thirteen of those balls—were placed into a package.
+The old man gave a snorting laugh, then began flipping the browned batter with a needle-like tool.
+As if by magic, the batter became round.
+Thirteen of those clumps—were placed into a wrapper.
 $Old Man
-“Much obliged—”
+“Thanks for your business—”
 $Sousuke
 “...Isn't that too many?”
 $Old Man
-“It’s a bonus... heh-heh...”
-To be honest, I didn't feel particularly grateful.
+“It's a bonus... Heh heh heh...”
+Honestly, I didn't feel much gratitude.
 $Sousuke
 “—Well, thanks anyway.”
-I moved away from the stall and opened the package in a deserted spot.
-Thirteen takoyaki arranged in a row.
-Steam was rising, and they certainly smelled savory, but—
+I moved away from the stall and opened the wrapper in a place where there were no people.
+Thirteen objects called takoyaki lined up.
+Steam was rising, and they certainly had a savory smell, but—
 $Sousuke
-“...Well, it’s a commercial product, so I suppose it won't be inedible.”
-Steeling myself, I picked one up with a toothpick and popped it into my mouth. Was it soy sauce? The savory aroma spread through my mouth—
+“...Well, since it's technically a commercial product, it shouldn't be inedible.”
+I made up my mind, picked one up with a toothpick, and popped it into my mouth. I wondered if it was soy sauce; a savory scent in my mouth—
 $Sousuke
-“—Mmph!?”
-It was hot.
+“—Bumu-fu!?”
+Hot.
 My tongue hurt.
 $Sousuke
-“Nngh... ngh...!”
-I writhed in pain, groaning.
-I couldn't even tell what it tasted like.
-But I couldn't very well spit it out.
+“Mbu... ugh...”
+I writhed around while groaning.
+I couldn't tell what it tasted like.
+But I couldn't exactly spit it out.
 $Sousuke
-“Nngh... nnh...!”
+“Ngu... nnn...!”
 I finally managed to swallow it.
-My throat burned with pain.
+My throat hurt as if it were being scorched.
 $Sousuke
-“What the hell... is this?”
-If I ate them calmly, they might be delicious.
-There were twelve left in the package.
+“What on earth was that...?”
+It might be delicious if I ate it once I’d calmed down.
+Twelve pieces remained in the wrapper.
 $Sousuke
-“...I’ll eat them later.”
-I deeply regretted that bonus piece.
-—None of my business.
-I turned on my heel and left the area.
-I could feel the man’s piercing gaze on my back the entire time.
+“...I'll eat them later.”
+I sincerely regretted the extra portion, thinking it was definitely unnecessary.
+—It’s none of my business.
+I turned on my heel and left the place.
+All the while, I could feel the piercing gaze released by that strange man against my back.

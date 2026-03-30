@@ -1,770 +1,770 @@
 --------------------
 0606
 ********************
-A short while after Yuzuha left.
+A while after Yuzuha had left.
 $Qwon
-“...Your sister is quite energetic.”
+“—She is an energetic sister, isn't she?”
 $Sousuke
 “...Being energetic is about her only saving grace.”
 $Qwon
-“I believe she has other fine qualities as well.”
+“I believe she has other good qualities as well.”
 $Sousuke
 “Well... I suppose so.”
-It wasn't the sort of thing I could say out loud without dying of embarrassment—listing my own family’s virtues.
+Listing the virtues of one's own family was too embarrassing a thing to do.
 $Qwon
-“It seems you are dearly loved, Sousuke-san.”
+“Sousuke seems to be well-loved.”
 $Sousuke
-“I wouldn’t call it being loved... it’s more like I’m a burden she has to look after. Well—it’s probably because we haven't lived together for a long time.”
-It was only natural for her to fuss over a pathetic older brother—though, admittedly, that was my own fault.
+“Rather than being loved... it feels more like I'm a burden she has to look after. Well—it’s probably because we hadn't lived together for a long time.”
+It was only natural to fuss over a shiftless older brother—well, it was my own fault.
 $Qwon
-“I see. That explains it—”
-Qwon nodded to herself, seemingly satisfied.
-I prepared a simple meal, and the two of us ate together.
+“I see, no wonder then—”
+Qwon nodded repeatedly.
+I made a simple meal, and the two of us ate.
 $Qwon
 “—Thank you for the meal.”
-Qwon set her chopsticks down.
+Qwon set down her chopsticks.
 $Sousuke
 “You left the carrots.”
-I pointed to the orange clumps pushed to the edge of her plate.
+I pointed to the orange lumps pushed to the corner of her plate.
 $Qwon
 “If you wish to eat them, please, be my guest.”
-Qwon offered the plate toward me.
+Qwon held the plate out toward me.
 $Qwon
-“...They are things I simply do not require.”
+“...They are unnecessary things for me.”
 $Sousuke
-“Don’t be picky. Just eat.”
+“Eat them without complaining about likes and dislikes.”
 $Qwon
-“It is not a matter of being picky. I have simply recognized them as unnecessary components.”
+“It is not a matter of likes or dislikes. I merely recognize them as unnecessary items.”
 $Sousuke
-“Stop arguing and just—”
+“Don't start with the excuses—”
 $Qwon
-“I have only argued about two or three points.”
+“I have only reached the second and third ones.”
 $Sousuke
-“...You drive me crazy.”
-I stood no chance of winning a war of words with her.
+“...You're a real piece of work.”
+I couldn't win with words.
 $Sousuke
-“...I went to the trouble of making them, so just eat.”
+“...I went to the trouble of making them, so eat up.”
 $Qwon
-“It isn't as if you were the one who grew these carrots in a field, Sousuke-san.”
+“It was not Sousuke who grew these carrots in a field.”
 $Sousuke
-“...Don't you feel bad for the person who did grow them?”
+“...It’s disrespectful to the person who did grow them, isn't it?”
 $Qwon
-“—I suppose that is true.”
-She nodded with unexpected ease and picked up her chopsticks.
+“—That is a fair point.”
+Nodding quite easily, Qwon picked up her chopsticks.
 Did I... win?
 $Qwon
-“—Here, open wide.”
-A carrot was thrust right in front of my nose.
+“—Here, for you.”
+A carrot was thrust right under my nose.
 $Sousuke
-“You little...”
+“Hey now...”
 $Qwon
-“If they aren't eaten, it would be a disservice to the one who grew them, after all.”
-Only at times like this would Qwon drop her usual faint, mysterious smile for a grin so blindingly artificial it had to be intentional.
+“If someone doesn't eat it, it will be disrespectful to the grower, after all.”
+Only at times like this, Qwon would wear a full, overly deliberate smile instead of her usual faint one.
 Good grief.
-With a heavy sigh, I bit into the carrot held before me.
+Letting out a deep sigh, I bit into the carrot in front of me.
 $Qwon
 “—You should have simply done that from the beginning.”
 $Sousuke
-“...Don't give me that.”
+“...You're one to talk.”
 As I thought—I lost.
-After washing the dishes, I was about to head back upstairs when I noticed someone outside.
-Beyond the frosted glass, I could see a silhouette. They were clearly—scouting the inside of the house.
-Just one person. A woman... maybe?
+Just as I finished washing the dishes and was about to head back to the second floor, I noticed someone was outside.
+Beyond the frosted glass, I could see a silhouette. Clearly—they were peering inside the house.
+It looked like one person. A woman—maybe?
 $Sousuke
-“—Who’s there?”
-Perhaps I shouldn't have answered.
-What if it was the police—or the Military Police?
-Even worse—what if it was Aoi?
+“—Who's there?”
+Truthfully, I probably shouldn't have answered.
+If the person outside was the police—or the Military Police.
+Even worse—if it was Aoi.
 $???
-“—Sousuke? It’s me.”
+“—Sousuke? It's me.”
 $Sousuke
 “...Riho?”
-What was Riho doing here?
-She stepped inside as I slid the glass door open.
+Why was Riho here?
+I opened the glass door, and she stepped inside.
 $Riho
-“I never expected to find you holed up in a place like this.”
-It was Riho, without a doubt.
+“I never imagined you'd be gone to ground in a place like this.”
+It was unmistakably Riho.
 $Sousuke
 “—Are you alone?”
-I asked, cautiously sliding the door shut.
+I asked while cautiously closing the door.
 $Riho
-“Yeah. Even I wouldn't be stupid enough to bring a crowd to a hideout.”
+“Yeah. Even for me, I wouldn't barge into a hideout with a crowd.”
 $Sousuke
 “I appreciate that. Well—come on up.”
-I led Riho to the Japanese-style room on the second floor.
+I showed Riho into the Japanese-style room on the second floor.
 $Qwon
 “—Welcome.”
-Qwon gave a deep, formal bow.
+Qwon gave a deep bow.
 $Riho
-“...Huh?”
-Riho stopped dead in her tracks the moment she entered the room.
+“...Eh?”
+Riho stopped in her tracks as soon as she entered the room.
 $Riho
-“...Who’s this?”
+“...Who's this?”
 $Sousuke
 “...Who knows.”
-I played dumb as Riho leaned in, whispering right into my ear.
+I played dumb as Riho leaned in close to my ear to ask.
 $Qwon
-“I am Mikanagi Qwon, a live-in guest. I look forward to our acquaintance.”
+“I am Mikanagi Qwon, a house guest. I hope for your kind acquaintance from now on.”
 $Riho
-“A live-in guest... You had a thing for this kind of setup?”
+“A house guest... You had that kind of hobby?”
 $Sousuke
-“...What kind of 'thing' are you talking about?”
+“...What kind of hobby are you talking about?”
 $Qwon
-“—Perhaps the kind of 'thing' that favors the soft skin of sexually immature maidens?”
+“—Perhaps the hobby of preferring the soft skin of a sexually immature maiden?”
 $Sousuke
-“...I don’t have a damn 'thing' like that.”
+“...I don't have anything of the sort.”
 $Qwon
-“I see. So you prefer women who exude the mature, overripe allure of an adult past her prime.”
+“I see. So your preference lies with women who have passed their peak and exude the scent of a fully ripened adult.”
 $Riho
-“...The little brat’s got a mouth on her, doesn't she...”
-Riho muttered in a flat, dangerous tone.
+“...You've got quite the tongue, little girl...”
+Riho muttered in a flat voice.
 $Qwon
-“I believe that is for the best. At the very least, it means I will not be defiled.”
+“I believe that is for the best as well. At the very least, there is no chance of me being defiled.”
 $Sousuke
-“...Give it a rest, please.”
-I clutched my head and groaned.
+“...Give me a break.”
+I groaned, clutching my head.
 $Riho
-“—Whatever. Sousuke, did you hear that the Master is gone?”
+“—Well, whatever. Sousuke, do you know the Master is missing?”
 $Sousuke
-“Yeah, I heard. ...What happened?”
+“Yeah, I've heard. ...What happened?”
 $Riho
-“That’s the thing—nobody knows. He just stopped coming to the shop out of nowhere. We had no choice but to close up for now.”
+“That's what nobody knows. He just stopped showing up at the shop suddenly, so we've got no choice but to stay closed for now.”
 $Sousuke
-“...Are you going to be okay?”
+“...Is everything okay?”
 $Riho
-“I’m singing at my old place—the one in Ginza. Chika is watching over the shop... just in case the Master comes back.”
+“I'm singing at my old place—the one in Ginza. Chika is looking after the shop. ...So that the Master can come back whenever he wants.”
 $Sousuke
 “—I see.”
-It sounded like the shop would be fine—other than the Master’s disappearance.
+It seemed the shop side was fine—except for the Master.
 $Riho
-“Still—Tokyo’s become a hell of a place to live lately. There was so much more freedom when I first got here—well, my life was in the gutter back then, but still.”
-There was no self-pity in Riho’s voice.
+“Still—Tokyo's become a hard place to live. When I first came here, there was more freedom—well, my life was at rock bottom back then, though.”
+There was no trace of sentimentality in Riho's words.
 Born in Shanghai, she had come to Japan seeking freedom above all else.
-But lately, with the Military Police and the Special Higher Police crawling everywhere, even walking freely felt like a risk.
-The moment you were labeled a liberal, you were as good as caught as a thought-criminal.
+Lately, with the Military Police and the Special Higher Police prowling about, even walking freely was difficult.
+The moment someone was thought to be a liberal, they'd end up arrested as a thought criminal.
 $Sousuke
-“You’re right—it’s gotten suffocating.”
+“It certainly—has become harder to live here.”
 $Riho
-“Say, Sousuke... why don’t you and I go on a trip somewhere?”
+“How about it, Sousuke? Why don't you come on a journey with me somewhere?”
 $Sousuke
-“—A trip, huh...”
-That didn't sound bad.
-No.
+“—A journey, huh...”
+That sounds good
+No
 $Sousuke
-“—That’s not a bad idea at all.”
-I was just a drifter now, anyway.
+“—That's not a bad idea.”
+I was a rootless drifter now anyway.
 $Riho
-“Right? We could even cross over to the continent and just travel with no destination in mind.”
-Riho’s voice brightened, clearly happy that I was entertaining the idea.
+“Right? Maybe we could even cross over to the mainland and just travel aimlessly.”
+Riho's voice was bright, seemingly happy that I was interested.
 $Sousuke
-“Only problem is—I’ve got no money.”
+“Only—I've got no money.”
 $Riho
-“We’ll figure something out once we get there. —Well, I guess we’d at least need the fare to cross over. ...There’s always stowawaying, though.”
+“We'll manage that once we get over there. —Well, we might at least need enough for the passage. ...Though stowaway is always an option.”
 $Sousuke
-“I’ll leave that part to you.”
-It was just impossible, rambling nonsense.
+“I'll leave that part to you.”
+It was just aimless, impossible banter.
 —Good grief.
-It had been a long time since I’d had such a pointless conversation.
+It had been a while since I'd had a mindless conversation like this.
 $Sousuke
-“No—it’s no good. I can’t just run away.”
+“Actually—no. I can't exactly just run away.”
 $Riho
-“Oh...? And how do you really feel?”
-Riho looked at me with a sidelong, searching glance.
+“Oh... and your true feelings?”
+Riho stared into my eyes with a sidelong glance.
 $Sousuke
-“...I have Yuzuha to think about.”
+“...Yuzuha is here, too.”
 $Riho
-“You’re so serious... well, I guess that’s what I like about you.”
-Riho let out a little giggle.
+“You're a serious one... well, I guess that's what I like about you.”
+Riho let out a giggle.
 $Sousuke
-“—For now, I just have to stay put.”
-I knew staying here wouldn't move things forward.
-I had to wait for Mikage to gather information. If I made a move now—everything would go to hell.
-But for just a moment—I felt a little more optimistic.
+“—Well, for now, I've got no choice but to stay put here.”
+Staying in a place like this wouldn't make the situation progress at all. I knew that.
+I had no choice but to wait for Mikage to gather information. If I moved—everything would go to hell.
+Maybe—I was starting to feel a little bit more positive.
 $Riho
-“Oh—looks like the girl fell asleep.”
+“Oh—looks like this girl's fallen asleep.”
 $Sousuke
-“Hm—”
-I followed Riho’s gaze to Qwon. She was curled up in a blanket in the corner of the room, her breathing soft and steady.
+“Hmm—”
+Following Riho's lead, I looked at Qwon. She was curled up in a blanket in the corner of the room, breathing softly in her sleep.
 $Qwon
 “Zzz...”
 $Riho
-“Hehe... so innocent...”
-A smile flickered across Riho’s face.
+“Hehe... how innocent...”
+Riho wore a smile.
 $Sousuke
-“...Only when she’s not talking.”
-The moment she opened her mouth, 'innocent' was the last word I'd use.
+“...As long as she isn't talking.”
+When she opened her mouth, she was far from innocent.
 $Riho
 “—Hey, Sousuke...”
-Riho leaned close to my ear, her voice dropping to a low, intimate whisper.
+Riho brought her mouth close to my ear and whispered even more secretly.
 $Riho
-“It’s been a while... want to?”
-Do it.
-Don’t do it.
+“It's been a while... how about it?”
+Do it
+Don't do it
 $Sousuke
 “...In here?”
-I glanced toward Qwon out of the corner of my eye.
+I stole a glance at Qwon's condition.
 $Qwon
-“Zzz...”
+“Mmm...”
 $Riho
 “Downstairs... okay?”
-Riho pulled on my arm, and I quietly stood up.
+Pulled by the arm by Riho, I softly stood up.
 $Sousuke
-“No... I’ll pass.”
+“Actually... I'll pass.”
 $Riho
 “...Oh, what a shame.”
 Riho pulled away with surprising ease.
 $Riho
-“Is it... because of that girl?”
-She gestured toward Qwon with her eyes.
+“I suppose... it's because that girl is here?”
+She indicated Qwon with her eyes.
 $Sousuke
-“...It’d be trouble if she suddenly woke up.”
+“...It'd be a problem if she woke up suddenly.”
 $Riho
-“Hehe... I suppose so.”
-Riho lightly stroked my cheek with her fingertip and stood up.
+“Hehe... that's true.”
+Lightly stroking my cheek with her fingertip, Riho stood up.
 $Sousuke
-“...It’s not like I’m using her to vent my frustration, you know.”
+“...It’s not like I'm using her as an outlet for my sexual desire.”
 I jerked my chin toward the sleeping Qwon.
 $Riho
-“I know that much. ...Well then, I’ll come by again.”
+“I know that much. ...Well then, I'll come again.”
 $Sousuke
-“—Oh, wait. ...How did you know I was here?”
+“—Oh, right. ...Where did you find out I was here?”
 $Riho
-“Hm... the Master told me. ...The day before he vanished.”
+“Hmm... the Master told me. ...The day before he disappeared.”
 $Sousuke
 “...I see.”
 $Riho
-“...Maybe he knew things were going to turn out like this...”
-Muttering those suggestive words, Riho left the room.
-I stared blankly at the room for a while.
+“...Maybe he knew things would turn out this way...”
+Muttering suggestively, Riho left the room.
+I stared around the room for a while in a daze.
 $Sousuke
 “—Qwon.”
 $Qwon
 “...Kuu.”
 $Sousuke
-“...You’re awake, aren’t you.”
+“...You're awake, aren't you.”
 $Qwon
-“...You figured it out?”
+“...So I've been found out.”
 Qwon sat up with a start.
 $Qwon
-“You really should have just enjoyed yourself without worrying about me.”
+“You could have simply enjoyed yourself without worrying about me, could you not?”
 $Sousuke
 “...Are you an idiot?”
-I collapsed onto the futon.
+I lay down on the futon.
 $Qwon
-“I won't be performing any night-duties, you know.”
+“I shall not be performing any nightly duties, you know.”
 $Sousuke
-“...Just go the hell to sleep.”
+“...Just go to sleep already.”
 --------------------
 0607
 ********************
-I followed Riho down the stairs, her hand tightly gripping mine.
+I headed down the stairs, led by the hand by Riho.
 $Riho
 “Hehe...”
-The moment we reached the first floor, Riho leaned her weight against me.
+No sooner had we reached the first floor than Riho leaned against me.
 $Riho
-“It’s really been too long...”
+“It really has been a while...”
 $Sousuke
-“...Weren’t you doing it with someone else?”
+“...Haven't you been doing it with other guys?”
 Riho wasn't exactly my lover.
-We were just two people who occasionally shared our bodies.
+We were just in a relationship of physical convenience.
 $Riho
-“As if. I’m surprisingly devoted, you know.”
-Riho whispered into my ear, a bewitching smile playing on her lips.
+“Hardly. I'm surprisingly devoted, you know.”
+Riho whispered in my ear while wearing an enchanting smile.
 $Sousuke
 “I thought you hated being tied down?”
 $Riho
-“I do. ...That’s exactly why I don't sleep with other men. Especially the kind of guys who think they own me just because we’ve shared a bed once.”
+“I do. ...That's exactly why I don't sleep with other men. Especially those types who mistakenly think I belong to them just because we've slept together once.”
 $Riho
-“But you’re different. We don't get too deep into each other’s business—I like that. But there is one thing I don't like about you—”
-Suddenly, Riho reached down and squeezed my crotch.
+“On that point, you're different. We don't delve too deeply into each other; I like that kind of relationship. However, the thing I don't like about you is—”
+Suddenly, Riho grabbed my crotch.
 $Sousuke
 “Ngh—”
 $Riho
-“—It’s how much of a blockhead you are, talking about other men at a time like this.”
-Her smile remained, but her fingers tightened their grip.
+“—The way you're such a blockhead that you'd bring up other men at a time like this.”
+Riho added pressure to her fingers while still wearing her smile.
 $Riho
-“Ngh... ah, mmm... right there, harder...”
-I sat Riho on the desk and let my tongue trail over her exposed chest.
+“Nn... hf, there... do it harder there...”
+I sat Riho on the desk and let my tongue crawl over her bared chest.
 $Riho
-“Mmm... ah, hah... mmm, haaa...”
-Her nipples, slick with my saliva, began to harden against my tongue.
+“Mnh... ah, hah... nn, hfuu...”
+Her nipples, wet with saliva, began to peak under the tip of my tongue.
 $Sousuke
-“...Don’t make too much noise.”
+“...Don't make too much noise.”
 $Riho
-“Mmm... do you really not want her to find out?”
-Riho whispered as she ran her fingers through my hair.
+“Nnn... you really don't want to be noticed, do you?”
+Riho whispered while combing through my hair with her fingers.
 $Sousuke
-“...Don’t be stupid.”
-I lightly nipped at her nipple with my teeth.
+“...Don't be stupid.”
+I lightly set my teeth into her nipple.
 $Riho
-“Ah—! Ah, mmm... if you do that... I can’t... keep my voice down...”
+“Hah—! Ah, nn... if you do that... my voice... it'll come out...!”
 $Sousuke
-“...Deal with it.”
+“...Endure it.”
 $Riho
-“Ngh... ah, hah... haaa... you’re a cruel man... truly...”
-Riho let out a breathless, accusing moan.
+“Nn... ah, ha... hah... y-you're a cruel man... you are too...!”
+Riho leaked out a reproachful comment.
 $Sousuke
-“...I’m not that bad.”
-This time, I cupped her soft breast and began to knead it slowly.
+“...I'm not that bad.”
+This time I placed my hands on her soft breasts and slowly kneaded them.
 $Riho
-“Ah... ngh... mmm, ah... ngh...”
-My fingertips brushed against her erect nipple.
+“Ah... ngh... nn, hf... ah... mmm...”
+My fingertips brushed against her erect nipples.
 $Riho
-“Ah—! More... play with me more...”
+“Ahf—! Toy with them... more...!”
 $Sousuke
 “You don't even have to ask—”
-I continued to suck and lick her breasts while my hands worked them over.
+I massaged Riho's pair of breasts while licking them with my tongue.
 $Riho
-“Ah, ah...! Ngh... mmm... right there... that’s it...”
+“Hah, ah...! Ngh... nn... ah, there, right there... that's good...”
 Riho wrapped her arms around my head.
 $Riho
-“More... touch me... in other places too... ah!”
-I slid my hand between her inner thighs.
+“Mo... more... touch... the other places too... ahf!”
+I slid my hand toward the inside of her thighs.
 $Riho
-“Mmm... mmm, ah... ah, ngh...”
+“Mmm... nn, ah... hah, augh...”
 $Sousuke
-“...Are you wet already?”
-Even through her underwear, her secret place was already drenched and slick.
+“...You're wet already?”
+Riho's secret place, which I touched through her lingerie, was thoroughly drenched.
 $Riho
-“Because... it’s been so long...”
+“B-because... it's been a long time...!”
 $Sousuke
-“...Didn’t you pleasure yourself?”
+“...Do you not comfort yourself?”
 $Riho
-“Mmm... I don’t do... that sort of thing...”
-Riho muttered, rubbing her thighs together.
+“Nn... I don't do... that kind of thing...”
+Riho muttered while rubbing her thighs together.
 $Riho
-“I came here... because I don’t do it myself... ah—!?”
-As I rubbed her clitoris through the fabric, Riho let out a sharp cry of pleasure and arched her back.
+“It’s because I don't... do it myself... that I came here... hah!?”
+When I rubbed her clitoris from over her lingerie, Riho let out a cry of pleasure and arched her body back.
 $Riho
-“Ah... haaa, ah... mmm, ah, ahhh...”
+“Ah... hah, hah... nn, ah, ahhh...”
 $Sousuke
-“...You’re really feeling this, aren’t you.”
+“...You're quite sensitive.”
 $Riho
-“Mmm... mmm, no... I can’t... please... Sousuke... give it to me... I need you inside...!”
-She cupped my cheek and stared into my eyes, her voice a desperate plea.
+“Mmm... nn, n-no... more... please... Sousuke... yours... give me... yours...!”
+Placing her hands along my cheeks, Riho stared into my eyes and pleaded.
 $Sousuke
 “...How do you want it?”
 $Riho
-“...From behind... take me from behind...”
-I had Riho stand with her hands against the wall, and I drove my rigid heat into her all at once from the back.
+“...From behind... put it in...”
+I made Riho stand with her hands against the wall, then I inserted my erect member all at once from behind.
 $Riho
-“Ah... ahh, it’s coming in...!!”
-Drenched in her own nectar, her heat easily swallowed me whole.
+“Ah... ahhh, it's—it's coming in...!!”
+That place, drenched in love-juice, easily swallowed mine down.
 $Riho
-“Mgh... so hard... mmm, ah... so hot...”
+“Nnh... it's so hard... nnah... hot...”
 $Sousuke
-“It’s damn hot inside you, too.”
-Her slick walls tightened around me incessantly.
+“Your inside is... terribly hot too.”
+The love-juice and the vaginal walls tightened around mine incessantly.
 $Riho
-“Mmm... ngh... because—! Ah, ah, ah! Don’t... move like that all of a sudden... ah, ah—!!”
-I stimulated her depths with the head of my cock.
+“Nn... ngh... b-because...! Hah, ah, augh! Moving it... all of a sudden like that... ah, hah!!”
+I stimulated Riho's interior with the head of my member.
 $Riho
-“No... ah, ngh... mmm! So... sudden... ngh, haaa... ah, ah, mmm—!!”
+“Stop... ah, ngh... nn! S-suddenly... nn, hfuu... ah, hah, nn—!!”
 $Sousuke
 “—Quiet down a bit.”
-I pressed my fingers against Riho’s lips to stifle her moans.
+I placed a finger against Riho's mouth to cut off her moans.
 $Riho
-“Mmm... ngh... chu, amh... mmm... ah, ngh...”
-Riho pressed her lips against my fingers as if sucking on them, her tongue swirling around them.
+“Mnh... nn... chu, amh... nnn... hah, ahf...”
+Riho pressed her lips against my finger as if sucking on it, her tongue licking around it.
 $Riho
-“Mmm... puh, haa... mmm, ngh... mu, chu... mmm...”
-While I teased her tongue with my fingertips, I kept my hips driving into her.
+“Nn... pfh, fhamh... nn, hf... mnh, chu... mnh...”
+While toying with and caressing her tongue with my fingertips, I continued to move my hips.
 $Riho
-“Mmgh!? Mmm, ah, ngh... mmm... right there... it’s rubbing—!!”
+“Mnh!? Nn, hah, augh... nn... there... it's rubbing—!!”
 $Riho
-“Mgh! Ah, mmm! Mmm, ha, ha, ah, ah!!”
-The juices overflowing from her depths soaked her inner thighs.
+“Nnh! Ah, nn! Nn, ha, hah, ah, ahh!!”
+The love-juice overflowing from deep inside drenched her inner thighs.
 $Riho
-“No, ah, haaa... ngh! Mmm... ngh... mmm... it’s so good...”
-Riho began to grind her hips back against me.
+“No, ah, hah... ugh! Nn... ngh... nn... i-it's good...”
+Riho moved while writhing her hips.
 $Riho
-“More... give me more! Mmm... ngh, ah, haaa... ah, ngh...”
-With every thrust, I grabbed her swaying breasts from behind.
+“Come... more! Mmm... ngh, ah, haa... hf, augh...”
+With every thrust of my hips, I grabbed her breasts, which swayed against my back.
 $Riho
-“Mgh...! Be... gentler... ah!”
-I pinched her erect, sensitive nipples.
+“Nnh...! B-be gentler... nnah!”
+I pinched her nipples, which were erect and asserting their presence.
 $Riho
-“Ah, ah, ah—! Not... like that...!”
+“Ah, ah, ahf...! Th-that's...!”
 $Sousuke
-“—You’re as weak here as ever.”
+“—This spot is as weak as ever.”
 $Riho
-“Mmm... haaa! That’s— because you’re always teasing me there... mmm—!”
+“Nn... hah! Th-that's because—you're always toying with it... mnh—!”
 $Sousuke
-“And inside... you like it right around here, don’t you?”
-I whispered, rubbing the head of my cock against the area just inside the entrance.
+“Inside your vagina too—around here is the spot, isn't it?”
+While whispering, I rubbed the head of my member just inside the vaginal opening.
 $Riho
-“Ah—!? No, ah, ahh...! If you do that now... I— I’ll—!”
-Her walls began to twitch and convulse.
+“Nnah—!? No, ah, ahf...! If you do that... right now... I-I'm—!”
+Her vaginal walls twitched and spasmed.
 $Riho
-“Ah... ahhh...”
+“Ah... ahf...”
 $Sousuke
-“...Did you come?”
-I supported her collapsing body with both arms.
+“...Did you finish?”
+I supported Riho's body with both arms as she was about to collapse.
 $Riho
-“...Just a little. I can... still keep going... okay?”
-As if to confirm her words, her walls clamped down hard on me.
+“...J-just a bit. I can still... go...?”
+As if to confirm her words, the vaginal walls tightened around me.
 $Sousuke
-“—You’re surprisingly full of energy.”
+“—You've got quite a bit of leeway.”
 $Riho
-“Ah—!?”
-I reached down to where we were joined and pinched her exposed clitoris.
+“Hah—!?”
+I let my hand crawl to our junction and pinched her exposed clitoris.
 $Riho
-“Ah, ha, hih—! Not there...!”
-Riho’s hips bucked, and her depths throbbed and writhed around me.
+“Ah, ha, hih—! Th-there...!”
+Riho's hips jumped, and her vaginal walls throbbed.
 $Riho
-“Ah, ahh... right there... it’s too sensitive...!”
-My fingertips were instantly slick with her juices.
+“Ah, ahf... there... it's become sensitive...!”
+Soon my fingertips were slippery with love-juice.
 $Riho
-“Ah, hah... mmm, ah... no, stop...”
-Riho’s knees were trembling.
+“Ah, hah... nn, ahf... no, stop...”
+Riho's knees were shaking.
 $Riho
-“I... I can’t... stand up anymore...”
+“I... I can't stand anymore...”
 $Sousuke
-“—I’m not done yet.”
-Supporting her body, I kept driving my hips in and out.
+“—I'm not done yet.”
+Supporting Riho's body, I moved my hips back and forth.
 $Riho
-“Mgh! Ah... haaa! No, ah, hih... mmm, ah... wait...!”
+“Nnh! Ah... hah! No, ah, hih... nn, ahf... w-wait...!”
 $Sousuke
-“—You’re the only one getting off today, aren’t you.”
+“—You're the only one who's been feeling good today.”
 $Riho
-“Don’t say that... mmm!? Ah... ahhh, ngh... mmm, fine... I get it...”
+“Saying something like... mnh!? Ah... ahf, ngh... nn, a-alright then...”
 $Riho
-“Let’s... change positions.”
-Saying that, Riho sank down and lay on the floor.
+“I'm... changing positions, okay?”
+Having said that, Riho lay down on the floor as if half-collapsing.
 $Riho
 “Now... come here.”
-Her previous modesty was gone; Riho beckoned me with a sultry, inviting gaze.
+Her previous modesty was gone; Riho invited me with a lustrous gaze.
 $Sousuke
 “Hmph—”
-For some reason—it wasn't amusing.
+Somehow—it wasn't interesting.
 $Sousuke
-“—I’m coming.”
-I grabbed both of Riho’s legs and drove myself deep into her all at once.
+“—Here I come.”
+I gathered Riho's legs together and inserted deep into her vagina all at once.
 $Riho
-“Mgh... ha, ah...”
-Frothing juices overflowed, soaking the hair where we were joined.
+“Nnh... hf, ah...”
+The foaming love-juice overflowed, drenching the pubic hair at our junction.
 $Riho
-“Mmm... you can... move now.”
+“Nn... you can... move.”
 $Sousuke
-“—Don’t worry, I will.”
+“—Don't worry, I will.”
 $Riho
-“Ah... ngh... mmm, ah...”
-I moved my hips slowly, deliberately teasing her.
+“Ah... nn... ngh, ahf...”
+As if to tease her, I moved my hips slowly.
 $Riho
-“...Is that... all...?”
+“...I-is that... really enough...?”
 $Sousuke
 “...It feels plenty good to me. Besides—”
-I drove myself hard against her deepest wall.
+I thrust hard—into the furthest wall.
 $Riho
-“Ah—!?”
+“Nnah—!?”
 $Sousuke
-“—We can enjoy this longer this way, can’t we?”
+“—This way, we can enjoy it longer, right?”
 $Riho
-“Ah... hah... I suppose so...”
-Riho nodded, her eyes moist.
-Looking at her like that—it only made me want to pleasure her more.
+“Ah... hah... y-yes...”
+Riho's eyes were moist as she nodded.
+Seeing that—makes me want to please her even more.
 $Riho
-“Ah... mmm, ah... ah, ngh...”
-With every thrust of my swollen shaft, Riho let out a pained, yearning moan.
+“Ah... nn, hah... ah, ngh...”
+Every time I withdrew and plunged my hardness, Riho let out a soulful voice.
 $Riho
-“Hey... please... more... harder...”
+“Hey... hey... m-more... harder...”
 $Sousuke
 “—Not enough for you?”
 $Riho
-“Mmm... you’re so mean... mmm... ah, haaa...”
-Riho’s skin, damp with sweat, was burning hot.
+“Mmm... you're so mean... nn... ah, haa...”
+Riho's bare skin, damp with sweat, was hot and flushed.
 $Riho
-“Ah... mmm, ah... ahhh...”
-As if wiping away the sweat, I stroked her protruding breasts with my fingertips.
+“Ah... nn, hah... ahf...”
+As if to wipe away the sweat, I stroked her protruding breasts with my fingertips.
 $Riho
-“Ah... haaa... that tickles... mmm...”
-Riho writhed her body provocatively.
+“Ah... hah... it tickles... yeah...”
+Riho writhed her body alluringly.
 $Riho
-“What a lewd... way of touching... ah... ah!?”
-When I pinched her still-swollen nipples hard, Riho’s body bucked violently.
+“Such lewd... touching... nnah... hah!?”
+When I pinched her nipples, which had been swollen for a while now, Riho's body arched back with a twitch.
 $Riho
-“Ah, ngh... mmm... haaa... no... not there... stop...”
-Every time her limbs shook, the flesh surrounding me reacted with a desperate throb.
+“Ahngh... nn... hah... no... there... stop...”
+Every time Riho's body swayed, the fleshy folds enveloping mine also throbbed in response.
 $Riho
-“Ah... haaa, haaa... mmm... ahhh...”
-With each stroke of my cock, more and more juices seeped out from her depths.
+“Ah... hah, hah... nn... ahhh...”
+Every time I withdrew and plunged my member, love-juice seeped out from deep inside, one after another.
 $Sousuke
-“I’m going to go... a little faster, okay?”
+“I'm going... a bit faster, okay?”
 $Riho
-“Mmm... couldn't hold back anymore...?”
+“Mnh... can't hold back anymore...?”
 $Sousuke
-“—Shut up.”
-I placed my hands on Riho’s hips and suddenly accelerated my thrusts.
+“—Cut the crap.”
+Placing my hands on Riho's hips, I quickened my pace all at once.
 $Riho
-“Ah, ah! No, ah, ahh... hih...!”
-Riho’s body danced across the wooden floor.
+“Ah, hah! No, ah, agh... hih...!”
+Riho's body danced on the wooden floor.
 $Riho
-“Ah, ah, mmm, ah...! Ngh, mmm, ah... ngh!”
-Riho clawed frantically at the floor.
+“Ah, ahf, nnah...! Ngh, nn, ah... ugh!”
+Riho repeatedly clawed at the floor.
 $Riho
-“Ah... hah, haaa...”
-Her flailing hand caught my arm, and Riho let out a long breath as if finally finding an anchor.
+“Ah... hah, hah...”
+When her flailing hand caught my arm, Riho let out one large breath as if relieved.
 $Sousuke
 “—Are you okay?”
 $Riho
-“Mmm... don’t worry about me.”
-Riho’s fingers squeezed my arm tightly.
+“Nn... no need to worry.”
+Riho's fingers, gripping tightly, tapped my arm.
 $Riho
-“I don’t just want to be connected... I feel like I need something to hold onto...”
+“It's not just about being connected... I feel like I want to rely on something...”
 $Sousuke
 “Riho...”
 $Riho
-“I’m fine... mmm, keep... keep going...”
+“It's okay... nn, c-continue...”
 $Sousuke
 “...Yeah.”
-I nodded and resumed my thrusting.
+Returning her nod, I resumed the thrusting.
 $Riho
-“Mgh... ngh, ah, hah... mmm, mmm... mmm, ah...”
-Enticed by her pulsing walls, I quickened the pace of my hips.
+“Nnh... ngh, ah, ha... nn, hf... nn, ah...”
+Invited by the pulsating vaginal walls, I quickened the movement of my hips.
 $Riho
-“Hah... ah, ah, mmm, ngh, ha, ah!”
-With every strike against her depths, Riho cried out in a high-pitched voice.
+“Hah... ah, ah, nn, ngh, hah, ah!”
+Every time I slammed into the depths of her vagina, Riho let out a high-pitched cry.
 $Riho
-“Ah! Mmm! Ah... ahh! Haa, ah, mgh!”
-I was reaching my own limit, no longer having the composure to tell her to be quiet.
+“Ahf! Nn! Ah... augh! Hah, ah, ngh!”
+I no longer had the leeway to tell her to be quiet; my own endurance was nearing its limit.
 $Riho
-“Mmm, ha, ah! Ah... mmm! Hah... ngh... it’s coming!”
+“Nn, hf, hah! Ah... nn! Hah... ngh... it's—it's coming!”
 $Sousuke
-“Ngh—! I’m... going too...!”
+“Ngh—! I'm... also going...!”
 $Riho
-“Ah! Mmm, ah— ahhh!!”
-Riho’s high-pitched scream triggered a violent contraction of her walls—
-I thrust deep into her core and unleashed my seed within her.
+“Ah! Hf, hah—ahhh!!”
+At Riho's shrill voice, the vaginal walls tightened sharply—
+I thrust into Riho's furthest depths and unleashed my seed there.
 $Riho
-“Ah... ahh, it’s coming... inside...!”
-Riho whispered, her face a mask of pure ecstasy.
+“Ah... ah, it's coming... inside...!”
+Riho muttered with an ecstatic expression.
 $Riho
-“Ah... haaa... mmm...”
-Riho’s womb writhed with every breath, as if trying to squeeze every last drop out of me.
+“Ah... hah... nn...”
+As if trying to squeeze everything out of me, Riho's vagina throbbed with every breath.
 $Riho
-“She... might have noticed...”
+“They... might have noticed...”
 $Sousuke
 “...Maybe.”
-Following Riho’s lead, I looked up at the ceiling.
-Well—let’s just hope she was asleep.
-I lay my exhausted body down on the floor.
+Following Riho's lead, I looked up at the ceiling.
+Well—let's hope they're asleep.
+I laid my tired body on the floor.
 $Riho
 “...Hey.”
 Riho, having straightened her disheveled clothes, spoke to me.
 $Sousuke
 “What is it...?”
-I looked up at her face from where I lay with my head on her lap.
+From above Riho's knees, I peered at her expression.
 $Riho
-“What I said earlier... I was actually pretty serious.”
+“The thing I said earlier... I'm quite serious, you know?”
 $Sousuke
 “Earlier...?”
 $Riho
-“—About going on a trip. ...I wouldn't care where we went, as long as it was with you.”
+“—About going on a journey. ...If it's with you, I don't care where we go.”
 $Sousuke
-“Well—I’ll think about it.”
-I didn't think it was a bad proposition.
+“Well—I'll think about it.”
+I didn't think it was a bad idea.
 $Riho
-“...You’re always like that.”
-Stroking my hair, Riho muttered with a hint of loneliness.
+“...You're always like that.”
+Stroking my hair, Riho muttered with a slightly lonely air.
 $Riho
-“Even when I invited you to CADENZA... you just said you’d think about it and then I didn’t hear a word from you...”
+“Even when I invited you to 'CADENZA'... you just said you'd think about it, and then there was no word after that...”
 $Sousuke
-“...Was that how it went?”
-Honestly, I didn’t remember it clearly.
+“...Was it like that?”
+Truthfully, I didn't remember very well.
 $Riho
-“It was. You never gave me an answer, so I had to drag you to the Master’s place myself.”
+“It was. No matter how much time passed, you didn't even give me one reply, so I had to personally drag you to the Master's place.”
 $Sousuke
-“...Now that you mention it, I guess that did happen.”
-If she hadn't done that, I probably would have lost touch with her.
+“...Come to think of it, something like that did happen.”
+If not for that, I likely would have been separated from her.
 $Riho
-“...Life is difficult, isn't it.”
+“...Living is hard, isn't it.”
 $Sousuke
 “Yeah...”
-I reached out for Riho’s fingers as she played with my hair.
-For a while, we sat there with our fingers entwined, passing the time in silence.
+I reached for Riho's fingers as they toyed with my hair.
+For a while, we sat with our fingers intertwined, spending this time in silence.
 --------------------
 0608
 ********************
-Qwon was staring out the window.
+Qwon is looking out the window.
 $Sousuke
 “...See anything?”
 $Qwon
-“—It seems there is no Hakubaiken across the street.”
-Qwon muttered, sounding slightly disappointed.
+“—It seems there is no Baiueiken across the way.”
+Qwon muttered with a somewhat disappointed air.
 $Sousuke
-“Hm...?”
+“Hmm...?”
 $Qwon
-“It is the name of a café. The Hakubaiken of D-Slope is quite famous among a certain subset of people.”
+“It is the name of a cafe. The Baiueiken of D-Slope is famous among a select few.”
 $Sousuke
-“...I’ve never heard of it.”
+“...I don't know it.”
 $Qwon
-“That is because you do not read books, Sousuke-san. It appears in Ranpo’s novels.”
-Qwon pulled a single volume from the mountain of books piled in the corner of the room.
-The paper label on the box read "The Psychological Test."
+“That is because Sousuke does not read books. It appears if you read Ranpo's novels.”
+Qwon pulled a book from the pile in the corner of the room.
+On the paper pasted to the box, it said "The Psychological Test."
 $Qwon
-“It is the story contained within this, titled 'The Case of the Murder on D-Slope'.”
+“It is a story titled 'The Case of the Murder on D-Slope' contained within this.”
 $Sousuke
 “...Another murder case?”
 $Qwon
 “It is a detective novel, after all.”
-Qwon took the book out of the box and flipped through the pages.
+Taking the book out of the box, Qwon flipped through the pages.
 $Qwon
-“It is the story where Kogoro Akechi makes his first appearance. The incident involves sadomaso—no, perhaps it is best if I say no more.”
-Qwon cut herself off suggestively.
+“It is the story where Kogoro Akechi first appeared. The incident involves sadomaso—no, it would likely be better not to say any more.”
+Qwon cut off her words suggestively.
 $Qwon
-“It would be a shame if I spoiled the interest for you when you read it.”
+“It would be a problem if I spoiled the enjoyment for when Sousuke reads it.”
 $Sousuke
-“I don’t know if I’ll ever read it.”
+“I don't know if I'll ever read it.”
 $Qwon
 “—Is that so.”
 Qwon put the book back in the box.
 $Qwon
 “I shall leave it here, then.”
-Even though she must have known I’d never read it, Qwon pointedly placed the book in a very conspicuous spot.
+Even though she likely knew I would never read it, Qwon placed the book in a conspicuous spot as if to show it off.
 $Qwon
-“By the way, Sousuke-san—”
-She stopped mid-sentence.
+“By the way, Sousuke—”
+Her call to me stopped mid-sentence.
 $Sousuke
-“Hm...?”
+“Hmm...?”
 $Qwon
-“...It seems someone has arrived.”
+“...It seems someone has come.”
 $Sousuke
 “...Looks like it.”
 If they were coming all the way inside, it was likely—
 $Mikage
-“Sousuke... you okay?”
+“Sousuke... how are you?”
 The sliding door opened, and Mikage appeared.
 $Sousuke
-“Do I look okay to you?”
+“Do I look like I'm doing well?”
 $Mikage
-“The fact that you can talk back is proof enough.”
-As she spoke, Mikage set a paper bag she was carrying onto the floor.
+“The fact that you're answering is proof that you're doing well.”
+As she spoke, Mikage set the paper bag she was holding down on the floor.
 $Sousuke
-“...What’s this?”
+“...What's this?”
 $Mikage
-“Lunch. You haven’t eaten yet, right?”
+“Lunch. You haven't eaten yet, have you?”
 $Sousuke
-“...Thanks.”
+“...My bad.”
 I immediately reached for the contents of the bag.
 $Mikage
-“It’s bean paste buns from Kimuraya. ...Do you want one too, Qwon-chan?”
+“It's anpan from Kimuraya. ...Qwon-chan, do you want some too?”
 $Qwon
-“I will gladly accept.”
-Qwon gave a small bow and took a bun.
+“I shall have some.”
+Qwon took a bun with a small bow.
 $Sousuke
 “—Did you find out anything?”
-I asked Mikage while stuffing my face.
+I asked Mikage while stuffing a bun into my mouth.
 $Mikage
-“...It’s no good. There’s almost no announcement from the police. ...Maybe the Military Police are sticking their noses in again.”
+“...No luck. There's almost no announcement from the police. ...Maybe the Military Police are out in force again.”
 $Sousuke
 “...Again?”
-Why would the Military Police be involved?
-Could it be that the Seihoukai is involved again?
-If so, this is going to be a pain. Compared to just the police, I’ll be cornered from both the front and the back.
+Why were the MPs involved?
+Could it be that the Seifoukai was involved again?
+If so, it was troublesome. Compared to when it was just the police, I'd be cornered from both the front and the back.
 $Mikage
-“Maybe—the police are trying to frame you, Sousuke...”
+“Maybe—the police are trying to frame Sousuke...”
 $Sousuke
-“Framing me? The police?”
-Well—I wonder.
-That might be it.
-Don't be ridiculous.
+“Frame me?”
+Now—I wonder.
+Maybe so
+That's ridiculous
 $Sousuke
-“That might be it...”
-To be precise, it’s probably not the police—it’s the Seihoukai.
-They must have heard I killed Ayane and are closing the net.
-That obsessive Aoi would definitely do something like that.
+“Maybe so...”
+To be precise, rather than the police—it would be the Seifoukai.
+Did they catch wind that I'd killed Ayane and narrow the net?
+That tenacious Aoi would certainly do it.
 $Mikage
-“—Do you have an idea of who it could be?”
+“—Do you have something in mind?”
 $Sousuke
 “No—”
-It’s probably better not to tell Mikage.
-If I say too much, she’ll probably charge into the Seihoukai headquarters under the guise of an interview.
+It would be better not to tell Mikage.
+If I spoke carelessly, she'd likely storm into the Seifoukai under the guise of an interview.
 $Sousuke
-“—Anyway, you should be careful too.”
+“—Anyway, you'd better be very careful—you too.”
 $Mikage
 “...I know that much.”
 $Sousuke
-“—There’s no point in framing me.”
-What could anyone possibly gain by trapping a low-life piano player like me?
-I have nothing to do with the police—or the government.
+“—There's no point in framing me.”
+What could be gained by trapping some back-alley piano player?
+I had nothing to do with the police—or the government.
 $Mikage
 “That might be true, but...”
 $Qwon
-“—Perhaps there is someone who does stand to gain.”
+“—There may be people who would benefit.”
 Qwon muttered.
 $Mikage
 “Like... who?”
 $Qwon
-“Someone who holds a grudge against Sousuke-san—or perhaps someone who holds a grudge against the victim and is trying to pin the crime on him.”
-Qwon stated the possibilities indifferently.
+“Someone who holds a grudge against Sousuke—or perhaps someone who has a grudge against the victim and is trying to pin the crime on Sousuke.”
+Qwon calmly stated the possibilities.
 $Mikage
 “Pinning the crime on Sousuke...?”
 $Qwon
-“Rather than framing Sousuke-san, there is the possibility that they had a grudge against the victim and murdered them. —Assuming, of course, that Sousuke-san is innocent.”
+“Rather than framing Sousuke, it is the possibility that they had a grudge against the victim and killed them. —Of course, this is assuming Sousuke is innocent.”
 $Mikage
 “Someone with a grudge against Ayane-san...”
 $Qwon
-“For example—a romantic rival.”
+“For example—a love rival, perhaps.”
 $Mikage
-“There’s no way... right?!”
+“There's no way... that could be it!”
 $Qwon
-“It is merely one possibility.”
+“It is one possibility.”
 $Sousuke
-“Either way—I’m the one who killed Ayane.”
+“Either way—the one who killed Ayane was me.”
 $Mikage
 “Sousuke!?”
 Mikage leaned forward.
 $Sousuke
-“No matter how much the police or Military Police move, the fact that I killed Ayane doesn't change. After all—I even see it in my dreams.”
+“No matter how much the police or the MPs are moving, the fact that I killed Ayane hasn't changed. After all—I'm even seeing it in my dreams.”
 $Mikage
-“That can’t be true!”
+“That's not true!”
 $Qwon
-“—She is right.”
-Qwon agreed with Mikage’s words.
+“—Exactly.”
+Qwon agreed with Mikage's words.
 $Qwon
-“You are mistaken, Sousuke-san. Just because you saw it in a dream does not mean it happened in reality.”
+“Sousuke is mistaken. It cannot be said that what was seen in a dream happened in reality.”
 $Sousuke
-“But—my memory of that night—”
-I killed Ayane.
-I was covered in blood, brandishing a knife.
+“But—my memory of that night is—”
+I was killing Ayane.
+I was also covered in blood, brandishing a knife.
 $Qwon
-“A fabricated memory—perhaps what you saw in your dream was used to fill in the gaps of your memory from that time.”
+“It may be a fabricated memory created afterward—what was seen in a dream may have been supplemented as a memory of the time.”
 $Qwon
-“In all likelihood—you have no actual memory of the moment the crime was committed.”
+“Most likely—Sousuke has no memory of the actual crime.”
 $Sousuke
 “Why—can you say that?”
 $Qwon
-“—It is something I heard from her. If you were under some kind of external influence and in a state of hypnosis—”
+“—It is something I heard from her. If Sousuke had received some kind of external force and was in a hypnotic state—”
 $Qwon
-“A completely different personality would have taken residence within you at that time. The memories of another personality do not remain—”
+“At that time, a completely different personality would be residing within Sousuke. Memories of another personality do not remain—”
 $Sousuke
 “...Is that so?”
 $Qwon
 “—I cannot say for certain, as I have not verified it.”
-—I don’t really understand.
+—I don't quite understand.
 $Mikage
-“...So Sousuke didn't do it...?”
+“...So it's not like Sousuke did it...?”
 $Qwon
-“—That is correct. It would be the crime of a different personality.”
+“—Yes. It would be a crime committed by another personality, after all.”
 $Sousuke
-“Even so—the fact remains that I killed her.”
+“Even so—it doesn't change the fact that I killed her.”
 Even if I wasn't conscious.
-If my body killed Ayane, it’s the same thing.
+If my body killed Ayane, it's the same thing.
 $Qwon
-“At the very least, you did not commit murder of your own will. This should work in your favor even if it goes to trial.”
+“At the very least, it was not a murder committed by Sousuke's will. This should work in your favor even if it were to go to trial.”
 $Sousuke
-“Whether I’m innocent or not—Ayane is still dead.”
-—No matter how you spin it, Ayane isn't coming back.
+“Even if I were not guilty—it doesn't change the fact that Ayane is dead.”
+—No matter how one sugarcoated it, Ayane wasn't coming back.
 $Mikage
-“...It’s hot.”
-As the sun began to set, Mikage muttered quietly.
-The air flowing in from outside was hot and humid, sticking to the skin.
+“...It's hot, isn't it.”
+As the sun began to set, Mikage muttered softly.
+The air flowing in from outside was hot and humid, seeming to stick to the skin.
 $Mikage
-“Hey, Sousuke... can I use your bath?”
+“Hey, Sousuke... can I borrow the bath?”
 $Sousuke
-“...Do whatever you want. It’s a wood-fired tub, so you’ll have to light it yourself.”
+“...Do as you like. It's a wood-fired bath, so light it yourself.”
 $Mikage
 “I know. ...Qwon-chan, do you want to get in too?”
 $Qwon
-“—I suppose so, I shall join you.”
-Qwon shot a quick glance my way and nodded.
+“—I suppose so, let us go together.”
+Qwon cast a glance at me for an instant, then nodded.

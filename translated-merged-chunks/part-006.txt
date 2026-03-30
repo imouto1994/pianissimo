@@ -1,514 +1,514 @@
 --------------------
 0206
 ********************
-I found myself visiting this place again today.
-The apartment provided as my hideout is stiflingly dull; there’s nothing to do but play the piano.
-Here, I can drink, and there’s actually someone around.
-Perhaps I’m more starved for human contact than I care to admit.
+I found myself visiting this place yet again today.
+The apartment provided as a safehouse is tedious; I have nothing to do besides play the piano.
+At least here, I can drink, and there's someone around.
+Perhaps I’m more lonesome than I care to admit.
 $Sousuke
 “—Good grief.”
-I could never say it out loud to anyone.
-That I come to a bar just because I want to be near another living soul.
-The front door was locked, so I used my spare key to let myself in. Naturally, the shop was empty.
-The Master must have finished cleaning up and headed home. The stools were lined up neatly along the counter.
-I stepped behind the bar and scouted out a bottle of bourbon from the countless labels on the shelves.
-I dropped some ice from the electric freezer into an Old Fashioned glass and poured the liquor.
-The sharp crackle of the ice popping echoed through the silent shop.
+It’s certainly not something I could tell anyone else.
+That I come to a bar just because I want to be around another soul.
+The entrance door was shut, so I used the spare key to head inside. Naturally, there wasn't a soul in the shop.
+The Master must have finished cleaning up and headed home. Even the stools at the counter were neatly lined up.
+I went behind the counter and picked out a bottle of bourbon from the countless liquors lined up on the shelves.
+I tossed some ice from the electric freezer into an Old Fashioned glass and poured the drink.
+The sound of the ice crackling and popping echoed through the quiet shop.
 $Sousuke
 “—Hah.”
-Seriously—what am I even trying to do?
-Skulking around in hiding, taking on shady jobs for a paycheck. Drinking while living in a luxury apartment.
-It’s restrictive, but I’m not exactly hurting. In fact, I’m living better than I ever did working a real job.
-But I—I want to run away from all of this.
-No, I *have* to run. I have this sickening premonition that if I stay like this, something irreversible is going to happen.
-And then there’s her—why the hell did Souma Aoi approach me in the first place? That’s been gnawing at me too.
-There’s definitely something moving behind the scenes—but even thinking that, I have no way to investigate it.
+Seriously—what is it that I want to do?
+Skulking around in hiding, taking on shady jobs to earn a reward. Doing that while drinking and living in a high-class apartment.
+I lack freedom, but there are no real inconveniences. If anything, I’m living a better life than I would by working and earning normally.
+But I—I want to escape from here.
+No, I have to escape. I have a premonition that if things continue like this, something irreversible is going to happen.
+To begin with—why did that Souma Aoi approach me? That’s a concern, too.
+There's absolutely something behind it—but even thinking that, I have no means to investigate.
 $Sousuke
-“Typical—dead end after dead end.”
-I took a sip of the bourbon. The melting ice had chilled it perfectly, making the mouthfeel smooth.
-First, I need to look into the details of that day. I haven't even read a newspaper, so I don't even know how I ended up being branded the killer.
-That woman who helped me back then—Ayane, was it?—said she’d read the papers.
-Would I learn anything if I asked her?
-No, wait—it might be faster to ask Mikage. She works for a publisher.
-I haven't seen her since the incident; I’ll have to go find her eventually.
-Though—if she thinks I’m a murderer, I suppose I can't exactly go see her.
-—Is it really better if it’s just a misunderstanding?
-For all I know, I really might be the killer.
-—Good grief, if only there were a witness, maybe I could prove my innocence.
-No—that’s impossible. The witness likely reported me *because* they thought I was the killer.
-Damn it—my head is a mess. Not from the booze, but because I can't even prove to myself what I did or didn't do.
-A noise came from the back of the bar.
+“Good grief—I'm backed into a corner.”
+I put the bourbon to my lips. It had cooled nicely with the melted ice, making the mouthfeel smooth.
+First, I need to investigate the details of that day. Since I haven't even read the newspapers, I don't even know how I was labeled the culprit.
+That woman who helped me back then—Ayane, was it—said she’d read the paper.
+Would I learn something if I asked her?
+No, before that—it might be faster to ask Mikage. She works at a publishing house.
+I haven't seen her since the incident, so I’ll need to go see her eventually.
+Well—if she thinks I’m a murderer, I suppose I can't exactly go see her.
+—Is it better if she only thinks so?
+The truth is, I might actually be a murderer.
+—Good grief, if there was a witness, maybe my innocence could be proven.
+No—impossible. A witness would have reported it precisely because they thought I was a murderer.
+Honestly—my head is a mess. It’s not the alcohol; it's because I can't clearly prove what I myself have done.
+There was a noise from the back of the bar.
 $Sousuke
 “—Hm?”
-Is someone there?
-It’s probably not a thief, but it pays to be cautious.
-As for a weapon—I’ve got nothing. There might be a knife in the kitchen, but I have no idea where it’s kept.
-I stood up empty-handed, having no choice. I didn't want to use my fists.
+Is someone here?
+I doubt it’s a thief, but it’s best to be cautious.
+As for something that could serve as a weapon—there’s nothing. There might be a kitchen knife if I go to the kitchen, but I don't know where it's kept.
+Having no choice, I stood up empty-handed. I didn't want to use my fists.
 $Sousuke
-“Hey... who’s there?”
+“Hey... who's there?”
 $Chika
-“—Eek!?”
-Chika came tumbling out from a spot hidden by the counter’s shadow.
+“—Kyau!?”
+From a spot hidden behind the counter, Chika came tumbling out.
 $Sousuke
 “Oh—it’s just you, Chika. What are you doing?”
 $Chika
-“A-ah, um... I certainly wasn't hiding on purpose... it’s just... um...”
-Chika began desperately making excuses.
+“A-Ah, um... It wasn't that I was hiding or anything... it's just...”
+Chika desperately tried to make excuses.
 —I see.
 $Sousuke
-“...Well, I suppose it’s hard to come out when I’m the only one here.”
+“...Well, I can see how it would be hard to come out if it was just me here.”
 $Chika
-“Ah!? That’s not it! You’ve got it wrong!! Um... well...”
-Her voice gradually trailed off into a whisper.
-She’d clearly lost track of what she was even trying to say.
+“Ah!? That's not it! You're wrong!! Um... well...”
+Her voice gradually sank.
+She likely lost track of what she wanted to say herself.
 $Chika
-“I-I’m sorry...”
+“S-Sorry...”
 $Sousuke
 “...Don't worry about it.”
-Being apologized to just makes things awkward, but there wasn't much else to say.
+Being apologized to is a pain, but that’s all I could say.
 $Chika
-“I knew you were here, Kudou-san. But... well, you looked like you were deep in thought, so...”
+“I knew you were here, Kudou-san. But... well, you seemed to be deep in thought, so...”
 $Sousuke
-“Did I scare you?”
+“Was I scary?”
 $Chika
-“I-it’s not... not that I was scared, exactly...”
-I didn't recall making a scary face, but I must have looked pretty grim.
+“T-That... it wasn't... exactly that, but...”
+I didn't remember making such a grimace, but I must have had a harsh expression on my face.
 $Chika
-“I... I’m sorry...”
+“I... I'm sorry...”
 $Sousuke
-“—It’s nothing to apologize for.”
-I thought she didn't need to be so servile, but I suppose that’s just her nature.
-Everyone has their own way of surviving—I’m sure.
-I lit a cigarette. The Master might complain if he saw me, but it’s not like this place has some stuffy no-smoking rule.
+“—It's not something to apologize for.”
+I thought she didn't need to be so submissive, but I suppose that’s just her personality.
+There must be a way of living like that, too—surely.
+I lit a cigarette. The Master might complain if he saw, but this shop doesn't do anything as boorish as being smoke-free.
 $Chika
 “—Ah.”
-Chika suddenly seemed to realize something and went behind the counter.
+Suddenly, as if noticing something, Chika went behind the counter.
 $Chika
 “Um... an ashtray...”
 $Sousuke
 “Thanks.”
-I took the steel ashtray from her.
-The smoke swirled in gentle eddies, diffusing near the ceiling.
+I took the steel ashtray.
+The smoke formed a gentle swirl and diffused near the ceiling.
 $Sousuke
 “—Hah.”
 —It’s a quiet night.
-Maybe because there was no conversation between Chika and me.
-The ice in my glass was half-melted, the bourbon turning a paler shade.
-When I picked it up, a ring of condensation had formed on the counter.
+Maybe it’s because there’s no conversation between me and Chika.
+The ice in the glass was half-melted, and the bourbon's color had grown a bit thin.
+When I picked it up, a ring-shaped puddle of water had formed on the counter.
 $Sousuke
 “............”
-It was Chika who finally couldn't stand the silence.
+It was Chika who couldn't bear the silence any longer.
 $Chika
 “Um... should I turn on the radio...?”
 $Sousuke
 “—Yeah.”
-Chika switched on the radio located at the back of the counter.
-Usually, since I’m playing the piano, the radio is rarely ever on.
-This was a rather fresh way to spend the night.
+Chika turned on the power of the radio at the back of the counter.
+Since I’m usually playing the piano, the radio is rarely ever on.
+This was, in its own way, quite a fresh night.
 Chika stood quietly behind the counter.
-Out of the corner of my eye, I could see her stealing glances at me, but the moment I moved even a fraction, she’d avert her gaze.
+From time to time, I caught her looking my way as if checking on me from the corner of my eye, but the moment I moved even slightly, she would immediately look down.
 $Radio
-“—And now, a follow-up on the serial murder cases that have plunged the citizenry into terror.”
-The voice from the radio sent a chill down my spine.
+“—And now, a follow-up on the serial murder case that has struck fear into our citizens.”
+At the voice from the radio, a chill ran down my spine.
 $Chika
 “Ah—”
 $Radio
-“—Today, in Nihonbashi District, a truly bizarre murder has occurred. The Metropolitan Police Department is investigating potential links to previous cases—”
-Click—the sound from the radio cut off.
+“—Today in the Nihonbashi district of the city, a truly peculiar murder occurred, and the Metropolitan Police are investigating its connection to previous murders—”
+The sound of the radio cut off with a click.
 $Chika
-“I-I’m so sorry...”
-It seemed Chika had turned the switch off.
-Her face was pale.
+“S-Sorry...”
+It seemed Chika had turned off the switch.
+Her face had gone pale.
 Tell her not to worry
-Stay silent
+Silence
 $Sousuke
 “—Don't worry about it.”
-It wasn't Chika’s fault.
-It only makes things harder for me when people try to be overly considerate.
+Chika isn't in the wrong at all.
+It only makes things difficult for me when she's awkwardly considerate.
 $Chika
-“I’m sorry...”
-Chika shrank even further into herself.
+“I'm sorry...”
+Chika shrank back even further.
 Good grief—
 I drained the remaining bourbon in my glass in one go.
 $Sousuke
-“...Pour me another whiskey.”
+“...Pour me some whiskey.”
 $Chika
 “Ah—yes!”
-Chika took the glass and scurried back and forth behind the counter.
-Moving around was probably better for her than standing still and overthinking.
-It was certainly better than having her watch me in total silence.
+Chika took the glass and bustled back and forth behind the counter.
+Moving around was likely a better distraction than standing still in silence.
+It was much better than having her watch my every move in silence.
 $Chika
-“Sorry to keep you waiting.”
+“Thank you for waiting.”
 $Sousuke
 “Yeah—”
 I took the chilled glass.
-The ice, its edges still sharp, clinked against the rim with a clear ring.
-Fresh ice.
+Ice that still had its sharp edges hit the rim of the glass, making a clear sound.
+The ice had been refreshed.
 $Sousuke
 “—Thanks.”
 $Chika
 “No...”
-For just a fleeting second, I thought I saw Chika smile.
+I thought I saw the faintest hint of a smile from Chika.
 $Sousuke
 “............”
-—Typical.
-There are too many violent incidents lately.
-Well—I suppose I might be part of the problem.
-A bizarre murder—huh.
-It certainly is bizarre beyond belief. That I—I don't even know if I killed someone or not.
-But that’s not the only strange thing.
-The insane behavior of that woman who attacked me that night would seem far more bizarre to the world.
-In fact, murder cases by people who have suddenly gone mad are far more common and draw more public attention.
-The "bizarre murder" report on the radio just now was likely one of those.
-Then why, in my case, were the roles reversed—?
+—Good grief.
+There have been far too many disturbing incidents lately.
+Well—I suppose I might be playing a part in that, too.
+A peculiar murder—huh.
+It certainly is peculiar in the extreme. That I myself—don't know if I killed her or not.
+The peculiarity doesn't end there.
+The insane behavior of the woman who attacked me that night would surely appear many times more peculiar to the world.
+In fact, murder cases by people who suddenly went mad are far more numerous and attract more of the public's interest.
+The "peculiar murder" reported on the radio just now was likely one of those.
+Then why, in my case, were the positions reversed—?
 $Sousuke
-“Makes no goddamn sense...”
+“I don't understand it at all...”
 $Chika
-“I-I’m sorry...!”
-Chika’s voice snapped me back to reality.
-Apparently, she’d misunderstood my mumbling.
+“S-Sorry...”
+I came back to my senses at Chika’s voice.
+It seems she misunderstood my murmur.
 $Sousuke
-“No—it’s nothing. Forget it.”
-Chika looked down without a word.
-—This is awkward.
-I felt incredibly out of place.
-It was late. I should probably head back.
-Wandering around late at night would only make me stand out more.
+“No—it's nothing. Forget it.”
+Chika looked down without saying a word.
+—I'm stumped.
+This is incredibly uncomfortable.
+It’s getting late. I should probably head back soon.
+Walking around late at night might actually make me stand out more.
 $Sousuke
-“—Is one yen enough for the drink?”
+“—Is one yen enough for the drinks?”
 $Chika
 “Eh... ah, um... yes.”
-I placed a one-yen bill on the counter and stood up.
+I placed a one-yen note on the counter and stood up.
 $Sousuke
-“Well then, sorry for bothering you.”
+“Well then, sorry for the intrusion.”
 $Chika
 “...Please be careful.”
 Even as I left, Chika’s expression remained clouded.
 --------------------
 0207
 ********************
-The moment I woke up, I quickly changed into my street clothes.
-I intended to go out starting from noon today.
-Lately, I’d been wandering aimlessly when I didn't have work from Aoi, but this might be the first time I was going out with a specific purpose.
+When I woke up, I quickly changed into my going-out clothes.
+I intended to head out from noon today.
+Lately, when I didn't have work from Aoi, I’d been wandering around aimlessly, but this might be the first time I was heading out with a purpose.
 $Sousuke
-“Mikage’s office was in Jimbocho, wasn't it...?”
-I hadn't seen Mikage since we’d spoken at the bar right before the incident.
-Well, not seeing her wasn't something that particularly bothered me. I’d simply realized that Mikage, working at a publishing house, was an important source of information.
-I didn't know the specifics of her job. I wasn't interested, and whatever she did was her business.
-I just remembered her bragging about finally joining the ranks of the "Moga" when she landed the job.
-Mutando in Kanda, I believe it was called.
-Jimbocho was well within walking distance from Ochanomizu.
-I pulled on my sleeves, put on my hat, and donned my tinted glasses.
-Since it wasn't exactly safe, I tried to disguise myself as much as possible, but looking in the full-length mirror... I looked suspicious as hell.
+“Mikage’s workplace was in Jinbocho, wasn't it...?”
+I hadn't seen Mikage since we’d exchanged words at the bar just before the incident.
+Well, not seeing her wasn't something that bothered me much. I’d simply realized that Mikage, who worked at a publishing house, was an important source of information.
+I didn't even know the details of her job. I had no interest, and whatever she did was her business.
+I only remembered that when Mikage’s employment was decided, she’d talked boastfully about finally joining the ranks of the Moga.
+I’m sure she said it was Mutandou in Kanda.
+Jinbocho is well within walking distance from Ochanomizu.
+I pulled on my sleeves, put on my hat, and donned my colored glasses.
+Since it wasn't exactly safe, I tried to disguise myself as much as possible, but when I looked in the full-length mirror... I looked suspicious as hell.
 $Sousuke
 “—Good grief.”
-This was less of a disguise and more of a costume.
-Then again, I didn't have any other clothes to change into. If I wore a coat, I’d look even more shady. It was the middle of summer, after all.
+This is less a disguise and more a costume.
+That said, I have no other clothes to transform into. If I wore a coat or something, I’d look even more shady. It’s the middle of summer, after all.
 $Sousuke
 “Can't be helped—this’ll have to do.”
-First, I’ll head to Jimbocho and call Mikage out to a cafe somewhere—
-Walking south from the apartment brought me to Kudanshita.
-I approached a public telephone by the intersection and flipped through the directory.
-I confirmed the number for Mutando in Kanda District, tossed in a five-sen coin, and dialed, waiting a while.
+First, I’ll head to Jinbocho and call Mikage out to a cafe somewhere—
+Walking south from the apartment, I came out at Kudanshita.
+I approached a public telephone by the intersection and flipped through the phone book.
+I confirmed the number for Mutandou in Kanda district, tossed in a five-sen coin, dialed the number, and waited for a while.
 $Woman
-“—Mutando Editorial Department, this is Katsura speaking—”
+“—This is the Mutandou editorial department, Katsura speaking—”
 $Sousuke
 “Is Tachibana Mikage there?”
 $Woman
-“Eh...? Excuse me, but who is calling?”
+“Eh...? Pardon me, but who is calling?”
 $Sousuke
-“Ah—my name is Hishiya Takuma.”
+“Ah—it’s Hishiya Takuma.”
 $Woman
 “—Understood. Please wait a moment.”
 I’d blurted out Takuma’s name on impulse.
-Since he’s a detective, it was a hell of a lot better than using the name of a man being hunted by the police.
+He’s a detective, after all; it’s much better than giving my own name, especially since I'm being chased by the police.
 It wouldn't have been a problem if Mikage had answered directly—
 $Mikage
-“—Hello? What on earth do you want, calling me here?”
-Her voice sounded irritated, but it was unmistakably Mikage.
+“—Hello? What business do you have calling me out of your way?”
+It was a grumpy voice, but it was unmistakably Mikage.
 $Sousuke
 “Hello—it’s me.”
 $Mikage
 “Eh... S-Sousuke!?”
-She let out such a startlingly loud yelp that I instinctively pulled the receiver away from my ear.
+An absurdly loud voice erupted, and I reflexively pulled the receiver away from my ear.
 $Mikage
-“Honestly... don't scare me like that... and you haven't been in touch, you haven't come home... I was so worried...”
+“Wait a minute... don't go startling me... besides, not contacting me and not even coming home... I was worried, you know...”
 $Sousuke
-“...Sorry. Can you talk?”
-If I let her keep going, I’d be listening to her grievances forever. The audio on the phone was hard to hear, and besides, it was costing me money.
+“...My bad, do you have a second?”
+At this rate, I’d be forced to listen to her grievances indefinitely. It was hard to hear over the phone, and more importantly, it cost money.
 $Sousuke
-“There’s something I want to ask you. Can you come out now? —Let’s see, I’ll be waiting at the cafe near Manaitabashi.”
+“There’s something I want to ask you; can you come out now? —Let’s see, I’ll be waiting at the cafe by Manaitabashi.”
 $Mikage
-“—Fine, I understand. ...I have plenty I want to ask you, too.”
+“—Yeah, I get it. ...I have plenty I want to ask you, too.”
 $Sousuke
-“...I imagine so.”
-I’d need to be prepared for that.
+“...I bet.”
+I suppose I need to be prepared as well.
 $Mikage
-“...Well then, I’ll be there soon.”
-The call disconnected.
+“...Well then, I'll be there soon.”
+The phone hung up.
 $Sousuke
-“—Right.”
-Off to the cafe.
-I’d better take a seat in the back where I won't stand out.
-After all—I’m a wanted man.
-Exactly as planned, I settled into a table in a secluded corner of the shop, waiting for Mikage while keeping a watchful eye on the entrance.
-After a while, the front door opened, and Mikage stepped inside.
-I raised a hand slightly, signaling to her.
-Noticing me, Mikage walked toward me with a brisk, hurried pace.
-She must have run; her cheeks were flushed and she was out of breath.
+“—Alright.”
+Time to head to the cafe.
+I should probably take a seat in the back where I won't stand out.
+After all, I am—a wanted criminal.
+Just as planned, I settled down at a table in a secluded spot in the shop and waited for Mikage while keeping an eye on the entrance.
+After a while, the entrance door opened and Mikage entered the shop.
+I raised my hand slightly to signal her.
+Noticing me, Mikage walked toward me at a brisk pace.
+She must have run here; her cheeks were flushed and she was out of breath.
 $Mikage
-“How many cafes do you think there are around here!? I had to search all over!! You could have at least told me the name of the place, couldn't you!?”
+“Just how many cafes do you think are in this area!? I had to search quite a bit!! You could have at least told me the name of the shop!?”
 $Sousuke
-“...Just sit down. I don't want to draw attention.”
-I’d intended to calm her down, but it seemed to have the opposite effect.
+“...Well, take a seat. I don't want to stand out too much.”
+I’d intended to calm Mikage down as she rattled on at high speed, but it seemed to have the opposite effect.
 $Mikage
-“Don't want to draw attention? You stand out like a sore thumb! What is with that outfit!? It only makes you look more suspicious!”
+“Don't want to stand out... You're standing out like crazy! What’s with that outfit!? You look even more suspicious!”
 $Sousuke
 “...My bad.”
 $Mikage
 “Honestly...!”
-Mikage took her seat, still puffing out her cheeks in annoyance.
+Puffing out her cheeks, Mikage took her seat nonetheless.
 $Mikage
-“...I saw the papers.”
+“...I saw the newspaper.”
 $Sousuke
-“—I figured.”
+“—I bet.”
 $Mikage
-“Did you... did you really do it, Sousuke?”
+“Did you... really do it, Sousuke?”
 $Sousuke
-“What do you think?”
+“Do you think I did?”
 $Mikage
-“I don't believe it.”
-Mikage denied it instantly.
+“I don't.”
+Mikage denied it immediately.
 $Mikage
-“After all, if you were really the culprit, you wouldn't be coming to me for advice, would you?”
+“Because if you were really the culprit, Sousuke, you wouldn't be coming to me for advice, right?”
 $Mikage
-“The fact that you’d go to such lengths and take such a risk means you’ve been caught up in some kind of mess... am I wrong?”
+“The fact that you’d come all this way while risking danger means you’ve been caught up in some kind of mess... am I wrong?”
 $Sousuke
-“...You aren't wrong.”
-Good grief—either her insight is incredibly sharp, or she’s just got my number... well, I was grateful for her trust.
-Even if I found it hard to trust myself.
+“...You're not wrong.”
+Good grief—her insight is sharp, or rather, she has my actions read... well, I’m grateful she seems to trust me.
+Even though it’s hard to say that I trust myself.
 $Mikage
-“—So, what on earth happened?”
-I decided to tell Mikage the whole story.
-The sudden attack by the woman, being taken under the wing of a shady organization, and even the fact that I was hiding out in the Culture Apartment in Ochanomizu.
-Mikage listened intently, nodding solemnly throughout.
-When I’d finished and took a breath, Mikage murmured softly.
+“—Just what on earth happened?”
+So, I decided to tell Mikage the summary of what had happened.
+From being suddenly attacked by a woman, to being under the protection of a shady organization, to hiding out in the Bunka Apartments in Ochanomizu.
+Mikage nodded solemnly as she listened from beginning to end.
+When I’d mostly finished talking and took a breath, Mikage murmured softly.
 $Mikage
 “—Yuzuha-chan was worried about you.”
 $Sousuke
-“...I’m sure.”
-I hadn't been in direct contact with Yuzuha since that day. I’d asked Chika to pass on a message at the bar, but telling her not to worry was an impossible request.
+“...I bet.”
+I hadn't contacted Yuzuha directly since that day. I’d asked Chika to pass on a message at the bar, but telling her not to worry is asking the impossible.
 $Sousuke
 “I have to do something for her...”
 $Mikage
-“—Yes, you do.”
-A waitress came to take our order, and we both asked for iced coffee.
-I tried my best to appear calm, but internally I was on pins and needles.
-If anyone recognized me—
+“—Yeah.”
+A waitress came to take our order, so we both ordered iced coffee.
+I tried my best to appear calm, but inside, I was on pins and needles.
+If I were to be noticed—
 $Mikage
-“—It’s alright.”
-After the iced coffee was delivered and the waitress left, Mikage whispered to me.
+“—It's okay.”
+After the iced coffee was brought and the waitress had left, Mikage whispered to me.
 $Mikage
-“It’s not like you’re some kind of celebrity, right?”
+“It’s not like you're some celebrity, right?”
 $Sousuke
 “...I know.”
-I knew it, yet I still couldn't relax.
-I hadn't expected Mikage to see right through my restlessness, though.
+I know, but I still can't settle down.
+I didn't think Mikage would see right through my restlessness, though.
 $Mikage
-“By the way, what did you want to consult me about? I’ll help if I can, but...”
+“By the way, what was the advice you wanted? I can help you with whatever I can do...”
 $Sousuke
 “I want you to gather information about the incident.”
 $Mikage
-“Fine, I understand. But... I don't know how much I’ll be able to find, okay? Even though it’s a publisher, we mostly handle literary magazines...”
+“Yeah, I get it. But... I don't know how much I can find out, you know? Even if I work at a publisher, it’s all literary magazines...”
 $Sousuke
-“Just do what you can. I haven't even read a newspaper yet.”
+“Just do what you can. I haven't even read the newspaper yet.”
 $Mikage
-“...Understood. But... wouldn't it be better to ask Takuma? He’s a policeman; he must know a lot more than I do.”
+“...Understood. But... wouldn't it be better to ask Takuma? He’s a cop, after all; he should know much more than me.”
 $Sousuke
-“—Do you really think I can ask him?”
+“—Do you think I can ask him?”
 $Mikage
-“I suppose not.”
-Mikage let out a heavy sigh.
+“I guess not.”
+Mikage let out a massive sigh.
 $Mikage
-“Why can't you two just make up already?”
+“Just make up with him already, will you?”
 $Sousuke
-“In this situation? Besides, it’s not like we’re actually fighting.”
+“In this situation? Besides, it’s not like we're fighting.”
 $Mikage
-“Honestly, you’re so stubborn.”
+“Seriously, you're so stubborn.”
 $Sousuke
-“—Anyway, I’m counting on you.”
+“—Anyway, I'm counting on you.”
 $Mikage
-“I’ll get in touch once I’ve looked into it a bit. At the Culture Apartment, right?”
+“I’ll contact you once I’ve looked into things a bit. The Bunka Apartments is fine, right?”
 $Sousuke
-“Either that, or you can leave a message at the bar.”
+“Or you can leave a message at the bar.”
 $Mikage
-“Alright. —Well then, I’ll see you later.”
-Mikage stood up. I followed suit.
+“Yeah. —Well, until next time.”
+Mikage stood up. I stood up as well.
 There was no reason to stay here any longer.
 $Sousuke
-“I’ll take care of the bill.”
+“I'll take care of the bill.”
 $Mikage
-“Eh—it’s fine, really.”
+“Eh—no, it's fine.”
 $Sousuke
-“Consider it a down payment.”
+“Think of it as the reward.”
 $Mikage
-“It’s a bit cheap for a down payment, don't you think?”
-Mikage gave a small, quiet chuckle.
+“I think that’s a bit cheap for a reward.”
+Mikage let out a small chuckle.
 --------------------
 0208
 ********************
-Some time after the sun went down, I stepped foot into Kagurazaka.
-It was as crowded as ever, a jumble of drunkards and the touts trying to entice them.
-Weaving through the throng, I headed up the slope and turned into the side street that led to the bar.
-The sign on the door said “OPEN.”
+Some time after the sun had set, I set foot in Kagurazaka.
+It was as crowded as ever, with a mix of drunks and the touts trying to lure them in.
+I threaded my way through them as I climbed the slope and entered the side street leading to the bar.
+The sign "OPEN" was hung on the bar door.
 $Sousuke
 “—Tch.”
-It seemed I was still too early.
-Now then—what should I do?
-Should I kill some time somewhere, or just give up and head back to the apartment?
-If there were no customers inside, the Master might complain, but he’d likely let me in.
-I peered through the window into the dimly lit interior.
+It seems I arrived too early.
+Now then—what to do.
+Should I kill time somewhere, or give up and head back to the apartment?
+If there are no customers in the shop, the Master might complain, but he’d likely let me in.
+I peeked at the dimly lit shop through the window.
 Someone was sitting at the far end of the counter.
 $Sousuke
 “—Tch.”
-The moment I confirmed who it was, a click of the tongue escaped me involuntarily.
-It wasn't out of disgust.
-If anything—it was the opposite.
-No—maybe it was disgust toward myself.
-I spun around and hurried through the bar door.
+When I confirmed who it was, a clicking of the tongue escaped on its own.
+It wasn't out of displeasure.
+Rather—the opposite.
+No—was it displeasure toward myself?
+I spun around and quickly stepped through the bar door.
 $Chika
 “Ah—”
-Seeing me enter, Chika, who was wiping a table, let out a small cry.
-I brushed past her and headed further back.
+Seeing me enter the shop, Chika, who was wiping a table, let out a small cry.
+I passed by her and headed further back.
 There—
 $Yuzuha
-“Big... brother?”
-Yuzuha stood up from her stool, staring at me in a daze.
-A single tear traced a path down her cheek.
+“Big... Brother?”
+Yuzuha stood up from her stool, looking up at me in a daze.
+A single tear traced its way down her cheek.
 $Yuzuha
-“Big brother!!”
-Yuzuha ran to me and threw herself into my chest.
+“Big Brother!!”
+Yuzuha rushed over and threw herself into my chest.
 $Yuzuha
-“Big brother... big brother, big brother!! ...*sob*... *hic*... waaaaah...!”
-I stroked the head of the now-sobbing Yuzuha.
+“Big Brother... Big Brother, Big Brother!! ...Ugh... guh, higu... waaaaah...”
+I stroked the head of Yuzuha, who had begun to cry in earnest.
 $Yuzuha
-“You idiot... I hate you, big brother...”
+“Idiot... I hate you, Big Brother...”
 $Sousuke
-“...Sorry, Yuzuha.”
+“...My bad, Yuzuha.”
 $Yuzuha
-“*Sniff*... I was so worried...”
+“Gusu... I was worried...”
 $Sousuke
 “...I couldn't get in touch.”
 $Yuzuha
 “Idiot...”
-She feebly pounded on my chest with her fists.
+She pounded weakly on my chest with her fists.
 $Yuzuha
-“...You know, after you left home, so many people came by...”
-Still sobbing, Yuzuha began to speak.
+“...You know, after you left home, Big Brother, a lot of people came...”
+Between sobs, Yuzuha began to talk.
 $Yuzuha
-“When I asked, they said they were military police... Hey, that’s strange, isn't it? Why are the MPs looking for you, big brother?”
+“When I asked, they said they were Military Police... Hey, it’s strange, right? Why are the Military Police looking for you?”
 $Yuzuha
-“The military police are the police for the army, right? You’re just a piano player, big brother. ...And they said you’d killed someone...”
+“I mean, the Military Police are the police within the army, right? You're just a piano player, aren't you, Big Brother? ...And they said you killed someone...”
 $Yuzuha
-“Hey... big brother, there’s no way you’d do something like that, right...?”
-Of course not
+“Hey... Big Brother, there's no way you'd do something like that, right...?”
+Of course
 ............
 $Sousuke
-“...Of course not, don't be ridiculous.”
-I placed a hand on Yuzuha’s head and rumpled her hair.
+“...Of course I wouldn't, obviously.”
+I placed my hand on Yuzuha’s head and ruffled her hair.
 $Yuzuha
-“Wha—... stop it...”
-Yuzuha’s face twisted in a mix of tears and a smile.
+“Uwa... stop it...”
+Yuzuha grimaced as if both laughing and crying.
 $Sousuke
-“You really think I’d do something like that?”
+“Do you think I’d do such a thing?”
 $Yuzuha
 “...I don't. I don't, but... still...!”
 $Sousuke
-“...Don't worry so much. I’ll be fine.”
+“...Don't worry too much. I'm okay.”
 $Yuzuha
-“...Okay.”
+“...Yeah.”
 Yuzuha wiped away her tears.
 $Sousuke
 “............”
-For a second, I couldn't find the words.
+For a moment, I couldn't answer.
 $Yuzuha
-“...Big brother?”
+“...Big Brother?”
 $Sousuke
-“Hm... it’s nothing.”
-I couldn't bring myself to declare with absolute certainty that I hadn't killed anyone.
-I remained vague and averted my gaze from Yuzuha.
+“Mm... it's nothing.”
+I couldn't say with certainty that I hadn't killed her.
+I gave a noncommittal answer and looked away from Yuzuha.
 —Good grief.
-I can't even comfort my own terrified sister—I’ve really lost my edge.
-No, it’s not that I’ve lost my edge—it’s that I’ve lost my confidence.
-Even though I’m the one who supposedly did it—
+That I can't even comfort the anxious Yuzuha—it seems I’m lacking in composure as well.
+No, it's not a lack of composure—is it a lack of confidence?
+Even though it was something I was supposed to have done—
 $Yuzuha
-“Big brother!!”
-I was snapped back to reality by her shaking my body.
+“Big Brother!!”
+I was shaken back to my senses.
 $Yuzuha
-“Big brother... are you really alright...?”
+“Big Brother... are you really okay...?”
 $Sousuke
 “...Yeah.”
 Seriously... what is wrong with me?
-Making her even more worried—what the hell am I doing?
-Once she’d calmed down a bit, Yuzuha spoke again.
+Making her even more worried; what am I doing?
+Yuzuha, who had calmed down a bit, spoke up.
 $Yuzuha
-“Big brother, where are you sleeping? You haven't come home at all, are you eating properly?”
+“Big Brother, where are you sleeping and everything now? You haven't come home in forever, and are you eating properly?”
 $Sousuke
-“I’m managing.”
+“I'm managing somehow.”
 $Yuzuha
-“Really? You look like you’ve lost a little weight, don't you?”
-She poked me in the side, and I instinctively twisted away from her hand.
+“Really? Haven't you gotten a bit thinner?”
+She poked me in the side, and I couldn't help but twist my waist and escape from Yuzuha’s hand.
 $Sousuke
-“Hey, stop poking me...”
+“Hey, stop tickling me...”
 $Yuzuha
-“Ehehe, it’s fine, isn't it?”
-I lightly brushed away Yuzuha’s hand as she continued her relentless assault on my side.
+“Ehehe, isn't it fine?”
+I lightly brushed away Yuzuha’s hand as she continued her relentless attack on my side.
 $Yuzuha
 “Ah... sorry...”
-Yuzuha suddenly grew quiet.
+Yuzuha suddenly became quiet.
 $Yuzuha
 “...Are you mad?”
 $Sousuke
 “...No.”
 $Yuzuha
-“—What I said earlier, it was a lie.”
+“—What I said just now, it was a lie.”
 $Sousuke
-“Earlier?”
+“Just now?”
 $Yuzuha
-“About hating you... it was a lie. There’s no way I could ever hate you, big brother... so, please... don't hate me either...”
+“That I hate you, Big Brother... it was a lie. There's no way I could ever hate you... so, please don't... hate me...”
 $Sousuke
-“—Of course I won't.”
+“—Of course I wouldn't.”
 I stroked Yuzuha’s head again.
-The things she worries about...
+What is she even saying...
 $Sousuke
-“How could I ever hate my own sister?”
+“There’s no way I could ever hate my own flesh-and-blood sister.”
 $Yuzuha
-“Yeah, you’re right... I know...”
+“Yeah, that’s right... I know...”
 Even as she nodded, Yuzuha remained dejected.
 $Chika
 “—Kudou-san, would you like some coffee?”
 $Sousuke
-“Yeah, thanks. Give Yuzuha something too—”
+“Yeah, please. Something for Yuzuha, too—”
 $Yuzuha
-“...I don't need anything.”
+“...I don't want anything.”
 $Chika
 “Yuzuha-chan...?”
 $Yuzuha
-“I have to get going soon. You... you aren't coming back home, are you, big brother...?”
+“I have to go home soon. You're... not coming back home, right, Big Brother...?”
 $Sousuke
-“...I suppose not.”
+“...That’s right.”
 $Yuzuha
-“Yeah, that’s probably for the best. There are so many policemen around our place... I’m sure they’re looking for you...”
+“Yeah, it’s better that way. Around our house, for some reason, there are lots of policemen... I’m sure they're looking for you, Big Brother...”
 $Sousuke
 “...I see.”
 $Yuzuha
-“So, you don't need to walk me back! I... I can get home just fine on my own.”
+“So, you don't have to walk me home, okay. I... I can get home properly by myself!”
 $Sousuke
-“...Be careful.”
+“...Take care.”
 $Yuzuha
-“...Okay.”
+“...Yeah!”
 Yuzuha turned her back to me and left the bar.
-Chika brought over the coffee as she was leaving.
+In her place, Chika brought the coffee.
 $Chika
 “Here you go.”
 $Sousuke
@@ -518,16 +518,16 @@ $Chika
 $Sousuke
 “—Was she?”
 $Chika
-“...Didn't you want to walk her back?”
+“...Didn't she want you to walk her home?”
 $Sousuke
-“...Who knows.”
-I averted my gaze from Chika, who was staring at me reproachfully.
-If I could have, I’d have walked her back myself.
-But even though Yuzuha was worried about me, I couldn't afford to take the risk.
+“...I wonder.”
+I looked away from Chika, who was staring at me reproachfully.
+If I could, I’d have walked her home myself.
+But even if Yuzuha is worried about me, I can't afford to take any risks.
 $Chika
 “Would you like anything else...?”
 $Sousuke
-“No—I’m good. I’ll head back too.”
+“No—it's fine. I'll head back as well.”
 $Chika
 “...I see.”
 Chika looked down.
@@ -538,332 +538,332 @@ $Chika
 --------------------
 0209
 ********************
-The air was a heavy blend of alcohol, cigarettes, and the scent of face powder—a town where staying sober felt like a chore.
-After finishing her work, Mikage had taken a series of streetcars to Kagurazaka.
-It was already past ten in the evening. The gas lamps lining the streets and the electric lights from the shops on either side kept the town as bright as if it were day.
-It didn't quite reach the level of Ginza, but it was just as flashy.
-Though the vast majority of that flashiness had nothing to do with Mikage—it was for the entertainment of men.
+Alcohol, tobacco, and the scent of face powder blended into the air of a town where staying sober seemed a difficult task.
+Having finished her work, Mikage had taken several city streetcars to reach Kagurazaka.
+It was already past ten o'clock in the evening. The gas lamps lining the streets and the electric lights from the shops on both sides maintained the town at a brightness no different from midday.
+While it fell short of Ginza, it was no less glamorous.
+Of course, the vast majority of that glamour had nothing to do with Mikage—it was the entertainment of men.
 $Mikage
-“—Well, men are simple creatures, aren't they?”
-The "OPEN" sign hung on the door of "CADENZA."
-Usually, Mikage would hear the sound of the piano leaking out before she even opened the door, but lately, that had been missing.
-She felt a sense of lack, a lingering loneliness.
-I have to find a way to get Sousuke back to the way he was. I can't let him keep living a life hidden from the sun.
+“—Well, men are simple creatures, after all.”
+The sign "OPEN" was hung on the door of "CADENZA."
+Normally, the sound of the piano would leak out before Mikage even opened the door, but lately, there was none of that.
+Mikage felt a sense of unsatisfaction and loneliness.
+I have to find a way to get Sousuke back to how he was. I can't let him continue living a life away from the sun.
 $Master
 “—Welcome.”
 $Mikage
 “Good evening, Master.”
-After a brief greeting with the Master at the counter, Mikage scanned the shop.
-As usual, there were no customers. Not because Sousuke wasn't there. This shop had always had an atmosphere that seemed to reject anyone but regulars.
-If you were accepted, you were treated with a family-like warmth, but because it was so domestic, it was all the harder for outsiders to blend in.
-Still, Mikage didn't dislike the atmosphere. The Master, Chika, and Riho were all good people.
-And, of course, Sousuke, who wasn't here now—
+Exchanging brief greetings with the Master at the counter, Mikage looked around the shop.
+As usual, there were no customers to be seen. It wasn't—just because Sousuke wasn't there. Originally, this shop had an atmosphere that seemed to reject regular customers.
+If you were accepted, they would treat you with a family-like warmth, but because it was so domestic, it was likely even harder for outsiders to blend in.
+Still, Mikage didn't dislike the atmosphere of this shop. Because the Master, Chika, and Riho were all good people.
+And of course, Sousuke, who wasn't here now—
 $Takuma
-“—Keeping people waiting isn't exactly admirable.”
-Takuma’s voice suddenly cut in, reminding Mikage of the reason she’d come.
+“—Making someone wait isn't very commendable.”
+At Takuma’s voice, which suddenly cut in, Mikage remembered the reason she’d come here.
 $Mikage
-“I couldn't help it, work was piling up. Besides, you’re the one who came early, Takuma.”
+“It can't be helped; work was piling up. Besides, you're the one who came early, right, Takuma?”
 $Takuma
-“I got off on time, after all.”
+“I got off work at the regular time, after all.”
 $Mikage
-“...Even with all these incidents going on?”
-Mikage tilted her head. With the serial murders occurring lately, she’d assumed Takuma, being in the Investigation Division, was busy trying to solve the cases.
+“...Even though the incidents are continuing?”
+Mikage tilted her head. With the serial murders occurring lately, she’d thought Takuma, from the investigation division, would be busy trying to solve the cases.
 $Takuma
-“—There’s a gag order in place regarding the incidents.”
+“—A gag order has been placed regarding the incident.”
 $Mikage
-“Eh... isn't that strange? Aren't they just ordinary murders?”
+“Eh... isn't that strange? Isn't it just a normal murder case?”
 $Takuma
-“...Not a word of this to anyone. Understood?”
-Mikage nodded solemnly as Takuma lowered his voice even further.
-In her heart, she apologized to Takuma, knowing she’d have to tell Sousuke eventually.
+“...Not a word to anyone. Understand?”
+Mikage nodded solemnly to Takuma, who confirmed with an even lower voice.
+Even if I'm told not to say a word, I’ll have to tell Sousuke, she thought, apologizing to Takuma in her heart.
 $Takuma
 “I’d appreciate it if you didn't listen either, Master.”
 $Master
-“...Hmph. I’ll give you two some space, then.”
-With that, the Master placed glasses filled with wine before Mikage and Takuma and vanished into the back of the shop.
+“...Hmph. In that case, I’ll step away for a moment.”
+Saying that, the Master placed glasses filled with wine in front of Mikage and Takuma and disappeared into the back of the shop.
 $Takuma
-“The reason I got off on time is because I’m not allowed to investigate the cases.”
-Takuma murmured with a sigh after wetting his lips with the wine.
+“The reason I got off at the regular time is because I’m not being allowed to investigate the incident.”
+Takuma, having moistened his mouth with wine, muttered with a sigh.
 $Mikage
-“Why? You’re in the Investigation Division, aren't you?”
+“Why? You're in the investigation division, right?”
 $Takuma
-“For some reason, the military police have stepped in for this particular case. We haven't been given the right to investigate—or even decent information.”
+“For some reason, regarding this case, the Military Police have come out from the Army, and we haven't been given the right to investigate—or even satisfactory information.”
 $Takuma
-“At most, we only know about as much as you do from the newspaper announcements.”
+“At most, I only know as much as you do from the newspaper announcements.”
 $Mikage
 “...I see.”
-Mikage let out a weak breath. This was all too strange.
-The military police shouldn't be involved in a simple murder case. Was the Army involved in some way?
+Mikage let out a weak breath. It was too strange.
+There was no reason for the Military Police to come out for a simple murder case. Is the Army involved in some way?
 $Mikage
-“Do you know anything about the victim?”
+“Don't you know anything about the victim?”
 $Takuma
-“—A geisha from the Kagurazaka pleasure quarters named Sasamatsu. Her real name was Sahara Shoko. She was born in a farming village in Kyushu but apparently was sold into service here.”
+“—A geisha from the Kagurazaka pleasure quarters named Sasamatsu. Her real name was Sahara Shouko; she was born in a farming village in Kyushu, but she was apparently sold here.”
 $Mikage
-“A geisha... that’s not exactly rare around here, is it?”
+“A geisha isn't exactly rare around here...”
 $Takuma
-“The cause of death was blood loss from over a dozen stab wounds from a sharp blade. That’s information that shouldn't be in the papers.”
+“The cause of death was blood loss from being stabbed in over a dozen places with a sharp blade. This is information that shouldn't have been in the newspaper.”
 $Mikage
-“Stabbed... huh.”
-Sousuke always kept a knife hidden in his coat. She remembered telling him all the time to stop carrying it because it was dangerous.
+“Stabbed to death... huh.”
+Sousuke always hid a knife in his breast pocket. She remembered telling him all the time to stop carrying it because it was dangerous.
 $Mikage
 “Anything else?”
 $Takuma
-“Aside from that... the witness information. Apparently, a woman who happened to be passing by saw Kudou.
+“As for the rest... witness information. Apparently, a woman who happened to be passing by witnessed that fellow Kudou.
 $Takuma
-Normally she should have reported it to the police, but it seems she told the MPs who were nearby, and after that, the military police took over the investigation.”
+Normally, she should have reported it to the police, but she apparently told a Military Policeman who was nearby, and since then, the Military Police have taken over the investigation.”
 $Mikage
 “Sounds like a turf war.”
 $Takuma
-“...Maybe. Still, the Investigation Division was asked for cooperation when the incident first occurred, but then a sudden stop order was issued a few days later. ...I don't get it.”
+“...Maybe so. Still, when the incident first occurred, a request for cooperation came to the investigation division, but then a few days later, a stop order was suddenly issued. ...I don't get it.”
 $Mikage
 “Hmm...”
-Mikage nodded as she scribbled in her notebook.
+Mikage nodded as her pen moved across her notebook.
 $Takuma
 “...Don't go making an article out of this.”
 $Mikage
-“It’s obvious I can't publish anything involving the military police. Besides, we’re a literary magazine; we hardly ever run crime stories.”
+“It’s obvious we can't publish it once the Military Police are involved. Besides, our place is a literary magazine, so we can't really carry crime articles.”
 $Takuma
-“As long as that’s the case...”
+“As long as that's the case...”
 $Mikage
-“Besides, I can't write anything until Sousuke’s innocence is proven.”
+“Besides, I can't write a manuscript unless Sousuke’s innocence is proven.”
 $Takuma
-“Kudou’s innocence, huh... you really believe in him?”
+“Kudou’s innocence, huh... you believe in him?”
 $Mikage
 “Of course I do.”
 $Takuma
-“...Sorry, but there’s no evidence to believe in that guy right now. Maybe things would change if he underwent police questioning, though...”
+“...Sorry, but there's no evidence that could make me believe in him now. Though things might change a bit if he were to undergo a police interrogation...”
 $Mikage
 “But he can't do that, can he?”
 Mikage murmured sarcastically.
 $Takuma
-“...The military police wouldn't exactly give him a proper interrogation.”
+“...The Military Police likely won't conduct a proper interrogation.”
 $Mikage
 “That’s why Sousuke is running.”
 $Takuma
-“...Maybe. Honestly—leaving his own family behind like that...”
+“...Maybe. Seriously—leaving even his family behind...”
 $Mikage
-“...I wonder if it’s better if I take Yuzuha-chan in?”
-Yuzuha was still left alone in the Edogawa apartment. Since she’d been living at Mikage’s house until recently, Yuzuha would likely be more comfortable there.
+“...I wonder if I should take Yuzuha-chan into our place?”
+Yuzuha was still left in the apartment in Edogawabashi. Since she’d lived at Mikage’s house until recently, Yuzuha would likely find it comfortable.
 $Takuma
-“...It should be fine. No matter how the MPs are, they won't do anything violent just to get his location.”
+“...There's likely no need to worry. No matter how much of a Military Policeman they are, they won't do anything rough just to get his location.”
 $Mikage
-“You think so...?”
-Mikage couldn't be quite that optimistic. After all, the case of Kobayashi Takiji dying in prison three years ago was due to an illegal arrest by the Special Higher Police during an ideological crackdown.
-The Tokko and the Kempeitai were two peas in a pod. And she’d realized since starting work at the magazine that the regular police weren't much different either.
-They were organizations that would do anything, no matter how inhuman, to achieve their goals.
+“I wonder...?”
+Mikage couldn't be quite that optimistic. Three years ago, Kobayashi Takiji’s death in prison was caused by illegal arrest due to the Special Higher Police’s thought suppression.
+The Special Higher Police and the Military Police are two of a kind. That the police weren't much different was something Mikage had felt firsthand since she’d started working at the magazine company.
+They are an organization that will do any number of atrocious things for their own purposes.
 $Takuma
-“I’ll stay by her side as much as I can, so don't worry.”
+“I'll try to be by her side as much as possible, so you don't need to worry.”
 $Mikage
-“...Right.”
-A flash of anxiety crossed Mikage’s mind about whether Takuma alone would be enough, but she didn't want to be tactless.
+“...Yeah.”
+Anxiety crossed her mind as to whether Takuma would be okay alone, but Mikage didn't want to do anything boorish either.
 $Mikage
-“For Sousuke’s sake, I’m counting on you.”
-When she put it that way, Takuma made a major face.
+“For Sousuke’s sake too, I’m counting on you.”
+When she said that to drive the point home, Takuma grimaced immensely.
 $Mikage
-“Honestly... you two are like children.”
+“Honestly... both of you are like children.”
 $Takuma
-“...Don't lump me in with him.”
+“...Don't go lumping me in with him.”
 $Mikage
-“I’m sure Sousuke would say the same thing.”
-Unable to hold it in, Mikage laughed as she told him.
+“I’m sure Sousuke would say the exact same thing.”
+Unable to hold it back, Mikage told Takuma while laughing.
 --------------------
 0210
 ********************
-I woke up to the sunlight streaming through the window.
+I woke up from the sunlight streaming through the window.
 I sat up on the bed and stretched. My joints creaked and popped.
-I’d gone straight to sleep after getting back last night, so I must have slept quite a while, yet I didn't feel particularly rested.
-I might be in a privileged position for a fugitive, but perhaps the fatigue was starting to pile up without me realizing it.
-I stood up and headed for the bathroom to wash my face.
-On the way, I noticed a scrap of paper wedged under the front door. I leaned over and picked it up.
-"Come out the moment you see this," was scribbled in messy handwriting.
+I should have slept quite a bit since I’d gone to bed immediately after returning last night, but I didn't feel like I’d slept very well.
+Despite my fortunate circumstances for someone living a life on the run, fatigue might be accumulating without me realizing it.
+I stood up and headed for the washroom to wash my face.
+On the way, I noticed some kind of slip of paper wedged under the entrance door, and I leaned over to pick it up.
+In messy handwriting, it said, “Come out immediately once you see this.”
 $Sousuke
-“—Hmph.”
-I was impressed by the summons. From the style, it didn't seem to be Aoi’s handwriting. If it were her, she’d just barge in without leaving a note.
-I didn't think it was the authorities, but it paid to be cautious.
-I changed clothes and put on my tinted glasses. I didn't think it would really fool anyone, but if I were found, I’d just have to run.
-I pulled on my shoes and stepped outside.
-A Ford bus drove past on the street in front of me, kicking up a cloud of dust.
-I didn't see any police or MPs. Instead, I saw a mountain of cigarette butts scattered near the apartment entrance.
+“...Hmph.”
+To think I’d be summoned. From the style of writing, it didn't seem to be Aoi’s handwriting. Aoi would just barge in without leaving a note.
+I doubted it was the authorities, but it might be best to be cautious.
+I changed my clothes and put on my colored glasses. I didn't think for a second that this alone could deceive people's eyes, but if I’m found, I’ll just have to run.
+I pulled on my shoes, which I’d been stepping on the heels of, and went outside.
+A shared Ford passed by the road in front of me, kicking up clouds of dust.
+There were no signs of police or Military Police. Instead, a large amount of cigarette butts were scattered near the entrance of the apartment.
 $Hachi
-“—You’re late, asshole.”
+“—You're late, dammit.”
 $Sousuke
 “...Oh, it’s just you, Hachi.”
 $Hachi
 “Don't call me Hachi!!”
 $Sousuke
 “What the hell are you guys doing here?”
-I asked Kumasaka, who was just standing there.
+I questioned Kuma, who was standing there.
 $Kuma
-“The sister ordered us to come get you.”
+“We came to pick you up on the Big Sister’s orders.”
 $Sousuke
-“—Hah, if she has business with me, she can come here herself.”
+“—Hah, if there’s business, tell her to come here herself.”
 $Kuma
 “—Hey.”
-Kumasaka approached and looked down at me. Since there was a significant height difference, he was quite intimidating.
+Kuma approached and looked down at me. Perhaps because of the height difference, he was quite intimidating.
 $Kuma
-“You planning to defy the sister’s orders?”
+“Do you intend to go against the Big Sister’s orders?”
 $Sousuke
-“—Yeah?”
-I lowered my glasses and glared at Kumasaka.
+“—Huh?”
+I shifted my colored glasses and glared at Kuma.
 $Sousuke
-“—If you want to go, I’m ready anytime.”
+“—I’ll take you on anytime if you want to go.”
 $Kuma
-“...A man shouldn't seek out unnecessary conflict.”
+“...A man is one who does not engage in useless fighting.”
 $Sousuke
 “—Hah.”
 What a pathetic bunch.
 $Hachi
-“Don't you go ignoring me!!”
+“Don't you guys go ignoring me!!”
 $Kuma
 “Calm down, Hachi.”
 $Hachi
 “You shut up!!”
 $Kuma
-“You’re being selfish, Hachi, after telling us not to ignore you.”
+“You're quite selfish for someone who said not to ignore you, Hachi.”
 $Hachi
-“Grr... you’re so damn annoying...”
+“Kuh... so damn annoying...”
 $Sousuke
-“...Take your cheap comedy act somewhere else.”
-I murmured without even the energy to get angry, turning my back on them and walking away.
+“—Take your cheap drama elsewhere.”
+Murmuring without the energy to get angry, I turned my back to them and started walking.
 $Hachi
-“Hey, Kudou! Where do you think you’re going! Wait up!”
+“Hey, you, Kudou! Where are you going! Wait up!”
 $Sousuke
-“—Aoi’s calling, right? It’ll be a nightmare if we keep her waiting, so let’s get going.”
+“—Aoi’s calling, right? It’ll be terrifying if we keep her waiting, so let’s get moving.”
 $Hachi
-“Grr... why you... don't you get too full of yourself, asshole.”
+“Guh... you... don't go getting cocky, dammit.”
 $Hachi
-“I’ll get you one of these days... just you wait...”
+“I’m gonna get you someday... just you wait...”
 $Sousuke
-“—My memory’s not so great. Try to do it before I forget, will you?”
+“—I don't have much of a memory. Please do it before I forget.”
 $Hachi
-“Grr... damn it!!”
-Glancing at Hachi as he kicked a tin can in frustration, I began walking leisurely upstream along the Kanda River.
+“Guh... dammit!!”
+While watching Hachi kick a stray tin can in frustration out of the corner of my eye, I leisurely began to walk upstream along the Kanda River.
 $Aoi
-“—You’re late.”
-Aoi, standing in front of the building, glared at Hachi with irritation.
+“—You're late.”
+Aoi, who was in front of the building, glared irritably at Hachi.
 $Hachi
 “...It’s because this guy was sleeping forever.”
 Hachi pointed at me reproachfully.
 $Aoi
-“I don't want to hear excuses. If he was sleeping, couldn't you have just barged in and dragged him out of bed?”
+“I don't want to hear excuses. If he was sleeping, couldn't you at least barge in and wake him up?”
 $Hachi
-“...I’m sorry.”
+“...My apologies.”
 $Aoi
-“I have no use for people who are useless. Remember that.”
+“I have no need for useless people. Remember that.”
 $Hachi
-“...Yes, ma'am.”
-Aoi turned back to me.
+“...Yes.”
+Aoi turned back toward me.
 $Aoi
 “—That goes for you too, Kudou Sousuke.”
 $Sousuke
-“...As far as I’m concerned, I’d be grateful if you just got rid of me.”
-The moment I said that, Aoi’s lips curved into a seductive smile.
+“—As for me, I’d appreciate it if you just got rid of me.”
+The moment I said that, Aoi wore a bewitching smile on her lips.
 $Aoi
-“Oh? Do you have a death wish?”
+“Oh... do you have a suicide wish?”
 $Sousuke
-“...I’ll pass on that.”
-I followed Aoi into the office.
+“—I’ll have to pass on that.”
+I entered the office, following after Aoi.
 $Aoi
-“I’ve brought him, Boss.”
+“I’ve brought him now.”
 $Boss
-“...You’re late.”
-The Boss glared at me with a piercing gaze.
+“...You were late.”
+The Boss glared at me with a sharp look.
 $Aoi
-“My apologies, sir.”
+“Hah, my deepest apologies.”
 $Boss
-“No matter. Kudou, have you gotten used to the work yet?”
+“Oh well. Kudou, have you gotten used to the work?”
 $Sousuke
-“...Somewhat.”
+“...To some extent.”
 $Boss
-“Heh-heh, the young are quick learners.”
+“Heheh, the young are quick learners.”
 $Sousuke
 “Thanks...”
-I didn't like this guy. His presence, his pressure—just being in front of him felt overwhelming.
+I’m not good with this guy. Whether it’s his presence or his intimidating air—I feel overwhelmed just being in front of him.
 $Boss
-“The glory and prosperity of our nation depend on young men like yourself. Carry out your duties diligently and strive for excellence.”
-He slapped me on the shoulder with a heavy thud. It was a thick hand, befitting his large frame.
+“The glory and prosperity of our nation depend on young people like you. Fulfill your duties well and devote yourself.”
+He slapped me on the shoulder with a loud thud. A heavy sound. He had thick hands befitting his large build.
 $Boss
-“Souma, bring that item here.”
+“Souma, bring that thing here.”
 $Aoi
-“As you wish.”
-Aoi stepped away and went into the back room.
+“Understood.”
+Aoi excused herself and went into the back room.
 $Boss
-“—Our Seihoukai seeks talented individuals. We want young men like you to play an even greater role.”
+“—In our Seihou-kai, we seek capable talent. I want young people like you to play a more active role.”
 $Boss
-“And eventually, I want you to become the kind of talent that carries this nation on its shoulders. That is my wish.”
-I couldn't find an answer.
-I wasn't the kind of person who could carry a nation, nor did I have any intention of doing so.
+“And eventually, I want you to become the talent that carries this nation. That is my wish.”
+I couldn't answer.
+Because I’m not the kind of grand person who can carry such a nation, and I have absolutely no intention of doing so.
 $Boss
-“When the time comes, I’ll have you do other kinds of work. Simple things, like acting as an attendant.”
+“When the time comes, I’ll have you do other work as well. Oh, it’s just something simple, like being an attendant.”
 $Sousuke
 “...I see.”
 $Boss
-“I have high expectations for you. Hah-hah-hah...”
-Before the boisterously laughing Boss, I could only manage an ambiguous smile.
-Aoi returned carrying a bundle wrapped in a fukusa.
+“I have high expectations of you. Hah-hah-hah...”
+Before the Boss, who laughed boisterously, I could only manage an ambiguous smile.
+Aoi returned, carrying a bundle in a fukusa cloth.
 $Aoi
 “—Sorry to keep you waiting.”
-The Boss took the bundle from Aoi and pulled out a stack of bills from within.
+Taking the fukusa bundle from Aoi, the Boss pulled out a stack of banknotes from within.
 $Boss
-“It’s not much, but take it.”
-Ten-yen notes—there must have been fifty, no, nearly a hundred of them. It was enough to easily buy a domestic car.
-Accept
-Decline
+“It’s not much, but please take it.”
+There were fifty, no, nearly a hundred ten-yen notes. It was a sum that could easily buy a domestic car.
+Take it
+Don't take it
 $Sousuke
 “...Thanks.”
-Given my position, I didn't feel like I could refuse.
+Considering my position, I couldn't afford not to take it.
 $Sousuke
-“—I can't accept this.”
-I had a bad feeling. Usually, being handed money meant some nasty job was being shoved onto me.
+“—I can't take this.”
+I have a bad feeling. Being handed money always happens when a troublesome job is about to be pushed on me.
 $Aoi
-“—What kind of cheeky talk is that?”
-Aoi stepped forward before the Boss could speak.
+“—What kind of insolent thing are you saying?”
+Aoi pressed toward me before the Boss even could.
 $Aoi
 “Do you think you have the right to refuse?”
 $Boss
-“Stop that, Souma.”
+“Stop it, Souma.”
 $Aoi
-“...Yes, sir.”
+“...Hah.”
 $Boss
-“Kudou. Why won't you accept it?”
-The Boss asked, looking into my eyes. A sharp gaze. I felt sweat start to bead on my palms.
+“Kudou. Why won't you take it?”
+The Boss questioned me while looking into my eyes. A sharp gaze. Sweat began to form on my palms.
 $Sousuke
-“...I have no reason to accept it.”
+“...I have no reason to take it.”
 $Boss
-“Hah-hah... you say interesting things. There’s a perfectly good reason: it’s the salary for the work you’ve done so far.”
+“Hahah... You say interesting things. Is the salary for the work you've done so far not a proper reason?”
 $Sousuke
-“...I’ve been getting paid for each job.”
+“...If it’s a reward, I take it every time I work.”
 $Boss
-“Hmm... then consider it a special bonus. Surely you won't object to that?”
-Good grief—even if I get a fortune in exchange for my freedom, I can't think of a single thing to spend it on.
-I suppose it’s better than being destitute, though.
+“Hmm... then let's call it a temporary bonus. You won't mind that, surely.”
+Good grief—even if I get a large sum of money in exchange for my freedom, I can't think of a single thing to spend it on.
+I suppose I should be grateful as long as I don't have trouble making a living.
 $Boss
-“You can always scatter it if you’re ever chased by those incompetent fools. Hah-hah-hah...”
-The Boss laughed boisterously while taking a cigar from a wooden box in his desk drawer. Aoi handed the cigar cutter to him.
+“You can just scatter it around when you're chased by incompetent fools. Hah-hah-hah...”
+Laughing loudly, the Boss took a wooden box from his desk drawer and picked up a cigar. Aoi handed him a cigar cutter.
 $Boss
 “—Eventually, I’ll have you participate in an experiment.”
 $Sousuke
 “An experiment...?”
 $Boss
-“Yes. A great plan to eradicate the ignorant masses and strengthen the state.”
+“Indeed. A grand plan to eradicate the ignorant and strengthen the nation.”
 $Aoi
-“Boss, that topic is still...”
-Aoi cut in, interrupting the Boss’s words.
+“Boss, that story is still...”
+Aoi cut in as if to block the Boss’s words.
 $Boss
-“Oh, right. My apologies. I find my tongue grows loose when I’m before a promising young man. Hah-hah-hah...”
-The Boss laughed as if to cover it up.
-Good grief—it sounds like I’m about to be dragged into something truly unthinkable.
-Or rather, I’ve already been dragged into it.
+“Oh, that's right. No, no, my tongue gets loose when I’m before a promising youth. Hah-hah-hah...”
+The Boss laughed as if making an excuse.
+Good grief—it seems I’m about to be caught up in something outrageous.
+No, am I already caught up in it?
 $Aoi
-“—Well then, we shall take our leave.”
+“—Well then, we shall take our leave now.”
 $Boss
-“Hm. ...Make sure to proceed with that matter. It’s still unstable, so it seems they want to gather more experimental results.”
+“Hmm. ...Proceed with that matter. It seems they want to gather many experiment results since it’s still unstable.”
 $Aoi
 “—Understood.”
 $Sousuke
-“Hm...?”
-What were they talking about?
-Well—it was undoubtedly something I’d be better off not sticking my nose into.
+“Mm...?”
+What are they talking about?
+Well—it’s undoubtedly something I’d be better off not sticking my nose into.
 $Aoi
 “Let’s go.”
 Prompted by Aoi, we left the office.

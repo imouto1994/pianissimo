@@ -1,743 +1,743 @@
 --------------------
 9981
 ********************
-――Waiting for the dawn, we took the Keihin train from Shinagawa and made our way to Haneda Airfield.
+--We waited for dawn, took the Keihin train from Shinagawa, and made our way to Haneda Airfield.
 The sea is calm, and the sky is clear.
 $Riho
-“――Sousuke?”
+"--Sousuke?"
 Riho calls out to me as I gaze toward the ocean.
 $Sousuke
-“――Yeah?”
+"--Hmm?"
 $Riho
-“Were you lost in sentimentality?”
+"Were you lost in sentimentality?"
 $Sousuke
-“――Hardly. I was just thinking it’s a nice day.”
+"--Hardly. I was just thinking it's a nice day."
 $Riho
-“……You don't have to push yourself, you know?”
+"...You don't have to force yourself, you know?"
 $Sousuke
-“Who says I’m pushing myself?”
-I have no lingering attachments left to this city――none at all.
+"Who says I'm forcing anything?"
+I have no lingering attachments to this city--none at all.
 $Riho
-“Honestly…… you’re so stubborn.”
-Riho lets out a wry smile.
+"Honestly... you're so stubborn."
+Riho lets out a strained smile.
 $Sousuke
-“――You can’t see the Tokyo skyline from here anyway.”
-The Tokyo Bay spreads out before us. While the streets of Kamata and Shinagawa are faintly visible, I can’t see much further than that.
+"--You can't even see the Tokyo skyline from here."
+The Tokyo Bay spreads out before us. While I can faintly make out the streets of Kamata and Shinagawa, I can't see beyond them.
 $Sousuke
-“――Well, I’ll be able to see it once we’re in the air.”
+"--Well, I'll see it once we're in the air."
 $Riho
-“One last look at Tokyo from the sky? That’s actually quite elegant, isn’t it?”
+"Taking your final look at Tokyo from the sky... isn't that rather elegant?"
 $Sousuke
-“It might not be the last time.”
-Once things have cooled down someday, would I be able to return here?
-For now, I just intended to leave this city behind and start over from scratch in a new land.
+"It might not be the final look."
+Once the heat dies down someday, will I be able to return?
+For now, I simply intended to leave this city and start over from scratch in a new land.
 $Sousuke
-“――First stop is Fukuoka, right?”
+"--First it was Fukuoka, right?"
 $Riho
-“That’s right. We fly to Fukuoka on this plane, and from there it’s either another plane――or a ship to the mainland.”
+"That's right. We fly to Fukuoka on this plane, and from there it's another flight--or perhaps a ship across to the continent."
 $Sousuke
-“Good grief――it’s a long journey.”
+"Good grief--it's a long journey."
 $Riho
-“The road to freedom is long and steep.”
-Riho says, having already begun that journey a step ahead of me.
+"The journey to freedom is long and steep."
+Riho, who began that journey a step ahead of me, speaks.
 $Riho
-“I wonder――if Shanghai has become a little easier to live in by now.”
+"I wonder--perhaps Shanghai has become a bit easier to live in by now."
 Riho reaches out her hand.
 $Sousuke
-“――Let’s hope so.”
-Taking her hand, I climb the ladder to the airplane.
-Before passing through the hatch, I take one last look across the sea.
+"--Let's hope so."
+Taking her hand, I climb the ladder to the aircraft.
+Before stepping through the cabin door, I look across the sea one last time.
 From my slightly elevated vantage point, the buildings of Tokyo catch my eye.
 $Sousuke
-“――I’m sorry.”
-I offer words of farewell and apology to my friends living in that city.
-They must have a mountain of things to say to me as I throw everything away and leave.
-But right now, this is the only way――
+"--I'm sorry."
+I offer words of farewell and apology to the friends living in that city.
+They must have a mountain of things to say to me for throwing everything away and leaving.
+But for now, there is no other way--
 $Sousuke
-“……Shall we go, Riho?”
+"...Shall we go, Riho?"
 I turn my back on the city I called home.
 $Riho
-“Yes, let’s go――together, forever――”
+"Yes, let's go--together, always--"
 --------------------
 9991
 ********************
 $Sousuke
-“What the…… hell is this……?”
-At first, I thought I had the wrong room.
-But――the Seihoukai office in my memory was unmistakably this place.
-An empty room. No――rather than a room, it was just a hollow space inside a building.
-When did they move out?――
-I slowly scan the room, wondering if anything was left behind.
+"What the... hell is this...?"
+At first, I thought I'd walked into the wrong room.
+But--there was no mistake, this was the Seihoukai office from my memories.
+The room was empty. No--rather than a room, it was just a hollow space inside a building.
+When had they moved out--
+I slowly look around the room, wondering if anything was left behind.
 $Sousuke
-“――Hm?”
+"--Hmm?"
 The sound of footsteps on the hard floor.
-Did someone come?
-I look left and right. There’s nothing to hide behind.
+Has someone come?
+I look left and right. There's nothing to hide behind.
 $Sousuke
-“Tch――”
-Driven by necessity, I press my back against the wall, hiding in the shadow of the door.
-The person isn’t coming――in.
-――Shit.
+"Tch--"
+Inevitably, I press my back against the wall, lurking in the shadows behind the door.
+The person--isn't coming in.
+--This is bad.
 Instinctively sensing danger, my body stiffens.
 A slender arm reaches through the gap in the door.
 $Sousuke
-“――!?”
+"--!?"
 No time to dodge.
-My arm is grabbed and pulled with immense force.
+My arm is seized and pulled with immense strength.
 $Sousuke
-“Guh――!?”
-I’m slammed onto the floor on my back.
+"Guh--!?"
+I'm slammed onto the floor on my back.
 $Sousuke
-“Wha……gh.”
-My back hurts. I think I hit my head, too.
+"Wha...!?"
+My back aches. I think I hit my head, too.
 $???
-“――My, my, has a little rat wandered in?”
-A voice filled with mockery.
+"--Oh dear, has a little mouse wandered in?"
+A voice laced with mockery.
 $Sousuke
-“……You.”
-I glare up at Aoi, who has a smirk playing on her lips.
-She’s wearing clothes I’ve never seen.
-Is this――a military uniform?
+"...You bitch."
+I glare up at Aoi, who has a smirk playing on the corners of her mouth.
+She's wearing clothes I've never seen before.
+Is this--a military uniform?
 $Aoi
-“Showing your face after all this time, what business could you possibly have?”
+"Showing your face after all this time... what business do you have here?"
 $Sousuke
-“……You already know, don’t you?”
+"...You already know, don't you?"
 $Aoi
-“Oh――I wonder.”
-Without losing her smile, Aoi pokes at my body with the toe of her boot as I lie there on the floor.
+"Well now--I wonder?"
+Without letting her smile slip, Aoi pokes my body with the tip of her boot as I remain sprawled on the floor.
 $Sousuke
-“Guh……”
-She stomps on the back of my hand with her heel.
+"Guh..."
+She grinds her heel into the back of my hand.
 $Aoi
-“……I feel quite sorry for your little friend.”
+"...I feel quite sorry for your little friend."
 $Sousuke
-“――!!”
-It’s obvious who she’s talking about.
+"--!!"
+It's obvious who she's referring to.
 $Sousuke
-“It was you after all…… Ayane was!!”
+"It was you after all... Ayane!!"
 $Aoi
-“Fufu――”
-Aoi’s smile remains fixed.
-My trampled hand creaks with pain.
+"Hehe--"
+Aoi's smile doesn't waver.
+My crushed hand creaks with pain.
 $Aoi
-“――And if I did, what are you going to do about it?”
+"--And if it was, what will you do about it?"
 $Sousuke
-“You bitch――!!”
-With every ounce of my strength, I shake off Aoi’s leg.
+"You bitch--!!"
+I put every ounce of my strength into throwing off Aoi's leg.
 $Sousuke
-“I’ll never forgive you……!!”
+"I won't forgive you...!!"
 $Aoi
-“Ufu――”
-Just as I move to lung at her.
+"Ufufu--"
+Just as I move to lung at Aoi.
 $Sousuke
-“――!”
-What the――
+"--Ngh"
+What--
 Sweat trickles down my cheek.
-I wipe it with the back of the hand that was just stepped on.
-The sweat flows into my eyes.
-It’s red.
-This is――blood.
+I wipe it with the back of the hand she'd stepped on.
+Sweat flows into my eyes, too.
+It's red.
+Is this--blood.
 Again and again.
-My body wavers.
+My body sways.
 My shirt is stained red.
 A dull impact hits the right side of my head.
-Half of my vision is snatched away.
-It’s no use――I’m falling.
-――Dammit.
+Half my vision is stolen away.
+It's no use--I'm falling.
+--Dammit.
 Unable to even brace myself, I fall face-first onto the floor.
-In my distorted vision, I see someone’s boots.
-――Aoi?
-A boot approaches.
+In the corner of my distorted vision, I see a pair of shoes.
+--Is it Aoi.
+A boot draws near.
 My remaining eye is crushed.
-In a world of total darkness, for a moment, I thought I saw Ayane’s figure, but that’s impossible.
-Because she is already dead――
-Abruptly, I become conscious of death.
+In the pitch-black world, I felt like I caught a glimpse of Ayane for a moment, but that's impossible.
+Because she is already dead--
+Abruptly, I became conscious of death.
 $Sousuke
-“――I guess so, it won’t be lonely.”
+"--That's right, I suppose it won't be lonely."
 Ayane must be waiting, too.
 Though I might be falling straight to hell.
 $Sousuke
-“……Sorry, I’m…… heading out first.”
-I mutter to those I’ve left behind.
-The only regret――is that I couldn’t take the one who killed Ayane and me down with me.
+"...Sorry, I'm... going on ahead."
+I mutter to those I've left behind.
+My only regret--is that I couldn't take the ones who killed Ayane and me down with us.
 $Aoi
-“Goodbye, Kudou Sousuke. You certainly――entertained me.”
-My fading sense of touch feels something pressed against my forehead.
+"Goodbye, Sousuke Kudou. I must say--I quite enjoyed myself."
+A faint lingering sensation of touch felt something pressed against my forehead.
 $Sousuke
-“――Later.”
+"--So long."
 --------------------
 9992
 ********************
 $Sousuke
-“What the…… hell is this……?”
-At first, I thought I had the wrong room.
-But――the Seihoukai office in my memory was unmistakably this place.
-An empty room. No――rather than a room, it was just a hollow space inside a building.
-When did they move out?――
-I slowly scan the room, wondering if anything was left behind.
+"What the... hell is this...?"
+At first, I thought I'd walked into the wrong room.
+But--there was no mistake, this was the Seihoukai office from my memories.
+The room was empty. No--rather than a room, it was just a hollow space inside a building.
+When had they moved out--
+I slowly look around the room, wondering if anything was left behind.
 $Sousuke
-“――!”
-In the corner of the room, in a blind spot from where I had just entered, a man stood in the shadow of a pillar.
+"--Ngh"
+In the corner of the room, in a blind spot behind a pillar, a man was standing.
 $Sousuke
-“Why…… are you……”
-Master――Godou, exhaled cigarette smoke without answering my question.
+"Why... are you here..."
+Master--Godou--exhaled a cloud of cigarette smoke without answering my question.
 $Godou
-“……The world’s become a nasty place.”
+"...The world has become a wretched place."
 Godou mutters.
 $Sousuke
-“Master…… what were you doing, abandoning the shop……?”
+"Master... what the hell were you doing, abandoning the shop...?"
 $Godou
-“――Various things. There were too many matters that needed attending to.”
+"--Various things. There are simply too many things that must be done."
 $Sousuke
-“Enough to abandon the shop?”
+"Enough to abandon the shop?"
 $Godou
-“……I suppose so.”
+"...I suppose so."
 Cigarette ash falls to the floor.
 $Sousuke
-“……That’s rare, you smoking.”
-Whenever I tried to smoke in the bar, Master would make a face――
+"...It's rare for you to be smoking."
+Whenever I tried to smoke in the bar, Master would make a disgusted face--
 $Godou
-“――I had decided not to smoke anymore.”
-Fiddling with a pack of Bat cigarettes, Master looks up.
-It’s the same Master as always, the one behind the bar counter.
+"--I had decided not to smoke anymore."
+Master, who had been fiddling with a pack of Bat cigarettes, looks up.
+It's the same Master who usually sits behind the bar counter.
 $Godou
-“――Here.”
-He tosses a cigarette my way――and I reach out for it.
+"--Here."
+He tosses a cigarette over--and I reach out my hand.
 $Sousuke
-“――!?”
-It was――an instant.
+"--!?"
+It was--an instant.
 $Godou
-“……It’s bitter.”
-Sheathing his sword, Master groans with a look of bitter resentment.
+"...Bitter."
+Sheathing his blade, Master groans with a bitter expression.
 $Sousuke
-“Ugh…… guh……!?”
-The strength suddenly drains from my body, and I fall to my knees on the floor.
+"Ugh... guh...!?"
+Strength rapidly drains from my body, and I fall to my knees.
 $Sousuke
-“Wha…… agh……!?”
-Feeling an odd sensation, I press my hand to my stomach.
-The touch of lukewarm――blood.
-A red puddle spreads across the floor.
+"Wha... agh...!?"
+Sensing something wrong, I press my hand to my stomach.
+The sensation of lukewarm--blood.
+A red pool spreads across the floor.
 $Sousuke
-“Why…… why……”
+"Why... how... come..."
 My consciousness fades.
 My upper body collapses onto the floor.
-――It’s cold.
-It should be midsummer――but it’s so cold.
-In front of me, the lit cigarette falls.
+--It's cold.
+It should be midsummer--but it's cold.
+A lit cigarette falls before my eyes.
 It looks warm.
-I wonder if I can get warm?
+I wonder if it can warm me?
 A leather shoe crushes the cigarette butt.
-Ah…… it’s gone.
+Ah... it's gone.
 $Godou
-“……Killing a person is always like this. It’s a bitter thing.”
-Master’s voice――
-Sounds like it’s coming from somewhere far, far away――
+"...Killing someone is always like this. It leaves a bitter taste."
+Master's voice--
+I can hear it--from far, far away--
 --------------------
 9993
 ********************
-After saying goodbye to Chika, I head out into the street.
-There don’t seem to be many drunken customers today.
-I walk down the middle of the road at a leisurely pace.
-A few stalls are set up, but I pass them by without any intent to browse.
-While wandering, I find myself in a narrow back alley.
+I bid Chika farewell and step out onto the street.
+There seem to be few drunken revelers today.
+I walk leisurely down the middle of the road.
+A few stalls are set up, but I pass them by without any intention of browsing.
+While wandering aimlessly, I find myself in a narrow back alley.
 $Sousuke
-“――Tch.”
-I’ve come to a nasty place.
-That rainy night, I was attacked by a crazed woman right here.
-If it hadn't been for that, I’d still be living my life as usual.
-Truly――a nasty place.
-Someone appears behind me.
+"--Tch"
+I've come to a wretched place.
+On that rainy night, I was attacked here by that crazed woman.
+If not for that, I would still be living my life as usual.
+Really--it's a wretched place.
+Someone appeared behind me.
 $Sousuke
-“――!?”
-I turn around――and for a moment, my breath catches.
+"--!?"
+I turn around--and for a moment, I catch my breath.
 $Takuma
-“――Yo.”
+"--Yo."
 $Sousuke
-“Takuma……?”
-Takuma stands there, blocking the alley.
+"Takuma...?"
+Takuma was standing there, blocking the alley.
 $Sousuke
-“Why are you here……?”
+"Why are you here...?"
 $Takuma
-“It’s obvious. ……To arrest you.”
+"It's obvious. ...To arrest you."
 $Sousuke
-“――!”
-I can’t believe Takuma’s words.
+"--Ngh"
+I can't believe Takuma's words.
 $Takuma
-“I’ve let you run and watched how things played out until now――but it’s over.”
-Takuma says with an expression like he’s chewing on a bitter bug.
+"I've been letting you run free to see how things went--but it's over now."
+Takuma declares with a grimace.
 $Takuma
-“Surrender quietly――Kudou.”
+"Submit quietly to your arrest--Kudou."
 Behind Takuma, and behind me as well, men who appear to be plainclothes police officers in suits appear.
 $Sousuke
-“Tch――”
-In this narrow path, there’s no way to escape.
+"Tch--"
+In this narrow path, there's no way out.
 $Sousuke
-“――Why?”
+"--Why?"
 $Takuma
-“……Catching criminals is my――the police’s job.”
+"...Catching criminals is my--the police's--job."
 $Sousuke
-“Hah――”
-If that’s the case――don’t make such a pained face.
+"Hah--"
+Then--don't make such a pained face.
 $Takuma
-“Give it up――Kudou.”
+"Give it up--Kudou."
 Takuma takes a few steps closer.
-I guess this is the end of the line――
-The perimeter closes in.
-In that moment――
+Is this where my luck finally runs out--
+The circle of the perimeter narrows.
+Just then--
 $Sousuke
-“――!?”
-Beyond the plainclothes detectives――I see her.
+"--!?"
+Beyond the plainclothes detectives--I saw her.
 Then it all clicked.
-Takuma’s attitude――is this pressure from the Seihoukai?――
+Takuma's attitude--is this pressure from the Seihoukai--
 $Sousuke
-“Don’t screw with me…… you bastards……”
+"Don't screw with me... you bastard..."
 $Takuma
-“Kudou――?”
-I shake off Takuma’s hand on my shoulder.
+"Kudou--?"
+I shake off Takuma's hand as it rests on my shoulder.
 $Takuma
-“Hey――just stay quiet.”
+"Hey--just come quietly."
 $Sousuke
-“――Sorry, Takuma.”
+"--Sorry, Takuma."
 I drive my fist into his solar plexus.
 $Takuma
-“Guh……!?”
-I slip past the kneeling Takuma and try to push through the detectives.
+"Guh...!?"
+I slip past the kneeling Takuma and try to break through the detectives.
 $Takuma
-“Hey――!!”
-Hands reach out.
-Dodging them, I try to catch Aoi――
-My arm is grabbed, and I’m slammed to the ground.
+"Hey--!!"
+Hands reach out for me.
+Avoiding them, I try to seize Aoi--
+My arm is grabbed, and I'm slammed onto the ground.
 $Sousuke
-“Gugh――”
+"Guh--"
 $Takuma
-“Futile resistance is――”
-The detectives pile onto me one after another.
+"Resistance is futile--"
+Detectives pile on top of me one after another.
 $Sousuke
-“Let go!!”
-I have to――
-If I don’t beat the hell out of that bitch Aoi, I won’t be satisfied――
+"Let go!!"
+I have to--
+I won't be satisfied until I've beaten that woman--until I've beaten Aoi to a pulp--
 $Aoi
-“Ufufu――”
-Aoi’s provocative, mocking laughter reaches my ears.
+"Ufufu--"
+Aoi's provocative, mocking laughter reaches my ears.
 My body aches.
 $Aoi
-“――A useless man.”
-I――
-I swore in my heart that no matter what fate awaited me, I would never forgive this woman.
+"--Useless man."
+I--
+I swore in my heart that no matter what fate awaited me, I would never, ever forgive this woman.
 --------------------
 START
 ********************
-Start From the Beginning
+Start from the beginning
 CONDUCTOR
 --------------------
 q01
 ********************
-“――Why are you alive?”
-“There is no meaning in my being alive.”
-“The meaning of my existence is to surpass you.”
-“――Then do your best, Qwon.”
-“You are unfair, Sister.”
-“Why?”
-“You are always several steps ahead of me.”
-“That is because you are walking several steps behind me.”
-“What is the most sinful thing in this world?”
-“The world knows no merit or sin. Only humans recognize transgression.”
-“Then――what is the greatest transgression a human can recognize?”
-“――Being alive, I suppose.”
-“Then――is death the greatest achievement?”
-“――Dying is not an achievement or anything of the sort. $It is merely a state of cessation, nothing more.”
-“Which would you choose, Sister?”
-“I choose nothing. If I were forced to choose――$I suppose I would select the opposite of whichever you picked.”
-“If I choose to live, then you will die, Sister.”
-“You are quite malicious, aren't you. Fufu…… you truly are my sister.”
-“……I am not as malicious as you, Sister.”
+"--Why are you alive?"
+"There is no meaning in my being alive."
+"The meaning of my life is to surpass you."
+"--Then do your best, Qwon."
+"You're unfair, Sister."
+"Why?"
+"You are always several steps ahead of me."
+"That is because you are walking several steps behind me."
+"What is the most sinful thing in this world?"
+"The world knows nothing of merit or sin. Only humans recognize transgression."
+"Then--what is the greatest transgression a human can recognize?"
+"--To be alive, I suppose."
+"Then--is death the greatest achievement?"
+"--Dying is not an achievement or anything of the sort. It is merely a state of cessation, nothing more."
+"Which would you choose, Sister?"
+"I choose nothing. If I were forced to choose--I suppose I would select the alternative to whatever you chose."
+"If I choose to live, then you will die."
+"You're quite wicked, aren't you. Fufu... truly my sister."
+"...I'm not as wicked as you, Sister."
 --------------------
 q02
 ********************
-　I had an older sister.
-　My sister, Towa, who left our mother’s womb just a moment before me.
-　I, who inhaled the air a few seconds later, did not even cry out. I felt that shedding tears in front of others was a shameful thing after seeing my sister weeping.
-　Later, my sister said. That the reason she was crying was because she lamented being brought into this world. That she regretted ever being born.
-　My sister and I were two peas in a pod. At least to anyone other than ourselves, even our parents could not tell us apart.
-　But there was a critical difference between my sister and me. Perhaps it should be called talent, but she was born with “something” that I did not possess.
-　I realized even as I was born that I could never surpass my sister.
-　From the time we were young, whenever we had free time, we would shut ourselves in our father’s study and pore over literature from all times and places.
-　Perhaps our father, a scientist, realized our talent, as he marketed us to newspapers and the like.
-　The Genius Sisters Appear――with such trivial sentences, we were dragged out into the public eye.
-　In the end, our father understood nothing about us. We didn't need fame or anything of the sort. We just wanted to be able to do what we loved.
-　I was always looking at my sister’s back. An existence that seemed identical yet was absolutely impossible to catch.
-　My sister was kind to me. Even though she became the elder by a few hours, she naturally acted as the older sister without ever putting on airs.
-　That made me incredibly happy――and incredibly frustrated.
-　While the people around us couldn't distinguish between the two of us, there was a clear divide between us.
-　――It was only natural that I would come to harbor murderous intent toward her.
-　One night, my sister and I met on the rooftop to talk.
-　My sister followed me without the slightest suspicion.
-　Facing the sister who had the same face as mine, I broached the subject.
+I had an elder sister.
+Eternity, who emerged from our mother's womb just moments before I did.
+Breathing the air a few seconds later, I didn't even let out a birth cry. I felt it was shameful to shed tears in front of others after seeing my sister crying.
+Later, my sister said. That she was crying because she lamented being brought into this world. That she regretted ever being born.
+My sister and I were identical. At the very least, no one besides ourselves--not even our parents--could tell us apart.
+But there was one decisive difference between my sister and me. Call it talent or what you will, she was born with "something" that I did not possess.
+I had already realized at the moment of my birth that I could never surpass my sister.
+Since we were young, we would shut ourselves in our father's study whenever we had the chance, devouring literature from all times and places.
+Perhaps realizing our talent, our father, a scientist, sold our stories to newspapers and the like.
+"The Genius Sisters Appear"--we were dragged into the public eye with such trite phrases.
+In the end, our father understood nothing about us. We didn't need fame or anything else. We only wanted to be able to do what we loved.
+I was always looking at my sister's back. An existence that was exactly like my own, yet one I could never hope to catch.
+My sister was kind to me. Despite becoming the elder sister by only a few hours, she acted naturally as an elder sister without ever lording it over me.
+That made me incredibly happy--and incredibly frustrated.
+While those around us couldn't distinguish between the two of us, there was a clear divide between us.
+--It was only a natural progression for me to harbor murderous intent toward her.
+One night, my sister and I arranged to talk on the rooftop.
+My sister followed me without the slightest suspicion.
+Before my sister, who bore the same face as mine, I broached the subject.
 $Qwon
-“――I don't need two of us.”
+"--I don't need two of us."
 $Towa
-“I feel the same, Qwon.”
-　My sister nods. As I thought――she had the same idea as me.
+"I feel the same, Qwon."
+My sister nods. As I thought--she had the same idea.
 $Towa
-“――However, you and I are different people. We may be genetically identical, but I am me, and you are you. We are separate personalities.”
+"--However, you and I are different people. We may be genetically identical, but I am me, and you are you. We are separate personalities."
 $Qwon
-“Your existence irritates me.”
+"Your existence irritates me."
 $Towa
-“Your existence soothes me.”
-　She wears a smile. I am mocking her.
-　If she has the same thoughts as me, then she will try to kill me. Because I don't need two of us.
+"Your existence puts me at ease."
+She wears a smile. I am laughing.
+If she has the same thoughts as I do, then she will try to kill me. Because I don't need two of us.
 $Towa
-“I shall follow your lead.”
-　Gently, even playfully. She draws close to me.
+"I shall follow your thinking."
+Gently, even playfully. She draws close to me.
 $Towa
-“Now――what do you intend to do with me?”
+"Now--what are you going to do with me?"
 $Qwon
-“I will…… you――”
-　I grip her arm.
+"I am going to--"
+I seize her arm.
 $Towa
-“――You cannot kill me.”
+"--You cannot kill me."
 $Qwon
-“――!”
-　The strength in my arm wavers slightly.
+"--Ngh"
+The strength in my arm wavers slightly.
 $Qwon
-“――Sister.”
-　She slips from my grasp and stands on the edge of the roof.
+"--Sister."
+She slips from my grasp and stands on the edge of the roof.
 $Towa
-“I don't need two of us. So I――”
-　My sister――Mikanagi Towa wears a sublime smile that I could never emulate.
+"I don't need two of us. So I shall--"
+My sister--Eternity Mikanagi--wears an exquisite smile that I could never hope to replicate.
 $Towa
-“So I――shall vanish.”
-　And so I――became only one.
+"So I shall--vanish."
+And so I--became alone.
 --------------------
 q03
 ********************
-　My sister’s funeral was held quietly.
-　Many people shed tears, lamenting my sister’s death.
-　What are they grieving for? Even though I am still alive.
-　People whose names I don't even know are crying. They are all hypocrites. What could you possibly have known about my sister?
-　――I think I can forgive only the tears shed by my parents. Because they can no longer use the catchphrase of the “Genius Twin Sisters” they marketed us as.
-　After my sister fell from the rooftop, I told my parents the truth.
-　――That I killed my sister.
-　My parents did not believe it. They said the clever Qwon could never do such a thing, that it was impossible for me to kill her since we got along so well.
-　Why are they so certain that people won't kill each other if they get along?
-　It’s precisely because we got along so well――that killing becomes a possibility.
-　From that day on, I began to absorb even more knowledge.
-　Until now, I had worked with my sister to collect knowledge, so doing it alone was quite a laborious task.
-　I had prided myself on being completely equal to her, but my sister was a great existence after all.
-　Because I killed her, she became an existence I can never catch up to.
-　Even after my sister was gone, I was often featured in the newspapers. I was praised as having rare talent, but I could harbor no interest in such things.
-　No matter how much the evaluation around me rose, I will never be able to surpass my sister for the rest of my life.
-　From around this time, I stopped looking in the mirror.
-　I felt as if my sister, with the same face as mine, was mocking me from the other side of the light-reflecting glass.
-　As if she were saying that I still haven't caught up.
-　As if she were saying that I’m still alive.
+My sister's funeral was held quietly.
+Many people shed tears, lamenting my sister's death.
+What are they grieving for? Even though I am still alive.
+People whose names I don't know are crying. They're all hypocrites. What did any of you know about my sister?
+--I suppose I can forgive the tears my parents are shedding. Because they can no longer use the catchphrase "The Genius Twin Sisters" that they used to market us.
+After my sister fell from the roof, I told my parents the truth.
+--That I had killed my sister.
+My parents refused to believe it. That the clever Qwon could never do such a thing, that it was impossible to kill her since we got along so well.
+How can they say with such certainty that you wouldn't kill someone if you got along?
+It's precisely because we got along so well--that one might kill the other.
+From that day forward, I began to absorb even more knowledge.
+Until then, I had been collecting knowledge together with my sister, so doing it alone was quite a laborious task.
+I had prided myself on being completely equal, but my sister was a great existence after all.
+Because I killed her, she became an existence I could never surpass.
+Even after my sister was gone, I was often featured in the newspapers. I was praised for my extraordinary talent, but I couldn't find any interest in such things.
+No matter how high the evaluation of those around me grew, I could never overtake my sister for as long as I lived.
+Around this time, I stopped looking in mirrors.
+I felt like my sister, with the same face as mine, was laughing on the other side of the light-reflecting glass.
+As if she were saying I still hadn't caught up.
+As if she were saying I was still alive.
 For the first time in my life, I hated my own face.
 --------------------
 q04
 ********************
-　A year has passed since my sister died.
-　As always, I was obsessively gathering knowledge.
-　The reason I continued to this extent must have been because it was fun. With only the pride of doing something my sister could no longer do, I pored over books mechanically.
-A terrible self-satisfaction――it was nothing more than an act of masturbation.
-　My knowledge already far exceeded the amount of books in the house, and I had begun to reach out as far as overseas.
-　I learned English, German, and French just to read academic papers, and I even came to read and write Italian, Dutch, Russian, and Chinese as a hobby.
-　My parents treated me as if they were cherishing a flower or a butterfly. The affection that would have gone to my sister came flooding toward me unilaterally.
-To be honest, it was very troublesome.
-　It was on a certain night.
-　I woke up at a slight noise coming from outside.
-　A window or a door must have opened; I felt a slight vibration in the air and rose from my bed.
-　It seems someone has intruded into this building. A burglar, perhaps, or a serial intruder――
-　There are many assets in this house. It wouldn't be strange for a robber to come aiming for them――
-　――He’s approaching.
-　Apparently, he’s not a common thief. There is no hesitation in his stride.
-　He is heading straight――for this room.
-　If he isn't a burglar, then I must welcome him.
-　I made myself presentable and stood in front of the door to the room.
-　The door opened, and a tall man appeared.
+A year has passed since my sister died.
+As usual, I was obsessively gathering knowledge.
+I suppose I continued because it was enjoyable. Armed only with the pride that I was doing things my sister could no longer do, I mechanically devoured books.
+A terrible self-satisfaction--it was nothing more than an act of masturbation.
+My knowledge had already far exceeded the amount of books in our house, and I was beginning to reach out to overseas materials.
+I learned English, German, and French just to read academic papers, and I even came to read and write Italian, Dutch, Russian, and Chinese for hobby and entertainment.
+My parents treated me as if they were doting on a precious flower. The affection that no longer had my sister as a recipient came rushing toward me unilaterally.
+Honestly, it was very bothersome.
+Then, late one night.
+I was awakened by a slight noise from outside.
+A window or door must have opened; I felt a slight disturbance in the air and sat up in bed.
+Someone had intruded into the building. Whether it was a burglar or a "lecture thief"--
+This house has many assets. It wouldn't be strange for a burglar to come targeting them--
+--They're drawing closer.
+It seems they aren't here for theft. There's no hesitation in their stride.
+They are coming straight--toward this room.
+If they aren't a burglar, I must welcome them.
+I straightened my appearance and stood in front of the door.
+The door opened, and a tall man appeared.
 $Qwon
-“――I have been waiting for you.”
-　Seizing the initiative, I called out to the man.
-　He must have been surprised; he widened his eyes behind his tinted glasses and stared at me.
+"--I have been waiting for you."
+Gaining the initiative, I spoke to the man.
+He must have been surprised; his eyes widened behind his colored glasses as he stared at me.
 $Godou
-“You are――Mikanagi Qwon, right?”
+"You are--Qwon Mikanagi?"
 $Qwon
-“Is that not something you could tell without going through the trouble of confirming?”
-　I speak with a hint of disappointment.
+"Is it not something that can be understood without having to go out of your way to confirm it?"
+I speak with a hint of disappointment in my voice.
 $Qwon
-“Your objective is me, isn't it?”
+"Your objective is me, is it not?"
 $Godou
-“……Why do you think so?”
-　The man asks quietly.
+"...Why do you think so?"
+The man asks quietly.
 $Qwon
-“You came straight here. If you were a burglar, you would have first headed to the study or somewhere else where money was likely to be kept.”
+"You came straight here. If you were a burglar, you would first head for the study or somewhere else where money might be kept."
 $Godou
-“Just from that――”
+"Just with that--"
 $Qwon
-“An ordinary burglar would not confirm my name.”
+"An ordinary burglar would not confirm my name."
 $Godou
-“I see…… a talented young lady, just as the rumors say.”
+"I see... a talented young lady, just as the rumors say."
 $Qwon
-“Something of this level――anyone could have predicted it.”
-　I slowly approached the man. He might be the type of person society calls a villain, but such an evaluation is not a problem for me.
-　Whether he is a person I can utilize or not.
+"Something like this--anyone could have predicted it."
+I slowly approached the man. He might be the kind of person society calls a villain, but such an evaluation is of no concern to me.
+Is he someone I can use, or not?
 $Qwon
-“Your name is――”
+"Your name is--"
 $Godou
-“……I cannot give my name.”
-　He stubbornly holds his tongue. Naturally. But I still looked him straight in the eye.
+"...I cannot give my name."
+He stubbornly remains silent. Naturally so. But I continued to look him straight in the eye.
 $Qwon
-“――State your name.”
+"--Tell me your name."
 $Godou
-“……Godou Genichirou.”
-　He opened his mouth obediently.
+"...Genichirou Godou."
+He opened his mouth honestly.
 $Qwon
-“I see. ……Then Godou, please guide me.”
+"I see. ...Then, Godou, please guide me."
 $Godou
-“Guide you――?”
+"Guide you--?"
 $Qwon
-“You came here to kidnap me, didn't you?”
+"You came here to kidnap me, did you not?"
 $Godou
-“But――”
-　He――Godou, is perplexed, as I expected.
-　I reached for a large vase decorated against the wall.
+"But--"
+He--Godou--is bewildered, just as I expected.
+I reached out for a large vase that was on display against the wall.
 $Godou
-“――!”
-　The vase falls to the floor and turns into mere dust.
+"--Ngh!"
+The vase falls to the floor, turning into nothing but dust.
 $Godou
-“What are you……?”
+"What are you...?"
 $Qwon
-“Now――what will you do? That sound echoed throughout the mansion――it seems everyone has woken up.”
-　I knew what he would do from here on out. He would not flee until he had secured my person. Furthermore, he is not soft enough to overlook any witnesses.
+"Now--what will you do. That sound has echoed throughout the mansion--it seems everyone has awakened."
+I knew what he would do next. He wouldn't flee until he had secured my person. Furthermore, he wouldn't be so soft as to let witnesses go.
 $Godou
-“Tch――”
-　Godou grabs my arm.
+"Tch--"
+Godou seizes my arm.
 $Godou
-“……You’re coming with me, Mikanagi Qwon.”
+"...You're coming with me, Qwon Mikanagi."
 $Qwon
-“――It is still too early.”
-　I need to cut off any lingering worries.
-The sound of two sets of footsteps can be heard.
+"--It is still too early."
+I need to eliminate any future concerns.
+I can hear the footsteps of two people.
 $Qwon
-“Now――Godou. Please do not disappoint me.”
-　The door opens, and I see my parents’ faces.
+"Now--Godou. Please do not disappoint me."
+The door opened, and I could see my parents' faces.
 $Godou
-“Shit――”
-　It was the first time I had heard a gunshot from so close.
-　Because Godou was still holding my arm, the wave of sound jumped directly into my ears.
-　My ears are ringing terribly; I can't even tell if my parents died with a cry of agony.
+"Dammit--"
+It was the first time I had heard a gunshot at such close range.
+Since Godou still had a hold of my arm, the sound waves flew directly into my ears.
+With the terrible ringing in my ears, I couldn't even tell if my parents had died letting out cries of agony.
 $Godou
-“……What did you intend for me to do?”
-　Godou’s voice seemed to come from far away.
+"...What were you intending for me to do."
+Godou's voice seemed to come from far away.
 $Qwon
-“――You showed me the result exactly as I intended. What dissatisfaction could I possibly have with that?”
-　Godou’s hand released me.
+"--You have shown me the result exactly as I intended. What dissatisfaction could I possibly have?"
+Godou's hand released me.
 $Qwon
-“Now――shall we go?”
+"Now--shall we go?"
 $Godou
-“……Why?”
+"...Why?"
 $Qwon
-“Because being a caged bird forever is boring. Besides, there is nothing left here for me to know.”
+"Because being a caged bird forever is tiresome. Besides, there is nothing left here that I can learn."
 $Godou
-“……The place we are going is also like a cage, you know.”
+"...The place we are going is also like being inside a cage."
 $Qwon
-“Even so, it is more meaningful than remaining here.”
-　I turned toward Godou and lightly pinched the hem of my negligee.
+"Even so, it is more meaningful than remaining here."
+I turned back to Godou and lightly pinched the hem of my nightgown.
 $Qwon
-“Thank you for coming to kidnap me――Uncle.”
-　While smelling the scent of my parents’ blood, I gave an elegant bow.
+"Thank you for coming to kidnap me--Uncle."
+While smelling the scent of my parents' blood, I gave an elegant bow.
 --------------------
 q05
 ********************
-　The place Godou brought me to was a large building in Kudanshita.
-　I was immediately confined in a warehouse that looked like a materials storage area in the basement.
-　The curved concrete ceiling told of the fact that this was part of an underground facility like a tunnel.
-　It could not be called good treatment as a dwelling. However, for me, this warehouse, which freed me from the troubles of dealing with people, was an irreplaceable home.
-　Godou often visited me. Each time he came, he brought dolls or trinkets that a girl of my age would likely enjoy, but I was never interested in such things.
-　Instead, I told him I wanted to read books that were rarely obtainable, which perplexed him.
-　But he acted to fulfill my requests, bringing overseas academic journals and even classified military information to me.
-After those days continued for a while, I came to leave the underground warehouse for the first time in a long while.
-　In a word, it was a room in poor taste.
-　The master of this room must have a strong desire for self-display; there was only one desk in the vast room. Below the wide-open window was the Kitanomaru of the Imperial Palace.
+Where Godou took me was a large building in Kudanshita.
+I was immediately confined in a warehouse that looked like a materials storage area in the basement.
+The curved concrete ceiling told the story that this was part of a tunnel-like underground facility.
+As a residence, it couldn't be called good treatment. But for me, this warehouse, which freed me from the bothersome interactions with other people, could be called an irreplaceable home.
+Godou often visited me. Every time he came, he brought dolls and accessories that a girl of my age would likely enjoy, but I was never drawn to such things.
+Instead, I said I wanted to read books that were rarely obtainable, which perplexed Godou.
+But he moved to satisfy my demands, bringing overseas academic journals and even classified military information to me.
+After such days continued for a while, I ended up leaving the underground warehouse for the first time in a long while.
+To put it in a word, it was a room in poor taste.
+The master of this room must have a strong desire for self-display; there was only one desk in the vast interior. Below the wide-open window was Kitanomaru of the Imperial Palace.
 $Ouzenji
-“――So you are Mikanagi Qwon.”
-　The arrogant old man――Ouzenji Kiyomasa, sized me up with a sharp gaze.
-　Without harboring any particular emotion, I looked back at him.
+"--Are you Qwon Mikanagi?"
+The haughty old man--Kiyomasa Ouzenji--appraised me with a sharp gaze.
+Without putting any particular emotion into it, I stared back.
 $Ouzenji
-“Hmph――I don't like you.”
-　I have no intention of being liked.
+"Hmph--I don't like you."
+I have no intention of being liked.
 $Ouzenji
-“Godou――I leave the surveillance of this girl to you. That matter――make sure it succeeds.”
+"Godou--I leave the monitoring of this young girl to you. That matter--make sure you bring it to a successful conclusion."
 $Godou
-“Yes――”
-　Godou invited me and led me out of this room in poor taste.
+"Yes--"
+Godou invited me and led me out of this room in poor taste.
 $Godou
-“Mikanagi――”
+"Mikanagi--"
 $Qwon
-“Please call me Qwon.”
-　I don't like being called by my family name. Because I can't tell whether my sister or I am being called.
+"Please call me Qwon."
+I do not like being called by my surname. Because I cannot tell whether my sister or I am being called.
 $Godou
-“I, I see. ……Then Qwon, from now on, you will be moved to another place and have you develop a certain thing.”
+"I-I see. ...Then, Qwon, from now on you will move to another place and develop a certain thing."
 $Qwon
-“I don't mind.”
-　I nod immediately. The basement here is quiet and comfortable, but occasionally I do want to bathe in the outside light.
-　The place I was brought to was a detached house where Godou usually lived.
+"I do not mind."
+I nod immediately. The basement here is quiet and comfortable, but I occasionally want to bask in the light outside.
+The place I was brought to was a detached house where Godou usually lived.
 $Qwon
-“――Not a bad place.”
+"--It's not a bad place."
 $Godou
-“……Is that so?”
-　Godou is making coffee while nodding.
+"...I see."
+Godou is brewing coffee as he nods.
 $Godou
-“……I’m going to have you develop a device to manipulate people’s hearts here.”
-　Godou pours the coffee into a teacup while talking. I would prefer it if he used a Western-style cup at least.
+"...I'm going to have you develop a device to manipulate the human heart here."
+Godou pours coffee into a teacup as he speaks. I would prefer it if he used a Western-style cup at the very least.
 $Qwon
-“A device to manipulate people’s hearts, you say――”
-　Several methods immediately came to mind.
+"A device to manipulate the human heart, is it--"
+In an instant, several methods came to mind.
 $Godou
-“……That’s right. It is something necessary to make this country better.”
+"...That's right. It's a necessary thing to make this country better."
 $Qwon
-“Sophistry is unnecessary.”
+"Sophistry is unnecessary."
 $Godou
-“Mgh……”
-　Perhaps he felt that way himself, as Godou fell silent without arguing back.
-　I take a sip of the coffee in the teacup. It wasn't very tasty, with only the acidity standing out.
+"Ngh..."
+Perhaps sensing it himself, Godou fell silent without making any counterargument.
+I took a sip of the coffee in the teacup. It was not very delicious, with only the acidity standing out.
 $Qwon
-“――There is no need for a machine to manipulate people’s hearts.”
+"--There is no need for a machine to manipulate the human heart."
 $Godou
-“……I suppose someone like you would say that.”
-　Godou does not get angry, and even wears a wry smile.
+"...I thought you might say that."
+Godou doesn't get angry; he even wears a strained smile.
 $Godou
-“Not everyone is as skilled in the art of psychological manipulation as you are.”
+"Not everyone is as well-versed in the art of controlling people's minds as you are."
 $Qwon
-“……Were you aware of that?”
-　I mutter with a bit of surprise.
+"...Were you self-aware of that?"
+I mutter with a bit of surprise.
 $Godou
-“I was used to being ordered around, so it’s honestly a help to have someone give instructions.”
+"I was used to being ordered around, so having someone give me instructions is honestly helpful."
 $Qwon
-“I am not ordering anything.”
+"I have not ordered anything."
 $Godou
-“Perhaps that is the secret to moving people.”
-　He convinced himself and drank the coffee as if it were delicious.
-　Perhaps I should order him to be able to make delicious coffee.
-　After that, I began researching the device to manipulate people’s hearts. It wasn't that I was doing it because I was ordered to. I simply wanted to explore whether such a machine was feasible.
-　Godou often leaves the house. I’m supposed to be under surveillance, but am I being trusted?
-　No――he likely knows that I have no intention of running away. Indeed, I have no intention of leaving this place.
-　Because I have already escaped from my sister’s curse.
-　There was a problem in creating a device to manipulate people’s hearts. No matter how much I brought the subject into a state of hypnosis, I couldn't force them to do things they disliked. That is the limit of suggestion.
-　What cannot be done cannot be done. To make them execute it, I had to give a strong suggestion. To do that, I had to create a mentally unstable state.
-　So I focused on sound.
-　Using low-frequency sounds that human hearing cannot perceive, I make the person’s mind unstable. By doing so, I make them more susceptible to suggestion.
-　After that, I had to find sounds that influence human consciousness. Masterpieces of classical music stir the heart, but I don't quite understand that sensation.
-　Perhaps my sensitivity is dull. Though I am aware of it.
-　Godou has returned.
+"That might be the secret to moving people."
+He reached his own conclusion and drank the coffee as if it were delicious.
+Perhaps I should order him to be able to brew delicious coffee.
+From then on, I began researching a device to manipulate the human heart. It wasn't that I was doing it reluctantly because I was ordered. I simply wanted to explore whether such a machine was feasible.
+Godou often leaves the house. I should be being monitored, but am I being trusted?
+No--he likely knows that I won't flee. I certainly have no intention of leaving this place.
+For I have already escaped from my sister's curse.
+There were problems with making a device to manipulate the human heart. No matter how much you bring a subject into a hypnotic state, you cannot force them to do things they dislike. That is the limit of suggestion.
+What cannot be done, cannot be done. To make them execute it, you must give a strong suggestion. For that, it was necessary to create a mentally unstable state.
+So I focused on sound.
+By using low-frequency sounds that cannot be recognized by human hearing, you make a person's spirit unstable. By doing so, you make them more susceptible to suggestion.
+All that was left was to find a sound that affected human consciousness. While classical masterpieces stir the heart, I don't quite understand that sensation.
+My sensitivity might be dull. I am self-aware of it, though.
+Godou came home.
 $Godou
-“――How are things going?”
+"--How is it going?"
 $Qwon
-“There are no changes.”
-　I answer concisely without raising my gaze from the book I was reading.
+"There has been no change."
+I answer concisely without raising my eyes from the book I was perusing.
 $Godou
-“I’ve decided to open a shop in Kagurazaka soon.”
+"A shop is going to be opened in Kagurazaka soon."
 $Qwon
-“I see.”
-　It must be necessary for the mission.
-　By this time, I had already grasped the existence of the Seihoukai, and the Ouzenji Trading Company behind it. I could investigate things of this level without asking Godou.
+"I see."
+It must be necessary for the mission.
+By this time, I had already grasped the existence of the Seihoukai, and the Ouzenji Company behind it. I could investigate this much without even asking Godou.
 $Godou
-“――I’m thinking of doing a jazz bar.”
-　For a moment, I doubted my ears. I involuntarily looked up from my book.
+"--I'm thinking of running a jazz bar."
+For a moment, I doubted my ears. I reflexively looked up from my book.
 $Godou
-“……It’s rare to see you make a face like that. I don't recall saying anything that strange.”
+"...It's rare for you to make such a face. I don't recall saying anything so strange."
 $Qwon
-“No……”
-　I switch my expression. It seems I still have a way to go if my thoughts are appearing on my face.
+"No..."
+I switch my expression. It seems my training is still insufficient if my thoughts appear on my face.
 $Godou
-“It’s an old dream of mine. I wanted to try being a bartender in a small shop.”
+"It's an old dream of mine. I wanted to try being a bartender in a small shop."
 $Qwon
-“……Do as you please.”
-　It is not a problem for me to intervene in.
+"...Do as you please."
+It is not a matter for me to intervene in.
 $Godou
-“I found a singer with a good voice in Ginza. I thought I’d have her sing here as well, but she told me that the condition was for me to hire a budding piano player as well.”
+"I found a singer with a good voice in Ginza. I thought I'd have her sing here as well, but the condition was to hire a fledgling piano player as well."
 $Qwon
-“I see.”
-　It has nothing to do with me.
+"I see."
+It has nothing to do with me.
 --------------------
 q06
 ********************
 $Qwon
-“――Not bad.”
-　Looking around the new interior of the shop, I let out my honest impression.
+"--It's not bad."
+Looking around the new interior, I let out my honest impression.
 $Godou
-“Isn't it?”
-　Godou is in high spirits as he lines up bottles of Western liquor on the shelves.
+"It is, isn't it?"
+Godou is in high spirits as he lines up bottles of Western liquor on the shelves.
 $Godou
-“It was originally a soba shop, but I redid everything from the interior.”
-　I sit on a stool at the counter.
+"It was originally a soba shop, but I had everything from the interior decoration redone."
+I sit on a stool at the counter.
 $Godou
-“I’d like to take your order, but unfortunately, I don't have all the glasses yet.”
+"I'd like to take your order--but unfortunately the glasses aren't all here yet."
 $Qwon
-“……You seem to be having fun.”
+"...You seem to be enjoying yourself."
 $Godou
-“I am. Because I’m doing what I love.”
+"I am. I'm doing it because I like it."
 $Qwon
-“――I see.”
-　I, too, am accumulating knowledge because I love it――I should be.
-　Am I enjoying myself――?
-I must be enjoying it.
-　If not――I wouldn't be doing this.
+"--I see."
+I, too, am accumulating knowledge because I like it--presumably.
+Am I enjoying myself--
+I suppose I am.
+Otherwise--I wouldn't be doing this.
 $Godou
-“――It’s about time.”
-　Godou muttered while looking at his wristwatch.
-　Perhaps a delivery of goods is coming.
+"--About time."
+Godou mutters as he looks at his wristwatch.
+I wonder if a delivery of luggage is coming.
 $Godou
-“Qwon, sorry, but could you go back home first?”
+"Qwon, I'm sorry but could you return to the house ahead of me?"
 $Qwon
-“――Yes.”
+"--Yes."
 $Godou
-“The waitress who’s scheduled to work here should be arriving soon. It’s better if you don't show yourself.”
+"The waitress who's scheduled to work here should be coming soon. It would be best if you didn't show yourself."
 $Qwon
-“I suppose so.”
-　It would be strange for the daughter who was supposed to have gone missing after her parents were killed to be here.
+"You're right."
+It would be strange for a daughter whose parents were killed and who was supposed to be missing to be here.
 $Qwon
-“――Well then, Godou, I shall see you later.”
-　Just as I was about to go outside, the door opened on its own.
+"--Then, Godou, see you later."
+Just as I was about to go outside, the door opened on its own.
 $Chika
-“Ah…… um, I’m late……!”
-　A girl wearing glasses was out of breath. She must be the waitress who’s going to work here.
+"Ah... um, I'm late...!"
+A girl wearing glasses was out of breath. She must be the waitress who's going to work here.
 $Godou
-“……You’re about thirty minutes early, though.”
-　Godou’s expression is a bit stiff. ――Well, it can't be helped if his plan to avoid having her run into me was easily overturned.
+"...You're about thirty minutes early, though."
+Godou's expression is a bit stiff. --Well, it can't be helped if his plan to avoid us running into each other was so easily overturned.
 $Chika
-“Ah…… I, I’m sorry……!”
-　Even though she hasn't been scolded, tears are appearing in the corners of her eyes.
+"Ah... I-I'm sorry...!"
+Even though she hasn't been scolded, tears are welling in the corners of her eyes.
 $Godou
-“No――I don't mind. I was short-handed anyway.”
-　While saying so, Godou gives me a look. Telling me to go home while I can.
-　As I tried to pass by her, she reached out and placed her hand on my shoulder.
+"No--it's fine. We were short-handed anyway."
+As he says this, Godou catches my eye. He wants me to go home while I can.
+As I try to pass by her side, she suddenly reaches out and places a hand on my shoulder.
 $Chika
-“By the way…… Master. This girl is……?”
+"By the way... Master. This girl is...?"
 $Godou
-“Hm……”
-　Please don't hesitate there. It’s obvious that she’ll be suspicious.
+"Hmm..."
+Please don't hesitate there. It's obvious she'll be suspicious.
 $Qwon
-“――I am called Qwon. It seems my uncle is always in your debt.”
-　I give a bow to her.
+"--My name is Qwon. It seems my uncle is always in your care."
+I give her a bow.
 $Chika
-“Ah…… i, is that so…… I thought for sure you were his daughter.”
+"Ah... s-so that's how it was... I thought for sure you were his daughter."
 $Godou
-“……I’m single, you know.”
-　I looked at Godou in silence.
+"...I'm a bachelor, you know."
+I looked at Godou in silence.
 $Chika
-“Qwon-chan, right. I’m Takanashi Chika, it’s nice to meet you.”
+"Qwon-chan, right. I'm Chika Takanashi, nice to meet you."
 $Qwon
-“Nice to meet you.”
-　……What am I supposed to be nice to?
-　The bar CADENZA thus welcomed its opening.
-　When night fell, Godou began to leave the house entirely. I don't feel like I’m being monitored at all.
-　Perhaps Godou himself has no intention of monitoring me.
-　I could have continued my research at home, but I often visited the bar for both a change of pace and for consideration. Of course, I sit on the back stairs so as not to be seen by other customers.
-　It was on one of those occasions――I heard the sound of a piano.
-　It wasn't a record with mixed-in noise, but a live performance.
-　Godou had said he hired a piano player as a bonus for the singer. Is that his performance?
-　I stood up quietly and peeked into the shop, being careful not to stand out.
-　A young man was playing the piano.
-　His back was turned toward me. His broad back in a white shirt swayed slowly.
-　It was a mysterious performance, with a sense of peace within its roughness. It wasn't a matter of the melody. Perhaps it was precisely because he was performing it that I was seized by such a deep emotion.
-That was――the first time I came to know Kudou Sousuke.
+"Nice to meet you."
+...I wonder what it is she wants me to do that would be "nice."
+And so, the bar "CADENZA" welcomed its opening.
+When night came, Godou began to leave the house entirely. I don't feel like I'm being monitored at all.
+Godou himself might have no intention of monitoring me.
+I could have continued my research at home, but I often visited the bar to combine a change of pace with my observations. Of course, I sat on the back stairs so that other customers wouldn't find me.
+On one such occasion--I heard the notes of a piano.
+It wasn't mixed with noise from a record; it was a live performance.
+Godou said he hired a piano player as a bonus with the singer. Is that his performance?
+I stood up softly and, to avoid drawing attention, peeked into the shop.
+A young man was playing the piano.
+His back is turned toward me. His broad back in a white shirt swayed slowly.
+It was a mysterious performance, with a sense of peace within its roughness. It wasn't a matter of the melody. Perhaps it was precisely because he was performing it that I was seized by such a feeling.
+That--was the first time I came to know Sousuke Kudou.

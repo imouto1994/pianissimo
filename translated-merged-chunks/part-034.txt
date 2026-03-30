@@ -1,206 +1,206 @@
 --------------------
 0902
 ********************
-Taking the lift, Mikage stepped out into the hallway on the twentieth floor. It was her first time setting foot in a building of such dizzying height.
-This was Kudanshita, a skyscraper owned by Ouzenji Trading. Standing right next to it was the Army Hall, where the Martial Law Headquarters had been stationed during the February 26 Incident.
-She had requested an interview with the company’s chairman, Kiyomasa Ouzenji, under the guise of a reporter, but in all honesty, she hadn't expected him to actually grant it.
-The hallway was deserted. At the reception, she'd simply been told to head to the twentieth floor and was guided to this elevator. She couldn't even be certain if this was actually the twentieth floor.
-After all, the lift lacked a floor indicator, and this corridor didn't have a single window. If they were actually deep underground, she wouldn't have been able to tell the difference.
-Well—the elevator had clearly been ascending, so she wasn't too worried about that.
-Mikage proceeded slowly down the hallway, her eyes scanning the surroundings.
+Taking the lift, Mikage stepped out into the twentieth-floor hallway. It was her first time setting foot in such a tall building.
+This was Kudanshita, a building owned by Ouzenji Trading. Right next to it loomed the Military Hall, where the Martial Law Command was stationed during the February 26 Incident.
+Although she had applied for an interview as a reporter with Mr. Kiyomasa Ouzenji, the chairman of the trade association, she honestly hadn't expected him to accept.
+There was no one in the hallway. She had simply been told at the reception to go to the twentieth floor and was guided to this lift. She couldn't even judge if this was truly the twentieth floor.
+After all, the lift had no floor indicator, and this hallway didn't have a single window. Even if it were actually underground, she wouldn't be able to tell.
+Well—the lift was clearly ascending, so there was no need to worry.
+Mikage slowly moved down the hallway, looking around her.
 $Mikage
 “What a strange building...”
 Mikage muttered to herself as she walked.
-The lack of windows was one thing—but she couldn't even see any doors. What looked like doorways were merely fixed, ornamental reliefs.
-She had no idea where she was supposed to go.
-The sensation of having marched straight into the heart of what might be enemy territory planted a seed of primal fear in Mikage's heart.
-Shuddering at a dark premonition, she pressed onward.
+Setting aside the lack of windows—she couldn't even find a door. What looked like doors were merely fixed decorations.
+She didn't even know where to go.
+The sensation of infiltrating the headquarters of a potential enemy planted a small seed of fear in Mikage's heart.
+Shivering at a bad premonition, Mikage pressed on.
 $Mikage
-“This is—the stairwell...”
-She managed to find a door and pulled it open, but it only revealed a dimly lit staircase stretching down to the lower floors. It seemed she truly was on the top floor.
-—Not that such a realization provided any actual comfort.
-After wandering the empty corridor for a while...
+“This is—a stairwell...”
+When she finally managed to open a door she found, it only revealed a dim staircase stretching down to the floors below. It seemed this really was the top floor.
+—Not that such a fact offered any comfort.
+As Mikage continued down the deserted hallway for a while.
 $Ouzenji
 “—Are you looking for something, young lady?”
 $Mikage
-“Kyah?!”
-Suddenly addressed from behind, Mikage whirled around, her heart hammering against her ribs.
+“Kyaa?!”
+Suddenly addressed from behind, Mikage fearfully turned around.
 $Ouzenji
-“I seem to have startled you.”
-He was a man of immense stature, his head nearly brushing the ceiling.
+“It seems I've startled you.”
+He was a man so tall his head seemed like it might reach the ceiling.
 $Mikage
 “Are you... Mr. Ouzenji?”
 $Ouzenji
-“Indeed I am.”
-He gave a grand, theatrical nod and extended his right hand toward Mikage.
+“Indeed.”
+He nodded grandiosely and extended his right hand toward Mikage.
 $Ouzenji
 “I am the chairman of this establishment, Kiyomasa Ouzenji.”
 $Mikage
-“I... It's a pleasure to meet you.”
-She took the offered hand. His palm was rough and calloused; combined with his imposing physique, he looked more like a battlefield commander than a corporate executive.
+“I... It’s a pleasure to meet you.”
+She shook the offered hand. The rugged, gnarled palm, combined with his appearance, exuded an air that didn't seem like that of a businessman.
 $Ouzenji
-“Are you the reporter I was told would be visiting today?”
+“Are you the reporter who was supposed to come today, young lady?”
 $Mikage
-“Y... Yes, I am Tachibana, from Mutandou.”
+“Ye... yes, I’m Tachibana from ‘Mutandou’.”
 $Ouzenji
-“Tachibana-san, is it? —Welcome to my Ouzenji Trading.”
-Mikage was led by Ouzenji into a vast chamber on the same floor. It was so expansive that it felt as though this room and the corridor were the only things occupying the entire level.
-One entire wall was made of glass, offering a sweeping view of the Kitanomaru greenery below.
-Looking down upon the Imperial Palace itself felt almost sacrilegious, but perhaps such a privilege was permitted because of his distinguished service.
+“Tachibana, is it? —Welcome to my Ouzenji Trading.”
+Mikage was led by Ouzenji and guided to a large room on the same floor. It was so vast it felt as if there was nothing else on this floor besides this room and the hallway.
+One side of the wall was made of glass, offering a panoramic view of the Kitanomaru greenery below.
+The fact that it seemed to look down even upon the Imperial Palace felt almost irreverent, but perhaps that was permitted due to his achievements.
 $Ouzenji
-“Now then—what exactly was it you wished to discuss with me?”
-With a cigar clamped between his teeth, Ouzenji stared Mikage down, his gaze unwavering.
+“Now then—what story did you come to hear about?”
+Holding a cigar in his mouth, Ouzenji stared into Mikage's eyes and asked.
 $Mikage
-“—Could you tell me a bit about the circumstances surrounding the founding of this company?”
-Mikage threw out the question she had prepared, refusing to be intimidated by his presence.
+“—Could you tell me about the circumstances surrounding the founding of this company?”
+Without being intimidated, Mikage threw out the question she had prepared.
 $Ouzenji
-“Hmph—”
-Ouzenji exhaled a thick cloud of smoke into the air.
+“Hmm—”
+Ouzenji blew smoke into the air.
 $Ouzenji
-“—I have already died twice in my life.”
+“—I have already died twice.”
 $Mikage
 “Twice—?”
 $Ouzenji
-“Indeed. The first time was when Emperor Meiji passed; I attempted to follow General Nogi in ritual suicide. I was restrained by those around me, however—”
-Ouzenji let out a low, gravelly chuckle.
+“Mm. The first was when Emperor Meiji passed away; I tried to follow General Nogi in self-immolation. I was stopped by those around me, however—”
+Ouzenji chuckled in a low voice.
 $Ouzenji
-“The second was upon the passing of Emperor Taisho. I retreated to my estate, determined that this time I would succeed, and I cut open my own belly—”
-At that point, Ouzenji burst into a fit of booming laughter.
+“The second was when Emperor Taisho passed away. I shut myself in my mansion, determined that this time would be it, and sliced open my belly, but—”
+Ouzenji burst into a loud, hearty laugh.
 $Ouzenji
-“Hah hah hah...! Perhaps due to my innate stubbornness, I simply refused to die. As a result, I was forced to retire from the military, and I used the connections I’d cultivated to build this company from the ground up.”
+“Hah hah hah... Perhaps due to my innate toughness, I simply couldn't die. Thanks to that, I ended up leaving the military and started this company using the connections I had cultivated.”
 $Mikage
 “I see...”
-Mikage nodded, her pencil flying across her notebook. It didn't seem like there was any room for her to cut in.
-In the presence of this man, who was the very embodiment of ultranationalism, Mikage found herself unable to maintain her usual liberal tone.
-In an age where liberalism was being systematically purged, a single careless word could very well be a death sentence.
+Mikage nodded while scribbling with her pencil in her notebook. It didn't seem like she could get a word in edgewise.
+In front of him, a man who seemed to be a mass of ultra-nationalism, Mikage couldn't speak with her usual free-spirited tone.
+In these times when liberalism was being weeded out, a careless remark risked ending her own life.
 $Mikage
-“And what exactly are the core areas of your business?”
-She was forced to stick to safe, mundane inquiries.
+“What kind of business activities do you engage in?”
+Therefore, she could only ask about safe topics.
 $Ouzenji
-“Everything—from finance to real estate, we have a hand in it all. I even own several mines in Manchuria.”
+“Oh—from finance to real estate, we do everything. I even own several mines in Manchuria.”
 $Mikage
 “I see...”
 $Ouzenji
-“For our Great Japanese Empire to strike out into the world, the nation must first be wealthy. Amassing vast capital is the swiftest path to 'Enrich the State, Strengthen the Military,' after all.”
-Mikage nodded convincingly, realizing this man was a textbook example of the old military guard.
+“For our Great Japanese Empire to strike out into the world, the country needs to become wealthy. Gathering abundant funds is the quickest path to enriching the country and strengthening the military, after all.”
+While nodding plausibly, Mikage became convinced that this man was a typical soldier.
 $Mikage
-“Also—”
-Mikage hesitated. She couldn't exactly ask about Qwon. And she certainly couldn't bring up the Seifuu-kai.
+“And also—”
+Mikage hesitated. She obviously couldn't ask about Qwon. Even more so about the ‘Seifoukai’.
 $Mikage
-“...Vicious crimes have been on the rise in the city lately. As a former military man, do you have any thoughts on the matter?”
+“...Violent crimes have been increasing in the city lately; as a former military man, do you have any feelings regarding that?”
 $Ouzenji
-“...Hmph. Vicious indeed. The Abe Sada incident, the Serial Lunatic Stabbings—”
-As Ouzenji closed his eyes in contemplation, Mikage felt a surge of inner satisfaction.
+“...Hmm. Indeed, violent crimes are on the rise. Whether it’s Sada Abe, or the ‘Serial Slasher Incident’—”
+As Ouzenji closed his eyes, Mikage wore a triumphant smile in her heart.
 $Mikage
-“There are rumors that some kind of conspiracy might be at play—”
+“There are even rumors that there might be some kind of conspiracy—”
 $Ouzenji
-“Heh—an amusing thought. Exactly the kind of drivel those low-brow tabloids love to swarm over. Surely a lady of your standing wouldn't waste time on such rubbish?”
+“Heh—you say interesting things. That’s the kind of material low-brow magazines would swarm over. Of course, your place wouldn't pick up such trivial nonsense, would it?”
 $Mikage
-“O—Of course not...”
-Pinned down by Ouzenji’s piercing gaze, Mikage forced a stiff smile.
-—The atmosphere radiating from the man made it clear that she wouldn't be getting anything more out of him.
+“O-Of course not...”
+Transfixed by Ouzenji's sharp gaze, Mikage returned a stiff smile.
+—She could feel an atmosphere emanating from Ouzenji's body that suggested she couldn't ask any more than this.
 $Ouzenji
-“—Our time is up, I believe.”
-Without even checking his watch, Ouzenji stood up and gestured for Mikage to leave.
+“—It’s about time.”
+Without even looking at a clock, Ouzenji said that and stood up while urging Mikage.
 $Mikage
-“Ah... could I ask just one last thing?”
+“Ah... may I ask just one last thing?”
 $Ouzenji
 “...What is it?”
-Ouzenji looked back at her with a furrowed brow, clearly annoyed. Mikage swallowed her fear and spoke.
+Mikage, though intimidated, opened her mouth toward Ouzenji, who had turned back with a frown as if his mood had been soured.
 $Mikage
-“—Does the name 'Godou' happen to mean anything to you?”
+“—Do you happen to know someone named Mr. Godou?”
 $Ouzenji
-“—Never heard of him.”
-Ouzenji turned his back to her.
-Mikage felt a sudden, icy chill, as if an invisible hand had clenched around her heart.
-Such was the sheer force of the killing intent Ouzenji had radiated in that single instant.
+“—I don't know him.”
+Ouzenji turned his back.
+Mikage shivered with a chill as if her heart had been seized.
+Such was the intensity that had been emitted from Ouzenji in that single moment.
 $Ouzenji
-“Young lady—the exit is this way.”
-Ouzenji prompted her.
-With cold sweat prickling her spine, Mikage followed his command and left the room.
+“Young lady—your way home is through here.”
+Ouzenji urged.
+With cold sweat on her spine, Mikage followed his words and left the room.
 --------------------
 0903
 ********************
-I walked the streets of Kudanshita, keeping a sharp eye on my surroundings.
-I kept my face hidden as naturally as I could to avoid being stopped by the police or the Kenpeitai, making my way toward the destination while staying as inconspicuous as possible.
-By now, Mikage should be inside that building, gathering information.
-I couldn't afford to arouse any suspicion and let her efforts go to waste.
+I walk along the streets of Kudanshita, paying attention to my surroundings.
+To avoid being stopped by the police or military police, I hide my face as naturally as possible and head toward my destination without standing out.
+By now, Mikage should be infiltrating that building and gathering information.
+To ensure her efforts aren't in vain, I must not arouse suspicion from those around me.
 $Old Man
 “............”
 ............
 —And yet.
-Right in the middle of this busy commercial district in broad daylight, there was a single, bizarre takoyaki stand sitting all by itself on the wide street.
-Good grief—what is this?
-Talk to him
+Even though it's the middle of the day, there’s a strange takoyaki stand sitting all alone on this wide street in a busy district.
+Good grief—what should I do?
+Call out to him
 Ignore him
 $Sousuke
-“...Hey.”
-I called out to him, having no other choice.
+“...Yo.”
+I had no choice but to call out.
 $Old Man
 “...Heh.”
-The old man shot me a look and let out a mocking snort.
+The old man let out a mocking chuckle as soon as he saw me.
 $Old Man
-“...If you're just here to gawk, move along.”
+“...If you’re just window-shopping, go home.”
 $Sousuke
-“Don't be like that.”
-It seemed he’d seen right through my half-hearted attempt at a distraction.
+“Hey, don't say that.”
+It seems he’s realized I’m just browsing.
 $Old Man
-“...There’s nothing interesting to see here.”
-The old man muttered as he used a pick to flip the takoyaki.
+“...It’s not like looking at a place like this is interesting.”
+The old man muttered as he flipped the takoyaki with a pick.
 $Sousuke
-“Well—I'm just killing time until my appointment.”
+“Well—I'm just passing the time until the appointment.”
 $Old Man
 “...Hmph.”
-When I answered honestly, the old man just snorted again and kept working.
+When I answered honestly, the old man snorted and continued his work.
 $Old Man
-“...What a strange youth.”
-...Coming from a strange old man like him, that’s rich.
+“...What a strange young fellow.”
+...Coming from a strange old man, that’s saying something.
 $Old Man
 “Here... eat.”
-The old man scooped a few fresh ones onto a plate and shoved them toward me.
-Steam rose from them, and they looked delicious.
-...On the surface, at least.
+The old man placed several freshly cooked ones on a plate and offered them to me.
+Steam was rising, and they looked delicious.
+...At least in appearance.
 $Sousuke
 “No... I’m—”
 $Old Man
-“On the house...”
-...It’s not like I don't have the money.
-But the old man forcibly pressed the plate into my hand anyway.
-—Dammit.
-Steeling myself, I took the chopsticks with a trembling hand and popped a takoyaki into my mouth.
+“I don't need money...”
+...No, it’s not that I don't want them because I don't have money.
+But the old man forcibly pushed the plate into my hand.
+—Fine, whatever.
+Steeling myself, I grabbed the chopsticks with a trembling hand and tossed a takoyaki into my mouth.
 $Sousuke
-“Nmgh...”
-Hot.
-No, "hot" didn't even begin to cover it. The moment I bit down, a torrent of scalding, uncooked, gooey flour-paste flooded my mouth, searing my tongue and numbing my entire oral cavity.
-I wanted to vomit so badly I thought I might die, but I couldn't exactly spit it out in front of him, yet there was no way in hell I could swallow it either.
-I was practically writhing in agony, but the old man just watched me with a satisfied nod, which was so infuriating I wanted to deck him or at least scream every curse word I knew, but I couldn't even open my mouth, so I just let out a series of strangled moans that should have communicated exactly how dangerous this takoyaki was, but the old man seemed completely oblivious—
+“Ngu...”
+It’s hot.
+No, it’s more than that; the moment I bit down, the unsolidified, heated, gooey flour inside flowed into my mouth, my tongue hurt, my mouth went numb, and I felt like I was going to die and wanted to vomit so badly but
+I couldn't vomit it out, yet there was no way I could swallow it either, and while I was writhing in agony, the old man looked at me and nodded with satisfaction, which was strangely infuriating and made me want to punch him or
+say a word of complaint, but I couldn't open my mouth and if I let out a strange groan, it should have conveyed just how dangerous this takoyaki was, but the old man didn't seem to notice at all—
 $Old Man
-“...Well? Delicious, isn't it?”
+“...How is it, delicious, isn't it?”
 $Sousuke
-“...The hell it is!!”
-—The words burst out before I could stop them.
+“...How could it possibly be!!”
+—I blurted it out without thinking.
 $Old Man
 “...Heh.”
-The old man’s face twisted. Or maybe it was just naturally like that.
+The old man's face twisted. Well, maybe it was twisted from the start.
 $Old Man
-“...You certainly don't hold back, do you...?”
+“...You’ve got a lot of nerve saying that...”
 $Sousuke
-“...Well, it's disgusting, what do you expect?”
-I’d reached the point of not giving a damn.
-I—I might actually get killed right here.
-But for the sake of humanity, someone had to say it.
+“...I can't help it, it’s disgusting.”
+At this point, I’m desperate.
+I—might be killed here.
+But, for the sake of the future, it’s better to say it.
 $Old Man
-“...This is why I can't trust anyone... I even gave you an extra one because I recognized your face, and here you are calling it disgusting...”
+“...This is why I can't trust strangers... Even though I gave you extra because you're a familiar face, you have the gall to say it’s disgusting...”
 $Sousuke
-“...Old man, have you actually tasted your own cooking?”
+“...Old man, have you ever eaten what you've grilled yourself?”
 $Old Man
-“Of course... not. Why would I dip into my own inventory?”
+“That’s... obvious. There’s no way I’d touch the merchandise.”
 $Sousuke
-“...Please, just try one.”
-I thrust the plate back at him.
+“...Please, just taste it.”
+I thrust the plate in front of the old man.
 $Old Man
-“...I can't believe this. Being lectured on taste by a brat...”
-Muttering complaints, the old man finally popped one of his own takoyaki into his mouth.
+“...I can't believe it, being lectured about taste by a young brat...”
+The old man muttered complaints but brought one of his own takoyaki to his mouth.
 $Old Man
 “............”
 $Sousuke
@@ -210,469 +210,469 @@ $Old Man
 $Sousuke
 “...Say something.”
 $Old Man
-“...This... isn't cooked at all.”
+“...This... isn't cooked.”
 $Sousuke
-“Right?!”
-I let out a huge sigh of relief. If he’d actually called that delicious, I would have lost all faith in my own senses.
+“Right?”
+I breathed a sigh of relief. If he had said it was delicious here, I would have ended up losing faith in my own sense of taste.
 $Old Man
-“...You're right. I... it seems I was under a terrible delusion.”
+“...You’re right. I... seem to have made a terrible mistake.”
 $Sousuke
-“Well—as long as you understand now.”
+“Well—as long as you understand.”
 $Old Man
-“Heh... I guess I'm still just a fledgling when it comes to the art of the takoyaki...”
-The old man muttered as he began to pack up his stand.
+“Heh... I guess it means I’m still a novice as a takoyaki craftsman...”
+The old man began packing up the stand while muttering.
 $Sousuke
 “Old man...?”
 $Old Man
-“...I'm done. Ever since I got sacked from my job, I’ve been trying to make takoyaki on my own, but it seems I need to go and actually learn the craft properly.”
+“...I’m done, I’m done. Ever since I was fired from my job, I've been making takoyaki on my own, but it seems I really should have gone and learned properly.”
 $Old Man
-“...Sorry about that, kid. Feeding you such trash...”
+“...Sorry, young man, for making you eat such a disgusting thing...”
 $Sousuke
-“No—don't sweat it.”
+“No—don't worry about it.”
 $Old Man
-“I’ll head to the headquarters in Shanghai and undergo some rigorous training—see you around.”
-With that, the old man dragged his stand away, leaving me standing there in a daze.
-I felt like—I’d just gotten involved in something incredibly bizarre.
-Most of all—
+“I’ll go and get some thorough training at the headquarters in Shanghai—farewell then.”
+With only that, the old man left me standing there in a daze, pulled his stand, and went off somewhere.
+I feel like—I've gotten involved in something strange.
+More than anything—
 $Sousuke
-“Takoyaki... wasn't that supposed to have originated in Osaka...?”
-Why the hell is he going to Shanghai?
-Well—it's got nothing to do with me.
-—I truly, desperately hope it has nothing to do with me.
-—It's none of my business.
-Whether this old man’s stand goes under or not is none of my concern.
-I brushed past where he’d been and headed toward the cafe Mikage had chosen for our meeting.
+“Takoyaki... wasn't that originally from Osaka...?”
+Why is he going to Shanghai?
+Well—it has nothing to do with me.
+—I truly pray from the bottom of my heart that it has nothing to do with me.
+—It’s none of my business.
+It’s not my concern if one old man's stand goes under.
+I walked past the spot where the old man had been and headed toward the cafe where Mikage had specified our meeting.
 $Old Man
 “............”
-I decided that the old man's lonely, pathetic expression didn't register in my vision at all.
+I decided that the sad expression of an old man who was well up in years didn't enter my sight at all.
 --------------------
 0904
 ********************
-I took a seat by the window and stared outside.
-Across the road, in the direction of the Imperial Palace, a tall skyscraper loomed.
+I sat down at a window seat with a view of the street and gazed outside.
+Across the road, in the direction of the Imperial Palace, a tall building towered over the area.
 That was the building owned by Ouzenji Trading.
-Right next to it was the Army Hall, the former site of the Martial Law Headquarters during the February 26 Incident.
-According to Mikage’s investigation, the Ouzenji building also housed numerous offices related to the Imperial Army.
-And right now, Mikage was inside that very building.
-Of course, she was there under the guise of a reporter interviewing the chairman, Kiyomasa Ouzenji.
+Right next to it was the Military Hall, where the Martial Law Command was stationed during the previous February 26 Incident.
+According to Mikage's investigation, many army-related offices were also lined up in the Ouzenji Trading building.
+And that Mikage was currently—infiltrating Ouzenji Trading.
+Naturally, she was doing so as a reporter, under the guise of an interview with the chairman of the trade association—Mr. Kiyomasa Ouzenji.
 $Sousuke
 “Tch—”
-I clicked my tongue and sipped my iced coffee. It had no acidity or bitterness whatsoever; it tasted like slightly tainted water.
-The coffee Chika brewed was leagues ahead of this swill.
-The cafe door opened, and a weary-looking Mikage walked in.
-I raised a hand to catch her eye.
+Clicking my tongue, I sipped my iced coffee. It had no acidity or bitterness at all, tasting much like plain water.
+The coffee Chika brewed was far more delicious.
+The cafe door opened, and a tired-looking Mikage entered.
+I lightly raised my hand to let her know where I was.
 $Mikage
-“*Phew*—”
-Letting out a massive sigh, Mikage slumped into the chair opposite me and drained my iced coffee in a single gulp.
+“Phew—”
+With a grand sigh, Mikage sat down in the opposite chair and drained the iced coffee I had been drinking in one breath.
 $Sousuke
-“Was it that bad?”
+“Was it tough?”
 $Mikage
-“It was exhausting... honestly.”
-Mikage shrugged and began to complain.
+“It was tough... honestly.”
+Mikage complained with a shrug of her shoulders.
 $Mikage
 “I thought I was going to be killed...”
 $Sousuke
 “...That’s why I told you it was dangerous.”
 $Mikage
-“It wasn't that. It was the chairman, Mr. Ouzenji—his presence, his aura... it was overwhelming.”
+“It’s not like that. Chairman Ouzenji’s—presence, or whatever it was... it was incredible.”
 $Sousuke
-“...I don't follow.”
+“...I don't really get it.”
 $Mikage
-“I can't help it, I don't know how else to describe it. Regardless, he definitely knows something.”
+“It can't be helped; even I don't know how to describe it. At any rate, he knows something.”
 $Sousuke
-“About Qwon’s whereabouts...?”
+“Regarding Qwon’s whereabouts...?”
 $Mikage
-“Not Qwon-chan... but when I brought up the Master’s name, he reacted for a split second. He claimed he didn't know him—but I'm certain he does. I just feel it.”
+“Not Qwon-chan... when I brought up him, the Master's name, he reacted for a moment. He said he didn't know him, but—he definitely knows, I have that feeling.”
 $Sousuke
 “The Master, huh...”
-I figured there was a connection—
+I thought there was a connection, but—
 $Sousuke
-“And what about the Seifuu-kai—?”
+“What about the ‘Seifoukai’...?”
 $Mikage
-“I... I couldn't ask about that. But can you blame me? The atmosphere just wouldn't allow it.”
+“I... couldn't ask about that. But it couldn't be helped, right? The atmosphere wasn't right for asking.”
 $Sousuke
-“Well... I'm just glad you made it back in one piece.”
+“Well... I'm glad nothing dangerous happened.”
 $Mikage
-“...You’re right about that.”
-Mikage sighed again and brought the empty glass to her lips once more.
+“...Truly, you’re right.”
+Mikage sighed again and once more brought the glass of coffee to her lips.
 $Sousuke
-“If this Ouzenji guy knows the Master, there’s a chance he knows where Qwon is too. If we can just find a way to make him talk—”
-—And then, a possibility occurred to me.
-A man connected to both the Master and Aoi—
+“If that Ouzenji guy knows the Master, there’s a possibility he knows Qwon’s location too. If I could somehow get him to talk—”
+—And then, I thought of a possibility.
+A person who has a connection not only with the Master, but also with Aoi—
 $Sousuke
-“Hey, Mikage. What was this Ouzenji guy like?”
+“Hey Mikage, what kind of guy was that Ouzenji?”
 $Mikage
-“He felt like a career military man through and through. Oh, and... he was wearing an eyepatch.”
+“He really felt like a former military man. Oh, and also... he was wearing an eyepatch.”
 $Sousuke
-“I see—so that's it.”
-He was the same person as the boss of the Seifuu-kai—
-Good grief—to think the president of a major corporation was also moonlighting as the boss of a small-time criminal outfit.
-I wondered which one was his true face—
+“I see—then.”
+The same person as the boss of the ‘Seifoukai’, then—
+Good grief—for the president of a huge company, he’s even playing the boss of a petty organization.
+Which one is his true form—
 $Sousuke
-“...Things are finally starting to look suspicious.”
+“...It’s getting more and more suspicious.”
 $Mikage
 “What are you going to do now?”
 $Sousuke
-“...Well, I guess I've got no choice.”
-It was the only lead I had left.
+“...Well, I guess I have no choice but to do it.”
+Right now, I have no other options left.
 $Mikage
-“No choice but to...?”
+“Do it...?”
 $Sousuke
-“Infiltrate that building.”
+“I’m going to storm that building.”
 $Mikage
-“Wait—?!”
+“Wait—!?”
 Mikage gasped.
 $Sousuke
-“The only place I'm likely to find a lead is that building where Ouzenji is. I've got to find a way inside.”
+“At the moment, the only place where it seems I could find a clue is the building where that Ouzenji guy is. I have to try and break in somehow.”
 $Mikage
 “But—!”
 $Sousuke
-“—Don't give me that worried look.”
+“—Don't look so worried.”
 $Mikage
-“Of course I’m worried!”
-Mikage’s voice dropped, her expression clouding over.
+“It’s only natural for me to be worried, isn't it?”
+Mikage's expression clouded over, her voice dropping slightly in tone.
 $Mikage
-“And how exactly do you plan on getting inside?”
+“Besides, how do you intend to get inside?”
 $Sousuke
-“I’ll... figure something out.”
+“I’ll—manage somehow.”
 $Mikage
-“...You don't have a plan at all, do you?”
+“...You haven't thought of anything anyway, have you?”
 $Mikage
-“You’re always like this, Sousuke. Just rushing in without a second thought... don't think for a second that things will just magically work out.”
+“You’re always like this, Sousuke. Acting on impulse without thinking about the consequences... don't think things will go well like that.”
 $Sousuke
-“...Do you have a better idea?”
+“...Do you have some kind of plan?”
 $Mikage
-“I do. Why do you think I spent all that time looking around the building?”
+“I do. Why do you think I looked around that building?”
 $Sousuke
-“...I thought you were just lost?”
+“...Weren't you just lost?”
 $Mikage
-“O—Of course I wasn't lost, honestly...!”
-Flustered, Mikage took a large gulp of the non-existent coffee.
+“Th-There’s no way that happened, honestly...”
+Becoming flustered, Mikage vigorously sipped her coffee.
 $Sousuke
-“...Don't choke on it.”
+“...Don't choke.”
 $Mikage
-“*Cough*, *hack*... th-that’s because you said something stupid...!”
+“—Ugh!? *Cough, cough*... Th-That’s because you said something strange...”
 $Sousuke
-“...I'm not the one who tried to drink from an empty glass.”
-I offered her a handkerchief while making my excuse.
+“...It’s not my fault.”
+I explained while handing her a handkerchief.
 $Mikage
-“...Whatever.”
+“...Fine, whatever.”
 Wiping her mouth, Mikage straightened her posture.
 $Mikage
-“That building... for its size, there weren't many people around. Slipping inside without being seen wouldn't be that difficult. But—”
+“That building... it seems there aren't many people in it for its size. It wouldn't be very difficult to enter without being found. But—”
 $Sousuke
 “But...?”
 $Mikage
-“Precisely because there are so few people, if you *are* seen, you’ll be marked as a suspicious intruder immediately.”
+“Since there are few people, if you are seen, you'll be immediately noticed as a suspicious person.”
 $Sousuke
-“...I figured as much.”
-The trick was simply not to be found, but easier said than done.
+“...I suppose so.”
+It would just be a matter of not being found, but it won't go that smoothly.
 $Sousuke
-“...So, are you saying you have a way to avoid detection?”
+“...So, are you saying you have some means to deceive them?”
 $Mikage
-“It’s not so much a trick as it is that I found a path that shouldn't be guarded.”
+“It’s not so much deceiving as—I just found a path where you won't be found.”
 $Mikage
-“That building has twenty floors. There are several elevators; some go straight to the top, while others only stop at the middle floors.”
+“That building has twenty floors. There seem to be several elevators; some go directly to the top floor, and others only go to the middle floors.”
 $Mikage
-“Only one goes all the way to the top. If we can just get on that one—we can reach the chairman's office undetected.”
+“Only one goes to the top floor. If you can just get on that one—you won't be found until you reach the president's office.”
 $Sousuke
-“...That sounds dangerous.”
+“...That’s dangerous.”
 $Mikage
-“...It probably is.”
+“...It might be.”
 Mikage nodded.
 $Mikage
-“But—we don't have any other choice, do we?”
+“But—we have to go, don't we?”
 $Sousuke
-“Just so we're clear—I'm the only one going inside.”
-I cut her off before she could even start.
+“Let me tell you first—I’m the only one who’s going into that building.”
+I told her that, preempting her.
 $Mikage
 “—!”
-As expected, Mikage froze, her mouth agape.
+As expected, Mikage froze with her mouth half-open.
 $Sousuke
-“Of course. There’s no way in hell I'm taking you with me.”
+“Of course. Like I could take you to a place like that.”
 $Mikage
-“B-But! How are you supposed to find your way around in there all by yourself?!”
+“B-But! How do you expect to get inside all by yourself, Sousuke?!”
 $Sousuke
-“I’ll—”
-I’d planned to find an opening, but—
+“That’s—”
+I intend to find an opening somehow, but—
 $Mikage
 “...I can guide you.”
-Mikage declared with absolute confidence.
+Mikage declared that confidently.
 $Sousuke
 “But—”
-I couldn't bring Mikage into a place that dangerous.
+I can't take Mikage to such a dangerous place.
 $Mikage
-“...I hate the idea of leaving you alone, Sousuke. You’d just do something reckless.”
+“...I don't like the idea of leaving you alone, Sousuke; I’m afraid you'll do something reckless.”
 $Sousuke
-“I wouldn't do anything reckless.”
+“Like I’d do something reckless.”
 $Mikage
-“Infiltrating a building like that is the very definition of reckless, you know.”
-Mikage let out a tiny, wry smile.
+“In the first place—breaking into a building like that is reckless.”
+Mikage let out a smile that was half a wry laugh.
 $Sousuke
-“Well—I guess you've got me there.”
-It was strange.
-There wasn't a single thing to laugh about, and yet here we were.
+“We—I guess that’s true.”
+It’s strangely funny.
+Even though there’s nothing to laugh about.
 $Mikage
-“—I’m coming with you, no matter what.”
-She stared me down, her gaze fixed and unyielding.
-When Mikage got like this, no amount of arguing would move her an inch.
+“—I’m definitely going too, okay?”
+Mikage stated firmly, staring into my eyes as if to glare.
+When Mikage took this kind of attitude, she wouldn't budge an inch.
 $Sousuke
-“...Just make sure you don't slow me down.”
+“...Don't become a burden.”
 $Mikage
-“—I know.”
-With an expression of grim resolve, Mikage gave a firm nod.
+“—Yes, I know.”
+With an expression full of determination, Mikage nodded firmly.
 --------------------
 0905
 ********************
-We waited for night to fall before making our move.
-The building stood in the darkness, a looming, ominous presence.
+We waited until night fell before taking action.
+The building loomed eerily in the darkness.
 $Mikage
 “This way—Sousuke.”
-We approached the building, sticking to the shadows where the streetlights of Yasukuni-dori couldn't reach.
-Even from a distance, I could see guards who looked like Kenpeitai stationed around the Army Hall and Yasukuni Shrine.
-Fortunately, there didn't seem to be any security around our target building.
-Not a single window showed any light.
-Was it even possible for a massive building like this to be completely empty?
+We approached the building while choosing dark areas where the streetlights of Yasukuni-dori didn't reach.
+I could tell even from a distance that there were guards who looked like military police toward the Military Hall and Yasukuni Shrine.
+There didn't seem to be any security around the target building.
+There weren't even any lit windows.
+Could a building this large truly be deserted?
 $Mikage
 “—Wait here.”
-With only those words, Mikage crept toward the building’s entrance—more specifically, a small service door tucked away next to it.
-I kept a lookout, scanning the area for any sign of movement.
-—It was a silent night.
-The moon peered out from behind a break in the clouds.
-Mikage beckoned to me from the distance.
-I wove through the shadows, keeping as low as possible as I approached her.
-Mikage was tilting her head, a look of pure confusion on her face.
+With only that, Mikage hid in the shadows and approached the building's entrance—more accurately, a small door that looked like a side entrance next to it.
+I watched the surroundings, keeping an eye out for anyone who might come.
+—It’s a quiet night.
+The moon was peeking through a break in the clouds.
+Mikage was beckoning from afar.
+I also approached by weaving through the darkness, trying to be as inconspicuous as possible.
+Mikage was tilting her head curiously—suspiciously.
 $Mikage
-“—This is strange.”
+“—It’s strange.”
 $Sousuke
 “What is?”
 $Mikage
-“No one’s here—and the door isn't even locked.”
-Mikage murmured as she rested her hand on the handle.
+“Even though no one is here—it’s unlocked.”
+Mikage muttered while placing her hand on the door handle.
 $Sousuke
-“I doubt they just forgot.”
+“I don't think—they just forgot to lock it.”
 $Mikage
-“...Probably not. But... I don't think it's a trap either. After all—no one should have known we were coming tonight.”
+“...True. But... I can't say it’s a trap either. Because—no one should know that we’re coming here tonight.”
 $Sousuke
-“...There’s a high chance someone *is* inside, though.”
+“...There’s a high possibility someone is inside.”
 $Mikage
-“...True. We’ll have to be careful.”
-Mikage spoke as she nudged the door open a crack and peered inside.
-—She clearly had no intention of backing down.
-We crept into the darkness.
-I had no idea how the building was laid out.
-Mikage took my hand and led the way.
-As my eyes adjusted to the gloom, I began to get a vague sense of our surroundings.
-A long, narrow corridor.
+“...Yes. We have to proceed carefully.”
+Mikage said while opening the door slightly to check inside.
+—It seemed she had no intention of backing down.
+We walked cautiously through the darkness.
+I didn't understand the building's structure at all.
+Mikage was pulling my hand and walking in front.
+My eyes adjusted to the darkness, and I began to vaguely see the surroundings of where we were.
+It was a long hallway.
 $Sousuke
 “Hey...”
 $Mikage
 “Shh—”
-Mikage pressed a finger to her lips and pointed ahead.
-Up ahead, in what looked like an elevator hall, the lights were on.
-So—there *was* someone still here.
-Mikage silently gestured for us to retreat.
-Once we were back in the dark, we put our heads together.
+Mikage placed her finger to her lips and pointed in the direction we were headed.
+Lighting was on in a space that opened up into a hallway, perhaps an elevator hall.
+As expected—someone seemed to be remaining.
+Mikage silently urged me to retreat.
+Moving away from the hall, the two of us put our heads together.
 $Mikage
-“Well, that’s a problem...”
+“This is a problem...”
 $Sousuke
-“Can't use the elevators, then...”
+“We can't use the elevator, then...”
 $Mikage
-“...Right.”
-Mikage nodded, biting her thumb.
+“...True.”
+Mikage nodded while biting her thumbnail.
 $Sousuke
-“That just leaves... the stairs.”
+“The only thing left is... the stairs.”
 $Mikage
-“That’s going to be dangerous, though...”
-The stairs offered nowhere to hide. Our footsteps would echo as we climbed, and there was always the risk of running into someone using the stairs from another floor.
+“It will be dangerous, though...”
+There’s no place to hide on the stairs. Footsteps would likely echo when climbing, and there’s even a possibility of running into someone trying to use the stairs from another floor.
 $Sousuke
-“...Do we have any other choice?”
+“...We don't have any other choice, do we?”
 $Mikage
-“...No. This way—the stairwell.”
-Mikage spoke briefly, then took my hand and started walking again.
-We followed the corridor for a while until we reached the stairwell door.
-Inside, it was even darker than the hallway.
+“...Yes. This way—the stairwell.”
+Mikage said briefly and once more pulled my hand and began walking.
+After walking down the hallway for a while, there was the stairwell door.
+The inside was far darker than the hallway.
 $Mikage
-“It should lead all the way to the twentieth floor.”
+“It probably... continues to the twentieth floor.”
 $Sousuke
-“Well, I guess we've just gotta keep going.”
-We shared a nod and began the long climb.
+“At any rate, we have no choice but to go.”
+Exchanging glances, we began climbing the stairs.
 $Mikage
-“*Haa*... *haa*...”
-In the silence, I could hear only the faint sound of Mikage's breathing.
-We climbed slowly, one step at a time, making sure not to let our footsteps ring out.
+“*Pant, pant*...”
+In the darkness, only Mikage's breathing could be faintly heard.
+We climbed slowly, one step at a time, trying not to make any footsteps.
 $Sousuke
 “...Almost there.”
-We must have reached at least the mid-teens by now.
-The darkness above seemed to be thinning, just a little.
-And then—the stairs ended, and a door appeared before us.
+We should have reached around the mid-teens.
+The darkness stretching overhead also felt as if it had cleared slightly.
+And then—the stairs ended, and a door appeared before our eyes.
 $Mikage
-“...This is it.”
-Mikage whispered, her voice barely audible.
-A corridor similar to the ones on the other floors stretched out before us.
-And like the others, there was no sign of life.
-The silence was deafening.
-Perhaps because of that, even the slightest whisper felt like it would echo through the entire building; we barely spoke at all, communicating through nods and gestures as we moved down the hallway.
-Mikage kept her lead, her hand still gripping mine.
-I felt her grip tighten.
+“...It’s here.”
+Mikage whispered in a low voice.
+A hallway similar to the other floors stretched out.
+Just like the other floors, there were no human figures.
+It was deathly quiet.
+Perhaps because of that, even whispering felt like it might echo all around, and we proceeded down the hallway while exchanging glances, hardly saying a word.
+Here too, Mikage pulled my hand and walked at the head.
+The strength in Mikage's hand tightened.
 $Mikage
-“—This door.”
+“—This is the door.”
 $Sousuke
 “—Hmph.”
-I stared at the massive door before us and snorted.
-Mikage nudged the door open just a crack.
+Staring at the large door before me, I snorted.
+Mikage opened the door a little.
 $Mikage
-“—It's pitch black.”
-Mikage peered inside, then slipped through the opening.
-I followed right behind her.
-A vast, open space lay before us.
-It was so large it was hard to believe it was just a room in a building.
-The far wall was entirely glass; outside, the city lights dotted the darkness.
-As I approached the window, I realized we were looking down at the Kitanomaru park by the Imperial Palace. I could just make out the streets around Kojimachi.
+“—It’s pitch black.”
+Mikage peered inside and then slipped her body past the door.
+I followed her inside.
+A vast space stretched out.
+It was a space so vast it was hard to believe it was a room in a building.
+The back wall seemed to be made of glass, and several streetlights outside could be seen flickering.
+As I approached, the view below seemed to be the Kitanomaru of the Imperial Palace. The streets around Kojimachi could be faintly identified.
 $Sousuke
-“—Reminds me of the Twelve Stories.”
+“—Reminds me of the twelfth floor.”
 $Mikage
-“You mean the Ryounkaku in Asakusa?”
-Mikage turned around from the window.
+“Are you talking about the Ryounkaku in Asakusa?”
+Mikage, who had been looking outside, turned around.
 $Sousuke
-“My old man took me there once when I was a kid. You could see all of Asakusa from there—but I bet this is even higher.”
+“Only because my old man took me there when I was a brat. You could see the streets of Asakusa—but this place is likely higher.”
 $Mikage
-“...I don't think much of his taste. Doesn't he think it's sacrilegious to look down on the Palace?”
+“...I don't think it’s very good taste. I wonder if he doesn't think it’s disrespectful to look down upon the Imperial Palace.”
 $Sousuke
-“He said he was an ex-military man—maybe he’s got grander ambitions than we thought.”
+“He said he was a former military man—maybe he’s thinking of something quite audacious.”
 $Mikage
-“His convictions seemed clear enough... but you never truly know what's in a person's heart.”
+“His ideology seemed clear enough... but you never know about people.”
 $Sousuke
-“Well—it’s none of our business right now.”
-I moved away from the window and approached the desk in the center of the room.
-I’d thought it was small at first, but that was only because the room was so massive there was nothing to compare it to.
-Up close, the desktop alone looked like it was the size of two tatami mats—it was a heavy, imposing piece of furniture.
+“Well—it has nothing to do with us now.”
+Moving away from the window, I approached the desk in the middle of the room.
+I thought it was a small desk, but that was apparently because the room was so large there was nothing to compare it with.
+As I got closer, it was a desk so huge and solid that the top alone was about the size of two tatami mats.
 $Sousuke
-“—Smoking the good stuff, I see.”
-I peered into the wooden box on the desk and picked up one of the cigars inside.
+“—Smoking the good stuff.”
+I peered into the wooden box placed on the desk and picked up a cigar from inside.
 $Mikage
 “That has nothing to do with this.”
-Mikage immediately snatched the cigar from my hand.
+The cigar was immediately taken from me by Mikage.
 $Mikage
-“Come on, we have to find some kind of lead on Qwon-chan—”
-Mikage began pulling open drawers and leafing through the documents inside.
+“Look, we have to find even the slightest clue about Qwon-chan—”
+While saying that, Mikage opened the desk drawers and began examining the documents inside one by one.
 $Mikage
-“We don't have time to waste.”
+“We can't afford to take our time.”
 $Sousuke
 “—I know.”
-I turned my attention to the desktop.
-Besides the cigar box, there were several stacks of papers. I leafed through them; they seemed to be ledgers, filled with nothing but columns of numbers.
-I couldn't make sense of them. Even if I could, I doubted they’d lead me to Qwon.
-Aside from that—there was nothing else around the desk.
-I moved away from the center of the room and began checking the walls.
-The windowless walls were lined with bookshelves. Finding anything useful here seemed like a hopeless task.
+I turned my gaze to the top of the desk.
+In addition to the wooden box that held the cigars, there were several bundles of documents. When I leafed through them, they seemed to be some kind of ledgers, with nothing but rows of numbers.
+I didn't understand the content. Even if I did, it likely wouldn't lead to Qwon's whereabouts.
+Other than that—there was nothing around the desk.
+Moving away from the center of the room, I searched along the walls.
+Bookshelves were lined up against the wall without a window. Finding something from here would be difficult.
 $Sousuke
 “—Hm?”
-Suddenly, my eye caught a photograph standing on one of the shelves.
-It was a photo of several men in what looked like military uniforms.
-'Taisho 3, Tsingtao' was written in small characters at the bottom.
+Suddenly, I noticed a photo frame placed on one part of the shelves.
+It was a photograph of several men lined up, possibly soldiers.
+‘Third year of Taisho, Tsingtao’ was written in small letters.
 $Sousuke
 “Tch—”
-The tall man in the center—the boss of the Seifuu-kai.
-So it *was* Ouzenji—
-And there was something else.
-The thin man standing next to Ouzenji—
+The tall man in the center—it was the boss of the ‘Seifoukai’.
+As I thought, he is Ouzenji—
+And one more thing.
+The slender man pictured with Ouzenji—
 $Sousuke
-“—Damn it.”
-I didn't want to believe it.
-I stared at the expressionless face of a younger Master—Godou—and spat out a curse.
-So that was their connection. That just left—
+“—Shit.”
+I don't want to admit it.
+I glared at the face of Godou, the Master in his younger days, looking out from the photograph with an expressionless face, and swore.
+Now I understood their connection. After that—
 $Sousuke
-“—I guess I'll just have to demand the truth from them directly.”
+“—I guess there’s no choice but to ask him directly.”
 $???
-“—What an amusing thought.”
-—At the sound of that voice.
+“—You say interesting things.”
+—At that voice.
 $Sousuke
-“—?!”
-I tried to turn around, but the cold steel of a barrel was pressed against my cheek.
+“—!?”
+As I tried to turn around, cold iron was pressed against my cheek.
 $Sousuke
-“You bitch...”
+“You bastard...”
 $Aoi
-“To think a couple of mice... would manage to crawl all the way in here.”
-Aoi slowly pressed the muzzle against my chest.
-Out of the corner of my eye, I saw Mikage lying crumpled on the floor.
+“For a rat... you certainly broke into quite the place.”
+Aoi slowly pressed the muzzle of her gun against my chest.
+In the corner of my vision, the figure of Mikage lying facedown on the floor was reflected.
 $Sousuke
-“Mikage—?!”
+“Mikage—!?”
 $Aoi
-“—Don't worry, I haven't killed her yet.”
-Aoi whispered, the gun never wavering.
+“—Rest assured, I haven't killed her.”
+Aoi whispered without letting go of the handgun.
 $Aoi
-“There’s no pleasure in it if they're already dead.”
+“I couldn't enjoy it if I killed her.”
 $Sousuke
-“You filth—?!”
+“You—!?”
 $Aoi
-“—Silence.”
-Aoi growled, pressing the gun against the tip of my nose.
+“—Shut up.”
+Pressing the muzzle against the bridge of my nose, Aoi growled lowly.
 $Sousuke
 “...Where is Qwon?”
 $Aoi
-“Qwon...? Oh, that brat...”
-Aoi spat the words out with pure venom.
+“Qwon...? Oh, that little girl...”
+Aoi spat out hatefully.
 $Aoi
-“—So, *you* were the one hiding her. No wonder I couldn't find her.”
-—Wait.
-She sounded like—like she didn't actually know where Qwon was.
-Was she playing dumb? Or—
+“—So, you were the one harboring her. No wonder I couldn't find her.”
+—This is strange.
+It’s almost as if—she doesn't know Qwon's whereabouts.
+Is she feigning ignorance? Or—
 $Sousuke
-“Gugh—”
+“Ugh—”
 $Aoi
-“—Don't worry, I won't kill you just yet, either.”
-A blunt force struck me, and as my consciousness began to fade, the last thing I heard was Aoi’s low, throaty chuckle.
+“—Rest assured, I won't kill you just yet either.”
+Struck with a blow, Aoi’s soft laughter echoed in my ears as my consciousness faded.
 —Cold.
-Droplets of water were hitting my cheek.
-I was lying on a cold floor, discarded like a piece of trash.
-I opened my eyes and looked around.
-Where—where was I?
-Inside that building?
-Or had I been taken somewhere else?
-It felt like a warehouse, or maybe a basement.
-Barren, windowless walls.
-The curved ceiling looked like the inside of a tunnel.
+Water droplets are hitting my cheek.
+I was lying as if thrown onto a cold floor.
+I open my eyes and look around.
+Where—is this?
+Is it inside that building?
+Or was I taken somewhere else?
+Like a warehouse, or a basement.
+An inorganic wall with no interior decoration.
+The rounded ceiling was like a tunnel.
 $Sousuke
-“Kuh—”
-I tried to stand, but my ankles were bound tight. My arms were pulled behind my back and tied as well.
-I scanned the room again from my vantage point on the floor.
-As my eyes adjusted to the dim light, I could see further into the space.
-Mikage was nowhere to be seen.
+“Ugh—”
+I tried to stand up, but my ankles were tied with rope. My arms were also tied behind my back.
+I surveyed the surroundings once more from a viewpoint close to the floor.
+As my eyes adjusted to the darkness, I gradually became able to see further.
+I couldn't see Mikage.
 $Sousuke
 “—Tch.”
-As I struggled to get to my feet, a pair of leather boots appeared before my eyes.
+In front of me, as I struggled to stand up, leather-shoed legs appeared.
 $Aoi
-“—How are we feeling?”
+“—How are you feeling?”
 $Sousuke
-“...Like shit.”
-I spat the words at Aoi as she smiled down at me.
+“...Terrible.”
+I spat at Aoi, who was smiling radiantly.
 $Sousuke
-“Gugh—”
-A kick to the face sent my vision spinning for a moment.
-A sharp pain flared in the bridge of my nose.
+“Ugh—”
+I was kicked in the face, and for a moment my consciousness flew.
+The bridge of my nose hurts.
 $Aoi
-“Ufufufu—”
-Aoi’s smile never wavered.
+“Ufufu—”
+Aoi's smile didn't falter.
 $Aoi
-“To play the burglar not once, but twice... you really are a naughty boy.”
-Aoi wound the whip she was holding around my neck.
+“Playing the petty thief twice; you’ve been quite naughty.”
+Aoi began wrapping the whip she held around my neck.
 $Sousuke
-“Kuh—”
-She applied just enough pressure to keep me on the edge of choking.
-Whenever I was about to black out, the whip would loosen, only to tighten again the moment I regained my breath.
+“Ugh—”
+An exquisite force was applied, as if it were on the verge of strangling me or not.
+When I was about to pass out, the whip would loosen, and as soon as she saw I had recovered, it would tighten again.
 $Aoi
-“Ufufu—what a delicious expression...”
-Aoi ran her tongue over her lips, looking rapturous.
+“Ufu—what a good look...”
+Aoi licked her lips with an ecstatic expression.
 $Sousuke
-“Gugh... where... where is Mikage?”
+“Gu... ugh, where is... Mikage?”
 $Aoi
-“That woman? —Fufu, are you that desperate to see her?”
+“That woman? —Fufu, do you want to see her that badly?”
 $Sousuke
-“Hey—!”
+“Hey—”
 $Aoi
-“—I'll let you see her.”
-Aoi grabbed the rope binding me and began to drag me across the floor.
+“—I’ll let you see her.”
+Aoi grabbed the rope binding my body and then began dragging me.
 $Aoi
-“Here—take a good look.”
-In the corner of the room, behind a stack of wooden crates—
+“Here—have a look.”
+In the corner of the room, where wooden boxes were piled up—

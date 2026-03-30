@@ -1,571 +1,571 @@
 --------------------
 0203
 ********************
-By the time I woke up, it was already past noon.
-I sat up and scanned the room.
+When I woke up, the time had already passed noon.
+I sat up and checked the room.
 $Sousuke
-“...Good.”
-Aoi wasn't here.
-Maybe there was no work today.
-If that was the case, I could actually relax.
-I sprawled back out on the bed.
+“...Alright.”
+It seems Aoi hasn't come yet.
+I suppose that means there's no work today.
+If that's the case, I can take it easy.
+I lay back down on the bed once more.
 $Sousuke
 “Phew...”
-Now then—what to do?
-Thanks to yesterday’s job, the risk of being hunted by the law had dropped, so I could go outside, but I felt strangely sluggish.
-Then again, there was nothing to do if I stayed here.
-I wouldn't be doing anything even if I went out, so staying in and playing the piano didn't seem like a bad alternative.
-I stood up and walked over to the piano.
-I began to play idly.
-As long as I kept my fingers moving, I could forget the unnecessary thoughts—to an extent.
-But it was only—to an extent.
+Now then—what should I do?
+Thanks to yesterday's job, the probability of being chased by the authorities has decreased, so I could go outside, but I feel strangely listless.
+That said, even if I stay here, there's nothing to do.
+Since I'd likely do nothing even if I went out, staying in the room and playing the piano doesn't sound half bad.
+I stood up and went to the side of the piano.
+I began to play aimlessly.
+As long as I move my fingers, I can forget unnecessary things to some extent.
+But—it was only to some extent.
 $Sousuke
 “Hah—”
-I stopped playing.
-It was no use. My heart wasn't in it.
-Maybe it was because there was no one to listen.
-No—that couldn't be it.
-Even when I played at the bar, I was never conscious of the customers.
-If I were to say it was boring to play alone now—I’d sound like nothing more than a lonely child.
+I stopped my fingers.
+It's no use. My heart isn't in it.
+Could it be because there's no one listening?
+No—that's not it.
+Even when I was playing at the bar, I wasn't conscious of the customers at all.
+If I said it’s boring to play alone now—wouldn't I just seem like someone who's lonely?
 ...Pathetic.
-Even if I felt that way now, there was nothing I could do about it.
+Even if I feel that way now, there's nothing I can do about it.
 $Sousuke
-“...I’m going out...”
-I’d kill some time somewhere and head to the bar when night fell.
-I didn't intend to whine to the Master, but I felt like a drink might help clear my head.
-Once outside, my feet naturally led me toward that part of town.
-It was still too early for the bar. I wanted to kill more time, but I felt like wandering aimlessly wasn't a good idea either.
+“...Maybe I'll go out...”
+I'll kill time somewhere and go to the bar when night falls.
+I don't intend to complain to the Master, but I felt that drinking might distract me a little.
+When I went outside, my feet naturally headed toward that town.
+At this hour, it’s still too early to go to the bar. I want to kill a bit more time, but I feel like wandering around too much isn't a good idea.
 $Sousuke
-“—Well now, what to do.”
-For the time being, it seemed best to stay somewhere with fewer people.
-In a place like this—I’d draw far too much attention.
-The moment I stepped into an alley one street away from the main thoroughfare, everything grew quiet.
-A single cat darted across the path in front of me.
+“—Now then, what to do.”
+For the time being, it seems better to stay in a place with few people.
+In a place like this—I'm far too visible.
+Once I step into an alleyway just one block away from the main street, it suddenly becomes quiet.
+A single cat crossed in front of me.
 A calm, silent town—or so I thought.
 $???
-“Please, stop it...!”
+“Please stop it...”
 $Sousuke
 “...Good grief.”
-Just my luck.
-Something was happening up ahead.
-If it were just a lovers' spat, I’d ignore it and keep walking, but—
+My luck is just plain bad.
+It seems something is happening up ahead.
+If it were a simple lover's quarrel, I'd ignore it and pass by, but—
 $???
-“Hehe...”
+“Heheh...”
 $???
-“Come on, what’s the harm...?”
-—Honestly, men really are...
-I didn't want to get involved in any trouble.
-I’d had quite enough after the other night—
-Typical.
-Just as I thought the voice sounded familiar...
+“Isn't it fine...?”
+—Honestly, men are...
+I don't want to get involved in trouble.
+I've had quite enough of things like the other night—
+Good grief—I’m done.
+I thought it was a voice I’d heard somewhere...
 $Ayane
-“I said stop it!!”
+“Please cut it out!!”
 $Man
-“A girl walking through the pleasure district alone? You’re practically begging for a man to notice you, aren't you?”
+“Walking through the pleasure quarters alone, it can only be seen as you tempting men, right?”
 $Man
-“Just come along with us, nice and quiet... heh-heh-heh...”
+“Just come along quietly with us... hehehe...”
 $Ayane
-“I told you, it’s not like that at all!!”
+“I told you, it’s not like that!!”
 $Sousuke
 “—Hey.”
-Now that I’d seen it, I had to say something.
-I didn't possess any cheap sense of justice, but it left a bad taste in my mouth to ignore a woman I recognized being harassed.
+Now that I’ve seen it, I suppose I have to speak up.
+I don't possess any cheap sense of justice, but it feels unpleasant to ignore a woman I recognize being harassed.
 $Man
-“Huh? Who the hell are you?”
+“Aahn? Who the hell are you?”
 $Man
-“You want some of this, punk!?”
+“You wanna go, punk!?”
 —Honestly.
-I wish they’d put a little more effort into their threats.
+I wish they’d put a little more effort into their intimidation lines.
 $Ayane
-“Ah...!”
-Ayane gasped when she saw me.
+“Ah...”
+Ayane let out a gasp when she saw me.
 $Sousuke
-“—Yo. We meet again.”
+“—Yo, we meet again.”
 $Ayane
-“Kudou...-san, why are you...?”
+“Kudou... san, why are you...?”
 $Sousuke
-“Even if you ask me why...”
-I suppose I should just call it a twist of fate.
+“Even if you ask me why.”
+Should I just say it was mere circumstance?
 $Man
-“Tch... brother, you think you can just swoop in and steal her away?”
+“Tch... Hey buddy, you thinking of swooping in from the side and snatching her away?”
 $Man
-“I don't care if you know her or not, don't get in our way.”
+“I don't know if you're an acquaintance of hers or what, but don't get in our way.”
 $Sousuke
-“—Shut up.”
-I took a step forward. The men showed no sign of letting go of Ayane; they wouldn't move away from her.
+“—You're noisy.”
+I took a step forward. The men showed no sign of letting go of Ayane, nor did they try to distance themselves from her.
 $Sousuke
-“—Beat it.”
+“—Get lost.”
 $Man
-“Heh... acting like a tough guy—!”
-Before the man could finish his sentence, I’d delivered a kick to his jaw.
+“Heheh... Acting like some lady-killer—”
+Before the man could finish speaking, I had kicked him square in the jaw.
 $Man
-“Gwoh!?”
+“Hebu!?”
 $Sousuke
-“—I told you to shut up.”
-I spat the words at the man on the ground.
+“—I said you're noisy.”
+I spat out the words at the fallen man.
 $Man
-“W-why you!!”
-The remaining man shoved Ayane aside and pulled a knife from his coat.
+“Y-You bastard!!”
+The remaining man pushed Ayane aside and pulled a knife from his breast pocket.
 $Ayane
-“Eek!?”
+“Kyat!?”
 $Man
-“Heh-heh... I’ll kill you...!”
+“Heheh... I'm gonna kill you...”
 $Sousuke
-“—Try it.”
-I pulled one leg back, dropped my center of gravity, and held my arms out.
+“—Go ahead and try.”
+I pulled one leg back, lowered my hips, and put my arm forward.
 $Man
 “Die!!”
 $Sousuke
 “—Hah.”
-I dodged the man as he lunged with the knife held low, and delivered a knife-hand strike to his neck.
+I dodged the man charging at me with the knife held at his waist and drove a knife-hand strike into his neck.
 $Man
-“Gah!?”
-I kicked the dropped knife far away and delivered a kick to the stomach of the crouching man.
+“Guah!?”
+I kicked away the fallen knife and delivered a kick to the stomach of the crouching man.
 $Sousuke
-“—Don't act so tough when you’re this weak.”
+“—Don't act tough when you're so damn weak.”
 $Man
-“Ngh... ugh...”
-Leaving the man to groan without a comeback, I turned back to Ayane.
+“Guh... ugh...”
+Ignoring the groaning man who couldn't even manage a rebuttal, I turned back to Ayane.
 $Ayane
 “Ah... um...”
 $Sousuke
-“—If you wander around a place like this alone, any woman is bound to get picked up by some man.”
+“—If you wander around a place like this alone, of course any woman would get picked up by men.”
 $Ayane
-“Wha—!? T-that’s a horrible way to put it!!”
+“What...!? I-I don't think that's a nice way to put it!!”
 $Ayane
 “I was just taking a walk!!”
-Perhaps my words had touched a nerve, as Ayane puffed out her cheeks and stomped over to me.
+Perhaps my words rubbed her the wrong way, for Ayane puffed out her cheeks and pressed toward me.
 $Sousuke
-“Well, I suppose this settles my debt.”
+“Well, with this, I've paid back my debt, right?”
 $Ayane
-“I don't recall you having any debt to me!!”
+“I don't remember you having a debt to me!!”
 $Sousuke
-“You helped me out the other day. So today, we’re even.”
+“You helped me the other day. So, helping you today makes us even.”
 $Ayane
-“I never said... I wanted to be helped.”
+“I never... said I wanted to be helped.”
 $Sousuke
-“So I should have just left you alone?”
+“Then would it have been fine if I’d just left you alone?”
 $Ayane
 “That’s...”
 $Sousuke
-“Shall I go wake those guys up for you?”
+“Should I go wake up those guys knocked out over there?”
 $Ayane
-“Please don't!! ...Honestly, why do you have to be so mean!?”
+“Please stop it!! ...Geez, why do you say such mean things!?”
 $Sousuke
-“Because you aren't honest with yourself.”
+“Because you're not being honest.”
 $Ayane
-“Why do you have to talk as if I’m the one in the wrong!?”
+“Why do I have to be spoken to as if I'm the one in the wrong!?”
 $Ayane
-“You’re the one being chased by the police like a common criminal!!”
+“You're the one being chased by the police, looking like a villain!!”
 $Sousuke
-“—!”
+“—”
 $Ayane
 “...Ah...”
-She’d struck a nerve.
+She poked me right where it hurts.
 $Ayane
-“A... um, Kudou...-san?”
+“U-Um... Kudou... san?”
 $Sousuke
-“I suppose you don't want to be helped by a criminal, then...”
+“So you don't want to be helped by a villain, huh...”
 $Ayane
-“Ah, no, it’s not like that...!”
+“Ah, no, it's not like that...”
 Ayane suddenly became flustered.
 $Sousuke
-“Typical... it’s just one disaster after another.”
-Well, I suppose it was better than her calling the police on the spot.
+“Good grief... One thing after another.”
+Well, it's better than having the police called on me immediately.
 $Sousuke
-“...See you. Don't go wandering around alone so much.”
+“...See ya. Don't wander around too much by yourself.”
 $Sousuke
-“A—murderer like me might be lurking around, after all.”
+“Because a—killer like me might be roaming about.”
 $Ayane
 “Yesterday... I read about it in the newspaper.”
-Ayane spoke with her head down.
+Ayane spoke with her head slightly downcast.
 $Ayane
-“The murder of the geisha that happened near here three days ago... your name was in there. They called you a ‘vicious murderer.’”
+“The murder of a prostitute that happened near here three days ago... Your name was in there. It said you were a “Vicious Killer”.”
 $Sousuke
 “............”
-So my name made it into the papers. It seemed yesterday’s job—likely the attempt to bribe the authorities—was too late.
-Honestly—what a waste of money.
+To have my name even show up in the papers. It means that yesterday's work—likely the bribery of the authorities—was too late.
+Truly—it’s all pointless.
 $Ayane
-“I told you back then that you didn't look like a criminal, didn't I? That hasn't changed.”
+“I said back then that you didn't look like a vicious criminal, didn't I? That hasn't changed even now.”
 $Ayane
-“Kudou-san... you didn't really kill her, did you?”
+“Kudou-san... You didn't actually kill her, did you?”
 $Sousuke
 “...Why do you think that?”
 What a strange woman.
 $Ayane
-“I just told you the reason. I don't think you’re the kind of person who could kill someone.”
+“I just told you the reason. I can't imagine you killing anyone.”
 Ayane stared intently into my eyes. Straight, clear eyes.
-Pure and innocent, knowing nothing of the world’s filth—
-...I couldn't stand it.
+Innocent and pure, knowing nothing of filth—
+...It was unbearable.
 $Sousuke
-“...Absurd.”
+“...Ridiculous.”
 $Ayane
-“Please, answer me properly!!”
+“Please answer me properly!!”
 $Sousuke
-“—And if I told you I did kill her?”
+“—And if I said I did kill her?”
 $Ayane
-“I wouldn't believe you.”
+“I wouldn't believe it.”
 $Sousuke
 “—Hah.”
-Honestly—what a naive woman.
-How could she be so certain?
-When even I didn't have any firm proof that I hadn't done it—
-Back then—she was still moving.
-I didn't kill her.
-The police were closing in. There was no way she could have been left to die.
-I shouldn't—I shouldn't have killed her.
+Truly—what a naive woman.
+How can she be so certain?
+When even I don't have a single shred of solid evidence that I didn't do it—
+At that time—that guy was still moving.
+I didn't kill him.
+The police were closing in. He shouldn't have died if he’d been left there.
+I shouldn't have—killed him.
 $Ayane
-“...I simply cannot believe you committed murder.”
+“...I cannot believe for a second that you committed murder.”
 $Ayane
-“Normally, someone who has just committed murder is in a state of abnormal excitement. I didn't see that in you at all.”
+“Normally, a person immediately after committing murder is in a state of abnormal excitement. I didn't see that in you, Kudou-san.”
 $Ayane
-“—Though, you did almost try to seduce me out of nowhere.”
-Ayane glared at me, her voice flat.
+“—Well, you did try to hit on me out of the blue, though.”
+Ayane glared at me with a flat voice.
 $Sousuke
-“...I was drunk. Why else would I pick up such a strange woman?”
+“...I was drunk. Otherwise, why would I pick up such a strange woman?”
 $Ayane
 “Don't call me a strange woman!!”
 $Sousuke
-“...There are people in this world who can kill without a second thought, you know.”
+“...There are likely people in this world who can commit murder with perfect composure.”
 $Ayane
-“Are you that kind of person? I don't think so.”
+“Are you that kind of person? You're not, are you?”
 $Sousuke
-“...Who knows.”
-At the very least, I was definitely someone who could hit someone without a second thought.
-Which meant—I could become someone who could kill without a second thought at any time.
+“...Well, I wonder.”
+At the very least, there’s no doubt I’m a person who can punch someone with composure.
+Which means—I could become a person who can kill someone with composure at any time.
 $Ayane
-“Be clear about it!! Why do you keep trying to deceive yourself with such ambiguity!?”
+“Make it clear!! Why do you try to deceive yourself by being so ambiguous!?”
 $Sousuke
-“Deceive... myself?”
+“Deceiving... myself?”
 $Ayane
 “Am I wrong!?”
 —I wonder.
-Was I deceiving myself?
-...There was no point in that.
-I knew what I’d done better than anyone—
-...No, did I not remember?
-Is that why it looked like I was deceiving myself?
-I’m hopeless, honestly—
+Am I deceiving myself?
+...There’s no point in that.
+I know very well what I’ve done—
+...No, do I not remember?
+Is that why it looks like I'm deceiving myself?
+I'm hopeless, honestly—
 $Ayane
-“Kudou-san! Are you listening!?”
+“Kudou-san!! Are you listening!?”
 $Sousuke
 “...I’m listening.”
-Listening, and feeling the weight of it.
-The words of the uninvolved Ayane were hitting home in my own foolish brain, which couldn't remember a thing despite being the one involved.
+I’m listening, and it’s working.
+The words of the unrelated Ayane are working on my stupid brain, which remembers nothing despite being the one involved.
 $Ayane
-“Anyway, have some confidence!! You didn't do it!!”
+“Anyway, please have some confidence!! Because you didn't do it, Kudou-san!!”
 $Sousuke
-“How can you be so sure?”
+“How can you say that so definitively?”
 $Ayane
-“That night, you were soaking wet from the rain. You were covered in blood because of the injury to your arm... but you weren't covered in anything like blood spatter.”
+“That night, you were soaking wet from the rain. Your arm was injured and you were covered in blood, but... you weren't covered in any blood spray.”
 $Ayane
-“If you’d killed someone, you would have definitely been covered in blood spatter.”
+“If you’d killed someone, you surely would have been covered in blood spray.”
 $Sousuke
-“...I imagine there wouldn't be much blood in the case of strangulation.”
+“...I don't think there's any bleeding in the case of strangulation, though.”
 $Ayane
-“I don't think that was it. The newspaper said ‘a large amount of fresh blood was spilled at the scene.’”
+“I don't think that's it. Because the newspaper said, “A vast amount of fresh blood was flowing at the scene”.”
 $Ayane
-“I’m sure the reporters exaggerated a bit, but I don't think they’d outright lie about the basics.”
+“There are likely parts the newspaper reporter exaggerated, but I don't think they wrote anything fundamentally false.”
 $Sousuke
-“Good grief... you’re like a detective.”
-I couldn't help but let out a wry smile.
+“Good grief... You're like a detective.”
+I let out an involuntary wry smile.
 $Ayane
-“It’s not that big a deal. I just gathered the information that caught my eye.”
+“It's not that big a deal. I just gathered the information that caught my eye.”
 $Sousuke
-“Even just gathering information is quite a feat.”
-I didn't think I could do it.
-Well—mostly because the act of gathering information was such a pain.
+“Even just gathering information is quite something.”
+It’s not something I could do.
+Well—the biggest reason is that the act of gathering information is a pain in the ass.
 $Ayane
-“And... maybe it’s intuition. People often tell me I have a sharp intuition.”
+“And... maybe it's intuition. People tell me I have quite sharp intuition.”
 $Sousuke
-“...I wouldn't count on that.”
+“...That doesn't sound like it can be relied upon.”
 $Ayane
-“I’m telling you, it’s true!”
+“I told you that's not true.”
 $Ayane
-“I believe you’re innocent. So there must be a real culprit out there somewhere.”
+“I believe you're innocent, Kudou-san. So there absolutely must be another culprit.”
 $Sousuke
 “Good grief...”
-Watching Ayane get all worked up on her own, I let out a sigh mixed with a wry smile.
+I let out a sigh mixed with a wry smile at Ayane, who was getting excited all on her own.
 $Sousuke
-“Why are you so determined to stick your nose into this? You and I are strangers, and this is far from safe, you know?”
+“Why are you so eager to stick your nose in? You and I were strangers to begin with, and it's certainly not safe, you know?”
 $Ayane
 “—I love detective novels.”
 $Sousuke
-“Hah—reality and stories are completely different things, you know?”
+“Hah—Reality and stories are completely different things, you know?”
 $Ayane
 “I know that much.”
 $Ayane
-“But... don't you think a ‘Boy Detectives Club’ sounds like fun?”
+“But... don't you think a Boy Detectives' Club sounds like fun?”
 $Sousuke
-“...What on earth is that?”
+“...What the hell is that?”
 $Ayane
-“You don't know? It’s from Edogawa Ranpo’s novels! The stories of young Kobayashi and the others helping the detective Akechi. You haven't heard of the Fiend with Twenty Faces?”
+“You don't know? It’s Edogawa Ranpo’s novel. Stories about Kobayashi-shounen and the others who help Detective Akechi. Don't you know about the Fiend with Twenty Faces or anything?”
 $Sousuke
-“I know Ranpo by name... but I’ve never read any of his novels.”
+“I know Ranpo by name, at least... but I’ve never read a novel.”
 $Ayane
-“Honestly...”
+“Geez...”
 $Sousuke
-“—Well, I suppose I’m grateful for the help.”
-With no one else to turn to, having someone on my side was a comforting thought.
+“—Well, I appreciate the cooperation, though.”
+In my current situation where I have no one to rely on, just having someone who will be an ally is encouraging.
 $Ayane
-“In that case, I’ll look into things some more!”
+“In that case, I'll try looking into more things.”
 $Sousuke
 “—Be careful.”
 $Ayane
-“Of course!”
+“Of course!!”
 —Good grief.
-What did she have to gain by taking my side?
-She seemed like nothing more than a young lady looking for a thrill...
-—Well, as long as she didn't do anything too reckless, she should be fine.
+What does she stand to gain by siding with someone like me?
+She seems like nothing more than a young lady seeking excitement, but...
+—Well, as long as she doesn't do anything too strange, she should be fine.
 $Ayane
-“I look forward to working with you, Kudou-san!”
+“I'm counting on you, Kudou-san!!”
 $Sousuke
-“—Yeah, likewise.”
-The hand she held out was small and soft, and it seemed to remind me of a human warmth I’d almost forgotten.
+“—Yeah, I'm counting on you too.”
+The hand she held out felt small and soft, and seemed to remind me of a human warmth I’d begun to forget.
 $Ayane
-“By the way, where are you living, Kudou-san?”
+“By the way, where do you live, Kudou-san?”
 $Sousuke
-“Hm... I’m at the Culture Apartment right now. In Ochanomizu.”
-Though it was more like I was being forced to live there than choosing to.
+“Mm... Right now, it's the Bunka Apartments. In Ochanomizu.”
+Rather than living there, it’s more accurate to say I’m being made to live there.
 $Ayane
-“Really!? That ‘Kaika’ apartment!?”
+“Really!? In that Kaika Apartment!?”
 $Sousuke
-“‘Kaika’ apartment...?”
-An unfamiliar term. Was that what it was called too?
+“Kaika Apartment...?”
+It’s a word I’m not familiar with. Is it called that too?
 $Ayane
-“You don't know!? That’s where the detective Akechi has his office! He reportedly lived in two rooms on the second floor—”
+“You don't know!? Detective Akechi set up his office there! It said he rented two rooms on the second floor to live in—”
 $Sousuke
-“...That’s just a story.”
+“...That's a story from a novel.”
 $Ayane
-“W-well, yes, but...”
-Perhaps my tone was too cold, as Ayane suddenly looked unsettled, her gaze darting about nervously.
+“W... Well, that's true, but...”
+Perhaps because my voice was cold, Ayane suddenly became restless and her gaze began to shift busily back and forth.
 $Sousuke
-“...Do you need the restroom?”
+“...Do you need the toilet?”
 $Ayane
-“No I don't!! Honestly... don't you have any delicacy!?”
-Ayane protested, her cheeks flushing red.
-Well—I suppose my choice of words for a lady was a bit careless.
+“I do not!! Geez... do you have no delicacy!?”
+Ayane protested with her cheeks flushed red.
+Well—I suppose my comment just now was careless of me to say to a woman.
 $Sousuke
-“...My bad.”
+“...I'm sorry.”
 $Ayane
-“If you’re really sorry, then show it with your actions!”
+“If you're sorry, then show it with your attitude.”
 $Sousuke
-“...What’s that supposed to mean?”
+“...What's that supposed to mean?”
 $Ayane
-“I’ll forgive you if you take me on one date.”
-Ayane held up her index finger and thrust it in front of my face.
+“One date, and I'll forgive you.”
+Ayane held up her index finger and thrust it in front of my eyes.
 $Sousuke
 “...Huh?”
 $Ayane
-“I’m joking! Just a joke!”
-Ayane let out a bright, cheerful laugh.
+“It’s a joke, a jo-ke.”
+Ayane let out a lively laugh.
 --------------------
 0204
 ********************
 After parting with Ayane, I headed straight for the bar.
 At this hour, the bar might still be open.
-But rather than walking the crowded streets, I felt it was better to hide away in a corner of the bar.
+But rather than walking down a street crowded with people, it would be better to hide myself in a corner of the bar.
 $Sousuke
 “...Yo.”
 $Master
-“We’re still open for business, Sousuke.”
+“We're still open, Sousuke.”
 $Sousuke
-“...Doesn't look like you have any customers to me.”
+“...Doesn't look like there are any customers from where I'm standing.”
 $Master
 “Good grief...”
-The Master stepped away from the counter, walked across the floor, and locked the entrance door.
+The Master came out from behind the counter, crossed the floor, and locked the entrance door.
 $Master
-“—Thanks to this nuisance, we’re closing early for the day.”
+“—Thanks to a nuisance coming by, we're closing up for the day.”
 $Sousuke
-“Sorry for being such a nuisance.”
+“Sorry for being a nuisance.”
 $Master
-“Want a drink?”
-The Master poured whiskey into a glass without waiting for my reply.
+“Wanna drink?”
+Without waiting for my answer, the Master poured whiskey into a glass.
 $Sousuke
 “...Thanks.”
 $Master
-“No, don't worry about it.”
+“Don't worry about it.”
 $Master
-“Ever since the military police visited the shop the other day, it’s been as quiet as a grave.”
+“Ever since the Military Police visited the shop the other day, the place has been empty.”
 $Master
-“Perhaps it’s because many literary types live around here, but they’ve always been wandering about under the pretext of cracking down on anti-war sentiment, so it’s not necessarily your fault.”
+“Because many literary figures originally live around here, they were always roaming about under the guise of cracking down on anti-war thought, so it's not particularly your fault.”
 $Sousuke
-“Are the MPs still coming here?”
+“Do the Military Police still come here?”
 $Master
-“No, I haven't seen hide nor hair of them lately. Maybe they’re patrolling somewhere else?”
+“No, I haven't seen them at all lately. Maybe they're patrolling somewhere else?”
 $Sousuke
 “...I see.”
-So what Aoi said was true, then.
+So what Aoi said was true.
 $Master
-“It should be fine for you to come here for a while.”
+“It should be fine to come here for a while.”
 $Sousuke
 “...Thanks.”
-I drained the glass. The alcohol burned down my throat, and I felt a warmth spread through my core.
+I gulped down the drink. I felt the alcohol pass through my throat, a sensation that warmed the core of my body.
 $Sousuke
-“But... is it okay? You aren't going to turn me over to the police?”
+“But... is it okay? Not turning me in to the police.”
 $Master
-“I believe in you, for now. If you’d really done it, I’d hand you over.”
+“I believe in you, for the most part. If you’d really done it, I’d turn you in.”
 $Master
-“—You aren't the kind of person who kills people.”
+“—You are not the kind of person who would kill someone.”
 $Sousuke
 “—Hah.”
-I almost spit out my drink.
+I almost spat out my drink in spite of myself.
 $Sousuke
-“I didn't realize you held me in such high regard, Master. ...But I’m grateful for the trust.”
+“I didn't think I was held in such high regard by the Master. ...I appreciate being believed in, though.”
 $Master
-“...You can tell someone who’s killed by their scent.”
+“...You can tell someone who's killed by the smell.”
 $Master
-“The scent of their victim’s death... it lingers forever. No matter how much you try to wash it away, it never disappears.”
+“The death stench of the person they killed lingers forever. No matter how much you try to wash it away, it never disappears.”
 $Sousuke
-“Master... have you ever killed anyone?”
+“Master... have you killed someone before?”
 $Master
-“—I was in Manchuria, once.”
-With that one sentence, I understood.
-I didn't know the details, but the Master was a former soldier.
-I’d heard that fierce battles had been fought during the Russo-Japanese War.
-I hesitated to ask just how much he’d seen—how many lives he’d taken.
+“—Long ago, I was in Manchuria.”
+With that one word, I understood.
+I don't know the details, but the Master is a former Army soldier.
+I’ve heard that fierce battles were fought during the Russo-Japanese War.
+Just how many war results the Master had achieved—I hesitated to ask.
 $Master
-“...It’s a bitter thing. Ending another person’s life.”
-The Master took a sip from his own glass. It was rare for a bartender to drink anything other than a taste test.
-It must have been a topic he truly didn't want to remember.
+“...It’s a bitter thing. The act of ending someone else's life.”
+The Master put the glass to his own lips. It’s rare for a bartender to drink alcohol other than to taste it.
+It must have been a topic he didn't want to remember that much.
 $Sousuke
 “...I see.”
-I felt like a smoke.
-I pulled out my pack of cigarettes and looked at the Master, who was a known hater of smoke.
-He didn't say anything, but his expression was clearly one of disapproval.
+I felt like having a smoke.
+I reached for my pack of cigarettes while stealing a glance at the Master, who was a hater of smoke.
+He didn't say anything, but he clearly had an unhappy expression on his face.
 $Sousuke
 “—Good grief.”
-I put the pack away and took another drink instead.
+I put the pack away and gulped down my glass instead.
 $Master
 “...Sousuke.”
 $Sousuke
 “Hm?”
 $Master
-“One day, your reward will come.”
+“The day will come when you'll be rewarded.”
 $Sousuke
-“...I certainly hope so.”
+“...I hope so.”
 I placed a few coins on the counter and stood up.
 $Sousuke
-“Sorry for the trouble.”
+“Sorry for the intrusion.”
 $Master
-“...Come again.”
+“...Come back again.”
 $Sousuke
-“I’ll do that.”
-I raised a hand slightly and left the bar.
-Once outside, I immediately lit a cigarette.
-The purple smoke vanished into the dark sky as if being swallowed up.
+“I'll do that.”
+Giving a small wave, I left the bar.
+As soon as I stepped outside, I lit a cigarette.
+The purple smoke disappeared into the dark sky as if being sucked away.
 $Sousuke
 “Heh—”
-A scent—huh.
-The sensation of a rotting smell drifting from my own body.
-The scent of death from the woman who died that night.
+Smell... huh.
+The sensation of a putrid odor drifting from my own body.
+The death stench of the woman who died that night.
 It made me feel sick.
-Even though I hadn't killed her.
-—In the end, until I returned to my apartment and collapsed onto the bed, losing consciousness, my nostrils continued to catch that scent of death that shouldn't have been there.
+Even though I shouldn't have killed her.
+—In the end, until I returned to the apartment, collapsed onto the bed, and lost consciousness, my nostrils continued to smell the death stench that shouldn't have been there.
 --------------------
 0205
 ********************
-The moment I woke up, I headed straight for the bath and washed the sweat from my body.
-I couldn't shake the feeling that the scent of death was drifting from my own skin.
-No matter how much I scrubbed with soap, the source of the smell wouldn't disappear.
+When I woke up, I headed straight for the bathroom and washed the sweat from my body.
+I couldn't help but feel that a putrid odor was drifting from my own body.
+No matter how much I scrubbed my body with soap, the source of the smell wouldn't disappear.
 $Sousuke
 “Tch...”
-I sat on the bed with a towel draped over my shoulder. My skin was flushed red from over-scrubbing.
-What a nuisance.
-I didn't kill her, yet the scent wouldn't fade.
-If I stayed in this closed room, even the air felt like it was starting to smell of rot.
-As if escaping the phantom scent, I left the room.
-As soon as I stepped outside, I was stopped by a familiar woman’s voice.
+I sat down on the bed with the towel still draped over my shoulder. Perhaps from scrubbing too much, my skin was stained red.
+What an unpleasant feeling.
+Even though I didn't kill her, the smell won't go away.
+If I stay in this closed room, even the air feels like it will give off a putrid odor.
+As if escaping from the phantom smell, I left the room.
+The moment I stepped outside, I was called out to by a familiar woman's voice.
 $Aoi
-“—And where do you think you’re going?”
+“—Where might you be going?”
 Aoi was at the entrance of the apartment.
 $Aoi
-“What’s the rush?”
+“What are you in such a hurry for?”
 $Sousuke
-“Just getting some fresh air.”
-It wasn't exactly a lie.
+“Just to breathe some outside air.”
+I wasn't wrong.
 $Aoi
-“It doesn't look like you were trying to run just because I arrived... I suppose.”
+“It doesn't seem like... you were trying to run because I came.”
 Aoi said with a giggle.
 Don't be ridiculous.
-If I were going to run, I’d do it a lot more discreetly.
+If I were to run, I’d do it more inconspicuously.
 $Aoi
-“—Well, fine. We have work.”
+“—Well, never mind. It’s work.”
 $Sousuke
-“...What kind of work?”
-As long as it helped me forget the scent of death, anything was fine.
+“...What are the details?”
+At this point, anything would do as long as I could forget the death stench.
 $Aoi
-“A simple task. ...Debt collection.”
+“A simple job. ...Debt collection.”
 $Sousuke
-“I see... straightforward enough.”
-It was so simple it was almost pathetic.
+“I see... That’s easy enough to understand.”
+It’s so simple it makes me want to cry.
 $Aoi
-“There are customers who borrowed money from the head office and haven't paid it back.”
+“There’s a customer who borrowed money from headquarters and just left it at that.”
 $Sousuke
-“Head office...?”
-At my murmur, Aoi’s expression tightened for a moment.
+“Headquarters...?”
+At my murmur, Aoi’s expression stiffened for a moment.
 $Aoi
-“...Anyway, let’s go. I’m bringing others along since I can't trust you alone just yet, so try to get along with them.”
+“...Anyway, let’s go. Since you're unreliable on your own this time, I’m bringing others along too, so try to get along.”
 $Sousuke
-“Hah—it’s not like we’re on a school field trip.”
+“Hah—It’s not like we're kids on a field trip.”
 $Aoi
-“...I’m saying it because they act like children.”
+“...I’m saying it because they're a bunch of brats.”
 $Sousuke
-“...My apologies to them, then.”
+“...My bad.”
 $Aoi
 “...Let’s get moving.”
-With those words, Aoi started walking.
-Head office... huh.
-Between the thirty thousand yen and everything else, I’d figured there was some kind of back-end organization involved.
-Honestly—what a pain.
-Aoi led us to the northern edge of Asakusa.
-Two unfamiliar men were following behind us.
+With those parting words, Aoi began to walk.
+Even so, headquarters... huh.
+Between that and the way they could casually shell out thirty thousand yen, I’d thought some kind of underlying organization was involved.
+Truly—it’s a pain.
+Aoi led me to the northern outskirts of Asakusa.
+Two men I didn't recognize were following from behind.
 $???
-“Playing babysitter for a newcomer? This ain't our job.”
+“Babysitting a newcomer isn't the kind of job we should be doing, right?”
 $???
-“...A man shouldn't speak more than necessary.”
+“...A man should not speak unnecessarily with other men.”
 $???
-“Hah, you don't speak enough.”
+“Hah, you don't talk enough.”
 $Sousuke
 “—Who are they?”
 $Aoi
-“I haven't introduced you yet, have I? Come here, both of you.”
+“I haven't introduced you yet, have I? Both of you, come over here.”
 $???
-“You got it, sister.”
-A strange pair of men approached.
-Come to think of it, I felt like I’d seen them somewhere before—
+“Sure thing, Sis.”
+An odd pair of men approached.
+Now that I think about it, they were men I’d seen somewhere before—
 $???
-“...Yo. Thanks for the help the other day.”
+“...Yo, thanks for the help the other day.”
 $Sousuke
-“—Don't know you.”
+“—I don't know you.”
 $???
-“Don't go forgetting after you beat the hell out of me!!”
+“Don't go forgetting after you punched me all over the place!!”
 $Sousuke
-“—Oh, the punks from before.”
-The ones who’d picked a fight when I was in a foul mood.
-Well, it’s not like I’d remember people like that.
+“—Ah, that hoodlum from back then.”
+The guys who’d messed with me when I was in a bad mood.
+Well, there was no way I’d remember people like that.
 $???
-“—Whatever. I’m Kagami. I’ve heard rumors about you, all sorts of things...”
+“—Well, fine. I’m Kagami. I’ve heard rumors about you, all sorts... of things.”
 $Sousuke
 “...Hmph.”
-The man who introduced himself as Kagami held out his hand, but I had no intention of being friendly.
+The man who introduced himself as Kagami held out his hand, but I have no intention of getting friendly.
 $Kagami
 “—Tch.”
 $Aoi
-“Don't go fighting in the middle of the street.”
+“Don't go fighting in the middle of town.”
 $Sousuke
 “—Obviously.”
 $Kagami
-“I don't like him... don't you agree, Kumasaka?”
+“I don't like him... don't you think so, Kumasaka?”
 $???
-“...Personal preferences have no place in our work.”
+“—Personal tastes have nothing to do with work.”
 The other man, called Kumasaka, replied.
 $Kagami
-“Hah, all of you...”
+“Hah, every single one of you...”
 $Kumasaka
 “Calm down, Hachirou.”
 $Kagami
-“Don't call me by my first name!!”
+“Don't call me by my given name!!”
 $Hachirou
 “I’m Kagami!!”
 $Kumasaka
@@ -573,47 +573,47 @@ $Kumasaka
 $Hachirou
 “Stop calling me that too!!”
 $Kumasaka
-“...Then what should I call you, Hachi?”
+“...What should I call you, Hachi?”
 $Hachi
-“I told you, it’s Kagami!!”
+“I’m telling you I’m Kagami!!”
 $Sousuke
-“...Who are these idiots?”
-Exasperated, I shrugged my shoulders at Aoi.
+“...What's with these guys?”
+Thoroughly exasperated, I shrugged my shoulders toward Aoi.
 $Aoi
-“...It doesn't concern you, so don't worry about it.”
-Aoi’s brow furrowed; she seemed to be having a hard time with them too.
+“...It has nothing to do with you, so don't worry about it.”
+Aoi was knitting her brows; does that mean she has her hands full with these guys too?
 $Aoi
 “Hachi, Kuma. Let’s go.”
 $Hachi
-“You got it.”
+“Sure thing.”
 $Kuma
-“...You don't talk back to the sister, do you?”
+“...You don't complain to the Big Sister, huh.”
 $Hachi
-“...Of course not!? You and the sister are in completely different leagues!!”
+“...Of course not!? You and Sis are in completely different leagues!!”
 $Kuma
-“Don't get so worked up, Hachi.”
+“Don't get excited, Hachi.”
 $Hachi
-“You... you bastard...!”
+“Y-You bastard...”
 $Aoi
 “—That’s enough.”
 Aoi growled in a low voice.
 $Hachi
-“Y-yes!”
+“Yes!”
 $Kuma
 “—Haha.”
-The two immediately grew quiet.
-I see—whether they were useful or not, they were well-trained.
+The two immediately became well-behaved.
+I see—whether they're useful or not, they’ve been well-trained.
 $Aoi
-“—Let’s move.”
-Only I walked by Aoi’s side, while Hachi and Kuma followed a short distance behind.
-It made me feel like Aoi’s shadow, which wasn't exactly a pleasant feeling.
-Whether she knew my thoughts or not, Aoi spoke to me in high spirits.
+“—Let’s go.”
+I was the only one by Aoi’s side, and Hachi and Kuma were following a short distance behind.
+This makes me feel like Aoi’s shadow, which isn't a very pleasant feeling.
+Whether she knew my feelings or not, Aoi spoke to me in high spirits.
 $Aoi
-“So, where were you born?”
+“You, where were you born?”
 $Sousuke
-“...Haven't you looked into that already?”
+“...Haven't you already looked into that kind of thing?”
 $Aoi
-“Oh? I’m going out of my way to provide a topic of conversation, and you aren't going to answer?”
+“Oh, after I went to the trouble of providing a topic, do you not intend to answer?”
 $Sousuke
 “Tch... Tokyo.”
 $Aoi
@@ -621,229 +621,229 @@ $Aoi
 $Sousuke
 “You didn't know?”
 $Aoi
-“It’s not information I needed. All I know is that you have a little sister.”
+“It’s unnecessary information. All I know is that you have a little sister.”
 $Sousuke
-“...That’s more than enough.”
-There was nothing else. Or rather, the fact that I had a sister—Yuzuha—had nothing to do with me, so in the end—I had nothing.
+“...Knowing that much is enough.”
+There is nothing else. If anything, the fact that my sister—Yuzuha—exists has nothing to do with me, so in the end—I have nothing.
 $Sousuke
-“What about you? Any family...?”
+“What about you? Family or something...”
 $Aoi
 “I have nothing to tell you.”
-I’d asked without thinking, but Aoi’s voice was cold as she snapped back.
+I’d asked casually, but Aoi replied with a cold, curt voice.
 $Sousuke
 “...I see.”
-Fine by me. I wasn't interested anyway.
+Fine. I have no interest anyway.
 $Aoi
-“Don't go asking such pointless things.”
-—Typical.
-Either she didn't get along with her family, or—
-—Like me, she’d lost her parents. One or the other.
-Aoi stopped.
+“Don't ask foolish things.”
+—Good grief.
+Either she doesn't get along with her family, or—
+—Like me, she’s lost her parents, it’s one or the other.
+Aoi stopped her feet.
 $Aoi
-“Here we are.”
-In a narrow alley crowded with row houses, a half-collapsed building stood before us.
-It was so dilapidated it made me wonder if anyone actually lived there. It looked like it would be impossible to survive the winter.
-Yet, the door was firmly closed.
+“Look, it's here.”
+A narrow alleyway crowded with row houses; in front of me was a building that had half-collapsed.
+It was so dilapidated it made me worry if anyone truly lived there. It seemed like it would be impossible to live there in the winter.
+However, the door was firmly shut.
 $Aoi
-“—You two, go around to the back.”
+“—You two, go to the back.”
 Aoi gave instructions to Hachi and Kuma.
 $Hachi
-“You got it.”
-The men scattered, casting mocking, contemptuous looks at me as they went.
+“Sure thing.”
+The men dispersed while casting contemptuous, mocking glances at me.
 $Sousuke
-“—I’m not enjoying this.”
+“—This isn't fun.”
 $Aoi
-“Try to enjoy it. It’s not like everyone gets to live like this.”
+“Enjoy it. You won't get to live like this—very often.”
 $Sousuke
-“Tch—”
+“Heh—”
 I’d never ask for a life like this.
 $Aoi
-“The man living here borrowed fifty yen six months ago. ...Because he hasn't paid it back, he now owes two hundred.”
+“The man living here, you see, he borrowed fifty yen six months ago. ...Just because he didn't pay it back, he now has to pay back two hundred yen.”
 $Sousuke
-“...That’s extortionate.”
+“...That’s usury.”
 $Aoi
-“Oh? Normally the interest alone would be over two hundred, you know? We’ve lowered it on the condition that he pays it back, so he should be grateful.”
+“Oh, normally the interest alone would be over two hundred yen, you know? Since I’m making it cheaper on the condition that he pays it back properly, he should be grateful.”
 $Sousuke
-“...I’ll make sure never to borrow money from your lot.”
+“...I'll make sure not to borrow money from your place.”
 $Aoi
-“Yes, that would be wise. ...Though I think it’s already too late for you.”
+“Yes, that would be wise. ...Though I think it's already too late.”
 $Sousuke
-“Tch—”
-This woman... she never misses a chance to remind me that I can't escape.
-Well—given Yuzuha, it was true enough.
+“Tch...”
+This woman... she says things that make it sound like I can't escape at every opportunity.
+Well—with Yuzuha to think about, it’s a fact that I can't escape.
 $Aoi
-“Check and see if he’s inside.”
-Aoi gave me the order and stepped back.
+“Now, check if he’s inside.”
+Giving me the order, Aoi took a step back.
 $Sousuke
 “Hah—”
-I stood before the door. It was disproportionately heavy for such a collapsed building.
-I knocked lightly, and a dull sound echoed.
-I felt a faint movement inside.
-Someone was there. Maybe just a cat, though.
-It didn't seem like they were going to answer, likely pretending not to be home.
-Well—it was only natural not to want to answer when a debt collector was outside.
+I stood in front of the door. A door far too heavy for such a dilapidated building.
+When I tapped lightly on the door, a dull sound echoed.
+I felt a slight sign of something moving inside.
+It seems there’s a resident. It might be a cat, though.
+He likely intends to pretend to be out; there was no sign of him coming to answer.
+Well—it's natural not to come out if you know debt collectors are outside.
 Give up
-Kick down the door
+Kick the door down
 $Sousuke
 “—No good.”
 What a pain.
-Whether the person inside paid back their debt or not had nothing to do with me.
+Whether the guy in here pays back the money or not has nothing to do with me.
 $Sousuke
-“Looks like nobody’s home.”
-I told Aoi as much and tried to walk past her.
+“Seems he’s out.”
+Telling Aoi that, I tried to pass by her.
 $Sousuke
 “Guh—!?”
-Aoi’s knee connected with my solar plexus, and I doubled over involuntarily.
+Aoi’s knee drove into my solar plexus, and I involuntarily crouched down.
 $Aoi
-“Are you mocking me? Someone moved inside, didn't they? Do your job properly.”
+“What kind of nonsense are you saying? Someone moved inside, didn't they? Do your job properly.”
 $Sousuke
-“Nngh...!”
-I glared at Aoi as I groaned, but she ignored me and walked toward the door.
+“Guh...”
+I glared at Aoi while groaning, but she walked up to the door without a care.
 $Aoi
 “I’ll wait until he comes out. If he doesn't—”
-Aoi delivered a roundhouse kick to the door.
-The crash echoed through the quiet alley.
-The heavy door split in two, revealing the dilapidated interior.
+Aoi unleashed a roundhouse kick toward the door.
+A violent sound echoed through the quiet back alley.
+The thick door split in two, and the dilapidated interior was fully visible.
 $Aoi
-“—Drag him out by force if you have to. Understood?”
+“—You drag him out by force if you have to. Do you understand?”
 $Sousuke
 “—Hah.”
-Her methods were reckless.
+The way she does things is reckless.
 $Sousuke
-“—Typical.”
-This was getting messy.
-I didn't care if the person inside paid or not, but I had a terrifying woman glaring at me from behind.
+“—Good grief.”
+Things have become troublesome.
+Whether the guy in here pays back the money or not has nothing to do with me, but a scary woman is glaring from behind.
 $Aoi
 “Open it.”
 $Sousuke
 “—I know. Stand back a bit.”
-I waved a hand, telling Aoi to step back.
+Waving my hand, I made Aoi step back.
 $Aoi
-“And what are you planning?”
+“What are you going to do?”
 $Sousuke
-“The door looks heavy—but I can manage.”
-I braced myself and swung my leg.
+“It looks like a heavy door, but—it should be manageable.”
+Planting my feet, I swung my leg up.
 $Sousuke
 “—Hah!”
-The crash echoed through the quiet alley once more.
-The heavy door split in two, revealing the dilapidated interior.
+A violent sound echoed through the quiet back alley.
+The thick door split in two, and the dilapidated interior was fully visible.
 $Sousuke
-“—Well, that should do it.”
-I turned back to Aoi and shrugged my shoulders.
-Perhaps hearing the sound of the door breaking, the two who had gone around to the back returned and entered the house.
+“—Well, that should about do it.”
+Turning back toward Aoi, I shrugged my shoulders.
+Perhaps having heard the sound of the door being destroyed, the two who had gone to the back returned and entered the house.
 $Hachi
 “Hey! Where are you!!”
-Hachi headed further inside, kicking aside the meager furniture that remained.
+Hachi went further in while kicking over what little furniture remained.
 $Sousuke
-“Good grief... they’re a violent bunch.”
+“Good grief... How violent.”
 $Aoi
-“Hardly. That’ll just scare him, it won't make him pay.”
+“Not yet. Doing just that will only scare him; it won't make him give up the money.”
 $Sousuke
-“Terrifying...”
+“How terrifying...”
 $Aoi
-“Violence doesn't solve anything, you know.”
+“Violence doesn't solve anything.”
 $Sousuke
-“...You’ve got a lot of nerve saying that, honestly...”
+“...You talk big, honestly...”
 $Aoi
-“Oh? It’s the truth. ...After all, I didn't use any violence on you, did I?”
+“Oh, it’s the truth, you know? ...That’s why I didn't use violence on you, right?”
 $Sousuke
-“...I feel like I’ve been tormented enough as it is.”
+“...I feel like I was tormented plenty, though.”
 $Aoi
-“—At the very least, I was a gentleman when I invited you to join us. What happened after you joined... well, that’s just education.”
-Aoi licked her lips.
-She was a sadist to her very core.
+“—At the very least, I was gentlemanly when I brought you into the fold. What happened after you became a comrade... was education.”
+Aoi licked her lips with her tongue.
+She seems to be a sadist at her core.
 $Hachi
-“Come on, get moving!”
+“Walk faster!!”
 $Man
-“H-eek! Eeek!!”
-The men who had gone inside dragged out a wretched-looking man.
-His face was already swollen and bruised, likely from being hit several times.
+“Hi- Hieee!!”
+The guys who had gone inside brought out a wretched-looking man as if dragging him.
+Perhaps having been punched many times already, the man's face was swollen and blue-black.
 $Aoi
-“Oh dear, how tragic.”
-Aoi spoke with a tone that suggested she didn't care at all as she approached the man.
+“Oh dear, how pitiable.”
+Aoi said in a tone that didn't sound like she thought that at all, then she walked up right in front of the man.
 $Aoi
-“You have to pay back the money you borrowed, don't you? ...And yet, you hide away inside... I wonder if you’re really alright?”
+“You have to pay back the money you borrowed, right? ...And yet, you shut yourself inside your house... I wonder if you're okay?”
 $Man
-“H-eek...! I-I intend to pay it back! S-so... please... just a little more time...!!”
+“Hih...! I- I intend to pay it back! S- So... just a little more...!!”
 $Aoi
-“—Intentions aren't enough. You should know that much... since you borrowed from us, right?”
+“—Intending isn't enough. You should understand that much... since you borrowed money from us, right?”
 $Aoi
-“Surely you didn't think an apology would be enough to settle things?”
-Even as she smiled and spoke in a gentle tone, her words were merciless.
+“Surely you don't think that everything will be fine if you just apologize?”
+Showing a smile and speaking in a gentle tone, the content was nonetheless harsh.
 $Hachi
-“Sister, should we finish him off?”
+“Sis, should we finish him off?”
 $Aoi
-“Let’s see. ...Don't kill him. We won't get our money back, and cleaning up is such a hassle.”
+“I suppose so. ...Don't kill him. We won't get the money back, and cleaning up afterward is a pain.”
 $Man
-“H-eek...!!”
+“Hih...!!”
 The terrified man didn't even try to run; he could do nothing but crouch there.
 $Hachi
 “Hey!!”
 $Man
-“H-eek!! S-sorry!!”
+“Hiuu!! I- I'm sorry!!”
 $Hachi
-“You think an apology’s enough!?”
+“You think an apology is enough!?”
 $Man
-“H-eek... s-stop...”
+“Hih... st- stop...”
 $Hachi
-“Paying back what you borrowed is just common sense in this world!!”
+“It’s common sense in this world to properly pay back what you borrowed!!”
 $Man
-“I-I’m sorry...!!”
+“I- I'm sorry...!!”
 $Sousuke
 “...Good grief.”
-I couldn't watch.
-The man crouching in servility and the thug who was only strong against those weaker than him were both equally pathetic.
+I can't stand to watch this.
+The man who only crouches submissively and the hoodlums who are only strong against the weak are both equally worthless.
 $Aoi
 “—You do it too.”
 $Sousuke
-“...Refused.”
+“...I refuse.”
 $Aoi
-“—Oh?”
-She slapped my cheek and grabbed me by the collar.
+“—Is that so.”
+I was slapped across the cheek, and my collar was grabbed.
 $Aoi
-“I gave you an order. Do you understand?”
+“I’m giving an order. Do you understand?”
 $Sousuke
-“I’m not in the habit of tormenting the weak.”
+“I have no hobby of tormenting the weak.”
 $Aoi
-“Even though you stabbed and killed a helpless woman?”
+“Even though you stabbed a fragile woman to death?”
 $Sousuke
 “—Shut up.”
-Aoi’s gaze grew sharp.
-Well—I suppose I was in a similar position myself.
+Aoi’s gaze became sharp.
+Well—I suppose I’m in a similar situation.
 $Hachi
-“Sister, don't bother with a coward like him.”
-Hachi’s voice was full of triumph.
+“Sis, there's no need to pay attention to a coward like him.”
+Hachi's voice sounded triumphant.
 $Sousuke
-“Typical—”
+“Good grief—”
 —What a pain.
-I slowly walked over to Hachi.
+I slowly walked up to Hachi.
 $Hachi
-“Oh? The coward’s gonna do it? Heh, you even know how to throw a punch? You’ll break your wrist if you do it wrong, you know.”
+“Oh, the coward’s gonna do it? Heheh, do you even know how to punch? You'll break your wrist if you do it poorly, you know?”
 $Sousuke
-“A punch—no, I don't know how to do that.”
-I answered Hachi’s vulgar voice—
+“Punching—I don't know how.”
+Replying to Hachi’s vulgar voice—
 $Hachi
-“Gwoh!?”
-Hachi was sent flying through the air.
+“Hebu!?”
+Hachi’s body flew through the air.
 $Sousuke
-“—I’m the type who only uses my legs.”
-I turned my back to the fallen Hachi and faced the silent Kumasaka.
+“—I have a policy of only using kicks, you see.”
+Turning my back to the fallen Hachi, I faced the silent Kuma.
 $Sousuke
-“You want some too...?”
+“You wanna go too...?”
 $Kuma
-“—A man shouldn't seek out unnecessary conflict.”
+“—A man is one who does not care for useless fighting.”
 $Sousuke
-“—Hah, agreed.”
-I turned my back on them.
+“—Hah, I agree.”
+I turned my back to them.
 $Sousuke
-“Finish this yourselves.”
-There was no need for me to be here any longer.
+“Do whatever you want with the rest.”
+There was no longer any need for me to be here.
 $Aoi
-“And where do you think you’re going?”
+“Where do you think you're going?”
 $Sousuke
-“Who knows. ...I’m sure you’ll find me soon enough even if I don't tell you, right?”
+“Who knows. ...I’m sure you guys will find out easily enough even if I don't say.”
 $Aoi
-“—Heh. Don't worry, I won't chase you all the way to hell.”
+“—Hehe. Don't worry, I won't chase you all the way to hell.”
 $Sousuke
-“Whatever.”
-I felt like Hachi was shouting something behind me, but I decided to leave the scene.
+“Keep talking.”
+I felt like Hachi was shouting something, but I decided to leave the scene.

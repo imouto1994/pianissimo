@@ -13,89 +13,89 @@ Yuzuha puffs out her cheeks and pouts.
 $Sousuke
 “...Did you come with Mikage?”
 $Yuzuha
-“Nope!”
-Yuzuha denies it with a giggle.
+“Wrong!”
+Yuzuha denies it with a laugh.
 $Yuzuha
 “I'm with a friend. Right, Chika-chan?”
 $Chika
-“Fueh!? Uh... ah, u-un, yeah.”
+“Fueh!? Uh... ah, u-um, yeah.”
 $Sousuke
-“...I didn't say it was okay to come just because you’re with a friend. Besides, Chika, aren't you staff here?”
+“...I didn't say it was okay to come even if you're with a friend. Besides, Chika, you're an employee here, aren't you?”
 $Yuzuha
-“What’s the harm in a little visit...? I was lonely because Big Brother hasn't been coming home lately...”
+“It’s fine just for a little bit... I was lonely because Big Brother hasn't been coming home lately...”
 $Sousuke
-“...When you put it like that, it stings.”
-I scratch my cheek. So in the end, it’s my fault.
+“...It’s hard to hear you say that.”
+I scratch my cheek. In the end, is it my fault?
 $Yuzuha
-“...It’s not like it’s your fault, Big Brother, so you don't have to apologize.”
-Her forced smile is painful to look at.
-Damn it—am I really so pathetic that I make Yuzuha wear an expression like that?
+“...It’s not like it’s your fault, so you don't have to apologize.”
+The forced smile on her face is painful to look at.
+Damn it—am I really so pathetic that I make Yuzuha make expressions like that?
 $Chika
-“Ah... Yuzuha-chan, that thing you mentioned before... do you want to try it today?”
+“Ah... Yuzuha-chan, what you were talking about the other day... do you want to try it today?”
 $Yuzuha
 “Eh... is it okay?”
 $Chika
-“Yeah. I have a spare, so it’s perfect, right?”
+“Yeah. I have a spare, so it's perfect, right?”
 $Sousuke
-“...What are you two talking about?”
+“...What are you talking about?”
 $Yuzuha
 “It’s a secret, so Big Brother isn't allowed to hear.”
 $Sousuke
 “...Fine, fine.”
-With a wry smile, I shrug and pull a bottle of malt whiskey from the shelf behind the counter. I pour a glass and savor it in small, slow sips, taking it straight.
+I shrug with a wry smile and take a bottle of malt whiskey from the liquor lined up on the counter. I pour it into a glass and sip it slowly, tasting it straight.
 $Yuzuha
-“Then, let’s get to it...”
+“Well then, let’s get right to it...”
 $Chika
-“It’s in the back, so let’s go over there...”
-Accompanied by Yuzuha, Chika heads into the passage leading to the back.
+“It's in the back, so... over there, okay?”
+Accompanied by Yuzuha, Chika enters the passage leading to the back.
 $Sousuke
-“What was that about...?”
-Well, it’s probably just some harmless game between friends.
-Even so—it might be the first time I’ve seen Chika speak normally.
-Maybe it’s because I intimidate her that she uses such a stiff tone around me.
-I suppose that’s my fault too.
-Good grief—no matter where I go, I’m nothing but a nuisance to everyone around me—
+“What was that...?”
+Well, it's probably just some harmless game between friends.
+Even so—this might be the first time I've seen Chika speak normally.
+I suppose my presence scares her, causing her to use such stiff language around me.
+That’s probably my fault too.
+Good grief—no matter where I go, I do nothing but cause trouble for those around me—
 $Yuzuha
 “Big Brotheeer!”
 $Sousuke
 “Hmm...?”
-I turn around at Yuzuha’s call.
+I turned around when Yuzuha called me.
 $Yuzuha
-“Ta-dah!”
+“Ta-da!”
 $Sousuke
-“You’ve got to be kidding me...”
+“You...”
 —Seriously.
-It’s like her being on the verge of tears earlier was all a lie.
-It must be Chika’s spare clothes; she’s even gone so far as to put on an apron.
+It’s like her being on the verge of tears earlier was a lie.
+It must be Chika's spare clothes; she's even meticulously wearing an apron.
 $Yuzuha
-“Isn't this cute? I’ve wanted to try wearing one once.”
-She gives a little twirl.
+“Isn't this cute? I wanted to try wearing it once.”
+She spins around.
 $Sousuke
 “...Don't get it dirty.”
 $Yuzuha
 “I won't!”
 $Chika
-“Fufu... it’s okay if it gets dirty. It’s made of a material meant for that sort of thing anyway.”
+“Fufu... it’s okay even if you get it dirty. It’s made of a material that’s meant to be okay with getting soiled.”
 $Sousuke
 “Is it a uniform?”
 $Chika
-“Eh... no, it’s just a personal hobby of mine.”
+“Eh... no, it’s just my hobby.”
 $Sousuke
 “...I see.”
-At least it’s better than it being the master’s hobby.
+At least it’s better than it being the Master’s hobby.
 $Yuzuha
-“Hey, hey, Big Brother, who’s cuter?”
+“Hey, hey, Big Brother, which one is cuter?”
 $Sousuke
-“Who’s cuter, huh...”
-Now then—how should I answer?
+“Even if you ask me which one...”
+Now—how should I answer?
 Yuzuha
 Chika
 $Sousuke
-“—It actually suits you quite well, Yuzuha.”
+“—It suits you quite well, Yuzuha.”
 $Yuzuha
-“Really!? ...Ehehe, it’s kind of embarrassing when you say it so formally...”
+“Really!? ...Ehehe, being told that so directly makes me blush...”
 $Sousuke
-“Fine feathers make fine birds, I suppose.”
+“It’s like putting fine clothes on a horse, I guess.”
 $Yuzuha
 “That’s mean!! Is that any way to talk to your cute little sister!?”
 $Sousuke
@@ -107,342 +107,342 @@ $Chika
 $Yuzuha
 “...Really?”
 $Chika
-“Yes, of course. ...Don't you agree?”
-Chika looks to me for confirmation.
+“Yes, of course. ...Right?”
+Chika asks for my agreement like that.
 $Sousuke
-“Well—it’s not bad.”
-Good grief—nothing makes me more uncomfortable than praising my own family.
+“Well—it’s not bad, I guess.”
+Seriously—there’s nothing as uncomfortable as praising your own relative.
 $Yuzuha
 “Ehehe...”
-And of course—she takes it completely at face value...
+And yet—this girl takes it completely to heart...
 $Yuzuha
 “I love you, Big Brother!!”
-Yuzuha lunges at me and hugs me.
+Yuzuha hugged me.
 $Sousuke
-“Hey now...”
+“You...”
 $Chika
-“Fufu... you two really are close.”
+“Fufu... you two really get along.”
 $Sousuke
 “...I guess.”
-I answer while patting Yuzuha on the head.
-—Even though I do nothing but cause trouble for her.
+I answer while patting Yuzuha's head.
+—Even though I do nothing but cause trouble.
 $Sousuke
-“Well—I’d have to say Chika.”
-Comparing the two, I can't help but feel that Chika looks more natural in it.
-Maybe it’s just because I’m used to seeing her that way.
+“Well—it’s Chika, I suppose.”
+Comparing the two, I can't help but get the impression that Chika looks more natural in it.
+Is it because I’m used to seeing her like that?
 $Yuzuha
 “Muu...”
-...Apparently, Yuzuha isn't satisfied.
+...Apparently, Yuzuha is dissatisfied.
 $Yuzuha
-“Well, Chika-chan is used to wearing it, but... you could at least praise me a little...”
+“I’m sure Chika-chan is used to wearing it... but you could have praised me just a little bit...”
 $Chika
 “Ah, but Yuzuha-chan is cute too.”
-Thanks to Chika following up, Yuzuha seems to have regained some of her mood as she straightens her posture.
+Thanks to Chika following up, Yuzuha seemed to have fixed her mood a bit and straightened herself up.
 $Yuzuha
 “...Do you think so too, Big Brother?”
 $Sousuke
-“Well—they’re both about the same.”
+“Well—it’s six of one, half a dozen of the other.”
 $Yuzuha
-“Muu... that’s such a cowardly way to put it...”
+“Muu... that’s a sneaky way of saying it...”
 ...Give me a break.
-Nothing is more embarrassing than praising my own kin.
+There’s nothing as embarrassing as praising your own family.
 $Chika
 “Fufu...”
 $Sousuke
 “...You’re in an awfully good mood.”
 $Chika
 “Fueh? ...Th-that’s not true.”
-Despite her verbal denial, Chika’s expression is bright.
-Maybe it’s because she’s with Yuzuha, who’s around her age.
+Even while denying it verbally, Chika’s expression is bright.
+Is it because she’s with Yuzuha, who’s around her age?
 $Sousuke
 “...Chika.”
 $Chika
 “Yes?”
 $Sousuke
 “—I’m counting on you to look after Yuzuha from now on.”
-I meant it as a way of expressing my hope that she could be by Yuzuha’s side much more than I could, but—
-Chika gave a small shake of her head.
+Those words were spoken in the hope that she could be by Yuzuha’s side much more than I could—
+Chika shook her head slightly.
 $Chika
-“...I can’t. The only one who can protect Yuzuha-chan is you, her family, Kudou-san. Besides—”
-Chika paused for a moment, staring into my face.
+“...I can't. Only you, Kudou-san, as her family, can protect Yuzuha-chan. Besides—”
+Chika stopped her words for a moment and stared at my face.
 $Chika
-“—I don't like the way you said that. It sounds like we’re never going to see each other again.”
+“—I don't like those words; they make me feel as if we’ll never meet again.”
 $Sousuke
-“I didn't mean it like—well, never mind.”
-I scratch my cheek. It seems she took it much more heavily than I intended.
+“I didn't mean it—that way.”
+I scratch my cheek. It seems I was taken too heavily.
 $Chika
-“Ah, um... I’m not exactly trying to blame you, Kudou-san...”
+“Ah, um... I’m not exactly blaming you, Kudou-san...”
 $Sousuke
 “—I know.”
 I have to protect Yuzuha.
-To do that, I need to stay by her side as much as possible, and yet—
+To do that, I have to be by her side as much as possible—
 $Yuzuha
 “—What’s wrong, Big Brother?”
 $Sousuke
 “...It’s nothing.”
-Under Yuzuha’s gaze, I awkwardly averted my eyes.
+Stared at by Yuzuha, I awkwardly averted my gaze.
 --------------------
 0309
 ********************
-After saying goodbye to Chika, I leave the bar.
-All that’s left is to go back to the Bunka Apartments, but—
+I said my goodbyes to Chika and left the bar.
+All that was left was to go back to the Bunka Apartments, but—
 $Sousuke
 “—Yuzuha.”
 $Yuzuha
-“What is it?”
-Yuzuha is gripping my hand tightly.
+“What?”
+Yuzuha is gripping my hand firmly.
 $Sousuke
 “I’ll walk you home.”
 $Yuzuha
 “...No.”
-She gives a small shake of her head.
+She shakes her head slightly.
 $Sousuke
 “What do you mean, ‘no’...”
-Even if she says that, I can't just let her go back alone.
+Even if she says that, I can’t let her go back alone.
 $Yuzuha
 “Can I... go to your room?”
 The grip on my hand tightened.
 No
-Yes
+Yeah
 $Sousuke
 “...No.”
 $Yuzuha
-“Why? It’s fine, isn't it? I’m curious about the kind of life you’re living, Big Brother...”
+“Why? It’s okay, isn't it? I'm curious about what kind of life you're living, Big Brother...”
 $Sousuke
-“I’m not staying there for fun.”
+“I'm not staying in a place like that for fun.”
 $Yuzuha
 “Ugh... I-I know that, but...”
 Yuzuha let go of my hand.
-I don't want to drag Yuzuha into my mess. If she gets close to that apartment, she might be spotted by the Seifoukai’s men.
-They might even kidnap her to make sure I don't step out of line—those bastards are capable of it.
+I don't want to involve Yuzuha in my mess. If she approaches that apartment, she might be found by the Seihoukai crowd.
+They might even kidnap Yuzuha so I can't resist them—them, of all people.
 I want to keep her as far away from danger as possible.
 $Yuzuha
 “—I’m sorry.”
 $Sousuke
 “Yuzuha...?”
 $Yuzuha
-“I know... I know, but... I’m just worried about you, Big Brother...”
-Yuzuha begins to sob quietly.
+“I know... I know, but... I’m worried about you, Big Brother...”
+Yuzuha sobs quietly.
 $Sousuke
-“...Sorry.”
+“...My bad.”
 I gently place my hand on Yuzuha’s head.
 $Yuzuha
-“...No, you haven't done anything wrong, Big Brother.”
-—Hearing her say that actually makes me feel like she’s blaming me even more.
-At the very least, I blame myself.
-If I’d been more solid—if I hadn't gotten so drunk that I lost all sense of myself—maybe that nightmare that night could have been avoided.
+“...No, you’re not to blame, Big Brother.”
+—Those words from Yuzuha felt, conversely, as if they were blaming me.
+At the very least, I myself think I am to blame.
+If I had been more together—if I hadn't gotten so drunk I lost consciousness—the tragedy of that night might have been avoided.
 $Yuzuha
-“...I’ll head home now, then.”
+“...Well then, I’m going home.”
 $Sousuke
 “...I’ll walk you.”
 $Yuzuha
-“No, it’s fine. You shouldn't be wandering around too much either, right, Big Brother? I’ll be okay.”
-Yuzuha shows me a smile. The way her eyes were just slightly watery was painful to see.
+“No, it’s fine. You shouldn't be out walking around too much either, right, Big Brother? I’ll be okay.”
+Yuzuha shows a smile. The fact that her eyes were just a little moist was painful.
 $Yuzuha
 “See you later, Big Brother.”
 $Sousuke
-“...Take care.”
-Yuzuha ran off without looking back.
-Seriously—I’m a pathetic older brother.
-I didn't feel like drinking anymore, so I went straight back to my room.
-I’ll just go to bed.
-I turn off the light and collapse onto the bed.
-Truly—I’m a pathetic older brother.
-I suppose it’s fine. It’s late anyway, so it’s better to take her back with me than to try and send her to the Edogawabashi apartment now.
+“...Be careful.”
+Yuzuha ran away without looking back.
+Seriously—what a failure of an older brother.
+I didn't feel like having another drink, so I went straight back to my room.
+I’ll just go to sleep.
+I turn off the lights and collapse onto the bed.
+Truly—I am a failure of an older brother.
+It probably doesn't matter. It’s already late, and it’s better to take her back with me than to send her to the apartment in Edogawabashi now.
 $Sousuke
-“—Yeah, I don't mind.”
+“—Yeah, it’s fine.”
 $Yuzuha
-“Really!? Ehehe, I get to be with Big Brother.”
+“Really!? Ehehe, together with Big Brother.”
 $Sousuke
 “Don't cling to me so much.”
-I couldn't exactly be harsh with Yuzuha, so she kept swinging my hand around while holding it.
+I couldn't exactly treat Yuzuha harshly, so she kept grabbing my hand and swinging it around.
 $Yuzuha
 “Hey, hey, Big Brother.”
 $Sousuke
 “Hmm?”
 $Yuzuha
-“If we do this, maybe people will mistake us for lovers.”
+“If we do this, people might mistake us for a couple.”
 $Sousuke
-“...I doubt that.”
-She’s clearly calling me “Big Brother,” after all.
+“...That won't happen.”
+You’re clearly calling me “Big Brother,” after all.
 $Yuzuha
-“Eeeh!?”
+“Eeeeh!?”
 $Sousuke
-“...What are you so upset about?”
+“...What are you dissatisfied about?”
 $Yuzuha
 “Muu...”
-This time, she furrowed her brows and clung to my arm.
+This time, she arched her eyebrows and clung to my arm.
 $Sousuke
-“Hey... you’re not a kid anymore.”
+“You... you're not a kid anymore.”
 $Yuzuha
-“So what!?”
+“It’s fine, isn't it!”
 —Good grief.
-Yuzuha doesn't usually act this selfish, but maybe being left alone in that apartment was lonelier than I thought.
+Yuzuha doesn't usually say such selfish things, but I suppose she was lonely being left alone in the apartment.
 —I’ll just let her have her way.
 Dragging Yuzuha along like that, I started walking toward the apartment.
 $Yuzuha
-“Whoa...”
-Once I showed her into the room, Yuzuha froze with her eyes wide open.
+“Wow...”
+When I let her into the room, Yuzuha froze with her eyes wide open.
 $Yuzuha
-“...Big Brother, that’s not fair.”
+“...Big Brother, you're cheating.”
 $Sousuke
-“What do you mean, ‘not fair’...”
-It wasn't exactly the kind of life I wanted, but seeing Yuzuha’s reaction, I couldn't help but let out a wry chuckle.
-Since we’d been living together in a cramped Japanese-style room in the Edogawabashi apartment, it was only natural for her to be envious of a spacious Western-style room.
+“What do you mean, ‘cheating’...”
+It wasn't the life I wanted, but looking at Yuzuha, I could only give a wry smile.
+Since we had been living together as siblings in a narrow Japanese-style room in the Edogawabashi apartment, it was natural for her to be envious of a spacious Western-style room.
 $Yuzuha
 “...Whoa.”
-Yuzuha cried out again. This time it was closer to shock than admiration.
+Yuzuha cried out again. This time it was closer to astonishment than admiration.
 $Yuzuha
-“...Big Brother, are you actually doing your laundry?”
+“...Big Brother, are you doing your laundry properly?”
 $Sousuke
-“...As you can see.”
-My discarded clothes were scattered all over the room.
+“...Just as you see.”
+Clothing I’d taken off was scattered here and there throughout the room.
 $Yuzuha
-“Haah... and I assume you haven't been cleaning either.”
-Yuzuha let out a sigh as she looked at the dust gathered in the corners of the room.
+“Haah... naturally, you haven't been cleaning either.”
+Yuzuha sighed as she saw the dust accumulated in the corner of the room.
 $Yuzuha
-“I knew it, Big Brother, you really can't handle things without me!”
+“Big Brother, you really are useless without me!”
 Yuzuha’s voice was bouncy with some kind of joy.
-I guess she just likes taking care of people.
-It was the same when she moved in with me while I was living alone a while back.
-My life had been completely decadent until then, but thanks to Yuzuha, I was finally able to live like a normal human being.
+I guess she likes looking after people.
+It was the same a while ago when she came rolling into my place when I was living alone.
+My life had been completely decadent until then, but thanks to Yuzuha, I was somehow able to live like a normal person.
 $Yuzuha
-“The Bunka Apartments... can't you ask them to do the cleaning and laundry for you?”
-Yuzuha spoke as she started gathering up the scattered clothes.
+“Bunka Apartments, if I remember correctly, didn't they do cleaning and laundry if you asked?”
+Yuzuha says as she gathers the scattered clothes.
 $Sousuke
-“...This place is supposed to be a hideout, so I don't really want to interact with others. I haven't even stepped into the lounge or cafe downstairs.”
+“...This is a hideout, after all. I don't want to interact with others much. I haven't even stepped into the lounge or cafe downstairs.”
 $Yuzuha
-“...That seems like such a waste.”
+“...That seems like a waste.”
 $Sousuke
 “—Well, it can't be helped.”
-Since the Seifoukai’s cover-up was successful, maybe I could afford to be more open.
-But I couldn't bring myself to take their words at face value.
-I certainly wasn't in the mood to walk around the streets with my head held high.
+Since the Seihoukai’s background manipulation is succeeding, it might be okay to act more openly.
+But I couldn't take their words at face value.
+I’m far from being in the mood to walk down the street with my head held high.
 $Yuzuha
-“—Heh, it even has its own bath.”
-Yuzuha, who had been peeking into the bathroom, came back and started sniffing the air after pulling at her collar.
+“—Heh, it even has a bath.”
+Yuzuha, who had been peering into the bathroom, came back, pinched her collar, pulled it open, and began to sniff.
 $Yuzuha
 “Hey, hey, Big Brother, do I smell like sweat...?”
 $Sousuke
-“I’m sure you’re fine.”
-Even if it’s a warm day, you don't start smelling like sweat that quickly.
+“I’m sure you don't.”
+No matter how sweaty the weather is, you don't start smelling like sweat that quickly.
 $Yuzuha
 “Maybe I’ll take a shower...”
 $Sousuke
-“Do whatever you want.”
-I had no reason to stop her.
+“Do what you want.”
+There’s no particular reason to stop her.
 $Yuzuha
-“Then, I’ll go take one. ...Ah, Big Brother?”
+“Then I’m going to take one. ...Ah, Big Brother?”
 $Sousuke
 “...What?”
 $Yuzuha
-“No peeking, okay!?”
+“No peeking, okay!”
 $Sousuke
-“...I’m not going to peek.”
+“...I won't peek.”
 Seriously—what is she thinking?
-Maybe she’s just excited about the Western-style room.
+Is she just excited by the Western-style room?
 $Sousuke
 “...Mikage’s house was a Western-style mansion too.”
-Since Yuzuha had been living at Mikage’s house until recently after losing her home in the earthquake, she should be used to Western-style rooms.
-Though, the lifestyle here at this apartment probably wasn't quite as Western as this.
-...To be honest, I still have some resistance to entering a room with my shoes on.
+For Yuzuha, who lived at Mikage’s house until very recently after losing her home in the earthquake, Western-style rooms should be familiar.
+Well, even so, her lifestyle probably wasn't quite as Westernized as this apartment.
+...To be honest, I still have a resistance to entering a room with my shoes on.
 $Yuzuha
-“—Kyaah!?”
-Suddenly, I heard Yuzuha scream from the bathroom.
+“—Kyaa!?”
+Suddenly, Yuzuha’s scream echoed from the bathroom.
 $Sousuke
 “What happened?”
-Did she slip and fall?
+Did she slip and fall or something?
 $Yuzuha
 “B-Big Brother!! Come here for a second!!”
-Sensing a desperate tone in Yuzuha’s voice, I felt that something unusual was happening and opened the door to the bathroom.
-The bathroom floor was completely flooded.
+Sensing an unusual atmosphere in Yuzuha’s desperate voice, I opened the door leading to the bathroom.
+The bathroom was completely flooded.
 $Yuzuha
-“It won't stop... Big Brother, help me!!”
-On the verge of tears—though she might have been crying already—Yuzuha begged for help.
+“It won't stop... Big Brother, help!!”
+On the verge of tears—or maybe already crying—Yuzuha pleads for help.
 $Sousuke
 “Seriously—what are you doing?”
 $Yuzuha
-“I didn't do anything!! ...I turned the faucet and it just won't go back...”
-Yuzuha was already soaked like a drowned rat. Her clothes, which had absorbed a lot of water, were clinging tightly to her body.
-Water was pouring down relentlessly from the showerhead fixed high on the wall.
-—I should stop the shower water first.
+“I didn't do anything! ...I turned the faucet and it won't go back...”
+Yuzuha is already a drowned rat. Her clothes, having soaked up plenty of water, are clinging tightly to her body.
+Water is pouring down endlessly from the outlet fixed high on the wall.
+—First, I should stop the shower water.
 $Sousuke
-“Yuzuha, move your hands.”
-I moved Yuzuha’s hands, which were gripping the faucet handle, and tried to close it.
+“Yuzuha, move your hand.”
+I move Yuzuha’s hand, which was gripping the faucet handle, and try to tighten it.
 $Sousuke
 “Guh... it’s stuck...”
-It wouldn't budge; something must have gotten caught when Yuzuha turned it.
-Meanwhile, water kept pouring down from directly above.
-I was also completely soaked from head to toe.
+It won't budge, as if something got caught when Yuzuha turned it.
+In the meantime, water continues to pour down from directly above.
+I’m also completely drenched from head to toe.
 $Yuzuha
 “Are you okay...?”
 $Sousuke
-“Just stay away. Even if it’s summer, you’ll catch a cold.”
+“You, get away. Even in summer, you'll catch a cold.”
 $Yuzuha
 “Ah... yeah.”
-Despite nodding, Yuzuha showed no sign of moving from the spot.
+While nodding, Yuzuha doesn't move from the spot.
 $Sousuke
 “Kuh...”
-When I gripped the handle with both hands and put some muscle into it, the handle suddenly turned. At the same time, the flow of water weakened.
+I gripped the handle with both hands and applied force, and suddenly it started to turn. At the same time, the water flow weakened.
 $Yuzuha
-“As expected of Big Brother, you’re so strong!”
+“As expected of Big Brother, you're so strong!”
 $Sousuke
-“...Just go and change your clothes already.”
-Yuzuha hugged me from behind while soaking wet, and that was all I could say to her.
-After taking turns showering, things finally settled down.
-If I’m going to take one, I definitely prefer a hot bath.
+“...Enough already, you go change your clothes quickly.”
+To Yuzuha, who hugged me from behind while still soaking wet, that was all I could say.
+We took turns showering and finally settled down.
+After all, if you’re going to take a bath, hot water is better.
 $Yuzuha
-“Hep-tchoo!”
+“Hep-chee!”
 $Sousuke
 “...Are you okay?”
-After the sneeze, Yuzuha covered her face with her hands, which were barely even sticking out of her sleeves.
-I guess my shirt was too big for her after all.
+After the sneeze, Yuzuha covered her face with hands that were barely sticking halfway out of her sleeves.
+As expected, my shirt was too big for her.
 $Yuzuha
 “Uuu...”
 $Sousuke
-“Maybe you should go to sleep?”
-It would be bad if she caught a cold.
+“Shouldn't you go to sleep?”
+It would be a problem if she caught a cold.
 $Yuzuha
 “...Yeah, I’ll do that...”
-With that, Yuzuha collapsed onto the bed.
+Yuzuha just collapsed onto the bed like that.
 —Good grief.
-I’m strangely exhausted.
-Even though this kind of life was normal for me until just recently.
-Well, maybe it was partly because Yuzuha was being a little too high-spirited today.
-Looking at the clock, it was already past midnight.
+I’ve become strangely tired.
+Until very recently, this lifestyle was normal.
+Well, I suppose it’s also because Yuzuha was a bit too excited today.
+Looking at the clock, it’s already past midnight.
 $Sousuke
-“...I guess I’ll sleep too.”
-Then it hit me as I looked at the bed.
+“...I should sleep too.”
+I suddenly looked at the bed and realized.
 $Yuzuha
-“Zzz...”
-There was only one bed in this room. Even if it was wide, I still felt some resistance to sleeping in the same bed as my sister.
-I didn't mind sleeping on the floor, but—
+“Suu...”
+There’s only one bed in this room. Even though it’s wide, I still have a resistance to sleeping in the same bed as my sister.
+Well, I wouldn't mind sleeping on the floor, but—
 $Yuzuha
 “...Big Brother?”
-Maybe she wasn't quite fully asleep yet, as Yuzuha opened her eyes slightly.
+Perhaps she hadn't quite fallen into a deep sleep yet, as Yuzuha opened her eyes halfway.
 $Sousuke
-“—Yuzuha, sorry, but could you move over a bit more?”
+“—Yuzuha, sorry, but move over a bit more to the edge.”
 $Yuzuha
 “Eeeh...”
-Half-submerged in a dream, Yuzuha let out a sleepy groan of dissatisfaction.
+Halfway into her dreams, Yuzuha lets out a sleepy, dissatisfied voice.
 $Sousuke
-“...Well, I guess you can stay where you are.”
-I’ll just have to use the floor or the sofa—
-As I turned to leave, Yuzuha grabbed the hem of my pants.
+“...Well, I guess you can stay like that.”
+It can't be helped; I’ll sleep on the floor or the sofa—
+Yuzuha grabbed the hem of my pants as I turned to leave.
 $Yuzuha
-“If it’s you, Big Brother... it’s okay.”
+“If it’s Big Brother... it’s okay.”
 $Sousuke
-“Then move over a little bit—”
+“Then move over a bit more—”
 $Yuzuha
-“...Push meee...”
+“...Push me.”
 $Sousuke
-“...Seriously.”
-I pushed Yuzuha’s unmoving body to the side, turned off the light, and lay down next to her.
+“...You really...”
+I pushed Yuzuha’s body, which wouldn't move, to the side, turned off the room lights, and lay down next to her.
 $Sousuke
 “Phew...”
-I let the tension out of my body.
+I let the strength out of my body.
 —Well, I suppose there are days like this.
-I closed my eyes, feeling Yuzuha’s warmth against my arm.
+I closed my eyes, feeling Yuzuha’s warmth on one arm.
 --------------------
 0310
 ********************
@@ -450,310 +450,310 @@ When I stepped into the bar, Chika was sweeping the floor with a broom, as if sh
 $Chika
 “Ah, Kudou-san...”
 $Sousuke
-“...Hey.”
-Not wanting to get in the way of her cleaning, I sat down on a chair near the entrance. A basket of nuts was sitting on the table, likely left by a customer.
-Among the broken peanut shells, I found an almond rolling around. I picked it up and popped it into my mouth.
+“...Yo.”
+To avoid getting in the way of her cleaning, I sat in a chair right by the entrance. A basket filled with nuts had been placed on the table, likely left behind by a customer.
+Mixed in with the broken peanut shells were some almonds rolling around. I picked one up and put it in my mouth.
 $Riho
-“—Stop acting so pathetic and come over here.”
+“—Don't do such petty things, come over here.”
 $Sousuke
 “...You were here too?”
-I looked over at Riho as she came out from the back.
+I look toward Riho, who had emerged from the back.
 $Riho
-“I’m starting to get used to singing a cappella.”
+“I’ve gotten used to singing a cappella.”
 $Sousuke
-“—That’s good to hear.”
-I stood up and took a seat at the counter. Riho sat down right next to me.
+“—That’s a good thing.”
+I stood up and took a seat at the counter. Riho sat right next to me.
 $Chika
 “Would you like something to drink?”
 $Sousuke
 “Let’s see...”
-I glanced at Riho.
+I look at Riho out of the corner of my eye.
 $Riho
-“A whiskey and water for me, please.”
+“Whiskey and water, please.”
 $Chika
-“Okay. And you, Kudou-san?”
+“Yes. And you, Kudou-san?”
 $Sousuke
 “—The same.”
 $Chika
 “Understood.”
-Chika turned her back to us.
+Chika turned her back.
 $Riho
 “—It’s been a while.”
 $Sousuke
-“I’ve been coming to this shop quite often, though.”
+“I come to this shop quite often, though.”
 $Riho
-“Is that okay? Isn't it dangerous for you to be out and about?”
+“Is it okay? Isn't it dangerous to be out walking around?”
 $Sousuke
 “Well—I’ll manage somehow.”
 $Riho
-“...You’re quite the optimist.”
-Riho let out an exasperated sigh.
+“...You’re optimistic.”
+Riho sighed as if exasperated.
 Music was playing from the radio.
 $Chika
-“Sorry to keep you waiting.”
-Glasses were placed in front of Riho and me.
+“Thank you for waiting.”
+Glasses are placed in front of me and Riho.
 $Riho
 “Thanks, Chika.”
 Riho tilted her glass.
 $Riho
-“Shall we have a toast?”
+“Shall we toast?”
 $Sousuke
 “—To what?”
 $Riho
-“Let’s see... how about a toast to your safety, Sousuke?”
+“Let’s see... how about praying for Sousuke’s safety?”
 $Sousuke
-“—That sounds good.”
-If praying could ensure my safety, I’d be in the mood to pray as much as it took.
+“—That’s a good one.”
+If safety could be ensured just by praying, I’d be in the mood to pray as much as it takes.
 $Riho
-“Chika, you should have something to drink too.”
+“Chika, you have something to drink too.”
 $Chika
 “Eh, but I’m still working...”
 $Riho
-“Don't worry about it. Go ahead, drink whatever you like.”
+“Don't worry about it. Go on, drink whatever you like.”
 $Chika
-“Then, if you insist...”
-Hesitantly, Chika poured herself some orange juice.
+“Then...”
+Hesitantly, Chika poured some orange juice into a glass.
 $Riho
-“Well then, cheers!”
+“Well then, cheers.”
 The three of us lightly clinked our glasses.
 $Riho
 “Phew...”
 $Sousuke
-“What’s wrong?”
-I spoke to Riho, who seemed languid.
+“What is it?”
+I speak to Riho, who looks weary.
 $Riho
-“...It used to be so normal for us to drink like this...”
+“...Drinking like this used to be a matter of course...”
 $Sousuke
 “...Yeah.”
-After playing at the bar, having a modest drink together was part of our daily routine.
-Coming up with whatever reason to have a toast was all a story from the past now.
+After performing at the bar, it was a daily routine to share a few modest drinks.
+Making up some random reason to toast is now a thing of the past.
 Good grief—the whiskey and water tastes bitter.
 $Riho
-“—Well, as long as you’re safe, that’s all that matters.”
-With that, Riho finished her drink.
+“—Well, as long as you're safe, that's fine.”
+Saying that, Riho downed her glass.
 $Radio
-“—And now for today’s events.”
+“—Reporting on today's events.”
 Before I knew it, the radio had switched to a news program.
 $Chika
 “Ah...”
-Chika gasped as she looked at me.
+Chika looks at me and catches her breath.
 $Sousuke
 “—You don't have to stop it.”
-Remembering that something similar had happened before, I cut Chika off.
-They probably won't report on the incident I was involved in anyway. —Most likely.
+Remembering that something similar had happened before, I restrained Chika first.
+In any case, the incident I was involved in won't be reported. —Probably.
 $Radio
-“Regarding the murder that occurred in Roppongi, Azabu-ku recently, the authorities are proceeding with the investigation under the belief that it is closely related to the ‘Serial Lunatic Stabbings’—”
+“Regarding the murder that took place in Roppongi, Azabu-ku the other day, the authorities are proceeding with the investigation, believing it to be deeply connected to the ‘Serial Madman Assault Case’—”
 —Again.
-It’s an incident that has nothing to do with me directly, but this kind of topic has been the talk of the town lately.
-Seriously—these are dangerous times.
+It’s an incident that has no direct connection to me, but this kind of topic has been stirring up the public lately.
+Seriously—it’s a dangerous era.
 $Riho
-“—Are you one of those too?”
-Riho asked with a side-glance, still holding her glass of whiskey and water.
+“—Are you one of them too?”
+Riho, still holding her whiskey and water glass, asked me with a sidelong glance.
 Shut up
-Perhaps
+Maybe so
 $Sousuke
 “—Shut up.”
-I glared at Riho out of the corner of my eye.
+I glare at Riho from the corner of my eye.
 $Riho
-“Fufu—I’ll do just that. You’re scary.”
-Riho spoke jokingly and then took another sip from her glass.
-Something like that—I already know it without being told.
-When Hachi was stabbed by that man the other day, his expression, colored with madness, overlapped with the expression of the woman who first attacked me.
+“Fufu—I’ll do that. You’re scary.”
+Riho said playfully and put her glass to her lips again.
+Such a thing—I know even without being told.
+When Hachi was stabbed by that man the other day, the man’s madness-tinged expression overlapped with the expression of the woman who first attacked me.
 And—I must have had a crazed face like that too.
 Seriously—it’s sickening.
-I downed my drink in one go. My throat burned as if it were being scorched.
+I downed the drink in one go. My throat burned painfully.
 $Chika
 “...You shouldn't drink too much.”
 $Sousuke
 “...I know.”
-The one thing I absolutely never want to do is repeat that night.
+I absolutely don't want to recreate the night.
 $Riho
-“Chika, give me a refill, okay?”
+“Chika, I’ll have another, okay?”
 $Chika
-“Riho-san, maybe you shouldn't drink so much either...”
+“Riho-san, you shouldn't drink too much either...”
 $Riho
 “I’m fine. Even if I get drunk, I can just go to Sousuke’s place.”
-At Riho’s words, Chika’s cheeks instantly turned red as she was pouring the drink.
+At Riho’s words, Chika’s cheeks, as she was pouring the drink into the glass, turned red in an instant.
 $Chika
-“...I see.”
+“...Is that so.”
 $Sousuke
 “I’m not letting you stay at my place.”
 $Riho
-“How cold of you. Well, I suppose it’s better not to have any lingering attachments.”
+“You’re so cold. Well, I suppose it’s better that there are no lingering feelings.”
 $Sousuke
 “...Agreed.”
-Neither of us was the type to let a relationship drag on.
-No matter how much we shared our skin, we were ultimately strangers. There was nothing to bind us to each other.
-That’s why my relationship with Riho was the easiest.
+Neither of us does anything to drag out the relationship.
+No matter how much we share our skin, in the end, we’re strangers. We don't bind each other.
+That kind of relationship with Riho is the easiest.
 $Sousuke
 “...Maybe so.”
-I couldn't deny it.
-During the first incident—when I hit that woman—I was clearly insane.
-It couldn't be explained just by being drunk.
-What—had driven me mad?
+I can't deny it.
+The first incident—when I hit that woman, I was clearly insane.
+It can't be explained just by being drunk.
+What—made me go mad?
 $Riho
 “...You look serious.”
 $Sousuke
 “Well... yeah.”
-If I had committed a murder without my own knowledge, it was something to be serious about.
+If I committed a murder without my knowledge, it would be serious.
 $Sousuke
-“I guess—I must have been crazy too.”
-I gave a self-deprecating chuckle.
+“I must have been—insane too.”
+I give a self-deprecating, wry smile.
 $Chika
 “...That’s... not true.”
 It was Chika who denied my words.
 $Riho
 “Chika...?”
 $Chika
-“You’re not... crazy, Kudou-san.”
+“Kudou-san is... not insane.”
 $Sousuke
 “...Thanks.”
 Even if it’s just for peace of mind, hearing it from someone else makes me feel better.
 $Riho
-“Fufu... as expected, Chika takes Sousuke’s side.”
+“Fufu... Chika really does take Sousuke’s side, doesn't she?”
 $Chika
 “Fueh!?”
-In her surprise, the glass slipped from Chika’s hand.
+Startled, the glass slipped from Chika’s hand.
 $Chika
-“A-ah, um, I didn't mean it like that...”
-Chika panicked. Orange juice began to spread across the counter.
+“A-ah, I didn't mean it that way...”
+Chika is flustered. Orange juice spreads across the counter.
 $Chika
 “Ah, auh...”
 $Riho
-“Now, now, don't panic.”
+“Come on now, don't panic.”
 Riho quickly picked up a rag and stopped the juice from flowing.
 $Chika
 “...I-I’m sorry...”
-Chika began to wipe the counter as well.
-Well—even this was part of our daily routine.
+Chika starts wiping the counter too.
+Well—this kind of thing used to be a daily occurrence too.
 $Riho
-“Come on, you help out too.”
+“Come on, you help too.”
 $Sousuke
 “—I know.”
-I used the rag I was handed to wipe up the juice that had spilled all the way to the floor.
+I wipe up the juice that had spilled onto the floor with the rag I was given.
 $Chika
 “...I’m sorry.”
 $Sousuke
 “Don't worry about it.”
-I comforted the dejected Chika.
+I comfort Chika, who is hanging her head.
 $Sousuke
 “Your clothes didn't get dirty, right?”
 $Chika
-“...Ah, I’m fine.”
-Chika answered after looking over her own body.
+“...Ah, it’s okay.”
+Chika answers, looking over her own body.
 $Sousuke
-“That’s good to hear.”
-Really—it’s been a while since I’ve had a daily life like this.
+“That’s good.”
+Truly—it’s been a long time since I’ve had such a daily life.
 $Riho
-“—Well, I guess that’s enough for today.”
-Leaving more than half of her drink in the glass, Riho stood up.
+“—Well, I suppose that’s enough for today.”
+Leaving more than half of the drink in her glass, Riho stood up.
 $Riho
-“—Ah, that’s right. I forgot to mention, Sousuke.”
-Riho looked back at the door.
+“—Ah, that’s right. I forgot to tell you, Sousuke.”
+Riho turned around at the door.
 $Sousuke
 “...Hmm?”
 $Riho
-“I’m not like Chika; I don't believe in you unconditionally... but even if you really were the culprit, I’d still be on your side.”
+“I don't believe in you unconditionally like Chika does, but... even if you really were the culprit, I’m on your side.”
 $Sousuke
 “...I appreciate that.”
-Honestly—that’s so like Riho.
+Seriously—that’s just like Riho.
 Chika believes in my innocence. Riho stays on my side regardless of the facts.
-There are people who will stay on my side, even for someone like me.
-I’m grateful for both.
+There are people who stay on my side even with someone like me.
+Both are appreciated.
 $Chika
 “...Kudou-san.”
-In the shop after Riho had left, Chika spoke up hesitantly.
+In the shop where Riho had left, Chika spoke up hesitantly.
 $Sousuke
 “...Thanks.”
-I gave Chika a light pat on the shoulder as I left the shop.
+I lightly patted Chika’s shoulder as I left and stepped out of the shop.
 --------------------
 0311
 ********************
-Waking up before noon, I wandered over to Kagurazaka.
-The crowds were the same as ever, but compared to Ginza or Asakusa, it still looked inferior.
-It lacked glamour—a town that was half-left behind by the times.
-In the middle of all that, I found something bizarre on the side of the road.
+I woke up before noon and wandered over to Kagurazaka.
+The crowd is as usual, but it still pales in comparison to Ginza or Asakusa.
+It lacks glamour—a town that’s been left behind by the times in a halfway manner.
+In the midst of that, I found something unusual on the roadside.
 $Old Man
 “............”
 —Our eyes met.
-I noticed him, but I decided to pretend I didn't.
-I could just buy some takoyaki.
+Pretend I didn't see him
+Buy takoyaki
 It’s just my imagination.
-There’s no way I’d lock eyes with an old man like that.
+There’s no way my eyes would meet with an old man like that.
 $Old Man
 “............”
-There were no customers at the old man’s stall.
-If anything, it looked like the passersby were even avoiding walking past it.
-A gap had opened up in part of the street.
-I couldn't bring myself to step into such a strange space.
+There are no customers at the old man’s stall.
+If anything, it looks like passersby are even avoiding it as they walk.
+A space had opened up in part of the street.
+I couldn't possibly step into such an unusual space.
 $Old Man
 “............”
-Feeling the old man’s gaze on me, I hurried past.
-Well—there are plenty of places to eat around here, so I don't have to eat at a stall.
-I’ll wander around a bit more and then head back to the apartment.
-—Fine.
+I pass by quickly, feeling the old man’s gaze.
+Well—there are plenty of places to eat around here, so there’s no reason to eat at a stall.
+I’ll wander around a bit more and go back to the apartment.
+—Fine, damn it.
 Encountering him here must be some kind of fate.
 $Sousuke
 “—Old man, are you selling takoyaki?”
 $Old Man
 “............”
-The old man flipped the takoyaki in silence.
+The old man is silently flipping the takoyaki.
 $Sousuke
 “Aren't they not cooked yet?”
-I pointed it out as I watched the batter splatter.
+I point out, seeing the batter splattering.
 $Old Man
 “...An amateur wouldn't understand.”
-He gave me a sharp glare.
-This old man—he has eyes like he’s killed a lot of people.
-I see—it’s no wonder people won't come near him.
+He glared at me with a sharp look.
+This old man—he has eyes like someone who’s killed many people.
+I see—it’s no wonder people don't approach him.
 $Sousuke
 “Give me... one order of takoyaki.”
 $Old Man
-“Is that... out of pity?”
+“Is that... sympathy?”
 $Sousuke
-“...Huh?”
+“...Hah?”
 ...I don't really get it.
 $Old Man
-“It’s true that people in Tokyo have probably never seen takoyaki before. I understand why they won't come near.”
-The reason people won't come near your stall isn't the takoyaki.
+“It’s true that people in Tokyo have probably never even seen takoyaki. I understand why they don't approach.”
+I’m sure the reason they don't approach the stall isn't because of the takoyaki.
 $Old Man
-“But I have no use for people who just flock to a product because they’re being led by idiots.”
+“But listen, I don't want anything to do with people who are driven by foolishness to swarm over products.”
 $Old Man
-“I only sell to those who understand the true nature of this stuff.”
-The old man smirked, his lip curling.
+“I only sell to those who can understand the essence of this thing.”
+The old man laughs, his mouth twisting.
 $Sousuke
-“Are you... trying to spread takoyaki to Tokyo, old man?”
+“Old man... are you trying to spread takoyaki in Tokyo?”
 $Old Man
 “...I’m not thinking of anything so grandiose. I’m just making this as a craftsman.”
 $Sousuke
-“Old man... the batter isn't mixed properly, is it?”
-Lumps of flour were floating on the surface here and there.
+“Old man... isn't the batter not mixed properly?”
+Clumps of flour are floating here and there.
 $Old Man
 “............”
-A sudden flash of bloodlust appeared in the old man’s eyes.
+A murderous intent suddenly dwelled in the old man’s eyes.
 $Sousuke
-“...No, I’m just an outsider, so I don't know much about it.”
+“...No, I’m an outsider, so I don't know the details.”
 $Old Man
-“Then... shut up.”
-The old man went back to work.
-—For a moment, I thought the pick in his hand was going to come flying at me.
+“In that case... shut up.”
+The old man goes back to his work.
+—I thought the awl in his hand was going to come flying at me.
 $Old Man
 “Here, take it...”
-Two orders—of steaming hot takoyaki.
+Two orders of takoyaki—with steam rising from them.
 $Sousuke
 “...Old man, I only asked for one order—”
 $Old Man
-“...It’s an extra.”
-The old man smirked, only the corner of his mouth curling.
+“...It’s a bonus.”
+The old man laughs only with the corner of his mouth.
 $Old Man
-“One order’s worth is fine for the price... thanks for your business.”
+“Payment for one is fine... thanks for your business.”
 Well—I wasn't planning on paying more than ten sen anyway.
 $Sousuke
 “—Now then, what should I do...”
-I murmured to myself as I moved away from the old man’s stall.
-I can't finish this much.
-No—the amount isn't really the problem.
-The biggest problem is—
+I move away from the old man’s stall and mutter to myself.
+With this much, I naturally can't finish it all.
+No—the amount isn't the problem.
+More than anything, the problem is—
 $Sousuke
-“—Well, if I walk, it’ll probably cool down soon enough.”
-I’m done with burning the inside of my mouth.
+“—Well, they’ll cool down sooner or later if I walk.”
+I’ve had enough of burning the inside of my mouth.

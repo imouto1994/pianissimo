@@ -1,754 +1,754 @@
 --------------------
 0944
 ********************
-Yuzuha and Riho headed back through the underground passage I used when I first arrived here.
-I gave them a flashlight so they shouldn't get lost, but I couldn't help feeling a bit worried.
-Under normal circumstances, I probably should have escorted them all the way to the surface exit, but—
+Yuzuha and Riho returned through the underground passage I had used to get here.
+They took a flashlight, so I didn't think they'd get lost, but I was still a little worried.
+Normally, I should have escorted them all the way to the surface exit, but――
 $Qwon
-“Sousuke, it is time to go.”
+“Sousuke, we’re going.”
 $Sousuke
-“...Right.”
-Urged on by Qwon, I followed after her and stepped out of the basement.
+“……Yeah.”
+Urged on by Qwon, I followed her out of the basement.
 $Qwon
-“—The Seihoukai and the Ouzenji Trading Company are essentially the same organization. Publicly, they operate as the Ouzenji Trading Company, while the Seihoukai handles the work that cannot be brought into the light.”
-Once we reached the hallway, Qwon began to speak in a quiet, steady voice.
+“――The Seihoukai and Ouzenji Trading are essentially the same organization. Socially, they are Ouzenji Trading; the work that cannot be shown publicly is handled by the Seihoukai.”
+Upon entering the hallway, Qwon began to speak quietly.
 $Qwon
-“Both are unified under Ouzenji Kiyomasa. A former military man, he is said to have significant influence within the current Army high command and continues to wield immense power even after his retirement.”
+“Both are unified under Ouzenji Kiyomasa. A former military man, he is said to have significant influence within the current Army high command and has retained great power even after his retirement.”
 $Sousuke
-“So he's the same bastard who runs the Seihoukai...”
+“So he's the same bastard as the boss of the Seihoukai...”
 $Godou
-“...Precisely. Though it seems he usually left the management of the Seihoukai... to that woman.”
-For a brief moment, Godou’s voice faltered.
+“……Correct. It seems he usually left the Seihoukai side to――that woman, however.”
+Godou faltered for a moment.
 $Sousuke
-“Hmph—”
+“Hmph――”
 I still couldn't bring myself to trust Godou.
-Between that photo of him with Aoi and the scene Chika witnessed, there was too much doubt.
-However—since the brilliant Qwon seemed to believe in him, I simply followed her lead.
+There was the matter of the photo with Aoi, and what Chika witnessed at the scene.
+However――I was only going along with it because the brilliant Qwon seemed to believe in him.
 $Qwon
-“The elevator here leads directly to the President’s office on the top floor.”
+“The elevator here goes directly to the president's office on the top floor.”
 $Sousuke
-“...You certainly know your way around.”
+“……You’re quite well-informed.”
 $Qwon
-“My uncle had investigated it. Besides, I was also held captive here for a time.”
+“Because Uncle investigated it. Besides, I was imprisoned here for a time.”
 $Sousuke
-“I see...”
-Qwon answered without a hint of hesitation, as she always did.
+“I see……”
+Qwon answered without hesitation, as she always did.
 $Qwon
-“And the thing they forced me to create is a machine that drives people to madness—the Rif-Raf.”
-Rif-Raf.
-I felt as though I was hearing that name for the first time.
+“And the thing they forced me to create is a machine that drives people mad――Riff-Raff.”
+Riff-Raff.
+I felt like it was the first time I'd heard that name.
 $Sousuke
-“So that thing—that’s what triggered the whole string of incidents.”
+“So that thing――is what triggered the series of incidents.”
 $Qwon
-“—Yes. Since the Rif-Raf was used, a portion of the responsibility lies with me.”
+“――Yes. Since Riff-Raff was used, part of the responsibility lies with me.”
 $Qwon
-“That is why we must go. To destroy the Rif-Raf and ensure no further victims are claimed.”
+“That is why we must go; to destroy Riff-Raff and ensure no more victims are claimed.”
 $Sousuke
-“Yeah... You're right.”
-That’s likely what he—what Takuma would have wanted, too.
+“Yeah…… you’re right.”
+That's likely what he――Takuma――would have wanted too.
 $Qwon
-“Let us proceed, Sousuke.”
-The elevator doors slid open, and we stepped inside.
-Time had slipped away without me realizing it; outside, the world was swallowed by darkness.
+“Let us go, Sousuke.”
+The elevator doors opened, and we stepped inside.
+Time had apparently slipped away; the world outside was now shrouded in darkness.
 $Sousuke
-“—Good grief.”
-I looked down at the sprawling night view of Great Tokyo and let out a heavy sigh.
-To do work in a room like this—it showed wretched taste.
-It felt like the kind of place built by someone who thought of nothing but looking down on others.
+“――Good grief.”
+I let out a sigh as I looked down at the night view of Great Tokyo spreading out below.
+Doing business in a room like this――it was in poor taste.
+It made it seem like he thought of nothing but looking down on others.
 $Qwon
-“—Sousuke, do not just stand there in a daze. Please, help me search.”
-Qwon spoke as she turned toward the bookshelves built into the side wall.
+“――Sousuke, don't just stand there dazed; please help me search.”
+Qwon, who was facing the bookshelf built into the side wall of the room, spoke up.
 $Sousuke
-“What exactly am I looking for?”
+“What should I be looking for?”
 $Qwon
-“Find the Rif-Raf unit itself, or perhaps any documents related to it.”
+“Find the Riff-Raff unit itself, or documents related to it.”
 $Sousuke
-“Easier said than done...”
-I stared up at the towering bookshelves.
-Row after row of thick, imposing volumes were lined up; at a glance, I couldn't even tell what they were. It wasn't just Japanese; there seemed to be books in English, German, and French as well.
+“Even if you say that……”
+I gazed at the towering bookshelf.
+Thick books with solemn bindings were lined up in rows; I couldn't tell what they were just by looking. It seemed there weren't just Japanese books, but English, German, and French ones as well.
 $Qwon
-“You may ignore the books. Look for things like files or envelopes containing documents.”
+“You can ignore the books. Look for something like a file or an envelope with documents inside.”
 $Qwon
-“The Rif-Raf unit itself is likely not here.”
+“The Riff-Raff unit itself likely isn't here.”
 $Godou
-“Ouzenji probably has it. He’s a deeply paranoid man; he wouldn't dream of entrusting something of that magnitude to anyone else.”
+“Ouzenji probably has it on him. He’s a highly suspicious man; he wouldn't entrust something like that to anyone else.”
 $Sousuke
-“Was he afraid it would be turned against him—?”
+“Was he afraid it would be turned against him――?”
 $Godou
-“...Perhaps.”
+“……Perhaps.”
 $Qwon
-“I doubt a man of his stature would be so easily manipulated, but—Godou.”
-Qwon seemed to have found something, addressing Godou by his surname.
+“I doubt someone of his stature would be manipulated, but――Godou.”
+Qwon seemed to have found something and called Godou by his last name.
 $Godou
-“—What is it?”
+“――What is it?”
 $Qwon
-“Please investigate this area.”
-Qwon gestured toward a section of the bookshelf where several photographs were displayed, giving Godou his instructions.
+“Check around here.”
+Qwon gestured to Godou toward a section of the bookshelf where several photos were displayed.
 $Godou
-“—Understood.”
+“――Alright.”
 $Qwon
-“Sousuke, please take that side over there.”
+“Sousuke, please take care of that side.”
 $Sousuke
-“Sure—”
-Qwon took my hand and led me to the shelves on the opposite wall.
-This side was also filled with nothing but thick, heavy books.
+“Mm――”
+Qwon took my hand and led me to a shelf set into the opposite wall.
+This place was also filled with nothing but thick books.
 $Sousuke
-“I don't think I'm going to find anything like a document here—”
-—And then.
-Just as I turned back toward Qwon in confusion, the door to the room swung open with a heavy thud.
+“I don't think there'll be anything like documents here――”
+――And then.
+Just as I turned toward Qwon in confusion, the door to the room swung open with a loud noise.
 --------------------
 0961
 ********************
-Inside the shop, there was no one but the usual faces.
+Inside the shop, there was only the usual crowd.
 $Ayane
 “Sousuke.”
-Ayane called out to me softly, gesturing toward the seat next to her.
+Ayane spoke to me briefly and pointed to the seat next to her.
 $Sousuke
-“Did you find out anything?”
-I asked Mikage, who was sitting on the other side of Ayane.
+“Have you found out anything?”
+I asked Mikage, who was sitting beyond Ayane.
 $Mikage
 “Before that, it seems Chika-chan has something she wants to talk about.”
 $Sousuke
-“Chika...?”
-I turned my gaze toward Chika, who was behind the counter.
+“Chika does……?”
+I turned my gaze toward Chika at the counter.
 $Chika
-“This morning... the Master returned.”
+“This morning…… the Master returned.”
 $Sousuke
-“The Master?!”
+“The Master!?”
 $Chika
-“...Yes. He looked a bit exhausted, but he seemed well enough. And then, he immediately took Qwon-chan and left again for somewhere else.”
+“……Yes. He looked a bit tired, but he seemed well. And then, he immediately took Qwon-chan and went off somewhere again.”
 $Sousuke
-“He took Qwon—?”
-Now that she mentioned it, Qwon was nowhere to be seen.
+“He took Qwon――?”
+Come to think of it, Qwon was nowhere to be seen.
 $Chika
-“I have a message for Kudou-san from Qwon-chan. She said, ‘You of all people should know where we need to go.’”
+“There is a message for Kudou-san from Qwon-chan. 'You should know where you need to go' is what she said――”
 $Sousuke
-“A place... that I would know...”
-Where?
-A place where Qwon would likely go, and that I knew as well—
+“The place…… I’d know……”
+Where is it?
+A place Qwon would go, and that I also know――
 $Ayane
-“I think... it’s probably the place Mikage-san was investigating.”
-At Ayane’s words, I looked over at Mikage.
+“I think…… it's the place Mikage-san investigated.”
+At Ayane's words, I looked at Mikage.
 $Mikage
-“...I did some digging into Souma Aoi. A person with the same name was employed at a certain company. —Until last year.”
+“……I did some digging on Souma Aoi. A person with the same name was working at a certain company. ――Until last year.”
 $Sousuke
-“Wait... What does that mean?”
+“Mm……? What do you mean?”
 $Mikage
-“I can't be certain if it’s her, but a person named Souma Aoi was working for a place called the Ouzenji Trading Company.”
+“I don't know if it's the same person, but a person named Souma Aoi was working at a place called Ouzenji Trading.”
 $Sousuke
-“—?!”
-I instinctively looked at Ayane’s face.
+“――!?”
+I reflexively looked at Ayane's face.
 $Ayane
-“That’s... the name we saw back there, right?”
+“That's…… where we saw it, right?”
 $Sousuke
-“...Yeah.”
-It was the company name written on the documents we found in the room Aoi used at the old Mikanagi estate.
+“……Yeah.”
+It was the company name written on the documents I found in the room at the old Mikanagi estate that Aoi had been using.
 $Ayane
-“I knew it... Are they the masterminds?”
+“Is it really…… the mastermind?”
 $Sousuke
-“Mikage, what else?”
+“Mikage, anything else?”
 $Mikage
-“The Ouzenji Trading Company has its headquarters in Kudanshita. It’s a company that’s seen a sudden, massive surge in performance recently through dealings with the military. They seem to have their hands in everything from real estate to finance.”
+“Ouzenji Trading has its headquarters in Kudanshita, and it's a company that has recently seen rapid growth in business through dealings with the military. They seem to be doing everything from real estate to finance.”
 $Sousuke
-“...How deep is their connection to the military?”
+“……How deep is their involvement with the military?”
 $Mikage
-“Isn't the fact that the Army Hall is right next to their headquarters building enough for you?”
+“Is it enough to say that the Military Hall is right next to their headquarters building?”
 $Sousuke
-“Good grief—they're dirty.”
+“Good grief――they're guilty.”
 $Ayane
-“...Completely black.”
-Ayane nodded in agreement.
+“……Pitch black.”
+Ayane nodded as well.
 $Sousuke
-“—And, Ayane, you think that’s where Qwon and the others went?”
+“――So, Ayane, you think that's where Qwon and the others went?”
 $Ayane
-“Most likely—I think Qwon-chan went to settle things for herself. That woman didn't have that machine—the Rif-Raf thing—at her place.”
+“Probably――I think Qwon-chan went to settle her own scores. That machine-like thing called Riff-Raff wasn't at that woman's place.”
 $Ayane
-“I bet the mastermind has it—the Rif-Raf is at their place.”
+“Riff-Raff is probably…… at the mastermind's place.”
 $Sousuke
-“...And Qwon went to get it back...?”
+“……Did Qwon go to get it back……?”
 Ayane shook her head slightly.
 $Ayane
-“...No. I’m sure—she went to destroy it.”
+“……No. Surely――she went to destroy Riff-Raff.”
 $Sousuke
-“But even so... why would the Master...?”
+“But even so…… why the Master……”
 $Ayane
-“Qwon-chan told us before, didn't she? That the Master was involved too. ...It’s probably because the Master has a deep connection to that organization.”
-Ayane toyed with the silver locket hanging around her neck.
-Wait—had she always been wearing something like that?
+“Qwon-chan said it before, didn't she? That the Master was also caught up in this. ……Probably because the Master had a deep connection with that organization.”
+Ayane toyed with the silver locket hanging at her chest.
+Wait――had she been wearing such a thing until now?
 $Ayane
-“...Well, we won't know for sure until we ask the man himself.”
-Ayane stood up with a burst of energy.
+“……Well, we won't know unless we ask him directly.”
+Ayane stood up with a surge of energy.
 $Ayane
 “Alright! Let’s go, Sousuke!!”
 $Sousuke
-“...You stay behind.”
+“……You stay behind.”
 $Ayane
-“Why?!”
+“Why!?”
 $Sousuke
-“Isn't it obvious?! I don't want to put you in any more danger than I already have!!”
+“It's obvious, isn't it!? I don't want to put you in any more danger!!”
 $Ayane
-“Then, Sousuke, have you thought of a way to get into that building without being spotted?”
+“Then, Sousuke, have you thought of a way to get into that building without being seen?”
 $Sousuke
-“I'll—I’ll manage somehow.”
+“Something like that――I'll figure it out.”
 $Ayane
-“That’s not good enough! I’m the one who can actually lead you inside!”
+“That won't do! I'm the one who can properly take you inside!”
 $Sousuke
-“...Then just tell me the method now.”
+“……Then tell me that method right now.”
 $Ayane
-“...It’s useless even if I tell you. There’s no way you can do it alone, Sousuke.”
+“……It’s useless to tell you. Sousuke, you definitely can't do it alone.”
 $Sousuke
-“...Are you absolutely sure about this?”
+“……Are you sure you’ll be okay?”
 $Ayane
-“Yep! Leave it to me!!”
-...I felt an endless wave of anxiety.
-Anxious as I was—I had to protect her, no matter what.
-Because that was my mission—perhaps even more important than proving my own innocence.
+“Yeah! Just leave it to me!!”
+……I’m incredibly uneasy.
+Uneasy as I am――I must protect her at all costs.
+Because that is my mission――one perhaps even more important than proving my own innocence.
 --------------------
 0962
 ********************
-We waited until the night grew deep before beginning our move.
-The building stood in the darkness, a looming, eerie silhouette.
+We waited for the night to deepen before beginning our move.
+In the darkness, the building stood ominously.
 $Ayane
-“Sousuke—this way.”
-Ayane approached the building, carefully choosing shadows where the streetlights of Yasukuni Street couldn't reach.
-Even from a distance, I could see what looked like military police guarding the Army Hall and Yasukuni Shrine.
-Strangely, there seemed to be no security around our target building.
-There weren't even any lights on in the windows.
-Could a building this massive actually be deserted?
+“Sousuke――this way.”
+We approached the building, choosing shadows where the streetlights of Yasukuni-dori didn't reach.
+Even from a distance, I could tell there were guards who looked like military police near the Military Hall and Yasukuni Shrine.
+The target building didn't seem to have any security.
+Not a single window had its lights on.
+Could such a massive building really be unoccupied?
 $Ayane
-“—Wait here for a moment.”
-With those words, Ayane stayed hidden in the shadows as she approached the building's entrance—or more accurately, a small side door that looked like a service entrance.
-I kept a close watch on our surroundings, looking out for anyone who might approach.
-—It was a quiet night.
-The moon peeked out from between a break in the clouds.
-Ayane signaled to me from a distance.
-I wove through the darkness as inconspicuously as possible to reach her.
-Ayane was tilting her head, looking puzzled—even suspicious.
+“――Wait here for a bit.”
+Saying that, Ayane approached the entrance of the building while hiding in the shadows――more precisely, a small door that looked like a service entrance next to it.
+I scanned the surroundings, keeping watch for anyone who might come.
+――It was a quiet night.
+The moon peeked through a break in the clouds.
+Ayane was beckoning from afar.
+I also approached, weaving through the darkness to remain as inconspicuous as possible.
+Ayane was tilting her head curiously――suspiciously.
 $Ayane
-“Hmm...”
+“Hmm……”
 $Sousuke
-“What’s wrong?”
+“What's wrong?”
 $Ayane
-“—It isn't locked.”
-Ayane whispered as she placed her hand on the door handle.
+“――It’s not locked.”
+Ayane muttered while placing her hand on the door handle.
 $Sousuke
-“I doubt they just... forgot to lock it.”
+“I doubt they just forgot to lock it.”
 $Ayane
-“It’s convenient for us, but still...”
+“Well, it’s convenient for us, though……”
 $Sousuke
-“...There’s a high chance someone is inside.”
+“……There’s a high possibility someone is inside.”
 $Ayane
-“...If that’s the case, I’ll handle it.”
-Ayane said, opening the door just a crack to peer inside.
-—She clearly had no intention of backing down.
-We walked slowly through the pitch-black interior.
-I had no idea what the layout of the building was like.
-Ayane took the lead, walking forward with purpose.
-As my eyes adjusted to the dark, I could faintly make out the details of where we were.
+“……If so, I'll handle it somehow.”
+Ayane said as she opened the door slightly, peering inside.
+――It seemed she had absolutely no intention of backing down.
+We walked slowly through the pitch black.
+I had no idea of the building's layout.
+Ayane stood ahead of me and walked forward with purpose.
+My eyes grew accustomed to the darkness, and I began to faintly see the surroundings of where we were.
 It was a long corridor.
 $Sousuke
-“Hey...”
+“Hey……”
 $Ayane
-“Shh—”
-Ayane pressed a finger to her lips and pointed ahead.
-Up ahead, in what looked like the elevator hall, the lights were on.
-Just as I thought—someone was still here.
-Ayane silently gestured for us to retreat.
-Once we were away from the hall, we faced each other.
+“Shh――”
+Ayane placed a finger to her lips and pointed in the direction of our path.
+Lights were on in a space where the corridor widened; it was likely the elevator hall.
+Just as I thought――it seemed someone remained.
+Ayane silently signaled for me to retreat.
+We moved away from the hall and put our faces close together.
 $Ayane
-“Hmm...”
+“Hmm……”
 $Sousuke
-“So the elevator is out, huh...”
+“The elevator is unusable, then……”
 $Ayane
-“—No, I’ve already thought of a way for times like this.”
-Ayane spoke with a surprising amount of confidence.
+“――No, I’ve thought of a way for times like this.”
+Ayane said with an unusual amount of confidence.
 $Sousuke
-“...What are you planning?”
+“……What do you plan to do?”
 $Ayane
-“I figured if we got caught, I’d just say I was here to deliver a lunch box to someone working late, but—”
-Seeing the expression on my face, Ayane’s voice trailed off.
+“I thought that if someone found me, I’d just say I came to deliver a bento to someone working late, but――”
+Ayane's voice trailed off as she saw my expression.
 $Ayane
-“...Are you mad?”
+“……Are you mad?”
 $Sousuke
-“...No, I’m just stunned.”
-There was no way a plan like that would ever work.
+“……No, I’m just exasperated.”
+There's no way a method like that would work.
 $Ayane
-“Shh—Quiet...!”
-Ayane suddenly covered my mouth with her hand.
+“Shh――be quiet……”
+Ayane covered my mouth with her hand.
 $Sousuke
-“—!”
+“――!”
 The sound of footsteps faded into the distance.
 $Ayane
-“...Did they go?”
-Pressed tightly against me, Ayane looked up at my face.
+“……Did they go?”
+Ayane, who had been pressed against my body, looked up.
 $Sousuke
-“...Probably.”
+“……Likely.”
 The lights in the elevator hall had been turned off.
 $Ayane
-“Sousuke, now’s our chance...!”
-Ayane pulled my hand and we ran toward the elevator.
-The doors opened immediately; Ayane pushed me inside and followed after me.
+“Sousuke, while we have the chance……”
+Ayane took my hand and rushed toward the elevator.
+The doors opened immediately; Ayane pushed me inside and then entered herself.
 $Ayane
-“Wait... what? There’s only the first floor, the basement, and the twentieth floor...”
-Ayane whispered in confusion as she looked at the floor display.
+“Eh……? There’s only the first floor, the basement, and the twentieth floor……”
+Ayane muttered curiously as she looked at the floor display.
 $Sousuke
-“The basement or the twentieth floor—which is it?”
+“The basement or the twentieth floor――which is it?”
 $Ayane
-“The top floor, obviously.”
-Without a moment’s hesitation, Ayane pressed the button labeled twenty.
+“It has to be the top one.”
+Without hesitation, Ayane pressed the button labeled twenty.
 $Sousuke
-“Hey...”
+“Hey……”
 $Ayane
-“If we’re wrong, we can just come back down.”
-With a light vibration, my body was pressed against the floor as we were carried to the upper levels.
-With a rattling sound, the doors slid open.
+“If we're wrong, we can just go back down.”
+With a light vibration, my body was pressed against the floor as we were carried to the upper floor.
+With a rattling sound, the doors slid open to the left and right.
 $Ayane
-“Is this... the top floor?”
+“The top floor…… I wonder.”
 $Sousuke
-“The elevator only went this far, so I’d guess so.”
-I turned back to look at the floor indicator needle. Sure enough, it was at the far right on the twentieth floor.
+“Since the elevator only came this far, that must be it, right?”
+I turned and looked at the needle of the elevator's floor display. Just as I thought, the twentieth floor was at the far right end.
 $Sousuke
-“Huh...?”
-The needle moved, gradually starting to descend.
+“Mm……?”
+The needle moved and gradually began to descend.
 $Ayane
-“—! Sousuke... someone is coming!”
+“――! Sousuke…… someone's coming!”
 $Sousuke
-“Tch—”
-Someone downstairs must have pressed the button. If they weren't going to the basement, the only other possibility was that they were coming here.
+“Tch――”
+Someone below must have pressed the button. If they weren't going to the basement, I could only think they were coming here.
 $Sousuke
 “Let's go, Ayane!”
 $Ayane
-“Right!”
-We bolted down the deserted hallway.
+“Yeah!”
+We dashed down the empty corridor.
 $Sousuke
-“Damn it—!”
-The corridor just stretched on and on; there was nowhere to hide.
+“Dammit――!”
+The corridor just continued on; there was nowhere to hide.
 $Ayane
 “Sousuke, this way!!”
-Ayane gestured to me.
-There was a door just ahead.
-—I guess we have no choice—
+Ayane was beckoning.
+There was a door ahead of her.
+――I guess we have no choice――
 We burst through the door and tumbled into the room.
 --------------------
 1001
 ********************
 $Sousuke
 “Mikage!!”
-In the room we had just burst into—
+Standing in the spot I burst into was――
 $Mikage
-“Ahhh...!”
-Mikage was being hoisted up by a single arm, her face twisted in agony.
+“Nngh……!”
+Hoisted up by one arm, Mikage wore an expression of agony.
 $Qwon
-“Ouzenji—”
-Qwon whispered under her breath.
-The massive man holding Mikage—Ouzenji—turned his single eye toward us.
-The sheer power of his piercing gaze made me recoil.
+“Ouzenji――”
+Qwon muttered in a low voice.
+The large man hoisting Mikage――Ouzenji――turned his single eye toward us.
+I was overwhelmed by the power of his piercing gaze.
 $Ouzenji
-“You pack of traitors—”
-His voice was low, yet it carried a resonant power that vibrated in my gut.
+“Traitors, all of you――”
+Despite the low volume, Ouzenji's voice was resonant and vibrated in my gut.
 $Ouzenji
-“Especially you, Godou—I’ve watched over you since your days in the service, only for you to betray me like this—you ungrateful wretch...”
+“Godou, especially you――to think that after I looked after you since your time in the military, you would betray me in such a manner――you ungrateful wretch……”
 $Godou
-“—Which of us was the first to betray the other?”
-Godou took a step forward, standing in front of Qwon.
+“――Which of us was the first to betray the other?”
+Godou took a step forward and stood in front of Qwon.
 $Godou
-“I supported your ideals only because I believed they were for the sake of the nation—but your obsession with running after your own greed and amassing wealth has stripped you of the right to be called a patriot.”
+“I sympathized with your ideology precisely because I thought it was for the sake of the nation――but your obsession with pursuing self-interest and amassing wealth means you can no longer be called a patriot.”
 $Godou
-“Therefore—I have parted ways with you.”
+“Therefore――I have parted ways with you.”
 $Ouzenji
-“—Fool.”
-Ouzenji’s lips curled into a distorted sneer.
+“――Fool.”
+Ouzenji's mouth twisted.
 $Ouzenji
-“If this nation is to stand as an equal to the Western powers and crush them, we must establish a more robust military state. To achieve that, the very nature of our politics must be transformed.”
+“For our nation to stand shoulder to shoulder with the Western powers and defeat them, we must establish a more robust military posture. To achieve that, the nature of politics must be changed.”
 $Ouzenji
-“—These are the funds required to carry out the Showa Restoration, so to speak.”
+“――These are funds for the execution of the so-called Showa Restoration.”
 $Godou
-“And what exactly has changed after all our activities? You have done nothing but throw the country into needless chaos and cause young men to throw their lives away for nothing.”
+“What has changed after all our activities? You have only plunged the nation into needless chaos and led many fine young men to their deaths.”
 $Ouzenji
-“—For the sake of those who have passed, we must continue to march forward.”
+“――For the sake of those who have passed, we must move forward.”
 $Sousuke
-“—Enough with the self-righteous bullshit.”
-Unable to take it any longer, I pushed past Godou and stepped forward.
+“――I've had enough of your sermonizing.”
+Unable to endure it any longer, I pushed past Godou and stepped forward.
 $Ouzenji
-“Hmph—so it’s you. I took quite a liking to you, and yet—you let yourself be led astray by these people.”
+“Hmph――so it's you. After I went to the trouble of looking out for you――it seems you’ve been swayed by these people.”
 $Sousuke
-“That doesn't matter. —Let Mikage go.”
+“That doesn't matter. ――Let Mikage go.”
 $Ouzenji
-“Hmph—”
-Ouzenji cast a fleeting glance at Mikage, whom he still held captive.
+“Hmph――”
+Ouzenji glanced briefly at Mikage, whom he was still holding.
 $Ouzenji
-“—Very well. I have no intention of harming women and children myself.”
-Ouzenji released his grip on Mikage—and shoved her toward me.
+“――Very well. I have no intention of harming women and children myself.”
+Ouzenji released his grip on Mikage's body――and shoved her toward me.
 $Mikage
-“Kyah—!”
+“Kyah――”
 $Sousuke
 “Mikage!!”
-I scrambled to catch her in my arms.
+I hurriedly caught her.
 $Mikage
-“*Cough*... *wheeze*...”
-Her throat must have been constricted; Mikage clung to me, coughing violently.
+“Cough…… hack……”
+Her throat must have been constricted; Mikage clung to me while coughing.
 $Ouzenji
-“—Though killing each other is a different matter entirely.”
+“――Killing each other is a different matter, however.”
 Ouzenji reached into his coat.
 $Qwon
-“Don't—!”
-Qwon’s tense voice made me whip around.
+“No――”
+I turned back at Qwon's tense voice.
 $Godou
-“Tch—!!”
-Godou’s blade cleared its scabbard in a flash.
+“Tch――!!”
+Godou let his sword slide from its sheath.
 $Ouzenji
-“Kill each other!! —Now!!”
-—The thing he pulled out was a gun-like object the likes of which I had never seen before.
+“Go ahead and kill each other――!!”
+――The thing he pulled out was a gun-like object the likes of which I had never seen before.
 $Sousuke
-“—?!”
-My body lurched.
-This... it was just like that time—
+“――!”
+My body tilted.
+This is…… like that time――
 $Mikage
-“Ugh...!”
-Mikage’s face contorted.
+“Uugh……”
+Mikage grimaced.
 $Sousuke
-“Mikage...!”
-I tried to tell her to stay strong, but my knees hit the floor.
-I slumped to the ground, still holding Mikage.
-—This is bad.
-That nightmare was resurfacing in my mind.
-At this rate—I’m going to kill Mikage—
+“Mikage……”
+Just as I was about to tell her to stay strong, my knee hit the floor.
+I crouched on the floor, holding Mikage's body.
+――This is bad.
+That nightmare was being revived in my mind.
+At this rate――I'll end up killing Mikage――
 $Qwon
-“Ugh... gh...”
-Qwon was also down on her knees.
-Beads of sweat formed on her forehead, and her brow was furrowed in pain, yet she still looked toward us.
+“Kh……”
+Qwon was also on her knees.
+Her forehead was beaded with greasy sweat, and though her brows were knit, she was still looking our way.
 $Qwon
-“—The Rif-Raf is a weapon that influences the mind through low-frequency sound. Since it incorporates the melodies of your piano, Sousuke, it should have little effect on you.”
+“――Riff-Raff is a weapon that influences the mind with low-frequency sound. Since it incorporates the melodies of Sousuke's piano, it shouldn't have much of an effect on you.”
 $Sousuke
-“Even if... you say that... gh...”
-Was it like pufferfish poison not working on the fish itself?
-Even so—my head was throbbed with excruciating pain.
+“Even if you tell me that…… kh.”
+Is it like saying pufferfish poison doesn't work on me?
+Even so――my head hurts terribly.
 $Qwon
-“If you maintain a firm will—you will not be controlled.”
+“If you maintain a clear will――you will not be manipulated.”
 $Sousuke
-“Gh—!”
+“Kh――!”
 $Ouzenji
-“Shut your mouth!!”
+“Shut up!!”
 $Qwon
-“Ahhh!!”
-The output of the Rif-Raf must have increased; Qwon let out a scream of agony.
+“Uwah!!”
+Whether the output of Riff-Raff had increased or not, Qwon let out a scream of agony.
 $Godou
-“Guh...!”
-I saw that even Godou had been forced to his knees.
+“Guh……!”
+I saw that even Godou was on his knees.
 $Sousuke
-“Guh...”
-Unpleasant waves washed over me as well.
-The decisive difference Qwon had mentioned—the reason it was less effective on me was likely because it was my own music.
-If that was the case, then I really hadn't been controlled back then—
-But even so, in this state—I couldn't do anything.
+“Guh……”
+An unpleasant wave washed over me as well.
+The decisive difference in me that Qwon had mentioned earlier――it must be because the music is my own.
+If that's the case, I surely wouldn't be manipulated after all――
+But even so, in this current state――I can't do anything.
 $Mikage
-“—Ahhh!!”
-Suddenly, Mikage swung her arm up.
+“――Uwah!!”
+Suddenly, Mikage threw her arms up.
 $Sousuke
-“—?!”
+“――!?”
 $Mikage
-“Ah—gh, hah, hah...”
-Her breathing was ragged as she struggled to break free from my arms.
-Is this—the effect of the Rif-Raf—?
+“Ah――guh, hah, hah……”
+Gasping for breath, Mikage struggled to escape from my arms.
+Is this――the effect of Riff-Raff manifesting――?
 $Sousuke
 “Hey, Mikage!!”
 $Mikage
-“Hah—!!”
-I desperately tried to stop her as she thrashed about, but she attempted to tear herself away with an inhuman strength.
-Still gripped in my arms, she collided with the bookshelf, causing books and pens to tumble from the shelves.
-—Ironically, Mikage’s violent struggle was the only thing keeping me sane.
+“Hah――!!”
+I desperately tried to stop the struggling Mikage, but she attempted to tear me away with extraordinary strength.
+While still being held by me, she slammed into the bookshelf, and books and pens fell from the shelves.
+――Ironicaly, thanks to Mikage's struggle, I was able to remain calm.
 $Sousuke
-“Calm down—Mikage!!”
+“Calm down――Mikage!!”
 $Mikage
-“Ah, gh, ugh!!”
-$Sousuke
-“Gwah!!”
-The pen Mikage was clutching stabbed into my left hand.
-$Mikage
-“Haa—!!”
-$Sousuke
-“Guh... ugh!”
-Agony surged through my palm. Enduring the pain, I grabbed Mikage’s hand. This was one hand I could never let go of.
-$Sousuke
-“Wake up, Mikage!!”
-$Mikage
-“Ahhh!!”
+“Ah, guh, wah!!”
 $Sousuke
 “Gwah!!”
-She twisted the embedded pen, mangling the flesh.
-The pain was so intense that my grip on her loosened.
+The pen held in Mikage's hand pierced my left hand.
 $Mikage
-“Haa—!!”
-Mikage climbed on top of me.
-Her hands reached for my throat—
+“Haa――!!”
 $Sousuke
-“Guh...”
-—My breath was cut off.
-As I tried to push her arms away, I noticed her expression.
-$Mikage
-“Guh... ugh...”
-—She was crying.
-While she was strangling me with all her might, her eyes were sane—the eyes of the Mikage I knew.
-With her eyes alone, she was pleading for forgiveness.
-Seeing that—all my will to escape her grasp by force vanished.
-Truly—is this the power of the Rif-Raf?
-My consciousness began to fade.
-Even if I was told the Rif-Raf was less effective on me, if I let my guard down now, I’d be controlled—and I might end up killing someone I cared about after all.
-$Mikage
-“Sou... suke...”
-My name slipped from Mikage’s lips.
-—That’s right.
-I can't let myself be killed.
-I can't let Mikage—be the one to kill me.
+“Guh…… ugh!”
+Sharp pain shot through my palm. Enduring the pain, I grabbed Mikage's hand. I absolutely could not let go of this hand.
 $Sousuke
-“Mikage...”
+“Kh――wake up, Mikage!!”
 $Mikage
-“Ah... ahhh...”
-Her voice was a wordless cry.
-Her strength didn't waver.
-My consciousness grew dim.
-$Ouzenji
-“Fuhaha!! That’s it!!”
-Ouzenji’s loud laughter echoed through the room.
-—In the corner of my vision, I saw Godou move.
-$Godou
-“Haa—!!”
-$Ouzenji
-“Ngh—?!”
-$Ouzenji
-“Mugh—Godou!!”
-$Godou
-“—You let your guard down.”
-In that instant, the sensation of my head being crushed vanished.
-$Mikage
-“Ah...”
-Mikage’s fingers loosened.
+“Aaaah!!”
 $Sousuke
-“Mikage—”
-I caught Mikage’s body as she lost consciousness and slumped forward.
+“Gwah!!”
+The pierced pen was twisted, and my flesh was wrenched.
+From the sheer pain, my hold on Mikage loosened.
 $Mikage
-“Hah... hah...”
-—She was alright.
-Both I—and Mikage.
-I looked at Godou, who had struck the Rif-Raf from Ouzenji’s hand.
-He was facing off against a now furious Ouzenji.
+“Haa――!!”
+Mikage got on top of me.
+Mikage's hands moved to my neck――
+$Sousuke
+“Guh……”
+――I couldn't breathe.
+As I tried to push Mikage's arms away, I noticed her expression.
+$Mikage
+“Guh…… ugh……”
+――She was shedding tears.
+While she was strangling my neck with all her might, her eyes alone were those of the sane, usual Mikage.
+With her eyes alone, she was apologizing to me, saying she was sorry.
+Seeing that――the will to escape her hold even by pushing her away began to fade.
+Honestly――is this the power of Riff-Raff?
+My consciousness grew hazy.
+Even if I'm told that Riff-Raff's effect is unlikely to manifest in me, if I let my guard down here, I'll be manipulated――and I might end up killing someone precious this time for sure.
+$Mikage
+“Sou……suke……”
+My name escaped from Mikage's mouth.
+――That's right.
+I cannot be killed.
+I cannot let Mikage kill me.
+$Sousuke
+“Mikage……”
+$Mikage
+“A…… aaah……”
+A wordless voice.
+The strength didn't waver.
+Fading consciousness.
 $Ouzenji
-“Godou... you bastard!!”
-Ouzenji drew a long katana.
+“Fuhahah!! That's the spirit!!”
+Ouzenji's loud laughter echoed.
+――From the corner of my eye, I saw Godou move.
 $Godou
-“...Let us settle this—Colonel.”
-Godou also leveled his blade, his voice calm and steady.
+“Haah――!!”
 $Ouzenji
-“—Entertaining.”
+“Nnh――!?”
+$Ouzenji
+“Muuh――Godou!!”
+$Godou
+“――You let your guard down.”
+In that instant, the sensation that felt like my head was being squeezed vanished.
+$Mikage
+“Ah……”
+Mikage's fingers loosened.
+$Sousuke
+“Mikage――”
+I caught Mikage's body as she lost consciousness and collapsed.
+$Mikage
+“Hah…… haah……”
+――It's okay.
+Me, and ――Mikage too.
+I looked at Godou, who had knocked Riff-Raff away.
+He was facing Ouzenji, who wore an expression of rage.
+$Ouzenji
+“Godou…… you bastard!!”
+Ouzenji drew a long sword.
+$Godou
+“……Let us settle this――Colonel.”
+Godou also readied his sword and spoke in a quiet voice.
+$Ouzenji
+“――Interesting.”
 Tension dominated the room.
-The air was so taut it made me hesitate to even move.
-It felt as though any slight movement would become the trigger for everything.
-It was a space where I could barely even breathe.
+A taut atmosphere where one hesitated to even move.
+I felt that if anything moved, it would become the trigger for everything.
+A space where one couldn't even breathe properly.
 $Godou
-“Now—let us begin.”
+“Now――I'm coming.”
 $Ouzenji
-“Come—Corporal Godou.”
-With those words exchanged—the two of them closed the distance in an instant.
+“Come――Corporal Godou.”
+Along with the words they exchanged――the two closed the distance at once.
 $Godou
-“Haa!!”
+“Haah!!”
 $Ouzenji
 “Hmph!!”
 $Godou
-“Guh...!”
+“Guuh……!?”
 $Ouzenji
-“Naïve!!”
+“Naive!!”
 $Godou
-“Tch!!”
+“Kh!!”
 $Ouzenji
-“You're a hundred years too early to be standing against me!!”
+“To think you would stand against me; you're a hundred years too early!!”
 $Godou
-“Guh...!”
+“Guh……!!”
 $Ouzenji
 “Perish! Godou!!”
 $Godou
-“Not yet!!”
+“I won't let you!!”
 $Ouzenji
 “Tch!!”
-—It was a sword-fight beyond my meager understanding.
-The blades never touched their bodies, instead being parried by the other's steel, sending white sparks flying.
+――It was a sword-fight that exceeded the comprehension of someone like me.
+The blades never touched their bodies; they were all parried by the other blade, scattering white sparks.
 $Ouzenji
-“Impudent wretch!!”
+“Impudent!!”
 $Godou
-“Mugh!!”
-Unable to withstand a overhead strike, Godou was forced to one knee.
+“Muuh!!”
+Unable to withstand a blow from directly above, Godou fell to his knees.
 $Sousuke
-“Tch—?!”
-Isn't there anything I can do?
-—Tucked into my belt was the gun Aoi had been using.
-Reflexively, I drew the gun and aimed it at Ouzenji’s back.
+“Kh――!?”
+Isn't there something I can do?
+――I had the gun Aoi was using tucked into my belt.
+Reflexively, I drew the gun and aimed it at Ouzenji, who had his back turned.
 $Qwon
-“—Stop, Sousuke.”
+“――Stop, Sousuke.”
 $Qwon
-“With your skill—you will not hit him.”
+“With your skill――you won't hit.”
 $Sousuke
-“I won't know—unless I try.”
+“I won't know――until I try.”
 $Qwon
-“—Godou would not wish for such a conclusion, either.”
-Qwon spoke as she watched the two dance with their blades.
+“――Godou likely doesn't wish for such a conclusion, either.”
+Qwon said while watching the sword-dance of the two.
 $Sousuke
-“...You’re certainly taking his side.”
+“……You’re quite supportive of him.”
 $Qwon
-“Of course. I have faith in him.”
+“Naturally. I trust him, after all.”
 $Sousuke
-“—Even though he came to kidnap you?”
+“――Even though he came to kidnap you?”
 $Qwon
-“Yes—precisely because of that.”
-—I didn't quite understand that bond of trust.
-But—
+“Yes――precisely because of that.”
+――I didn't quite understand that bond of trust.
+But――
 $Ouzenji
-“Godou!! Why do you continue to obstruct my plan?!”
+“Godou!! Why do you interfere with my plan!?”
 $Godou
-“—It’s quite simple. Your ambitions will one day destroy this nation.”
+“――It’s plain to see. Your ambitions will one day destroy the nation.”
 $Ouzenji
-“Do not speak as if you understand when you cannot even grasp my grand design! I am the only one who truly cares for the future of this country, and I have concluded that controlling the domestic situation is the only path!”
+“Don't speak so knowingly as someone who cannot understand my great goal! I truly care for the future of this country, and have only considered that controlling domestic affairs is the best course!”
 $Ouzenji
-“To that end, we must make sufficient preparations before blindly invading the continent. My role is to unify domestic thought and build a system that can mobilize the entire populace!!”
+“To that end, we must proceed with sufficient preparations before recklessly invading the continent. My role is to achieve the unification of domestic thought and build a system that can mobilize the entire populace!!”
 $Ouzenji
-“That is what the Seihoukai is for, and that is what the Rif-Raf is for!! Not that an ordinary man like you, who cannot comprehend a higher purpose, would understand!!”
+“That is what the Seihoukai is for, and what Riff-Raff is for!! It’s something you commoners, who cannot understand the greater cause, won't comprehend!!”
 $Godou
-“—Is that all you have to say?”
-Godou smirked as if he had just let Ouzenji’s long speech wash over him.
+“――Is that all you have to say?”
+Godou smiled as if he were letting Ouzenji's long speech flow past him.
 $Ouzenji
-“You—!!”
+“You bastard――”
 $Godou
-“—What the Colonel says is a way of speaking that ignores the human heart. To rely on a machine to capture the hearts of the people—”
+“――The things you say, Colonel, are words that ignore the hearts of the people. To rely on machines to grasp the hearts of the people――”
 $Ouzenji
-“Have you been misled by the girl’s sophistry, Godou?! It was that Mikanagi girl over there who created the Rif-Raf!!”
+“Have you been misled by the girl's sophistry, Godou!? It was the Mikanagi girl there who created Riff-Raff!!”
 $Qwon
-“—I simply created it as requested. I had no interest—in how it would be used.”
+“――I merely produced it in response to a demand. What it is used for――doesn't interest me.”
 $Ouzenji
-“With a mind like yours, there is no way you didn't understand the intent behind its use!!”
+“With your intellect, there's no way you wouldn't understand the intended use!!”
 $Qwon
-“—I understood that it would be used for something trivial.”
+“――I understood that it would be used for something foolish.”
 $Ouzenji
-“You—!!”
+“You bastard――!!”
 $Ouzenji
-“Ngh?!”
+“Nuuh!?”
 $Godou
-“—Your opponent is me, Colonel.”
-Godou spoke calmly as he parried Ouzenji’s blade.
+“――Your opponent is me, Colonel.”
+Godou said quietly as he parried Ouzenji's blade.
 $Ouzenji
-“How arrogant!!”
+“Cheeky bastard!!”
 $Ouzenji
-“Naïve!!”
+“Naive!!”
 $Godou
-“Mugh—!!”
+“Muuh――!!”
 $Ouzenji
-“What’s the matter?! Your movements have grown dull, Godou!”
+“What's the matter! Your movements seem to have slowed down, Godou!”
 $Godou
-“I’m not finished—!!”
-Though he was fighting Ouzenji on equal terms, Godou’s attacks were clearly fewer.
+“Not yet――!!”
+Though he was holding his own against Ouzenji, Godou's attacks were clearly few.
 $Sousuke
-“Is it his left arm—?”
-The arm Aoi had stabbed must not have been fully functional. He was wielding his sword almost entirely with one hand.
-—He can't fight properly like that.
+“The left arm――huh?”
+The arm Aoi stabbed likely couldn't be used properly. He was swinging the sword almost one-handed.
+――He can't fight properly like that.
 $Qwon
-“—It is impossible for Godou to be bested by a mere injury like that. Besides—”
-Qwon reached out and placed her hand on the pistol I was holding, slowly making me lower it.
+“――It's impossible for Godou to fall behind because of a mere injury like that. Besides――”
+Qwon placed her hand on the handgun I was holding and slowly made me point it down.
 $Qwon
-“There is no need for Sousuke, who has yet to kill anyone, to stain his hands.”
+“Sousuke, who has not yet killed anyone, doesn't need to get his hands dirty.”
 $Sousuke
-“I—”
+“I am――”
 $Qwon
-“This is—their battle.”
-Qwon nodded, her gaze never wavering from Godou.
+“This is――their battle.”
+Qwon nodded without looking away from Godou.
 $Ouzenji
-“Hrrrah!!”
+“Funnuuh!!”
 $Godou
-“Hah—!!”
-Ouzenji swung his blade in a wide arc, and Godou rolled to avoid it.
-A candlestick, struck by Ouzenji’s blade, fell to the floor.
+“Fuh――!!”
+Ouzenji swung a horizontal stroke, and Godou rolled to dodge.
+The candlestick, fanned by Ouzenji's blade, fell to the floor.
 $Ouzenji
-“Curse you, you clever rat!!”
+“Damn you, how clever!!”
 $Godou
-“Ugh—!!”
-Twice, three times, their blades clashed.
-Godou had retreated all the way to the window.
-The expression of agony on his face was clearly visible to us.
+“Kh――!!”
+Twice, three times, the two crossed blades.
+Godou had retreated to the window.
+We could clearly see his expression of agony.
 $Ouzenji
-“How pathetic—Godou.”
+“You look pathetic――Godou.”
 Ouzenji sneered.
 $Godou
-“Well—we’re just getting started, Colonel.”
+“Well now――the real thing starts now, Colonel.”
 $Ouzenji
-“Impudent—!!”
-Ouzenji took a great step forward and swung his blade upward in a reverse diagonal slash.
+“Insolent child――!”
+Ouzenji stepped in deep and swung upward in a reverse diagonal cut.
 $Godou
-“Mugh—?!”
-Godou dodged, but he was just a fraction too slow.
+“Mmh――!?”
+Godou dodged, but he was slightly late.
 $Ouzenji
-“Haa!!”
+“Haah!!”
 $Godou
-“Guh—?!”
-Blood sprayed into the air.
+“Guuh――!?”
+Blood spray scattered.
 $Sousuke
-“—?!”
+“――!”
 $Qwon
-“—Godou!!”
-—Qwon’s voice was more of an instruction than a scream.
+“――Godou!!”
+――Qwon's voice was more like an instruction than a scream.
 $Ouzenji
-“It’s over—Godou!!”
-Confident in his victory, Ouzenji swung his blade down in a diagonal slash.
+“This is the end――Godou!!”
+Certain of his victory, Ouzenji swung his sword down in a diagonal cut.
 $Godou
-“Hmph—”
+“Heh――”
 $Ouzenji
-“Mugh—?!”
-As Ouzenji hesitated in confusion, Godou slammed his body into him.
+“Muuh――!?”
+Godou slammed his body into the puzzled Ouzenji.
 $Ouzenji
-“It’s futile—!!”
-Though his stance was broken, the blade Ouzenji swung down stopped at Godou’s shoulder.
+“It's useless――!!”
+The blade he swung down while losing his balance stopped at Godou's shoulder.
 $Godou
-“—Qwon.”
-For just a fleeting moment, Godou looked toward Qwon.
+“――Qwon.”
+For just an instant, Godou looked toward Qwon.
 $Qwon
-“—?!”
+“――!?”
 Qwon gasped.
 $Godou
-“Haa!!”
-Godou released his sword and grabbed Ouzenji’s body.
+“Haah!!”
+Godou let go of his sword and grabbed Ouzenji's body.
 $Ouzenji
-“Mugh—?!”
-As Ouzenji struggled to break free, Godou used his right arm alone to hoist Ouzenji’s body into the air.
-Ahead of them lay—the massive glass window overlooking Great Tokyo City.
+“Mmh――!?”
+Regardless of Ouzenji trying to shake him off, Godou sent Ouzenji's body flying into the air with just his right hand.
+Ahead was――the giant glass window overlooking Great Tokyo City.
 $Godou
-“—It is a bit early for the Obon festival, but let us depart on our journey to the next world together—Colonel.”
+“――It's a bit early for Obon, but let us go on the journey of death together――Colonel.”
 $Ouzenji
-“Godou!! You bastard?!”
+“Godou!! You bastard!?”
 $Ouzenji
-“Godou—!!”
+“Godou――!!”
 $Qwon
-“Godou—!!”
-—They vanished out the window.
+“Godou――!!”
+――They vanished out the window.
 $Qwon
 “Godou!!”
 Qwon immediately rushed to the window.
-The sound of water splashing rose from the Inner Moat just outside.
-The fire from the candlestick that had fallen during the fight began to spread, staining the area red with flames.
-The fire, which had spread even to the carpet, momentarily obscured Qwon’s silhouette.
+From the inner moat just outside, the sound of water splashed.
+The fire spread from the candlestick that had fallen to the floor during the fight, staining the surroundings red with flames.
+The fire, which had spread even to the carpet, momentarily shrouded Qwon's figure.
 $Sousuke
-“—Qwon!!”
-I called out to Qwon while still holding Mikage, who remained unconscious.
+“――Qwon!!”
+I called out to Qwon while holding the body of Mikage, who was still unconscious.
 $Sousuke
-“Qwon, we have to get out of here!!”
+“Qwon, let’s run!!”
 Qwon, who had been looking down out the window, turned back.
 $Qwon
-“—Sousuke, you go on ahead.”
+“――Sousuke, you go ahead.”
 $Sousuke
-“Qwon—?”
+“Qwon――?”
 $Qwon
 “I still have things I must do.”
-At her smile, I momentarily forgot what to say.
+At that smile, I momentarily forgot to speak.
 $Qwon
-“—A sin is a sin. I must atone. To all those who lost their lives in this conflict, to all those whose fates were toyed with, and to the world that was driven mad—”
-Qwon stood at the edge of the shattered glass window.
+“――A crime is a crime. I must make amends. To all those who lost their lives in this conflict, and to all those whose fates were toyed with and whose world was driven mad by this conflict――”
+Qwon stood at the edge of the broken glass window.
 $Qwon
-“That is why—”
+“That is why――”
 $Sousuke
-“Stop—Qwon!!”
-Just as I was about to rush toward her.
-—The flames swallowed Qwon’s figure completely.
+“Stop――Qwon!!”
+Just as I was about to rush out.
+――The flames shrouded Qwon's figure.

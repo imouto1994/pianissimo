@@ -2,309 +2,309 @@
 0201
 ********************
 $Sousuke
-“...Mmph.”
-I woke up enveloped in the softness of the futon.
-For a split second, I didn't even know where I was.
-I sat up, scanning the room, before the realization hit me again—this was my hideout.
+“...Nn.”
+I woke up inside the softness of the duvet.
+For a split second, I couldn't tell where I was.
+I sat up, looking around the room, and remembered once again that this was the safehouse.
 Waking up didn't feel half bad.
-It was probably thanks to this high-end bedding.
-I felt a twinge of guilt for Yuzuha, who was likely sleeping on the hard futon back at our apartment.
+Maybe it's thanks to these high-class blankets.
+I felt a small pang of guilt thinking of Yuzuha, who was likely sleeping on the hard futon back at home.
 $Aoi
-“—Awake at last?”
+“—Awake, are we?”
 $Sousuke
 “—!?”
-Startled by the sudden voice, I spun around to find Aoi perched in a chair.
+Startled by the sudden voice, I whipped around to find Aoi perched in a chair.
 $Sousuke
 “When did you...?”
 $Aoi
-“Heh... you have such a cute sleeping face. Almost made me want to pounce on you.”
+“Hehe... You had such a cute sleeping face. Almost made me want to pounce on you.”
 $Sousuke
 “...Give me a break.”
-I wasn't in the mood for that kind of talk first thing in the morning.
+It was too early in the morning for that kind of talk; it just made me weary.
 $Sousuke
 “...Is there work?”
 $Aoi
-“Yes. A quick, simple job. For a novice like you, it’s a perfect start, don't you think?”
+“Yes. A simple, straightforward job. Just right for a first-timer like you, wouldn't you say?”
 $Sousuke
-“What’s the job?”
+“What are the details?”
 $Aoi
-“Heh... I’ll tell you before we begin.”
+“Hehe... I’ll tell you that right before we start.”
 Shady as hell.
-Well, I’d been prepared for that from the start.
+Well, I’d braced myself for that from the very beginning.
 $Aoi
-“The pay... let’s see, fifty yen should be plenty, right?”
-Fifty yen—that was nearly a month’s salary for a civil servant.
-Paying that much for a single job meant there was a certain level of risk involved. Likely something that flirted with breaking the law.
+“As for the reward... let’s see, would fifty yen be sufficient?”
+Fifty yen—nearly the same as a government official’s monthly salary.
+Paying that much for a single job meant it had to be dangerous to some degree. Likely the kind that flouted the law.
 $Aoi
-“If you’re satisfied, let’s move out.”
-I wasn't exactly satisfied, but I followed Aoi out of the room without a word.
-We walked north from the apartment for a while, stopping only when we reached the cramped alleys of Nezu.
+“If you're satisfied, then let's get moving.”
+I wasn't exactly satisfied, but I followed Aoi out of the room like a well-behaved dog.
+We walked north from the apartment for a while, and Aoi came to a stop once we entered the cramped back alleys of Nezu.
 $Aoi
 “Wait here.”
-With those parting words, she disappeared into a shack-like building.
+Leaving me with those words, she stepped inside a building that looked little better than a shack.
 $Sousuke
 “Tch—”
-Just as I’d suspected—this was going to be a nasty piece of work.
-—Could I run now?
+Just as expected, this looks like a total mess of a job.
+—Could I make a run for it now?
 The thought crossed my mind, but I shook my head immediately.
-—Useless. Even if I escaped this moment, they’d track me down.
-And even if I hid well enough to stay buried—Yuzuha would be their next target.
+—It’s useless. Even if I handled things here, those people would eventually track me down.
+Even if I hid so thoroughly that I could never be found—Yuzuha would be the next target.
 $Sousuke
 “—Tch.”
-What a goddamn pain.
-How the hell did I end up in this mess—
+What a pain in the ass.
+Why the hell am I in this mess—
 $Aoi
 “—Sorry to keep you waiting.”
-Aoi emerged, holding a rectangular paper-wrapped bundle.
+Aoi emerged. She was holding some kind of square paper parcel in her hand.
 $Aoi
-“Today, I need you to deliver this to a certain location.”
-I took it from her; it wasn't particularly large, but it had a substantial weight to it.
+“I need you to deliver this to a certain place today.”
+When I took it, it wasn't particularly large, but it had a heavy, substantial weight to it.
 $Sousuke
 “What is it...?”
 $Aoi
-“Why don't you check the contents for yourself?”
-Aoi flashed a smirk. I had a bad feeling about this.
-I pried the opening of the bag a bit—and saw exactly what I’d dreaded.
-Stacks of bills, packed tight with no room to spare. At least a thousand twenty-yen notes—maybe more.
+“Check the contents for yourself.”
+Aoi wore a faint smirk. I had a bad feeling about this.
+I opened the mouth of the bag slightly—and saw exactly what I feared I would.
+Stuffed tight without a single gap were bundles of cash. At twenty yen per note, there were roughly a thousand—maybe more.
 $Aoi
-“There’s thirty thousand yen in there.”
+“There's thirty thousand yen in there.”
 $Sousuke
-“...You want me to go buy a plot of land or something?”
-It was absurd.
+“...Planning on having me buy some land or something?”
+The whole thing was absurd.
 $Aoi
-“Take that to Toyamagahara. A man will contact you there; just hand it over to him.”
+“Take that and head to Toyamagahara. A certain man should make contact with you there; just hand it over to him.”
 $Sousuke
-“Toyamagahara... the Army shooting range?”
-A desolate place near Shinjuku, despite being inside the Yamanote line. It housed Army schools and drill grounds, but most of it was just an empty field of pampas grass.
+“Toyamagahara... The Army’s firing range?”
+A desolate place despite being near Shinjuku and within the Yamanote line. It housed Army schools and drill grounds, but most of it was nothing but fields of silver grass.
 $Aoi
-“A perfect spot for a shady deal, wouldn't you say?”
+“A perfect spot for a suspicious transaction, wouldn't you agree?”
 $Sousuke
-“Don't call your own business shady.”
+“Don't go calling it suspicious yourself.”
 $Aoi
-“Heh...”
-There was no arguing with her.
+“Hehe...”
+There was no reasoning with her.
 $Aoi
-“He’ll give you something in exchange, so bring that back to the office.”
+“In exchange, he’ll give you something, so bring that back to the office.”
 $Sousuke
 “—Hmph.”
-Honestly—was my life just going to be jobs like this from now on?
-Refuse
-Accept
+Good grief—is every job from here on out going to be like this?
+I'm not doing it
+I'll do it
 $Sousuke
-“...I can't do this.”
-You’d have to be insane to accept a job like this.
+“...I can't deal with this.”
+Anyone who’d take a job like this is out of their mind.
 $Sousuke
-“Ask someone else. Me, a courier for thirty thousand yen—the weight’s too much to carry.”
+“Ask someone else. Having me play courier for thirty thousand yen—the burden is too heavy.”
 $Aoi
-“—I see.”
+“—Is that so.”
 $Aoi
-“Do you really think you have the right to refuse?”
-Aoi asked with a pleasant smile, her hand already connecting with my cheek in a sharp slap.
+“Do you honestly think you have the right to refuse?”
+While still in the motion of having slapped my cheek, Aoi questioned me with a pleasant smile.
 $Aoi
-“I’m not asking you a favor. I’m giving you an order.”
+“I’m not asking for a favor. I’m giving an order.”
 $Sousuke
 “Tch...”
 $Sousuke
 “—Fine, I get it. I just have to go, right?”
 $Aoi
-“I like a man who knows how to listen.”
+“I do like a man who listens.”
 $Sousuke
 “Keep talking.”
-I had no choice. In for a penny, in for a pound.
+I had no choice now. Might as well go the whole hog.
 $Aoi
-“Whatever you do, don't go dropping it.”
+“Make absolutely sure you don't drop it or anything.”
 $Sousuke
 “I know.”
 $Aoi
-“And if you think about running... you know what happens, right?”
+“Also, if you try to run... you understand, right?”
 $Sousuke
 “...Hmph.”
-Carrying this much cash, the urge to run was definitely there.
+Entrusting someone with this much cash would make anyone want to run.
 $Aoi
 “—Well then, I’m counting on you.”
-I parted ways with Aoi and headed for Toyamagahara.
-The thought of hopping on a train and disappearing somewhere crossed my mind, but they were likely keeping me under surveillance.
-If doing something stupid meant putting myself in harm's way, it was better to just get the job over with.
-I wove through the crowds, heading up Kagurazaka.
-I clutched the paper bundle tight to make sure no pickpockets got lucky.
-I kept a sharp eye out for anyone suspicious—
+I parted ways with Aoi and headed toward Toyamagahara.
+The thought of jumping on a train and fleeing somewhere far away crossed my mind for a moment, but they surely have someone tailing me.
+If making a clumsy move meant putting myself in harm's way, I might as well just finish the job quietly.
+I pushed through the crowds as I made my way up Kagurazaka.
+I clutched the paper parcel tight to make sure I wasn't pickpocketed.
+I kept my eyes peeled for anyone suspicious in the area, but—
 $???
-“Eek!?”
+“Kyat!?”
 $Sousuke
 “—Whoops, my bad...?”
-I stopped dead when I saw the girl I’d bumped shoulders with.
+I stopped in my tracks as I looked at the girl I’d bumped shoulders with.
 $Chika
-“Ouch...”
+“Ow, ow ow...”
 $Sousuke
 “...Chika?”
 $Chika
 “Eh...!?”
 Our eyes met.
 $Chika
-“K-Kudou-san...!? W-what are you doing in a place like this...!?”
+“K-Kudou-san...!? W-Why are you in a place like this...!?”
 $Sousuke
-“Working. Since I got fired from my piano gig.”
+“I'm working. I got kicked out of the piano-playing business, after all.”
 $Chika
-“O-oh, that’s not what I meant... i-if someone finds you...”
+“A-Ah, it's not that... it's just, if someone finds you...”
 Chika looked around nervously.
-I felt terrible, but Chika’s behavior was drawing the most attention.
+I felt terrible, but Chika’s behavior was the very thing drawing people's attention.
 $Chika
-“Um, ah...”
+“U-Um...”
 $Sousuke
-“I’ll be fine. ...Probably.”
-The fact that I’d been given a job that required me to be out in public meant I was likely already off the authorities' immediate radar.
-Though, obviously, it was still better to keep a low profile.
+“It's fine. ...Probably.”
+The fact that I’d been given outdoor work meant I could assume I was already off the authorities' radar.
+Still, it goes without saying that it's better to act inconspicuously.
 $Chika
-“I-I’m sorry... so sorry!”
+“T-That... I'm so sorry!”
 $Sousuke
-“What are you apologizing for?”
+“Why are you apologizing?”
 $Chika
-“I was just spacing out... and I bumped into you, and... and Kudou-san, you’re supposed to be hiding...”
+“I was just spaced out... and I bumped into you, and um... even though you need to escape, Kudou-san...”
 $Sousuke
 “Don't worry about it.”
 $Chika
 “Are you really okay...?”
 $Sousuke
-“At the very least, it’s not something you need to worry about, Chika.”
+“At the very least, it's not something you need to worry about, Chika.”
 $Chika
-“S-sorry...”
+“I-I'm sorry...”
 —Good grief.
-Because she was so timid, she was incredibly difficult to talk to.
+Maybe it's because she finds me difficult to be around, but she's incredibly awkward to deal with.
 $Sousuke
-“Is today your day off?”
+“Are you off today?”
 $Chika
-“No, um... I was out to buy coffee beans...”
+“No, um... I'm out to buy coffee beans...”
 $Sousuke
 “I see.”
 $Chika
-“Um... Kudou-san.”
+“U-Um... Kudou-san.”
 $Sousuke
 “Hm?”
 $Chika
-“What... what kind of work are you doing now?”
+“Kudou-san... what kind of work are you doing now?”
 $Sousuke
-“Work... right.”
+“Work... huh.”
 I couldn't exactly tell her the truth.
-I just had to find a way to dodge the question...
+I just hoped I could find a way to dodge the question...
 $Chika
-“Ah... I-I’m sorry! I shouldn't have been so forward...”
+“Ah... S-Sorry! I shouldn't have been so nosy...”
 $Chika
-“There’s no way you’d answer someone like me...”
+“Someone like me shouldn't expect an answer even if I asked...”
 $Sousuke
 “No... look...?”
 Honestly, I didn't know how to handle her.
 $Sousuke
 “...Chika.”
 $Chika
-“Y-yes!?”
+“Y-Yes!?”
 $Sousuke
-“It’s not the kind of work I can talk about openly. Give me a break.”
+“It's not the kind of job I can talk about openly. Give me a break.”
 $Chika
-“Oh, yes... I’m sorry.”
+“Ah, yes... I'm sorry.”
 $Sousuke
-“It’s not your fault.”
-I was the one to blame.
+“It's not your fault.”
+I’m the one in the wrong.
 $Sousuke
-“Anyway, I’m going.”
+“Well then, I'm off.”
 $Chika
 “Ah... yes. Please be careful.”
 $Sousuke
 “Give my regards to the Master.”
 $Chika
-“...I will!”
-Chika bowed.
-I gave her a light wave and left the scene.
-Climbing Mt. Hakone in Toyamagahara offered a panoramic view of Greater Tokyo.
-In the distance, I could even see Tokyo Bay.
-A quiet, desolate place.
+“...Yes!”
+Chika bowed her head.
+I gave her a small wave and left the scene behind.
+If you climb Mount Hakone in Toyamagahara, you can see all of Great Tokyo spread out below.
+In the distance, you can even see Tokyo Bay.
+A quiet, lonely place.
 There wasn't a soul in sight.
-It was certainly an ideal spot for a trade...
+It might indeed be the ideal spot for a transaction, but...
 $Sousuke
 “—Good grief.”
-I wiped the sweat from my brow. With nothing to block the sun, the summer heat beat down on me directly.
-I still had time to spare.
-As I scanned the surroundings, I saw a man climbing the hill from the south.
-He looked like a suspicious thug, no matter how you sliced it.
+I wiped away the sweat. Since there was nothing to block the sun, the summer heat beat down on me directly.
+I still had plenty of time.
+As I gazed vaguely at my surroundings, I saw a man climbing the mountain from the south.
+No matter how you looked at him, he was a suspicious, hoodlum-looking guy.
 $Man
-“You the messenger from the Seihoukai?”
-The man approached me, asking in a low voice that suggested he was wary of his surroundings.
+“Are you the messenger from the Seihou-kai?”
+The man approached me and questioned in a low voice, as if wary of his surroundings.
 $Sousuke
 “—Yeah.”
 $Man
-“I brought the goods. You ready on your end?”
+“I brought the goods. Are you ready on your end?”
 I nodded silently.
-I wondered what kind of item could possibly be worth thirty thousand yen. From what I could see, the man was empty-handed.
+What on earth could be worth thirty thousand yen? From what I could see, the man was empty-handed and didn't look like he was carrying anything.
 $Sousuke
 “—Here.”
-There was no point in overthinking it. I handed the bundle of cash to the man.
+There was no point in overthinking it. I handed the man the parcel of money.
 $Man
-“Heh, thanks.”
-The man immediately peered into the paper bundle and let out a whistle.
+“Heheh, thanks.”
+The man immediately peeked inside the paper parcel and let out a whistle.
 $Man
-“—Looks like it’s all here. ...Here, take it.”
-The man pulled an envelope from his coat.
+“—Seems it’s all here. ...Here, take this.”
+The man pulled an envelope from his breast pocket.
 $Sousuke
 “...This is it?”
-I took it; it was a plain brown envelope with no address, sealed tight with wax so the contents were hidden.
-The seal stamped into the wax was one I’d never seen before.
-Some kind of document, maybe?
+When I took it, it was a plain brown envelope with no address, and it was sealed tight with wax, so I couldn't tell what was inside.
+The seal pressed into the wax was also one I’d never seen before.
+Is it some kind of document?
 $Man
-“Don't go losing it.”
+“Don't go losing it now.”
 $Sousuke
-“I know. I’m not a child running an errand.”
+“I know. I'm not a kid running errands.”
 $Man
-“Heh. See ya later, then.”
-The man scurried off the way he’d come.
+“Heheh. Well then, so long.”
+The man hurried back the way he’d come and disappeared.
 $Sousuke
 “—Phew.”
-Now all that was left was to bring this envelope back to Aoi.
-Typical.
-Despite the pressure of carrying thirty thousand yen, this really was no different from a child’s errand.
-Well—I was grateful there hadn't been much danger.
+Now all that’s left is to take this envelope back to Aoi.
+Good grief—it’s done.
+There was the pressure of the thirty thousand yen, but in the end, it really was no different from a kid’s errand.
+Well—I should be grateful there wasn't much danger.
 $Sousuke
 “—Time to head back.”
-I walked along the streetcar tracks of Ushigome Yanagicho and returned to Kagurazaka.
-Since evening was approaching, early drunkards were already stumbling about here and there.
-I glanced at the streets as I headed for the Seihoukai office.
-When I entered, Aoi, who had been sitting in a chair, stood up.
+I walked along the streetcar tracks in Ushigome-Yanagicho and headed back to Kagurazaka.
+Perhaps because evening was approaching, early-bird drunks were staggering about the streets here and there.
+I made my way to the Seihou-kai office while glancing sideways at the town.
+As soon as I entered the office, Aoi, who had been sitting in a chair, stood up.
 $Aoi
 “Good work.”
 $Sousuke
 “This is what you wanted, right?”
-I handed her the envelope.
-Aoi sliced the seal with a knife and checked the documents inside.
+I handed over the envelope.
+Aoi cut the seal with a knife and checked the documents inside.
 $Aoi
-“—Yes, this is it.”
+“—Yes, no mistake.”
 $Sousuke
-“Thirty thousand yen for a single scrap of paper...”
+“Thirty thousand yen for a single scrap of paper like that...”
 $Aoi
-“Oh? Do you really think you should be saying that?”
-Aoi held the document out toward me.
+“Oh. Are you sure you should be saying that?”
+Aoi thrust the document toward me.
 $Sousuke
-“What’s the point of me looking at it?”
+“It's not like looking at it will do me any good.”
 $Aoi
-“It’s for your sake. ...Well, fine.”
-With that, Aoi tucked the document back into the envelope.
+“It’s for your sake. ...Oh well.”
+Saying that, Aoi put the document back in the envelope.
 $Aoi
-“From now on, the military police won't be chasing you. Same goes for the regular police. It seems the negotiations were a success.”
+“From now on, the Military Police won't be chasing you. The civil police are mostly the same. It means the negotiations went well.”
 $Sousuke
-“That’s what was written in there...?”
+“That's what was written in there...?”
 $Aoi
-“Yes, exactly. ...Though I have to wonder if it was really worth dropping thirty thousand on a man like you.”
+“Yes, that's right. ...Actually, I have my doubts about whether you're worth sinking thirty thousand yen into.”
 $Sousuke
-“...I’m inclined to agree.”
-It made no goddamn sense.
-Dropping a fortune for a nobody like me.
+“...I agree with you on that point.”
+I didn't understand it at all.
+Paying such a massive sum for a nobody like me.
 $Aoi
-“—Which means you’re even less likely to escape us now, doesn't it?”
-Her laugh was unpleasant.
+“—With this, it’s going to be even harder for you to escape now, isn't it?”
+That was a nasty laugh.
 $Aoi
-“—Though bribes won't work on the truly earnest officers, so you’ll have to be just as careful as before.”
+“—Well, bribes won't work on the truly serious officers, so you’ll have to be just as careful as before.”
 $Sousuke
 “—Hah.”
 A hell of a lot of money wasted.
 $Aoi
-“I’ll be counting on you if anything else comes up.”
+“I’ll count on you again if something comes up.”
 $Sousuke
 “—I’ll pray that nothing does.”
 --------------------
@@ -312,188 +312,188 @@ $Sousuke
 ********************
 $Sousuke
 “Phew...”
-Good grief.
+Good grief—it’s done.
 I might have stumbled into a real mess.
-Was this a bad luck year for me?
-Maybe I should go get an exorcism or something.
+Is this my unlucky year?
+I should probably go get an exorcism or something soon.
 $Sousuke
 “Hmph—”
-I stepped out into Kagurazaka.
-This town was just getting started. Stalls lined the streets, restaurants were bustling, and geisha were enticing customers.
-There were people here who knew my face. I couldn't afford to stand out, so I walked with my head down.
+I came out onto Kagurazaka.
+This town only truly begins from here on. Night stalls line the streets, high-class restaurants bustle, and geisha lure in customers.
+There are people in this town who know my face. I couldn't afford to stand out, so I kept my head down as I walked the path.
 $Sousuke
-“I really do feel like a criminal.”
-Well, I *was* wanted, after all.
-I took the back alleys and found myself in front of the bar before I knew it.
+“I really feel—like a criminal.”
+The fact is, I am a wanted criminal.
+As I walked the backstreets, I found myself in front of the bar before I knew it.
 $Sousuke
-“Heh—old habits.”
-The heavy door was closed. Had they already finished for the day?
+“Heh—Habit, I guess.”
+The thick door was shut. Had they already finished business for the day?
 I remembered the Master’s words.
 $Master
-“You’re welcome anytime after we close.”
+"You can come by anytime after we close."
 $Sousuke
 “Hah—”
-Was I lonely? I didn't even know.
-Since all this started—I hadn't really talked to anyone properly.
-Usually, I found the people around me to be a nuisance.
+Am I lonely? I didn't even know myself.
+Since that whole mess—I hadn't really talked to anyone.
+People around me, whom I usually found to be a nuisance.
 $Sousuke
-“Typical.”
-Maybe I just wanted someone to listen to my griping.
-I slowly pushed open the door to the bar.
+“Good grief—it’s done.”
+Do I just want someone to listen to my grumbling?
+I slowly opened the door to the bar.
 $Chika
-“I’m so sorry. We’ve already closed for the—”
-Chika, who was sweeping the floor, spun around and went silent.
+“I'm terribly sorry. We are no longer open for—”
+Chika, who had been sweeping the floor with a broom, turned around and cut her words short.
 $Chika
 “Ah... K-Kudou-san...”
 $Sousuke
 “...Is it okay?”
 $Chika
-“Yes... please, come in.”
+“Yes... Please, come in.”
 Chika stepped aside.
 I took a seat at the counter.
 $Chika
-“Would you like something to drink? ...The Master told me to make sure you pay for any alcohol...”
+“Would you like something to drink? ...The Master told me I have to charge for alcohol, though...”
 $Sousuke
 “I’ll have a whiskey.”
 $Chika
-“...Understood.”
+“...I understand.”
 Chika went behind the counter and brought out a bottle of whiskey and a glass.
 $Chika
 “Would you like ice?”
 $Sousuke
 “Yeah.”
-Chika headed toward the refrigerator in the back.
-The refrigerator here was rare in that it ran on electricity. Apparently, an acquaintance of the Master had modified it so it could drop to temperatures you wouldn't normally expect.
-The fact that it could make ice should have been a major talking point, but the Master rarely boasted about it.
+Chika headed toward the refrigerator at the back of the counter.
+The refrigerator here was a rarity that ran on electricity. Moreover, one of the Master’s acquaintances had apparently modified it, allowing it to reach temperatures that were usually unthinkable.
+Being able to make ice should have been enough of a talking point on its own, but the Master rarely advertised it.
 $Chika
-“Sorry for the wait. ...That’ll be seventy sen.”
-I couldn't help but let out a wry smile at her earnestness.
+“Thank you for waiting. ...That will be seventy sen.”
+I couldn't help but let out a wry smile at the fastidious Chika.
 $Sousuke
 “Put it on my tab.”
 $Chika
-“...Understood. I’ll let the Master know.”
+“...I understand. I’ll tell the Master.”
 I took the glass.
-The ice clinked as it settled.
+The ice clinked as it shifted.
 $Chika
-“...Well then, I’ll take my leave.”
-Chika gave a bow.
+“...Well then, I’ll be leaving now.”
+Chika gave a polite bow.
 $Sousuke
-“Yeah. ...Sorry for the trouble.”
+“Yeah. ...Sorry about this.”
 $Chika
-“No... I was told to look after things. ...Oh, also.”
-Chika pulled a key from the shadows of the counter.
+“No... I was told to do so by the Master. ...Ah, also.”
+Chika took a key from the shadows of the counter.
 $Chika
-“I’ll give you a spare key.”
+“I’ll... leave you the spare key.”
 $Sousuke
-“Hm.”
-A small brass key. I looked back at the heavy door. Something so small could so easily shut out the rest of the world.
+“Mm.”
+A small brass key. I turned and looked at the heavy door. With a tiny key like this, I was easily shielded from the outside world.
 $Chika
-“Please call me if anything happens. ...Though I’m sure you’ll be fine, Kudou-san.”
-Implicitly suggesting there was no need to call her, Chika headed into the back of the shop. Likely returning to her room on the second floor.
+“Please call me if anything happens. ...Though I think you’ll be fine, Kudou-san.”
+With the unspoken implication that there was no need to call her, Chika went to the back of the shop. She was likely heading back to her room on the second floor.
 $Sousuke
-“Good grief.”
-I guess she really does dislike me. Still, it felt like we talked longer than usual this time. Probably because the Master and Riho weren't around.
-I tilted my glass. There was a faint sweetness to it. She must have added sugar; it tasted like an Old Fashioned.
-Drinking alone, the silence of the bar began to grate on my ears.
-I walked over to the piano. I stroked the dust-free black surface and set my glass down.
-I idly tapped at the keys.
-Quietly, of course. Chika was upstairs.
+“Good grief...”
+I guess I really am disliked. Still, it felt like we talked a little longer than usual this time. Probably because the Master and Riho weren't here.
+I tilted my glass. It had a hint of sweetness. She must have added sugar; it tasted like an Old Fashioned.
+Drinking alone, the silence of the shop reached my ears whether I liked it or not.
+I moved to the piano. I stroked the black surface, which was free of even a speck of dust, and set down my glass.
+I tapped the keys aimlessly.
+Keeping it quiet. Chika was on the floor above.
 I hated the silence, but I didn't want noise either.
-I just played, thinking of nothing.
-Everything was starting to feel insignificant—
-Whatever happened—whatever I did—it had nothing to do with me—
-If only I could just forget it all—
+I just played without thinking of anything.
+Everything began not to matter.
+No matter what happens—no matter what I cause—it has nothing to do with me—
+If only I could forget everything—
 $Sousuke
 “—!?”
 The moment I finished playing, the sound of applause echoed through the shop.
-I thought Chika had come back down, but I was wrong.
-Someone had entered the shop without me noticing. The person sitting on a stool watching me looked like a girl who hadn't even reached adulthood yet.
-Looking out of place in this atmosphere, the girl fixed me with a mature gaze that belied her youthful appearance.
+I thought Chika had come down, but I was wrong.
+Someone had entered the shop without me noticing. Seated on a stool and looking my way was a girl who appeared to be not yet of age.
+This girl, who didn't fit the atmosphere of this place, directed a mature gaze toward me that was ill-suited to her appearance.
 $Sousuke
 “...Who are you?”
 $???
-“—Greetings.”
-The girl gave a polite bow, a faint smile on her lips.
+“—Good day.”
+With a faint smile playing on her lips, the girl gave a bow.
 $???
-“What a beautiful sound.”
+“What a lovely sound.”
 $Sousuke
-“...It’s a good piano, that’s all.”
-I answered while stroking the keys.
-The girl seemed to have deliberately ignored my question. Maybe she didn't want to answer. Fine by me. I wasn't interested anyway.
+“...It’s likely just the piano that's good.”
+I replied while stroking the keys.
+The girl seemed to have deliberately ignored my question. Did she not want to answer? If so, that’s fine. I have no interest either way.
 $???
 “It’s a Nippon Gakki, isn't it?”
 $Sousuke
 “Hm?”
 $???
-“The piano manufacturer.”
+“The piano’s manufacturing company.”
 $Sousuke
-“Oh... you know your stuff.”
+“Ah... You're well-informed.”
 $???
 “Yes—”
 The girl stood up and walked slowly toward me.
 $???
-“—It says so right here.”
-Where she pointed, the company name was indeed engraved.
+“—Because it’s written right here.”
+The place the girl pointed to did indeed have the company’s name engraved on it.
 $Sousuke
 “I see. Simple enough.”
 $???
-“The world is built upon an accumulation of simple things.”
+“The world is made up of an accumulation of simple things.”
 $Sousuke
 “Hmph—”
 The world isn't that simple.
-If it were—I wouldn't have been dragged into all this nonsense.
+If it were—I wouldn't have been caught up in such a strange mess.
 $???
-“There is a concept known as Laplace’s Demon.”
+“There is something called Laplace’s Demon.”
 $Sousuke
 “Sorry, but I’m not the type to believe in gods or demons.”
-At my words, she shook her head slowly.
+She shook her head quietly at my words.
 $???
-“It is a theory of classical physics. It suggests that if one knew the position and vector of every atom in the universe at a single moment, the future could be determined.”
+“It is a theory of classical physics. It posits that if one could know the position and vector of every atom in the world at a single instant, the future could be known.”
 $???
-“In other words—the world is simple enough to be predicted solely by the movement of atoms.”
+“In other words—the world is simple enough that it could be predicted solely by the movement of atoms.”
 $Sousuke
-“I’m just a fool, I don't really understand that stuff.”
+“I’m an idiot, so I don't really get it.”
 $???
-“I see.”
-With that, the girl went silent. What was her deal?
+“Is that so.”
+The girl fell silent after that. What was she all about?
 She seemed smart, but she made no sense.
 $???
 “—I am Mikanagi Qwon.”
 $Sousuke
 “Eh...?”
 $???
-“My name.”
+“It’s my name.”
 $Sousuke
-“Oh...”
+“Ah...”
 The girl—Qwon—stared intently into my eyes.
 $Qwon
 “And you are—”
 $Sousuke
 “Kudou Sousuke.”
 $Qwon
-“Sousuke, please play something for me.”
-Her tone wasn't exactly impolite, but it carried an authority that seemed to brook no refusal.
+“Sousuke, please play something.”
+Her tone wasn't exactly overbearingly polite, but it was the kind that didn't allow for refusal.
 Play
 Refuse
-Whatever. I had nothing better to do.
+Fine. I have nothing but time anyway.
 $Sousuke
 “Don't expect too much.”
 $Qwon
-“Understood.”
-I couldn't help but let out a wry smile at her reply. Being that honest was its own kind of problem.
-I sat back down. Qwon took a seat on the other side of the piano, half-hidden by the soundboard.
+“I understand.”
+I couldn't help but let out a wry smile at her reply. Being too honest can be a problem too.
+I sat back down on the stool. Qwon seemed to take a seat on the other side of the piano, in a place hidden by the shadow of the soundboard.
 The same quiet melody as before.
-With only one listener, even a muted sound was enough to fill the shop.
-I moved my fingers without thought.
-No modulations or rhythmic changes.
-Just slow and deliberate.
-—Typical.
-What the hell am I doing?
-Wanted by the law, and here I am playing the piano for a girl.
-I was certainly taking my sweet time.
-Even though a policeman might be waiting right outside the door.
+With only a single audience member, the sound carried through the shop well enough even if I kept it suppressed.
+I moved my fingers without a single thought.
+I didn't change the key or the rhythm.
+Just slowly.
+—Good grief.
+What am I doing?
+Being chased by the authorities, yet here I am playing the piano for a woman in a place like this.
+How carefree.
+Even though a policeman might be waiting right outside the bar door.
 My fingers stopped.
-Qwon watched me in silence.
+Qwon looked at me in silence.
 $Sousuke
 “...Sorry, I messed up.”
 $Qwon
@@ -501,160 +501,160 @@ $Qwon
 $Sousuke
 “It’s the piano’s fault.”
 $Qwon
-“...Is it?”
-Qwon’s murmur grated on my ears.
+“...I wonder.”
+Qwon’s murmur reached my ears.
 $Sousuke
-“Satisfied?”
-I asked as I laid the felt cloth over the keys.
+“Are you satisfied?”
+I asked as I draped the felt cloth over the keys.
 $Qwon
-“If you were satisfied with your performance, then I suppose I am as well.”
+“If you performed a piece you were satisfied with, then I suppose I would be satisfied as well.”
 $Sousuke
 “...What’s that supposed to mean?”
 $Qwon
-“I mean exactly what I said, without metaphor or allusion. It seems you aren't satisfied with your performance just now, Sousuke.”
+“There’s no metaphor or hidden meaning; I mean it exactly as I said. It seems Sousuke is not satisfied with the performance just now.”
 $Sousuke
 “............”
-I couldn't find an answer.
+I couldn't answer.
 $Qwon
-“Your music conveys your emotions directly as you play. Anxiety, irritation, fear... a jumble of negative emotions directed straight at the listener.”
+“In your music, the emotions at the time of performance are conveyed directly. Anxiety, impatience, fear... those jumbled negative emotions are directed straight at the listener.”
 $Sousuke
-“You’ve got a lot to say.”
-I was being called out on my flaws—not just in my playing, but in myself—yet strangely, I didn't feel angry.
-Perhaps it was because her assessment was so spot on.
+“You... talk big.”
+Even though she was pointing out my flaws—not just in my performance, but in myself—strangely, I didn't feel angry.
+Maybe it was because her points hit the mark.
 $Qwon
 “Listening to it—one might find themselves trapped by the same emotions as you.”
 $Sousuke
 “Hah—”
-Wasn't that exactly what a musician was supposed to want? If you can convey your thoughts to an audience, there’s no greater success.
-The problem was the sheer weight of my own gloomy, negative emotions.
+Isn't that exactly what a musician should hope for? If you can convey your feelings to the audience, there’s no better piece of music than that.
+The problem is that my feelings are those of gloom and negativity.
 $Qwon
-“I’ve heard that even Beethoven’s works from his later years, when he was plagued by illness, were more sublime.”
+“I’ve heard that even the great Beethoven’s works from his later years, when he was afflicted by illness, were the most sublime.”
 $Sousuke
 “...I’m nothing like that.”
 $Qwon
-“No, you aren't.”
-A tiny smile played on Qwon’s lips.
+“That's true.”
+A tiny smile appeared on Qwon’s lips.
 $Qwon
-“—Because you are you.”
+“—Because you are you, after all.”
 Qwon walked slowly toward the door.
 $Qwon
-“Until we meet again—let’s see each other here, Sousuke.”
+“Well then... let’s meet here again, Sousuke.”
 With a bow, Qwon left the shop.
 $Sousuke
 “............”
-I sat at the piano for a while, stunned.
-What a strange girl.
-She was far more mature than she looked. No—it was more like she had a certain sense of detachment.
-Regardless, she was undeniably odd.
-I couldn't get a handle on her; a truly mysterious girl.
+For a while, I sat by the piano as if dazed.
+She was a strange one.
+Much more mature than she looked. No—rather than mature, it would be better to say she seemed to have reached some kind of enlightenment.
+Regardless, she was definitely odd.
+Elusive, or rather, just an altogether mysterious girl.
 $Sousuke
-“—Time to go.”
-I was starting to feel creeped out. It felt like I was being watched from somewhere.
-I felt as if her clear gaze were still fixed on me even now.
+“—Time to go home.”
+It felt creepy for some reason. I had the feeling I was being watched from somewhere.
+I felt as though I was still being stared at by that girl’s clear eyes even now.
 $Sousuke
 “Sorry, but I’m not in the mood.”
 $Qwon
 “It seems so.”
-Qwon nodded calmly, without a hint of reproach.
+Qwon nodded simply, without a hint of reproach.
 $Qwon
-“In that case, please talk with me for a bit.”
+“In that case, please keep me company for a little chat.”
 $Sousuke
 “Hmph—”
-I didn't think I had anything in common to talk about with this girl, but I picked up my glass and moved to the counter.
-The ice had already melted, and the whiskey was watered down.
+I didn't think I’d have any topics in common with this girl, but I picked up my glass and moved to the counter.
+The ice had already melted, and the whiskey had grown thin.
 $Qwon
 “—A refill.”
-Qwon went behind the counter and reached for a bottle of Scotch from the shelf.
+Qwon went behind the counter and picked up a bottle of Scotch from the Western liquors lined up on the shelf.
 $Sousuke
-“Not that one, give me a White Label.”
+“Not that one; I’ll have the Shirofuda.”
 $Qwon
-“You prefer domestic, then?”
+“You prefer domestic, then.”
 $Sousuke
 “No—I prefer the price.”
 $Qwon
 “I see.”
-I’d intended it as a bit of lighthearted banter, but Qwon seemed to take it at face value.
+I’d intended it as a joke, but Qwon seemed to take it at face value.
 $Sousuke
-“You want something to drink too?”
+“Will you have something too?”
 $Qwon
 “I have no money. I’m penniless.”
 $Sousuke
 “Don't worry about it.”
 $Qwon
 “I see.”
-Qwon crouched behind the counter. When she stood up, she was holding a bottle of club soda.
+Qwon crouched down behind the counter. When she stood up, she was clutching a bottle of soda water.
 $Sousuke
-“...You’re quite capable.”
-Was she a newcomer at one of the brothels around here? Even so, she wouldn't be walking around with nothing if she were just out and about.
-Perhaps she’d escaped? That would explain the lack of money, but her atmosphere didn't suggest that at all.
-If anything, she looked like the daughter of an upper-class family—though her clothes weren't flashy, rather on the plain side. Still, they suited her strangely well.
-Who the hell was she, really?
-Looking at Qwon, she held the glass with both hands, her expression clouding over.
+“...You're quite level-headed.”
+Is she a newcomer working in the nearby pleasure quarters? Even so, she wouldn't be walking around penniless if she were just out and about.
+Did she run away from the brothels then? That would explain the lack of money, but her vibe didn't give off that impression at all.
+If anything, she seemed like the daughter of the upper class—though her clothing wasn't flashy, but rather plain. Still, it suited her strangely well.
+Who on earth is she really?
+When I looked at Qwon, she was holding the glass with both hands, her expression clouded.
 $Qwon
 “...It’s bitter.”
 $Sousuke
-“Well, it’s just plain soda water. You should dissolve some sugar in it.”
-I gave her the advice with a wry smile.
+“Well, that’s because it’s just carbonated water. You should dissolve some sugar in it.”
+I gave her some advice with a wry laugh.
 $Qwon
-“Yes, you’re right.”
-I handed her the sugar jar used for coffee from the counter.
-Grains of sugar danced in the soda water.
+“I suppose so.”
+I handed her the sugar pot for coffee that was on the counter.
+Grains of sugar danced within the soda water.
 $Qwon
-“—The snow this year was truly something, wasn't it?”
+“—The snow this year was incredible, wasn't it?”
 $Sousuke
-“Hm... oh, yeah, I guess so.”
-It was early February, I think, when Tokyo had its heaviest snowfall in fifty years.
-I remembered the narrow alley the bar faced being buried in snow and having to help clear it.
+“Hm... Ah, yeah, it was.”
+Was it the beginning of February? Tokyo had its heaviest snowfall in fifty years.
+I remember being called out to help clear the snow that had buried even the back alley the bar faced.
 Qwon stared intently at the sugar dancing in her glass.
 $Sousuke
-“Hey... who are you, anyway?”
-At my question, she raised her gaze slightly.
+“Hey... Who are you, really?”
+At that question, she raised her gaze slightly.
 $Qwon
-“I am Mikanagi Qwon. I have no other name.”
-Her voice was clear and carried well.
+“I am Mikanagi Qwon. I have... no other name.”
+Her voice carried well.
 $Sousuke
-“...You’re a strange one.”
+“...You're a strange one.”
 $Qwon
-“—Yes. About as strange as you, I imagine.”
-Qwon gave a little chuckle. Unlike her words, her smile was innocent.
+“—Yes. Likely just as strange as you are.”
+Qwon gave a little chuckle. Unlike her words, it was a smile devoid of malice.
 $Sousuke
-“Two of a kind—huh.”
-Still, she likely didn't have the same problems I did.
-Being hunted by the law and forced into hiding.
-Qwon stepped out from behind the counter.
+“Kindred spirits... huh.”
+Still, she likely doesn't have them.
+The kind of problems I have, being chased by the authorities and having to go into hiding.
+Qwon came out from behind the counter.
 $Qwon
-“—Well then, I’ll take my leave. Thank you for the drink.”
+“—Well then, I’ll be going now. Thank you for the treat.”
 $Sousuke
-“Shall I walk you?”
-I’d been thinking of heading home soon anyway. A little detour wouldn't be a problem.
-Part of it was a reluctance to let a young girl walk the night streets alone. Though—there were likely issues with a wanted criminal being her escort.
+“Should I walk you?”
+I’d been thinking of heading home soon anyway. A small detour wouldn't be a problem.
+I also felt some resistance to letting a young girl walk the night streets alone. Well—there was also a problem with a wanted man walking her.
 $Qwon
 “No. I’ll be fine. More importantly—”
 $Sousuke
 “Hm?”
-I met Qwon’s gaze. Her eyes stared back at me like glass beads.
+My eyes met Qwon’s. Her eyes stared back at me like glass beads.
 $Qwon
-“...The future isn't necessarily predetermined.”
+“...The future isn't necessarily something that has been predetermined.”
 $Sousuke
 “...What are you talking about?”
 $Qwon
-“Laplace’s Demon has been disproven by quantum mechanics in recent years, after all.”
+“Because in recent years, Laplace’s Demon has been disproven by quantum mechanics.”
 $Sousuke
-“Oh... that.”
-She was bringing up something from a while ago.
+“Ah... that whole thing.”
+She’d brought up something from quite a while back.
 $Qwon
-“—Though the future may still be unchangeable.”
+“—Even so, the future might still be unchangeable.”
 Qwon looked into my eyes meaningfully.
-I felt as if—as if she could see right through me.
+I felt as though—she could see through everything.
 $Sousuke
 “...I see. Take care.”
-It was all I could manage to squeeze out.
+I managed to squeeze out at least that much.
 $Qwon
 “Let’s meet here again.”
 Qwon left the shop.
 $Sousuke
-“Mikanagi—Qwon, huh.”
-Quite a name. She must be from a good family after all. But what really concerned me—
+“Mikanagi... Qwon, huh.”
+Quite the grand name. She really must be from a good family. But what bothered me more was—
 $Sousuke
-“...I don't understand her at all...”
-It was those eyes, the ones that made it impossible to tell what she was thinking.
+“...I don't understand it at all...”
+Was it those eyes, that didn't reveal a single thing she was thinking?

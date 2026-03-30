@@ -1,593 +1,593 @@
 --------------------
 0743
 ********************
-Past noon, the sun was at its peak, beating down with a relentless, scorching intensity.
-I was lying in the corner of the room, tucked away in the shadows to escape the direct glare.
+It was past noon, that time of day when the sun beats down from directly overhead.
+Avoiding the direct sunlight, I lay in the corner of the room where the shadows pooled.
 $Qwon
-“Sousuke—you’re in my way.”
-Qwon, who had been engrossed in her book, gave my body a sharp poke with her foot.
+“Sousuke—you are in my way.”
+Qwon, who had been reading a book, prodded my body with her foot.
 $Sousuke
-“Give me a break. It’s too damn hot to move.”
+“It can't be helped, it’s hot as hell.”
 $Qwon
-“Pressing up against me only makes it hotter—ah, I see how it is.”
-Coming to her own conclusion, Qwon set her book aside and leaned her body against mine.
+“Being pressed together makes it even hotter—ah, so that is how it is.”
+Coming to her own conclusion, Qwon set her book aside and snuggled her body against mine.
 $Qwon
-“—So, you’re simply craving another person’s warmth.”
+“—You are seeking the warmth of another person.”
 $Sousuke
-“Like hell I am!”
-I practically bolted upright, putting some distance between myself and Qwon.
+“As if that’s the reason!”
+I reflexively sprang up, putting distance between myself and Qwon.
 $Qwon
-“...Retreating like that is a little hurtful.”
-Qwon muttered the words in a tone that suggested she wasn’t hurt in the slightest.
+“...That way of fleeing is a little hurtful.”
+Qwon muttered in a tone that didn't sound particularly hurt at all.
 $Qwon
 “By the way—Sousuke.”
 $Sousuke
-“...Yeah?”
-As I sat by the window, keeping my distance, Qwon pointed toward the floor and spoke.
+“...Hm?”
+As I backed away toward the window, Qwon pointed at the floor and opened her mouth.
 $Qwon
-“It seems someone has arrived.”
+“It seems someone has come.”
 $Sousuke
 “...Who is it?”
 $Qwon
-“There’s no way for me to know.”
-Footsteps were coming up the stairs.
-It sounded like more than one person—
+“There is no way for me to know.”
+Someone was coming up the stairs.
+It sounded like multiple footsteps, but—
 $Sousuke
 “—Who’s there?”
-I threw the question toward the person who seemed to have stopped just outside the sliding door.
+I called out a challenge to the person who seemed to have stopped on the other side of the sliding door.
 $Yuzuha
-“...Onii-chan, it’s me.”
+“...Big brother, it’s me.”
 $Sousuke
 “Yuzuha?”
-The door slid open, and Yuzuha stepped into the room.
+Opening the door, Yuzuha stepped into the room.
 $Sousuke
 “Are you alone?”
-Based on the footsteps, there should have been one—maybe even two more people.
+Judging by the footsteps, there should have been one more—or maybe two.
 $Yuzuha
-“Ah... well, you see... umm...”
-Seeing Yuzuha’s agitation, I had a pretty good idea of who had come along.
+“Ah... well, you see, um...”
+From Yuzuha’s agitation, I could more or less guess who had come.
 $Sousuke
-“Stop lurking in the shadows and come out. Or better yet, just turn around and go home.”
-In truth, I wanted them to leave, but he wasn’t the type to go just because I told him to.
+“Stop sneaking around and come out. Or just go the hell home right now.”
+In truth, I wanted them to leave, but he wasn't the type to go just because he was told to.
 $Takuma
-“—I’m not exactly hiding.”
-Sure enough—Takuma stepped out from behind the door.
+“—I’m not hiding.”
+Sure enough—Takuma emerged from behind the door.
 $Sousuke
-“Hah—only showing your face when you’re called out? That’s hiding in my book.”
+“Ha—only coming out after you’re called is the same as hiding.”
 $Takuma
-“Shut the hell up.”
+“Shut up.”
 $Yuzuha
-“Stop it, both of you... Why can’t you just get along?”
-Yuzuha tried to step between us to play peacemaker, but neither Takuma nor I were interested in listening.
+“Stop it, both of you... why can't you get along?”
+Yuzuha stepped between Takuma and me, trying to mediate, but neither of us would engage.
 $Yuzuha
-“Hey... Onii-chan...”
+“Hey... Big brother...”
 Stay silent
 Tell him to leave
-I stayed silent, doing nothing but glaring intensely at Takuma.
+I remained tight-lipped, simply glaring at Takuma.
 $Takuma
-“Hah... How pathetic.”
-Takuma was the first to avert his gaze.
+“Hmph... how pathetic.”
+It was Takuma who looked away first.
 $Takuma
-“I didn’t have any business with a guy like you to begin with. Yuzuha asked me to come, but I couldn’t care less what happens to you.”
+“I didn't have any business with the likes of you anyway. Yuzuha asked me, but I couldn't care less what happens to you.”
 $Takuma
 “You should be grateful I’m not arresting you.”
 $Yuzuha
-“...Please, just stop it...”
-Yuzuha clung to me, her voice trembling with the threat of tears.
+“...Please stop it...”
+Clinging to my side, Yuzuha murmured with a sob.
 $Takuma
 “...I’m leaving.”
 $Sousuke
-“...Yeah, you do that.”
-I had no reason to stop him. In fact, I wanted him out as fast as possible.
+“...Yeah, fine.”
+I had no reason to stop him. In fact, I wanted him out of here as fast as possible.
 Yuzuha gripped my shirt tightly.
 $Sousuke
 “—You go home too, Yuzuha.”
 $Yuzuha
 “Eh—?”
-Yuzuha looked up, her eyes swollen from crying.
+Yuzuha looked up, her face swollen from crying.
 $Sousuke
 “There’s no point in you staying here.”
 $Yuzuha
-“...I guess you’re right.”
-Yuzuha let go of me.
+“...I guess not.”
+Yuzuha moved away from me.
 $Yuzuha
-“Well then... bye, Onii-chan.”
-With a dejected expression, Yuzuha walked out of the room.
+“See you... Big brother.”
+With a gloomy expression, Yuzuha left the room.
 $Takuma
-“Hah... I’m disappointed in you.”
-Takuma followed after her, leaving those parting words behind.
+“Hmph... I’m disappointed in you.”
+Takuma followed, leaving behind a parting shot as he went.
 $Qwon
-“It seems you’ve been found disappointing.”
+“It seems you have disappointed him.”
 $Sousuke
 “Hah...”
-I didn’t know what they wanted to talk about, but I didn’t even want to see that guy's face.
+I didn't know what they had to talk about, but I didn't even want to see his face.
 $Sousuke
-“Hmph... How pointless.”
-In my current situation, I had absolutely no desire to stick my nose into someone else's love life.
-Even if—it concerned my own sister.
+“Psh... how pointless.”
+In my current situation, I wasn't in the mood to stick my nose into someone else's romance.
+Even if it was—about my sister.
 $Sousuke
 “...Get out, and don't ever come back.”
-I spat the words out while glaring at Takuma.
+I spat the words out while still glaring at Takuma.
 $Yuzuha
-“Onii-chan!?”
+“Big brother!?”
 Yuzuha cried out.
 $Sousuke
 “Yuzuha, you go home too.”
 $Takuma
 “—Hey.”
 $Sousuke
-“Huh—?”
+“Wh—”
 The moment I looked up, a heavy impact slammed into my cheek.
 $Sousuke
 “Guh—!?”
-I couldn’t help but tumble onto the floor.
+I sprawled onto the floor, unable to withstand the blow.
 $Yuzuha
 “Hishiya-san!?”
 Yuzuha screamed.
 $Takuma
-“...I didn’t want to come here either, you know.”
-Takuma spat the words at me, still standing in the posture of the punch he’d just thrown.
+“...It’s not like I wanted to come here either.”
+Takuma spat the words out, still in his punching stance.
 $Sousuke
-“Then... don’t come.”
+“Then... don't come.”
 I glared up at Takuma.
 $Takuma
-“This isn’t for your sake... It’s for Yuzuha’s.”
+“It wasn't for your sake... it was for Yuzuha.”
 $Sousuke
 “Hah—”
-I stood up, clutching my cheek. The metallic taste of blood spread through my mouth.
+I stood up, holding my cheek. The taste of blood spread through my mouth.
 $Yuzuha
-“Stop it, please...”
-—Damn it.
+“Please stop it...”
+—Dammit.
 I placed a hand on the shoulder of Yuzuha, who was clinging to Takuma.
 $Sousuke
 “Yuzuha—get back.”
 $Yuzuha
 “Ah...”
-Yuzuha stumbled back a few steps.
+Yuzuha faltered back a few steps.
 $Sousuke
 “...Who the hell do you think you are—take this!!”
 $Takuma
-“Gugh—!?”
-My front kick slammed into his stomach, sending Takuma crashing into the wall behind him. The building shook, and dust rained down from the ceiling.
+“Guh—!?”
+Taking my front kick directly to his gut, Takuma slammed into the wall behind him. The building shook, and dust drifted down from the ceiling.
 $Takuma
-“...Fine then. Let’s take this outside.”
-Takuma loosened the knot of his tie and beckoned me with his hand.
+“...Fine then, let’s take this outside.”
+Takuma beckoned me while loosening his tie.
 I followed Takuma out.
-Yuzuha and Qwon followed close behind.
-Yuzuha didn’t say a word, but she kept a tight grip on the hem of my shirt.
-She probably knew that saying anything would be useless.
-Takuma came to a stop in a side alley, away from the main street.
+Yuzuha and Qwon followed after us.
+Yuzuha said nothing, but she kept a tight grip on the hem of my clothes.
+She likely knew that saying anything would be useless.
+Takuma stopped in a side street off the main road.
 $Takuma
-“—This spot should do.”
+“—This should be far enough.”
 $Sousuke
-“Yeah... it’s perfect.”
-We faced each other with some distance between us.
-It had been a long time since I felt this sensation; my heart began to race with excitement.
+“Yeah... plenty.”
+We faced each other with distance between us.
+My heart raced at this long-forgotten sensation.
 $Sousuke
 “...Let’s settle this, Takuma.”
 $Takuma
 “Kudou—here I come!”
-With a shout, Takuma lunged toward me.
+With a shout, Takuma lunged at me.
 $Takuma
-“Oraaa!!”
+“Take this!!”
 $Sousuke
-“Hmph!!”
+“Hah!!”
 $Sousuke
 “Hah—”
 $Takuma
-“—...gh...”
-I aimed a kick at the side of his head, but Takuma blocked it with his arm.
+“—Tch, guh...”
+I intended to kick the side of his head, but Takuma blocked it with his arm.
 $Takuma
-“What happened? Where’s that old sharp edge of yours gone!?”
+“What’s wrong? Where’d your old edge disappear to!?”
 $Sousuke
 “Shut your mouth!!”
-I closed the distance, unleashing a flurry of kicks.
+I closed the distance, unleashing a series of kicks.
 $Sousuke
-“Hah! Seiya!!”
+“Fuh! Hah!!”
 $Takuma
 “Tch—!!”
-Clicking his tongue, Takuma used his arm to knock my kicking leg upward.
+Clicking his tongue, Takuma knocked my kicking leg away with his arm.
 $Takuma
-“Take this—!!”
+“Eat this—!!”
 $Sousuke
-“Gugh...!!”
-His fist sank deep into my stomach, knocking the wind out of me for a moment.
+“Guh...!!”
+Taking a fist squarely in the stomach, my breath hitched for a second.
 $Takuma
-“...Your attacks are all over the place, honestly...”
-Takuma shrugged his shoulders with an exaggerated sigh.
-Shit—it pissed me off.
-We used to be equals—or rather, I used to be stronger—which only made this more infuriating.
+“...Your attacks are all over the place, for god's sake...”
+Takuma shrugged his shoulders in exasperation.
+Dammit—this pisses me off.
+We used to be equals—or rather, I was stronger, so this irritates me even more.
 $Sousuke
 “You bastard—!”
 $Takuma
-“Uoh!?”
-Maybe he’d let his guard down; Takuma went down onto his backside surprisingly easily.
+“Whoa!?”
+Perhaps he was caught off guard; Takuma easily fell onto his backside.
 $Sousuke
-“Hah—not so tough now, are you?”
-Though I was stumbling, I stood up immediately and rained down more kicks.
+“Hah—serves you right.”
+I stood up immediately despite my staggering and showered him with kicks.
 $Sousuke
 “Take that!!”
 $Takuma
-“Gugh... Don’t get—too cocky!!”
+“Guh... don't get too ahead of—yourself!!”
 $Sousuke
-“Gwah...!”
-My face hit the dirt, sand filling my mouth with a bitter, gritty taste.
+“Guaa...!”
+I fell face-first onto the ground, sand entering my mouth and spreading a bitter taste.
 $Sousuke
 “Guh—”
-I couldn't let him lock my ankle. I kicked at Takuma with my free leg and broke away from his grip.
+He had me in an ankle lock; I couldn't take it. I kicked Takuma with my free leg, escaping his grasp.
 $Takuma
-“...Do you plan on crawling around there for the rest of your life?”
+“...Do you intend to crawl around there for the rest of your life?”
 $Sousuke
 “...Shut up.”
-I stood up and spat a mixture of sand and saliva onto the ground.
+I stood up and spat sandy saliva onto the ground.
 Pathetic—my body has gone soft.
 $Takuma
-“Do you really think you can handle this without using your fists?”
+“Did you think you could manage without using your fists?”
 $Sousuke
-“Against a guy like you... kicks are more than enough.”
-My spirit hadn't broken yet.
+“Against the likes of you... kicks are more than enough.”
+My spirit hasn't faded yet.
 $Takuma
-“Wait until you’ve shown me you actually have a backbone before you start talking like that.”
+“Save that kind of talk until after you show me you’ve actually got some spine.”
 $Sousuke
 “Hah—”
-I laughed him off with a snort.
-Seriously—how pathetic.
+I scoffed through my nose.
+Honestly—it’s pathetic.
 $Takuma
 “—Here I come.”
-Takuma closed the distance again.
+Takuma closed the gap.
 $Takuma
 “Take this!”
 $Sousuke
 “Guh—”
-I blocked Takuma’s thrust with my arm. The impact vibrated all the way to the bone, making my hand go numb.
+I took Takuma’s thrust with my arm. My hand went numb from the impact that vibrated through to the bone.
 I grabbed his arm.
-If I could just lock the joint like this—
+If I can lock his joint like this—
 $Takuma
 “It’s useless!”
 $Sousuke
-“Gugh—!!”
-A knee strike drove straight into my solar plexus.
-My breath hitched.
+“Guh—!!”
+A knee strike landed squarely in my solar plexus.
+My breath caught.
 $Takuma
 “Hah—you’re wide open.”
 $Sousuke
-“Gugh... ugh...”
-Sour stomach acid welled up into the back of my throat.
+“Guh... ugh...”
+Sour stomach acid welled up into my throat.
 $Takuma
 “—Do you really think you can protect Yuzuha like that?”
 $Sousuke
 “Shut up—!!”
-I threw out another kick. Whether it connected or not didn't matter anymore.
-I had to struggle, I had to fight, I had to show him my stubborn pride.
+I threw out a kick. Whether it hit or not wasn't the issue.
+I had to struggle and struggle, somehow showing my stubborn pride.
 $Takuma
 “Tch—”
-Takuma stumbled slightly. I didn’t miss the opening and lunged at him all at once.
+Takuma faltered slightly. Without missing the chance, I rushed him all at once.
 $Sousuke
-“Oraaaa!!”
+“Oraaa!!”
 $Takuma
 “Is that all you’ve got!?”
 $Takuma
-“You’re pathetic!!”
+“You’re unreliable as hell!!”
 $Sousuke
-“SHUT UP!!”
+“Shut the hell up!!”
 $Sousuke
-“I can’t afford to lose to you...!!”
+“I can't afford to lose to you...!!”
 $Takuma
-“—Then take this!!”
-Takuma’s fist connected squarely with my cheek.
+“—Then die!!”
+Takuma’s fist caught me on the cheek.
 My brain rattled—
-My knees hit the ground before I could stop them.
+I dropped to my knees, unable to hold on.
 $Takuma
-“This is—the end!!”
+“This—is the end!!”
 $Yuzuha
 “Stop it already!!”
-Yuzuha leaped toward me, crying out in desperation.
+Yuzuha jumped onto me, screaming and crying.
 $Sousuke
 “Yuzuha...?”
 $Yuzuha
-“Why... why are you doing this...?”
-Sobbing, Yuzuha clung to my arm.
+“Why... why are you doing this...”
+Yuzuha clung to my arm while sobbing.
 $Sousuke
 “...Get back.”
-I tried to shake my arm to get her away, but Yuzuha held on tight and wouldn’t let go.
+I tried to shake my arm to make her let go, but Yuzuha held on tight and wouldn't move.
 $Yuzuha
-“No... I won't...”
-She shook her head while weeping.
+“No... no...”
+She shook her head while crying.
 $Takuma
-“—How miserable, Kudou.”
+“—You’re pathetic, Kudou.”
 $Sousuke
 “...Hah.”
-I’d known that for a long time now.
-Takuma turned his back on me.
+I’ve known that for a long time now.
+Takuma turned his back.
 $Takuma
 “...I’m disappointed in you.”
-I had no words to argue back.
+I couldn't even offer a rebuttal.
 $Yuzuha
-“Onii-chan...”
-Yuzuha reached out with a handkerchief in her hand.
-I blocked her hand with mine.
+“Big brother...”
+Yuzuha reached out with a handkerchief.
+I stopped her with my hand.
 $Yuzuha
 “Ah...”
 $Sousuke
 “...You go home too.”
 $Yuzuha
-“But... Onii-chan, you’re covered in wounds...”
+“But... Big brother, you’re covered in wounds...”
 $Sousuke
-“Wounds like this... are fine.”
-If anything, the mental pain of being beaten so pathetically hurt far more.
-I’d completely forgotten that he was a literal police officer. Even if I used to be a decent fighter, a mere piano player was no match for him now.
+“Wounds like these... are fine.”
+If anything, the mental pain of being beaten so miserably was winning out.
+I had completely forgotten that he was an active police officer. Even though he used to be known for his fighting, a mere piano player is no match for him.
 $Sousuke
-“Just go—go home.”
-I reached out and wiped the tears from Yuzuha’s cheeks.
+“It’s fine—just go home.”
+I reached out and wiped the tears wetting Yuzuha’s cheeks.
 $Yuzuha
-“*Sniff*... Okay...”
+“*Sniff*... okay...”
 Yuzuha nodded while sniffling.
 $Yuzuha
-“Well then... I’m going home now...”
-Yuzuha pressed the handkerchief into my hand and stepped away.
+“Well then... I’m going home...”
+Pressing the handkerchief into my hand, Yuzuha moved away.
 $Yuzuha
-“...Onii-chan.”
+“...Big brother.”
 $Sousuke
-“...Yeah?”
+“...Hm?”
 $Yuzuha
-“...Please, don’t do this ever again...”
-I couldn’t bring myself to nod at Yuzuha’s final request as she left.
-Yuzuha looked back several times as she walked toward Takuma, who was waiting further down the road.
+“...Don't do this anymore, okay...?”
+I couldn't nod to Yuzuha’s request as she left.
+Yuzuha walked toward Takuma, who was waiting down the road, looking back many times as she went.
 $Sousuke
 “—Tch.”
-Qwon slowly approached me.
+Qwon slowly approached.
 $Qwon
 “—Stand up.”
-Without a single word of comfort, Qwon flatly urged me to get up.
+Without a single word of comfort, Qwon urged me forward matter-of-factly.
 $Qwon
-“I cannot bear to let the public see such a hideous face.”
+“I cannot bear to expose that hideous face to the public eye.”
 $Sousuke
 “Heh—”
-I couldn't help but let out a short laugh at her bluntness as I stood up.
+I scoffed through my nose at her blunt way of speaking and stood up.
 $Qwon
 “—You are a fool.”
 $Sousuke
 “I know.”
-I had done something incredibly stupid.
-Brawling with that guy wasn't going to solve anything.
-All I got out of it was a body full of pain and a fresh realization of my own idiocy.
+I had been doing something incredibly stupid.
+Exchanging blows with him solved nothing.
+All I gained was pain throughout my body and a realization of my own idiocity.
 $Sousuke
-“...Should we head back?”
+“...Let’s head back.”
 $Qwon
 “Indeed.”
-Qwon stood on her tiptoes and touched my cheek. A dull ache throbbed through me.
+Qwon stood on her tiptoes and touched my cheek. A dull pain.
 $Qwon
-“—However, that sort of foolishness... I don't exactly dislike it.”
+“—But, I do not dislike that kind of stupidity.”
 $Sousuke
-“...Quiet, you.”
-I placed a hand on Qwon’s head, and together, we headed back inside the old bookstore.
+“...Shut up.”
+I placed a hand on Qwon’s head, and we returned inside the old bookstore.
 --------------------
 0761
 ********************
 $Sousuke
-“Hmm...?”
-As I was dozing in the room, I heard a knock at the door.
+“Hm...?”
+As I dozed in the room, I heard the sound of someone knocking on the door.
 $Sousuke
 “Who is it...?”
-Feeling suspicious, I made my way toward the entrance.
+Full of suspicion, I headed toward the entrance.
 $Ayane
 “Sousuke!”
 I heard Ayane’s voice from the other side of the door.
 $Sousuke
-“—Oh, it’s just you, Ayane.”
+“—Oh, it’s just Ayane.”
 When I opened the door, Ayane was standing there clutching a paper bag.
 $Sousuke
 “What’s up?”
 $Ayane
-“I thought I’d cook something for you. I ended up buying a bunch of stuff... Here, hold this.”
-I was handed a bag with green onions poking out of the top.
+“I thought I’d cook something for you. I ended up buying all sorts of things. ...Here, hold this.”
+I was handed a bag with green onions sticking out.
 $Ayane
-“I have to do something like this for you every once in a while!”
+“I have to do things like this for you once in a while!”
 $Sousuke
-“You... can you even cook?”
+“You... can you cook?”
 $Ayane
-“I’ll have you know I can!”
-With her cheeks puffed out, Ayane stepped further into the room.
+“I sure can.”
+Puffing out her cheeks, Ayane walked into the back of the room.
 $Sousuke
 “...What do you plan on making?”
 $Ayane
 “It’s a secret!”
 $Sousuke
-“...Don’t tell me you don’t even know what you’re making until it’s finished.”
-—Ayane froze in her tracks.
+“...I hope it’s not a case of not knowing what it is until it’s finished.”
+—Ayane stopped in her tracks.
 $Ayane
-“N-no way! As if that would ever happen... right?”
+“N-No way, that couldn't possibly be it... right?”
 $Sousuke
-“...At least make something edible, please...”
+“...At least make something edible...”
 $Ayane
-“I know, I know!”
-Ayane headed into the kitchen.
-I didn't follow her, deciding instead to sit in a chair and wait leisurely.
+“I know!”
+Ayane entered the kitchen.
+I didn't follow her, choosing instead to sit in a chair and wait leisurely.
 $Ayane
-“Hmm, maybe I should start with the rice...”
-I could hear Ayane’s voice coming from the kitchen.
-...Well, she should be fine if I just leave her to it.
-There isn’t anything I can help with, anyway.
+“Hmm, first the rice, I guess...”
+I heard Ayane’s voice from the kitchen.
+...Well, there shouldn't be any problem leaving her to it.
+There’s nothing I can help with anyway.
 $Ayane
-“Uwah... I-it’ll be fine... If it’s Sousuke, he’ll eat it for sure, yeah.”
-...I’m incredibly uneasy.
-As I sat there with a slight pang of anxiety in my stomach...
+“Whoa... i-it’ll be fine... Sousuke will eat it, yeah.”
+...I’m intensely uneasy.
+While I was harboring a slight pain in my stomach from the thought.
 $Sousuke
-“Hmm...?”
-There was another knock at the door.
-Who is it now...?
+“Hm...?”
+The sound of knocking came from the door again.
+Who is it...?
 $Sousuke
 “Hey... Ayane.”
 $Ayane
 “What is it?”
-Her voice echoed from the kitchen.
+Only her voice carried from the kitchen.
 $Sousuke
-“Did you invite Mikage too?”
+“Did you call Mikage too?”
 $Ayane
-“I didn’t, though?”
+“I didn't call her?”
 $Sousuke
 “Then... who is it?”
-—I have a bad feeling about this.
-Other than Mikage, the only people who know about this room are—
+—I have a bad feeling.
+Other than Mikage, the only one who knows about this room is—
 $Sousuke
 “—Ayane, hide in there.”
 $Ayane
 “Eh... what do you mean?”
-Ayane poked her head out from the kitchen.
+Ayane emerged from the kitchen.
 $Sousuke
-“It might be some dangerous people.”
+“It might be dangerous people.”
 $Ayane
 “...Okay, I understand.”
-Ayane nodded obediently and retreated back into the kitchen.
+Ayane nodded obediently and returned to the kitchen.
 $Sousuke
-“—Right then.”
-I calmed my nerves, made sure none of Ayane’s belongings were visible in the room, and opened the front door.
+“—Now then.”
+Calming my nerves and ensuring none of Ayane’s things were left in the room, I opened the front door.
 $Aoi
 “—You’re late.”
 —Tch.
-My worst fears were confirmed.
+It was just as I had feared.
 $Sousuke
 “...What do you want?”
-I stood my ground, blocking Aoi’s path into the room.
+I stood before her, blocking Aoi’s path.
 $Aoi
-“We need to talk about work.”
-Aoi shoved my shoulder aside and forced her way into the room.
-The scent of her perfume, something like roses, stung my nostrils.
+“Business.”
+Shoving my shoulder aside, Aoi forced her way into the room.
+A scent like roses—perfume, likely—pricked my nose.
 $Sousuke
 “Are you going to make me do something again?”
-I followed Aoi to the center of the room, trying to make sure she didn't notice Ayane.
+So she wouldn't notice Ayane, I followed Aoi back to the center of the room.
 $Aoi
-“—I won’t be asking you for any work for a while.”
-Aoi informed me while scanning the interior of the room.
+“—I won't be asking you to work for a while.”
+Aoi announced this while looking around the room.
 $Sousuke
 “Then why did you come here?”
-I asked in a stiff voice.
+I asked in a hard voice.
 $Aoi
-“Isn’t it obvious? I’m also keeping an eye on you. —To make sure no pesky insects try to cling to you.”
-Aoi’s gaze turned sharp and cold.
+“Isn't it obvious? I’m also keeping an eye on you. —To make sure no strange pests crawl all over you.”
+Aoi’s gaze sharpened.
 $Sousuke
 “—Hah.”
 —She’s suspicious.
 $Aoi
-“...You shouldn’t worry even if there’s no work. —Because I’ll take care of you myself.”
-Aoi’s hand reached out toward my crotch.
-—Damn it.
-Even though Ayane is right there in the kitchen.
-That said, if I reject her poorly here, there will be hell to pay later.
-Now then—what should I do?
+“...Even if there’s no work, you don't need to worry. —I’ll keep you as my pet.”
+Aoi’s hand reached toward my crotch.
+—Dammit.
+And Ayane is right there in the kitchen.
+That said, it would be terrifying if I refused her poorly here.
+Now then—what to do.
 Embrace her
-Reject her
+Refuse
 $Sousuke
 “—Tch.”
-I don't have much of a choice here.
+I have no choice but to endure it.
 $Sousuke
 “...Fine.”
 $Aoi
-“Ufufu... I like boys who know how to listen.”
-Aoi led me toward the bed, stroking my cock through my pants.
+“Hehe... I like boys who listen.”
+Stroking my penis through my trousers, Aoi led me toward the bed.
 Ayane... I’m sorry.
 $Sousuke
 “—I refuse. I’m not in the mood.”
-There’s no way I could do something like that with Ayane right there.
+There was no way I could do such a thing with Ayane there.
 $Aoi
 “Hah—”
 $Aoi
-“You’ve got some nerve, talking back to me...”
-Aoi slapped my cheek, then grabbed me by the collar.
+“Look who’s talking tough...”
+Aoi grabbed me by the collar with the hand she’d used to slap my cheek.
 $Aoi
 “Do you really think you have the right to refuse me?”
 $Sousuke
-“—I’m not just some puppet. I have things I want to say, too.”
+“—I’m not just some puppet. I have things I want to say too.”
 $Aoi
-“...Listen to you, getting all high and mighty.”
+“...Look at you, finding your voice.”
 $Sousuke
-"—!?"
-She squeezed my groin with all her might, making me let out a wordless groan.
+“—!?”
+She gripped my crotch with all her might, making me let out a wordless groan.
 $Aoi
-“—You’re far too cheeky.”
-Aoi looked down at me as I crouched in pain, her voice cold.
+“—You’re getting arrogant, you know.”
+Aoi stood over me as I crouched in pain.
 $Aoi
-“I hate it most when someone steals what belongs to me. ...Remember that.”
-Leaving those parting words behind, the sound of Aoi’s heels clicked sharply as she walked out of the room.
+“I’m the one who hates having my things stolen most of all. ...Remember that.”
+Leaving behind those parting words, Aoi left the room, her heels clicking loudly.
 $Sousuke
 “Gugh...”
-A cold sweat broke out across my forehead.
-That woman—she didn’t hesitate for a second to try and crush me...
+A cold sweat broke out.
+That woman—she really tried to crush them without hesitation...
 $Ayane
 “—Sousuke?”
-Ayane poked her head out from the kitchen.
+Ayane peeked her face out from the kitchen.
 $Ayane
 “Are you okay...?”
-After confirming that Aoi was gone, Ayane came over to my side.
+Having confirmed that Aoi was gone, Ayane came to my side.
 $Ayane
-“It didn't look like she hit you, but...”
+“It didn't look like you were hit, but...”
 —I see.
-From where Ayane was, she couldn't see that she’d grabbed my manhood.
+From where Ayane was, she couldn't see that she was grabbing mine.
 $Ayane
 “Your stomach?”
-—As she looked at my hand, which was still clutching my crotch as I crouched, Ayane’s expression froze.
+—Then, seeing my hand clutching my crotch as I crouched, Ayane’s expression froze.
 $Ayane
 “—Sousuke.”
-Her voice was icy.
+Her voice was cold.
 $Ayane
-“Why are you holding yourself there... who was that woman?”
+“Holding a place like that... who was that woman?”
 $Sousuke
 “...Wait.”
-It definitely wasn't that kind of atmosphere.
+The atmosphere definitely wasn't right for this.
 $Ayane
-“She just barges into your room and tries to seduce you...”
+“She just barges into the room, and she was seducing you.”
 $Sousuke
 “It’s not like that.”
 $Ayane
-“I don’t care!”
-Ayane pouted and turned her face away.
+“I don't care!”
+Ayane pouted and turned away.
 $Sousuke
-“She’s part of the organization that’s sheltering me. If I go against her, they might kill me.”
+“She’s part of the organization that’s sheltering me; if I go against her, she might kill me.”
 $Ayane
-“Is that so? You looked like you were enjoying it just now. You were happy about it, weren't you?”
+“I wonder. You were looking pretty pleased just now, Sousuke. You liked it, didn't you?”
 $Sousuke
-“There’s no way in hell!?”
+“As if that’s true!?”
 $Ayane
-“I don’t believe you!”
+“I don't believe you at all.”
 $Sousuke
 “Give me a break...”
-I began to offer all sorts of excuses to try and soothe Ayane, who had become completely cross.
+In an attempt to soothe the sulking Ayane, I began making excuses using every trick in the book.
 $Sousuke
-“There’s no way I could do anything knowing you were right there.”
+“There’s no way I could do anything knowing you’re right here.”
 $Ayane
-“I don't know about that. You're such a pervert, Sousuke. If someone pushed you, it seems like you wouldn't be able to say no.”
+“I don't know about that, you’re such a lech, Sousuke. It feels like you wouldn't be able to say no if someone pushed you.”
 $Sousuke
-“That's not true.”
+“That’s not true.”
 $Ayane
-“Ehh...”
-Ayane turned to face me.
+“Hmph...”
+Ayane turned toward me.
 $Ayane
-“Then... if I said 'do it' to you right now... could you refuse me?”
-With her cheeks flushed red, Ayane asked the question.
+“Then... if I said 'do it' right here, right now... could you say no?”
+Ayane asked with her cheeks flushed.
 Refuse
 Don't refuse
 $Sousuke
-“Well... I can at least refuse that much.”
+“Well... I could refuse that much.”
 $Ayane
-“Eeeehh!? Does that mean you don't love me...?”
+“Whaaaat!? Do you not love me...?”
 $Sousuke
-“You, honestly...”
+“Hey now...”
 $Ayane
-“I knew it, I’m just not attractive... My breasts are small, and...”
-With her brows furrowed, Ayane began to mutter to herself.
+“I knew I wasn't attractive... even my boobs are small...”
+Ayane muttered to herself, her eyebrows drooping.
 $Sousuke
-“—You’re number one to me.”
-I softly embraced Ayane from behind as she turned away once more.
+“—You’re the best for me.”
+I gently hugged Ayane from behind as she turned away once more.
 $Sousuke
-“...I can’t refuse, obviously.”
-It’s only natural for a man. Or rather, there’s no way I could say no when Ayane is asking me so bashfully.
+“...I can't refuse.”
+It’s only natural for a man. Or rather, there’s no way I could refuse when Ayane is asking so bashfully.
 $Ayane
-“I knew it! If someone approaches you like this, you just fall for it immediately, don't you!?”
+“I knew it! You just fall right over when someone approaches you like this, don't you!?”
 $Sousuke
-“You, really...”
+“Hey now...”
 $Ayane
-“It doesn't matter who it is for Sousuke... It doesn't have to be me...”
-With her brows furrowed, Ayane began to mutter to herself.
+“It doesn't matter who it is for you, Sousuke... it doesn't have to be me...”
+Ayane muttered to herself, her eyebrows drooping.
 $Sousuke
-“—You’re number one to me.”
-I softly embraced Ayane from behind as she turned away once more.
+“—You’re the best for me.”
+I gently hugged Ayane from behind as she turned away once more.

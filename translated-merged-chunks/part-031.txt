@@ -1,7 +1,7 @@
 --------------------
 0821
 ********************
-I was lying down on the futon spread by the window, drifting in and out of sleep, when Qwon called out to me.
+As I lay dozing on the futon spread by the window, Qwon called out to me.
 $Qwon
 “—Sousuke.”
 $Sousuke
@@ -10,672 +10,672 @@ $Qwon
 “If you are idle, please hold me.”
 $Sousuke
 “...Don't be ridiculous.”
-How could I do something like that in the middle of the day with the sun shining like this?
+As if I could do such a thing in the middle of the day with the sun shining like this.
 $Qwon
 “—Did you not love me so intensely before?”
 $Sousuke
 “...Are you an idiot?”
-I turned my back to her, ignoring Qwon as she drew closer, clearly intending to sleep beside me.
+Ignoring Qwon as she approached to lie beside me, I turned my back to her.
 $Qwon
-“—You are a cold person, aren't you?”
-Qwon murmured, sounding just a little bit hurt.
+“—How cold you are.”
+Qwon murmured, sounding just a little hurt.
 $Sousuke
-“Nn... is someone here?”
-I heard a noise from downstairs.
+“Hm... did someone come?”
+I heard a noise from below.
 $Qwon
 “I wonder who it is.”
 Qwon sat up, moved to her usual spot by the wall, and picked up a book.
-Apparently, she had no intention of going to check.
+It seemed she had no intention of going to check.
 $Sousuke
-“—Who's there?”
-When the sound of footsteps coming up the stairs stopped, I called out through the sliding door.
+“—Who is it?”
+I called out through the sliding door at the point where the footsteps coming up the stairs stopped.
 $Takuma
-“—It's me, Kudou.”
+“—It’s me, Kudou.”
 $Sousuke
-“...What the hell are you doing here?”
-The moment I recognized Takuma’s voice, my own tone turned cold.
+“...What the hell did you come here for?”
+The moment I realized it was Takuma's voice, I shot back with a hardened tone.
 $Takuma
-“...I wouldn't be here if I didn't have business.”
+“...As if I'd come here without a reason.”
 Takuma opened the door and entered the room.
 $Sousuke
 “...Are you alone?”
 $Takuma
 “Of course I am.”
-He was wearing his suit—was he in the middle of work?
+Since he was in a suit, was he in the middle of work?
 $Takuma
-“Nirasaki-jou's body was recovered from the Kanda River. It seems she threw herself from the bridge—there was an eyewitness.”
+“The body of the Nirasaki girl was pulled from the Kanda River. It seems she threw herself from the bridge—there was a witness.”
 $Sousuke
 “...I see.”
-—So, in the end, she couldn't be saved.
+—So, in the end, she didn't make it.
 $Takuma
-“When she fell, she apparently struck her head against the stone embankment of the riverbank. A large amount of blood was left behind. The cause of death wasn't drowning—it seems it was almost instantaneous.”
+“It seems she hit her head against the stone embankment during the fall. A massive amount of blood was left behind. The cause of death wasn't drowning—it seems she died almost instantly.”
 $Sousuke
 “—Tch.”
 $Takuma
-“—Also, I've looked into Aoi Souma.”
+“—Also, I looked into Souma Aoi.”
 $Sousuke
-“Why would you—I see, you heard from Mikage.”
+“Why did you—I see, you heard it from Mikage.”
 I hadn't told Takuma about Aoi.
 $Takuma
-“...Because she asked me to. I can't move too openly, but I'll do what I can.”
+“...Because I was asked. I can't move too flashy, but if it's something I can do, I'll do it.”
 $Sousuke
-“...Doing me favors isn't going to get you anything.”
+“...Even if you try to make me owe you, I've got nothing to give.”
 $Takuma
-“Hah—I've already done you enough favors, haven't I?”
+“Heh—I've already made you owe me plenty, haven't I?”
 $Sousuke
-“I don't recall asking for any. Even if you ask for them back, it's not going to happen.”
+“I don't recall being sold any favors. Even if you tell me to pay you back, it's impossible.”
 $Takuma
 “Tch—”
 Takuma clicked his tongue loudly and leaned roughly against the wall.
 $Takuma
-“That woman, Aoi Souma—she's quite the piece of work. Just a quick look and I found five buildings in the city registered in her name.”
+“That woman, Souma Aoi—she's quite a handful. Just a quick check showed five buildings under her name in the city.”
 $Sousuke
 “Did you find out who she is?”
 $Takuma
-“Supposedly she’s a secretary for some company—but that's clearly just a front.”
+“She's supposedly a secretary for some company—but that's likely just a front.”
 $Sousuke
-“And what about the Seifuu-kai—?”
+“What about the Seifoukai—?”
 $Takuma
-“All I found was that they're a small-time bunch of thugs. Well, that's what they seem like on the surface.”
+“I only found out it's a gathering of petty thugs. Well, that's probably all they really are.”
 $Sousuke
 “No—that's not right.”
-I don't think a simple bunch of thugs could put up thirty thousand yen just to keep the authorities away from me.
+I don't believe a bunch of mere thugs could put up a massive sum like thirty thousand yen just to keep me out of the authorities' investigation.
 $Takuma
-“Well—if they have ties to the military, the information won't come out.”
+“Well—if they have ties to the military, information won't be coming out.”
 $Sousuke
 “...I suppose so.”
 $Takuma
-“There was nothing clear about Aoi Souma either. I just happened to find her name on some real estate registers.”
+“I couldn't get anything clear on Souma Aoi either. I just... found her name listed on some real estate registers.”
 $Sousuke
 “...How the hell did you find something like that?”
 $Takuma
-“Well... I stumbled across it while investigating something else.”
-Saying that, Takuma glanced at Qwon.
+“Well... I found it by chance while investigating another matter.”
+Saying so, Takuma glanced sideways at Qwon.
 $Qwon
 “—What is it?”
-Qwon responded immediately.
+Qwon reacted immediately and spoke back.
 $Takuma
-“...I also had the Ouzenji girl looked into.”
+“...I took the liberty of looking into Mikanagi-jou as well.”
 $Qwon
-“I do not mind. It was bound to be found out eventually.”
-Qwon gave a small nod.
+“I don't mind. It is something that will be known sooner or later.”
+Qwon nodded lightly.
 $Takuma
 “...I see. My apologies.”
 $Qwon
-“—It is the role of the police, so you have no reason to apologize to me.”
-Qwon spoke indifferently.
+“—Since that is the role of the police, there is no reason for you to apologize to me.”
+Qwon spun her words detachedly.
 $Takuma
-“Well then—. While I was looking into the Ouzenji girl, I grew curious about her family's house and checked into it—”
+“Then—. When I was looking into Mikanagi-jou, I happened to get curious about the house and checked it, but—”
 $Qwon
-“Both my parents died when I was abducted. My sister died a short while ago too, so there is no one left to manage that house.”
+“Since my parents died when I was abducted. My sister also died a short while ago, so there is no one left to manage that house.”
 $Takuma
-“That's how it should have been... but the name on the title changed recently. ...To Aoi Souma.”
+“That was the case, but... the name on the title changed a short while ago. ...To Souma Aoi.”
 $Sousuke
 “...So that's how it is.”
-To think Aoi was connected in a place like that.
+To think she was connected to Aoi in a place like that.
 $Takuma
-“While the Ouzenji girl was missing, the mansion was apparently left abandoned. I don't know the circumstances of how it ended up with Aoi Souma.”
+“It seems the mansion was left abandoned while Mikanagi-jou was missing. I don't know the circumstances of how it passed to Souma Aoi.”
 $Qwon
-“That is a failing of the police. Even if no one is living there, it should remain the property of the Mikanagi family until a death is confirmed.”
+“That is a failure on the part of the police. Even if it became a place with no residents, it should remain the property of the Mikanagi family until a death is confirmed.”
 $Takuma
-“...When you put it that way, I've got nothing to say for myself.”
+“...When you put it that way, I've got no defense.”
 $Qwon
-“—Well, I have already read through all the books in the library there, so the building itself is practically worthless.”
+“—Well, since I have already read through all the books that were there, the existence of the building itself is worth practically nothing.”
 $Sousuke
-“...Are you sure about that?”
+“...Are you fine with that?”
 $Qwon
-“Yes. It is far too large for me to return to now.”
-Whether she had no attachment to it or simply didn't think of it as hers anymore.
+“Yes. Even if I returned now, it is far too spacious for me.”
+Does she have no attachment, or does she simply not think of it as hers?
 $Qwon
-“—I do not think now is the time to be prying into my affairs, though.”
+“—Though I believe now is not the time to be prying into my affairs.”
 $Takuma
-“...Right. Also... the room where Ayane Shirakawa was murdered, that was also in Aoi Souma's name.”
+“...You're right. Also... the room where Shirakawa Ayane-jou was murdered, that was also under Souma Aoi's name.”
 $Sousuke
-“...I figured.”
+“...I thought so.”
 That wasn't surprising.
-But then, something unnatural stood out.
+But if that's the case, an unnatural point arises.
 $Sousuke
-“...Ayane’s body was found—so why was I the first one accused of the crime?”
+“...Ayane's body was discovered—so why was I the one immediately made the culprit?”
 $Takuma
-“Normally, the owner, Aoi Souma, would be the suspect—”
+“Normally, the owner of the house, Souma Aoi, would be suspected—”
 $Sousuke
-“She didn't become a suspect because of her ties to the Kenpeitai—the military... right?”
-If I thought of it that way, it made sense.
+“She didn't become a suspect solely because of her ties to the Gendarmerie—the military... I see.”
+If I think of it that way, it makes sense.
 $Takuma
-“That's—tough. A regular policeman can't compete with that...”
-Qwon, who had been watching our exchange, spoke up.
+“That's—tough. A mere police officer can't compete with that...”
+Qwon, who had been watching the exchange between me and Takuma, opened her mouth.
 $Qwon
-“Would it not be enough to extract a confession—decisive evidence?”
+“Decisive evidence—would it not be fine if you could draw out a confession?”
 $Takuma
 “A confession, huh... but for that—”
 $Sousuke
-“—We've gotta catch her.”
-I murmured, cracking my knuckles.
+“—We'll have to catch her.”
+I muttered, cracking my knuckles.
 $Takuma
 “Don't get ahead of yourself.”
 $Sousuke
 “...Shut up.”
 $Takuma
-“Hmph... first, let's check out the Mikanagi estate. According to the neighbors, people have been coming and going more often lately.”
-Takuma adjusted his collar.
+“Heh... first, shall we go investigate the Mikanagi mansion? According to the nearby residents, the number of people coming and going has increased lately.”
+Takuma straightened his collar.
 $Sousuke
 “—Are you going?”
 $Takuma
-“...I'm not taking you with me.”
+“...I'm not taking you along.”
 $Sousuke
-“Hah—go ahead. I'll just follow along on my own.”
+“Hah—go as you please. I'll just follow as I please.”
 $Takuma
-“—Fine then.”
-The corners of Takuma’s lips curled into a smirk.
+“—I guess it can't be helped.”
+Takuma let the corner of his lips curl into a smile.
 $Takuma
-“I'm leaving you behind if you get lost.”
+“Even if you get separated, I'm leaving you behind.”
 $Sousuke
-“...I'm not a kid.”
+“...I'm not a kid, you know.”
 $Takuma
-“Don't give me that from someone who acts like a kid all the time.”
+“Don't say that, you who's always acting like a kid.”
 $Sousuke
-“—Shut it. Let's just go.”
-I couldn't be bothered with him.
-As I was about to leave the room, Qwon beckoned me over.
+“—Shut up. Let's go already.”
+I can't deal with this.
+When I was about to leave the room, Qwon beckoned me over.
 $Qwon
 “—Sousuke.”
 $Sousuke
 “Hm?”
-She brought her lips close to my ear as I leaned down.
+She brought her mouth close to my ear as I leaned down.
 $Qwon
-“...You two make quite a synchronized pair.”
+“...You are quite a well-matched pair.”
 $Sousuke
 “...Don't talk nonsense.”
-I flicked Qwon’s forehead after she whispered that and left the room.
+Poking Qwon's forehead with a finger as she whispered in a low voice, I left the room.
 $Takuma
-“—Good grief, you really aren't honest, are you?”
-—I decided to ignore his grumbling.
+“—Good grief, you're as stubborn as ever.”
+—I decided to ignore the grumbling of such a guy.
 --------------------
 0822
 ********************
 $Sousuke
-“—So, where exactly is Qwon’s house?”
-We had made it as far as Kagurazaka before I finally lost my patience and questioned Takuma as he strode ahead of me.
+“—So, where is Qwon's house?”
+Coming out as far as Kagurazaka, I couldn't bear it and asked Takuma, who was walking ahead.
 $Takuma
-“Don't get ahead of yourself.”
-He’d been barely making any progress for a while now, acting like he was waiting for something.
+“Don't be so impatient.”
+He hadn't really been making much progress for a while now, looking as if he were waiting for something.
 $Takuma
-“It’s still too early to make a move.”
-The sun was beginning to dip, but it was still only evening.
-It made sense that a break-in would be better under the cover of night, but—
+“It’s still too early to go.”
+The sun was beginning to set, but it was still evening.
+Certainly, if we were going to break in, night would be better, but—
 $Sousuke
-“...Are you seriously... planning on committing breaking and entering?”
+“...Don't tell me... you're planning on committing a trespassing?”
 $Takuma
-“...You think they'd ever give me an official search warrant for this?”
-He lowered his voice and whispered into my ear.
+“...As if formal permission for an investigation would ever be granted.”
+Lowering his voice, he whispered into my ear.
 $Takuma
-“Don't sweat it. Once we snatch Aoi Souma and make her squawk, the game's ours.”
+“Don't worry. Once we catch Souma Aoi and make her confess, we've won.”
 $Sousuke
-“—Hardly the words of a detective.”
+“—Hardly sounds like the words of a policeman.”
 $Takuma
-“Shut up. ...Besides, there’s no guarantee Aoi Souma is actually at the Mikanagi estate. If she’s out, we'll just scavenge for anything that looks like a lead.”
+“Shut up. ...Well, there's no guarantee Souma Aoi is definitely at the Mikanagi mansion, so if she isn't, we just have to scavenge for anything that looks like a lead.”
 $Sousuke
 “—Hah.”
-He sounded less and less like a cop by the second.
-Ransacking a house? That’s trespassing and theft.
+It sounds less and less like a policeman.
+If it comes to ransacking the house, that's trespassing and theft.
 $Takuma
-“Stop overthinking shit.”
-Takuma, who had slowed his pace until he was walking beside me, gave me a heavy pat on the back.
+“Stop thinking about trivial things.”
+Takuma, who had slowed his pace until he was beside me before I noticed, slapped my back.
 $Takuma
-“Don't worry. Things have a way of working out.”
+“Don't worry. Things will turn out how they will.”
 $Sousuke
-“Who said I was worried about *you*?”
+“Who the hell is worried about you?”
 $Takuma
-“—Well, even if something goes south, it won't be an issue. I’ve already made arrangements.”
+“—Well, even if something happens, it won't be a problem. I've already made my move.”
 $Sousuke
-“Arrangements...?”
+“A move...?”
 $Takuma
-“—Oh, right, I haven't actually told you where the Mikanagi estate is yet, have I?”
-Ignoring my question, Takuma kept right on talking.
+“—Ah, that's right, I hadn't told you the location of the Mikanagi mansion yet.”
+Ignoring my voice, Takuma continued the conversation.
 $Takuma
-“It’s near Hikawa Shrine in Azabu. From here, we'll head toward Akasaka—actually, taking the long way around through Aoyama is better.”
+“It's near the Hikawa Shrine in Azabu. From here, we'll go through Akasaka—no, it's better to take a slight detour toward Aoyama.”
 $Takuma
-“Fewer chances of bumping into patrols that way, and it kills some time.”
-Well—I supposed avoiding the heart of Tokyo City was a sound enough strategy.
+“That way, we're less likely to run into the patrolmen, and we can kill some time.”
+Well—I suppose avoiding the center of Tokyo City is a wise tactic.
 $Sousuke
-“...I guess it’s a bad look for a cop to be seen with a wanted man.”
+“...Is it bad for a cop to be with a wanted man?”
 $Takuma
-“No shit. If anyone notices, I'll just say I'm hauling you in.”
+“Obviously. If we're noticed, I'll just say I'm escorting you.”
 $Sousuke
-“Hah—the 'bumbling cop who let his suspect escape' narrative suits you a lot better.”
+“Hah—it'd be more fitting to say you're a pathetic cop who let the culprit escape.”
 $Takuma
 “Shut up.”
-Tucked away inside a forest so dense it felt out of place in the great metropolis, a Western-style mansion with white exterior walls stood in eerie silence.
+Amidst a lush forest that didn't suit a large city, a Western-style mansion with white outer walls stood quietly.
 $Sousuke
-“So this is—where Qwon used to live.”
-It was larger than I’d imagined—no, significantly larger. Mikage’s place was big, but it didn't even compare to this.
-It didn't look particularly dilapidated; it just sat there, exposing its former glory to the elements.
-Was this exactly how it looked when Qwon lived here?
-No light spilled from the windows. Was it empty, or were the curtains just drawn tight?
+“Is this—what used to be Qwon's house?”
+It’s larger than I thought—no, even larger than that. Mikage's house was big, but it can't compare to this.
+It wasn't exactly dilapidated—rather, it quietly exposed its form from days gone by.
+Is it the same appearance as back when Qwon lived here?
+No light was leaking from the windows. Is it because it's uninhabited, or are the curtains closed?
 $Takuma
-“...Let’s go.”
+“...Let's go.”
 $Sousuke
 “—Yeah.”
-I nodded and took a step forward.
+Nodding, I stepped forward.
 $Sousuke
-“Where do you plan on breaking in?”
-We reached the terrace, and I threw the question at Takuma.
+“Where are you planning to break in from?”
+Coming as far as the terrace, I asked Takuma.
 $Takuma
-“...Of course it’s locked.”
-Takuma murmured as he cautiously tried the handle of the massive door.
+“...As expected, the lock isn't open.”
+Twisting the handle of the large door carefully, Takuma muttered.
 $Takuma
-“—Kudou, you don't happen to know how to pick a lock, do you?”
+“—Kudou, can't you pick a lock?”
 $Sousuke
-“...How the hell would I know how to do that?”
+“...As if I could do that.”
 $Takuma
-“...You’re useless.”
+“...You're a useless guy.”
 $Sousuke
-“Like I’d ever pull a stunt like that in front of a cop anyway.”
+“In the first place, could I do such a thing in front of a cop?”
 $Takuma
-“And a cop instigating it is its own brand of trouble.”
+“It's also a problem for a cop to incite it.”
 $Sousuke
-“—You’re a dirty cop.”
+“—Corrupt cop.”
 $Takuma
 “I don't want to hear that from a genuine criminal.”
 $Sousuke
-“Hah—so, what’s the plan?”
+“Hah—so, what do you plan to do?”
 $Takuma
-“Guess we've gotta smash a window...”
-He lightly tapped on a pane that looked into the dark interior. The whole glass rattled; it didn't seem like it would be too hard to break.
-If we shattered this—no matter how we tried to spin it, we’d be guilty of illegal entry.
+“I guess we'll have to break a window...”
+I lightly tapped on a window where the dark interior wasn't visible. The entire glass shook, and it seemed breaking it wouldn't be very difficult.
+If I break this—no matter how I try to sugarcoat it, it's a confirmed case of trespassing.
 $Sousuke
-“Good grief—I never thought I'd end up as an accomplice to a crime.”
+“Good grief—to think I'd end up being forced to take part in a crime.”
 $Takuma
-“...*I’m* the one being made into an accomplice here.”
+“...The one being forced is me.”
 $Sousuke
-“—I’m just following your orders, Officer.”
+“—I'm just following your instructions.”
 $Takuma
-“Heh—pull the other one.”
-Takuma gave an exaggerated shrug.
-His attitude was irritating, but now wasn't the time for bickering.
+“Cheh—well said.”
+Takuma shrugged his shoulders with a "good grief."
+I'm annoyed by that gesture, but now isn't the time for bickering.
 $Sousuke
-“—This window looks like a good spot to break in.”
-I picked a large window—one that was hidden from the street—and drew back my leg.
+“—If it's a window around here, it looks like we can get in if we break it.”
+Choosing a larger window—one that didn't stand out from the front—I raised my leg.
 $Sousuke
-“—This should be enough.”
-I peered into the interior of the building while clearing away the glass fragments remaining in the window frame.
-Darkness filled the space. There was no sign of anyone inside.
+“—This should do.”
+While removing the glass shards remaining in the window frame, I peered into the interior of the building.
+Darkness was spreading. There was no sign of anyone inside.
 $Sousuke
-“Well then—let’s see what kind of monsters are waiting for us.”
+“Now then—will it be an ogre or a snake?”
 $Takuma
-“...Shall we?”
-We shared a nod and stepped inside.
-We moved through the empty house, our footsteps muffled by the crimson carpet.
-Searching a massive Western mansion with just the two of us was grueling work. By the time we’d finished checking the kitchen, the parlor, and the other rooms on the first floor, a significant amount of time had passed.
+“...Shall we go?”
+The two of us exchanged a nod and stepped inside.
+Stepping onto the crimson carpet, we explored the deserted interior.
+Searching the spacious Western-style mansion with just the two of us was predictably arduous. Just looking around the kitchen, living room, and Western-style rooms on the first floor took a considerable amount of time.
 $Sousuke
-“—Find anything over there?”
-I called out to Takuma, who had been checking the other side of the staircase.
+“—How is it on your end?”
+I called out to Takuma, who was investigating the opposite side at the stairs.
 $Takuma
-“Nothing. It’s bare.”
-Takuma shrugged.
+“No good, there's hardly anything.”
+Takuma shrugged his shoulders.
 $Takuma
-“It doesn't feel like anyone’s actually living here.”
+“I don't get the impression that people are actually living here.”
 $Sousuke
-“Same here. The kitchen was spotless.”
-It looked like it hadn't been used in years.
+“Same here. The kitchen and such were spotless.”
+It looked as if it hadn't been used for years.
 $Takuma
-“That leaves—the second floor.”
+“If that's the case—the second floor, huh.”
 He looked up the stairs.
 $Sousuke
-“If there’s anything to find—it’ll be up there.”
-If there was anything—
-It didn't have to be direct evidence of Ayane’s murder.
-As long as it was some kind of lead linking those bastards to their crimes—
+“If there's something here—then that's where it'll be.”
+If there's something—
+It doesn't have to be direct evidence regarding Ayane's murder.
+If there's even just some kind of lead that they're involved in some evil deeds, that would be enough, but—
 $Takuma
-“—Let’s move.”
+“—Let's go.”
 Just as Takuma hurried me along—
 $Takuma
-“Guaah!!”
+“Gwaah!!”
 Takuma collapsed, clutching his stomach.
 $Sousuke
-“—?!”
-I whirled toward the source of the gunshot—the top of the stairs.
+“—!?”
+I turned toward the source of the gunshot—the top of the stairs.
 $Aoi
-“Two little mice... or wait, is one of them a dog?”
+“Two rats... no, is one of them a dog?”
 $Sousuke
-“You bitch...”
-I glared up at Aoi as she appeared on the landing.
+“You...”
+I glared at Aoi, who had appeared on the landing.
 $Aoi
-“I was simply repelling a couple of burglars. I don't see why anyone should complain.”
-Aoi toyed with her pistol, the muzzle trailing a wisp of acrid smoke.
+“I was simply trying to repel some burglars. There is no reason for me to be criticized.”
+Scattering the gunpowder smoke trailing from the muzzle, Aoi toyed with the handgun.
 $Aoi
-“—Especially since I haven't even killed you yet.”
-She pointed the gun at Takuma as he lay on the floor.
+“—Especially since I haven't killed him yet.”
+She pointed the muzzle at the collapsed Takuma.
 $Takuma
-“Gugh...”
+“Guh...”
 $Sousuke
 “Hey!!”
 $Aoi
-“—Honestly, people seem to die around you quite often, don't they?”
-Aoi let out a thin, cruel smirk.
+“—Truly, people often die around you.”
+Aoi wore a thin smile.
 $Aoi
-“Just the other day, a drowned body was pulled from the Kanda River. I believe she was—an acquaintance of yours. Her name was—”
+“The other day, a drowned body was pulled from the Kanda River. She was certainly—an acquaintance of yours. Her name was—”
 $Sousuke
-“You filth—?!”
-I cut her off and charged up the stairs.
+“You—!?”
+Cutting off Aoi's voice, I ran up the stairs.
 $Aoi
-“—Can you not see this?”
-Staring down the barrel of her gun, the last shred of my reason forced my feet to a halt.
+“—I wonder if you can't see this?”
+Having the muzzle pointed at me, I stopped my feet with the slight bit of reason I had left.
 $Sousuke
 “Tch—”
 $Aoi
-“Ufufu... it’s for your own good to stay quiet, you know?”
-Aoi kept the gun leveled at me as she slowly descended the stairs.
+“Ufufu... it's for your own sake to stay quiet, you know?”
+Aoi slowly came down the stairs while keeping her gun aimed.
 $Sousuke
-“Did you... did you kill Riho?”
+“Was it you... who killed Riho?”
 $Aoi
-“Goodness, no. You didn't exactly see me there, did you?”
+“Hardly. You didn't see me there, did you?”
 $Sousuke
-“The 'Serial Lunatic Stabbing Incidents' that led to Riho's death were your doing, weren't they?!”
+“The ‘Serial Madman Murder Case’ that triggered Riho's death, that was your doing, wasn't it?!”
 $Aoi
-“Is there any proof of that, I wonder?”
-Aoi laughed, her composure unshaken.
+“I wonder if there is evidence of that?”
+Without losing her composure, Aoi sneered.
 $Sousuke
-“That device you forced Qwon to build, the one that drives people mad—you used it, didn't you... on me and Riho.”
+“That device you made Qwon create, the one that makes people go mad—you used that, didn't you... on me and Riho.”
 $Aoi
-“Are you referring to 'Riff-Raff'?”
+“I wonder if you mean ‘Riff-Raff’?”
 $Sousuke
-“...I don't give a damn what it's called. Qwon told me that with it, you can cause incidents without ever getting your own hands dirty.”
-Aoi’s expression twisted into a look of irritation.
+“...The name doesn't matter. I heard from Qwon that if you use that, you can cause incidents without getting your own hands dirty.”
+Aoi's expression twisted in displeasure.
 $Aoi
-“That brat... always making trouble...”
+“That brat... saying unnecessary things...”
 $Sousuke
-“...Give it up.”
+“...You'd better give up.”
 $Aoi
 “Fufu... I wonder which of us should give up?”
-Aoi flaunted her bulky pistol.
+Aoi brandished the large handgun.
 $Aoi
-“Even if 'Riff-Raff' existed, I never lifted a finger. Even with that woman—you are the culprit, aren't you?”
+“Even if ‘Riff-Raff’ existed, I haven't laid a finger on anything. Even in that woman's case—the culprit was you, wasn't it?”
 $Sousuke
 “—I didn't kill her.”
 $Aoi
-“I saw it with my own eyes. You straddling that woman and plunging the knife into her.”
+“I was watching. You straddling that woman and plunging the knife into her.”
 $Sousuke
-“That never happened. You certainly entered that room using a spare key, didn't you? But the one who killed Ayane there—it was you.”
+“That didn't happen. You certainly entered that room, using a spare key. But the one who killed Ayane there—was you.”
 $Aoi
 “—Evidence?”
-Raising an eyebrow, Aoi challenged me.
+Raising her eyebrows, Aoi prompted me.
 $Sousuke
-“The sheets on the part of the futon where I was lying weren't stained with blood. It's obvious Ayane was stabbed while I was sleeping. Yet I was covered in blood as well.”
+“The sheets where I was lying weren't stained with blood. In other words, it's obvious Ayane was stabbed while I was sleeping. Since I was also covered in blood.”
 $Aoi
 “Ufufufu—is that all?”
-Aoi let out a defiant smirk.
+Aoi wore a fearless smile.
 $Aoi
-“I simply entered the room and used 'Riff-Raff' on you while you were sound asleep. You danced for me quite beautifully.”
+“I entered the room and simply used ‘Riff-Raff’ on you while you were fast asleep. You danced for me quite entertainingly.”
 $Sousuke
-“That's a lie!! I would never kill Ayane!!”
+“Liar!! There's no way I'd kill Ayane!!”
 $Aoi
-“—You did kill her. ...Come to think of it, you were covered by the futon, weren't you? When you sat up, the futon was still right there on the bed. After you stabbed that woman—”
+“—You did kill her. ...Speaking of which, you were covered by a futon, weren't you. Even when you stood up, the futon remained on the bed. After you stabbed that woman—”
 $Aoi
-“You crawled back under the blood-stained futon. Now, here's the question: why were you, who had been under the covers, drenched in blood?”
+“You crawled back into the blood-stained futon. Now, here's a question. Why were you, who were covered by a futon, drenched in blood?”
 $Sousuke
-“—Gh.”
+“—Tch.”
 —No way.
-I recalled that moment.
-When I sat up, I had thrown the covers aside—
+I recall that time.
+When I sat up, I threw off the futon and—
 $Sousuke
-“—?!”
+“—!?”
 —That's right.
-If I had been under the futon, how could I have been sprayed with blood?
+If I was covered by a futon, wouldn't it be impossible for me to be drenched in spray from the blood—
 $Aoi
-“Ufufu... have you realized it yet?”
+“Ufufu... I wonder if you've noticed?”
 Aoi wore a sadistic smile.
 $Aoi
-“I certainly pulled the trigger on 'Riff-Raff.' But you were the one who killed her. You know that better than anyone, don't you?”
+“I certainly pulled the trigger of ‘Riff-Raff.’ But the one who killed her was you. You know that best yourself, don't you?”
 $Sousuke
 “Ugh...”
-My confidence wavered.
-I... I didn't kill Ayane.
-I shouldn't have killed her—
+My confidence wavers.
+I... didn't kill Ayane.
+Even though I shouldn't have killed her—
 $Aoi
-“Since the goal was to drive you into a corner from which you couldn't escape, I had to make you kill her, didn't I?”
+“Since the goal is to drive you into an inescapable situation, I had to make you kill her, didn't I?”
 $Sousuke
 “—Shut up!!”
-I glared at Aoi, but I didn't have the strength to charge her.
-Was that scene the truth—?
+I glare at Aoi, but I have no strength to move toward her.
+Was that sight the truth—?
 $Sousuke
-“...It's a lie.”
-I murmured weakly and fell to my knees.
+“...Liar.”
+I muttered weakly and dropped my knees to the floor.
 $Aoi
-“—I've lost interest.”
-Aoi spat out the words and brushed past me.
+“—My interest has faded.”
+Aoi muttered as if spitting it out, then slipped right past me.
 $Aoi
-“How pathetic. To be broken by just killing one person.”
+“What a pathetic thing you are. Over just killing one person.”
 $Sousuke
 “...Shut up.”
-I couldn't even find the rage to grab her.
-Is it because it's true that I killed Ayane...?
+I can't even get enraged and grab her.
+Is it because the fact that I killed Ayane is the truth...?
 $Aoi
-“I have no use for a useless beast that can't even work.”
-With those final words, Aoi vanished into the darkness.
+“I have no need for a packhorse that can't even work properly.”
+Saying that last, Aoi departed for somewhere.
 $Takuma
-“H-Hey, Kudou...”
-Takuma approached me. Fortunately, his stomach wound seemed minor.
+“Hey... Kudou...”
+Takuma approached. Fortunately, his stomach wound seemed light.
 $Takuma
-“There's no basis for anything she said. In fact... if she used that whatever-device, you shouldn't be held responsible.”
+“There is no basis for what she said. Rather... if she used that device or whatever, your crime shouldn't be punishable.”
 $Sousuke
 “...Shut up.”
-I growled in a low voice.
+I groaned in a low voice.
 $Sousuke
-“...Guilt or innocence doesn't matter. The only problem... the biggest problem... is the fact that I killed Ayane.”
+“...Whether I'm innocent or guilty doesn't matter. The sole fact that I killed Ayane... is the biggest problem.”
 $Takuma
-“It's not... decided that you did...”
+“It hasn't... been decided that that's the case yet...”
 $Sousuke
-“...Please, Takuma. Just... leave me alone for a while.”
-My head was in a mess.
-I desperately tried to tell myself I wasn't the killer, but after hearing Aoi's story, I was shaken.
+“...Please, Takuma. For a while... leave me alone.”
+My head is in chaos.
+I desperately try to tell myself it wasn't me who killed her, but after hearing Aoi's story earlier, I'm wavering.
 I wanted to think alone.
 $Takuma
 “...I see.”
 Takuma's shirt was stained red with blood.
 $Sousuke
-“Your... your wound?”
+“What about... your injury?”
 $Takuma
-“...Don't worry about me. It's just a graze.”
-Honestly—I was so preoccupied with myself that I'd completely forgotten about his injury.
-—The absolute worst.
+“...Don't worry about me. It's a graze.”
+Truly—I had been so caught up in my own affairs that I had completely forgotten about his injury.
+—This is the worst.
 $Takuma
 “...Are you sure?”
 $Sousuke
-“...Yeah. I want to—think for a bit.”
+“...Yeah, I want to—think for a bit.”
 $Takuma
-“—Keep your head on straight.”
-Lightly patting my shoulder, Takuma slowly walked away.
+“—Pull yourself together.”
+Tapping my shoulder lightly, Takuma slowly departed.
 $Sousuke
 “—Damn it.”
 Did I really—kill her?
-No... it has to be Aoi's lie to shift the blame.
-Yeah. That's got to be it—
+No... it must be an excuse by that Aoi.
+Yes. It must be—
 —Damn it.
-But despite that, the scene is burned vividly into my mind.
-Vividly enough that it should have been impossible unless I'd witnessed it with my own eyes—
+Even so, that sight is vividly burned into my mind.
+Vividly enough that it should be impossible unless I had actually witnessed it before my eyes—
 --------------------
 0823
 ********************
-I wandered through the building until, before I knew it, I had stepped into a room that felt lived-in.
-The lingering scent of perfume was strong; perhaps Aoi had been using it.
+Wandering through the building, before I knew it, I had stepped into a room that smelled of everyday life.
+Perhaps Aoi had been using it, as the lingering scent of perfume was strong.
 $Sousuke
 “—Damn it.”
-I’d said those words to Takuma, but there was no way I could actually think straight right now.
+Though I had said such things to Takuma, there was no way I could think about anything right now.
 Had I truly not killed Ayane?
-Had I truly—killed her?
-My confidence wavered.
-My certainty crumbled.
-I fell to my knees.
-Even though I sensed someone approaching, I didn't even try to look up.
-Scumbag—if you want to kill me, just get it over with.
+Had I truly—killed Ayane?
+My confidence wavers.
+My confidence crumbles.
+I drop my knees.
+Even if someone approaches right beside me, I don't even try to raise my face.
+Damn it all—if you want to kill me, just kill me.
 $Qwon
-“—It has been a long time since I was last here.”
-Qwon murmured nostalgically as she looked around the room.
+“—It has been a long time since I came here.”
+Qwon murmured as if reminiscing, looking around the room.
 $Qwon
-“Not that much time has passed—and yet, this place has changed so much—”
+“Not much time has passed—but this place has changed quite a bit—”
 $Sousuke
-“...What did you come here for?”
+“...What did you come for?”
 I looked up at Qwon standing before me.
 $Qwon
 “—To fetch you.”
-I couldn't read any emotion from her eyes.
+No emotion can be discerned from her eyes.
 $Sousuke
-“Did I... did I kill Ayane?”
-I asked Qwon a question that had no answer.
+“Did I... kill Ayane?”
+I asked Qwon a futile question.
 $Qwon
 “—I have no means to answer that question.”
-Qwon spoke quietly.
+Qwon said quietly.
 $Sousuke
-“Did that weapon... 'Riff-Raff' or whatever... make me kill... Ayane?”
+“Did that weapon called ‘Riff-Raff’... make me... kill Ayane?”
 $Qwon
-“'Riff-Raff' triggers pure destructive impulses within the subject's mind. It cannot be used in a limited way, such as targeting a specific person.”
+“‘Riff-Raff’ causes a pure impulse for destruction in the subject's mind. It cannot be used in a limited way—such as aiming for someone.”
 $Qwon
-“However—the destructive impulse is directed at whatever is closest. If someone was sleeping next to you—you would easily harm them.”
+“However—the impulse for destruction is directed toward what is nearby. If someone is sleeping beside you—it would easily harm that person.”
 $Qwon
-“The audio emitted from 'Riff-Raff' acts on the subject without issue, even if they are in a state of sleep.”
+“The sound emitted from ‘Riff-Raff’ acts without issue even if the subject is in a state of sleep.”
 $Sousuke
-“...Which means—in the end...”
+“...In other words—as I thought...”
 $Qwon
-“At this stage, there is no evidence that 'Riff-Raff' was *not* used.”
+“At this stage, there is no evidence that ‘Riff-Raff’ was not used.”
 $Sousuke
-“Damn... it!!”
-If even Qwon said that, it would be useless no matter how much I insisted I hadn't killed Ayane.
+“Damn... it.”
+Having it said like that by Qwon, it would likely be futile no matter how much I claimed I didn't kill Ayane.
 $Sousuke
-“What... what should I do...?”
+“What... should I do...?”
 $Qwon
 “That is not for me to decide. It is for you to decide.”
-Qwon simply spun her words and reached out a hand to me.
+Qwon simply spun her words and reached out her hand toward me.
 $Qwon
-“—Let us go home, Sousuke.”
-I timidly took her hand in return.
+“—Let's go home, Sousuke.”
+I timidly grasped her hand in return.
 --------------------
 0841
 ********************
-The ice in my glass cracked.
-I poured another glass of whiskey, gave it a light toast, and let it burn down my throat.
-The rain that had been falling since morning showed no signs of stopping.
-On a day like this, staying cooped up in my room would only make me more depressed.
-In that case—drinking away the hours in an empty bar felt like the better option.
+The ice in the glass cracked.
+I poured my umpteenth whiskey into the glass, lightly clinked it, then downed it.
+The rain that had been falling since morning showed no sign of stopping.
+On a day like this, staying cooped up in a room only makes one feel depressed.
+In that case—it was somewhat better to be drinking in a deserted bar.
 $Chika
 “Um... what about this glass...?”
-Chika approached the counter and pointed to the glass that had been sitting in the seat next to me.
+Chika, who had approached the counter, pointed at the glass that had been left on the seat next to mine.
 $Sousuke
-“...That’s for Takuma.”
+“...It's for Takuma.”
 $Chika
-“Ah... I-I’m sorry...”
+“Ah... I-I'm sorry...”
 $Sousuke
-“No... you've got nothing to apologize for.”
-I pulled the glass, its ice mostly melted, toward me and downed it in one go. The alcohol stung my mouth like a burn.
-I lined up the two empty glasses and poured more whiskey into both.
-This time, Chika didn't say anything.
+“No... it's not something you should apologize for.”
+I pulled the glass, where the ice had mostly melted, toward me and drained it all at once. The mucous membrane of my mouth burned painfully.
+I lined up the two empty glasses and poured more whiskey into them.
+This time, Chika said nothing.
 $Sousuke
-“—In the end, I never actually got to sit down and have a drink with that bastard.”
-I tilted my glass. Even though I’d been drinking non-stop for a while now, I couldn't get drunk at all.
-—There was no way I could.
-I felt a crushing sense of guilt toward Takuma, who had died for someone like me.
-And even the secret ledger I’d entrusted to him—how much of an impact would it really have?
-Would my innocence ever actually be proven—?
+“—In the end, I never did have a drink alone with him.”
+I tilted my glass. Despite drinking incessantly for a while now, I couldn't get drunk at all.
+—There was no way I could get drunk.
+I feel ashamed toward Takuma, who died for someone like me.
+Even the secret ledger I entrusted to Takuma, how much evidence will it be?
+I wonder if my innocence will ever be proven—
 $Chika
 “Ah—”
-Chika choked on her words as a customer entered the shop.
+Chika's words failed her at the customer who opened the shop door and entered.
 $Yuzuha
 “Onii-chan...”
-Yuzuha, dressed in her school uniform, stood frozen at the entrance of the bar.
+Yuzuha, in her uniform, stood frozen at the shop entrance.
 $Sousuke
 “...Yuzuha.”
-I called out to Yuzuha as gently as I could and beckoned her over.
+I called out to Yuzuha as gently as possible and beckoned her over.
 $Yuzuha
 “Yeah...”
-With a small nod, Yuzuha took the seat next to mine.
+Nodding slightly, Yuzuha took a seat next to me.
 $Yuzuha
 “Mikage-chan... went home.”
 $Sousuke
 “...I see.”
-Chika silently placed a glass of cold tea in front of Yuzuha.
+Chika silently placed a cup of cold tea in front of Yuzuha.
 $Yuzuha
 “...Thanks.”
-It was only natural that Yuzuha was quiet.
-It had been the funeral of her lover, after all.
+It couldn't be helped that Yuzuha was saying little.
+It was her lover's funeral, after all.
 $Yuzuha
 “Hey... Onii-chan.”
 $Sousuke
 “Hm?”
-Yuzuha looked at me with an expression of deep distress.
+Yuzuha looked at me with an expression that seemed troubled.
 $Yuzuha
-“I... I really wanted you to come to the funeral too, Onii-chan...”
+“I... wanted you to attend the funeral too, Onii-chan...”
 $Sousuke
-“I... I couldn't.”
-It required a great deal of courage to step into a funeral hall where many police officers were gathered.
-And—it would likely have been a problem for me, who was so closely involved in Takuma's death, to show up.
+“I... can't.”
+Stepping into a funeral hall where many people related to the police gathered required a great deal of courage.
+And—it would also be problematic for me, who is closely involved in Takuma's death, to show up.
 $Yuzuha
-“I... I know that, but...”
-Yuzuha clenched her hands which were resting on her lap.
+“I... know that, but...”
+Yuzuha clenched her hands that were resting on her lap.
 $Yuzuha
 “...Hey, Onii-chan... when are you coming home...?”
 $Sousuke
-“When everything has settled down... and the heat has died away, I suppose.”
+“Likely when everything has settled down... and the heat has died away.”
 $Yuzuha
-“...When will things settle down? Even after Hishiya-san died... if nothing changes... then Hishiya-san was...”
+“...When will it settle down? Even Hishiya-san died... and if nothing changes even then... Hishiya-san is...”
 $Sousuke
 “...It's my fault.”
 $Yuzuha
-“That's not... it's not your fault at all, Onii-chan.”
+“No... you're not at fault, Onii-chan.”
 $Sousuke
 “...It's my responsibility.”
 $Yuzuha
 “Onii-chan...”
-Takuma died because I wasn't careful enough.
-If only I'd acted with more caution—
-If only I'd treated Takuma properly after Aoi shot him—
+The reason Takuma died was because I wasn't careful enough.
+If only I had acted more cautiously—
+If only I had treated him properly after Takuma was shot by Aoi—
 $Yuzuha
-“...If you're so tormented by it, Onii-chan, Hishiya-san won't be able to rest easy on the other side...”
+“...If you're so troubled, Onii-chan, Hishiya-san won't be able to go to the other side in peace...”
 $Sousuke
 “Yuzuha...”
-Yuzuha was worried about me, even though she must have been suffering too.
+Though Yuzuha must be suffering too, she's worrying about me.
 $Yuzuha
-“Onii-chan... today, just for today... please come home...”
-Yuzuha looked up into my eyes.
-My innocence hadn't been established yet.
-I might cause more trouble for Yuzuha.
+“Onii-chan... today, at least for today... come home...”
+Yuzuha peered up into my eyes.
+My innocence hasn't been confirmed yet.
+I might cause trouble for Yuzuha again.
 I'm still—
 $Chika
 “—Kudou-san.”
-Chika approached us with two steaming cups on a tray.
+Chika approached, carrying two steaming cups on a tray.
 $Chika
 “Yuzuha-chan, please have some coffee too.”
 $Yuzuha
-“Ah... thank you, Chika-chan.”
-Coffee was placed in front of me as well.
+“Ah... thanks, Chika-chan.”
+A coffee was also placed in front of me.
 $Chika
 “—Kudou-san, please stay by Yuzuha-chan's side today.”
 $Sousuke
 “Chika...?”
-Whispered to suddenly, I looked at Chika's face.
+Whispered to suddenly, I peered at Chika's face.
 $Chika
-“Yuzuha-chan... she seems to be pushing herself quite hard.”
+“Because Yuzuha-chan... seems to be pushing herself quite hard.”
 $Yuzuha
-“What is it... Chika-chan?”
-Yuzuha hadn't caught Chika's voice and asked curiously.
+“What's wrong... Chika-chan?”
+Chika's voice likely hadn't reached her, as Yuzuha asked curiously.
 $Chika
 “Fufu... it's a secret. Right, Kudou-san?”
-Chika gave me a wink.
+Chika sent me a wink.
 $Yuzuha
-“Hmph...”
+“Muu...”
 $Sousuke
-“...Well, don't worry about it too much, Yuzuha. Let's head home soon.”
+“...Well, don't worry about it too much, Yuzuha. We're going home soon.”
 $Yuzuha
-“Fue...?”
-Yuzuha, who had been pouting, let out a startled sound.
+“Fueh...?”
+The pouting Yuzuha let out an absurd voice.
 $Sousuke
-“Just for today... it should be fine to stay at home.”
+“At least for today... it should be fine to be home, right?”
 $Yuzuha
 “Really?!”
 Yuzuha's expression brightened.
 $Sousuke
-“Before we go... let's drink our coffee.”
+“Before we go... after we drink our coffee.”
 $Yuzuha
 “—Yeah!”
 $Chika
-“Please take your time.”
-Chika smiled, lightly resting a hand on Yuzuha's shoulder.
+“Please, take your time.”
+Chika smiled and lightly placed her hand on Yuzuha's shoulder.

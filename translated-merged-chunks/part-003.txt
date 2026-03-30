@@ -1,797 +1,797 @@
 --------------------
 0105
 ********************
-In the end, I found myself drifting back toward Kagurazaka.
-I suppose this neighborhood is where I feel most at ease, after all.
-I wove through the narrow back alleys, crossing the main thoroughfare toward the licensed quarters.
-Hiding away in the pleasure district to blind the eyes of the law wasn't a half-bad idea. Fortunately, I had the cash to burn.
-I was wandering about, trying to decide which geisha house to duck into, when it happened.
+I ended up drifting back toward Kagurazaka.
+It seems I feel more at ease around here after all.
+I wove through narrow alleys and crossed the main road toward the entertainment district.
+Immersing myself in the geisha quarters to blind the eyes of the investigation wouldn't be a bad idea. Fortunately, I have the money.
+I was scouting out which geisha house to enter when it happened.
 $???
-“Hey there, you.”
+“Hey there, you over there.”
 $Sousuke
-“Hm...?”
-At first, I thought it was just a geisha soliciting a customer. But I realized my mistake almost immediately.
+“Hmm...?”
+At first, I thought it was a geisha calling out for business. But I immediately realized I was mistaken.
 $???
-“Yeah, I’m talking to you.”
-How should I put it—the atmosphere was entirely different. There was no trace of the usual flattery meant to entice men; instead, she radiated a quiet authority that seemed to demand submission.
-In fact, several men were lingering behind her. A rough-looking bunch of thugs with faces that screamed ‘trouble.’
+“You, I mean you.”
+How should I put it—her atmosphere was entirely different. There was no hint of flirting to curry favor with men; instead, she exuded a dignity that seemed to demand their subordination.
+In fact, it looked as though several men were following behind her. They were all ill-favored types, looking every bit like hoodlums.
 $Sousuke
-“—What do you want?”
+“—What is it?”
 $???
-“—I saw everything.”
-A sudden, icy chill shot down my spine.
-She saw...?
-Saw what...?
-Last night...?
-The Master had mentioned a witness.
-Did this woman see the whole damn thing—?
-What now?
-Should I run? No, it might be better to squeeze the truth out of her first.
-If I can prove I didn't kill anyone, all of this is over.
-—No, that’s a pipe dream. First, I’d have to convince her I’m innocent.
-After all, if she’s already convinced I’m a murderer, she’s probably the one who called the cops in the first place.
+“—I saw you.”
+A chill suddenly raced down my spine.
+Saw...?
+What...?
+Was it about yesterday...?
+Come to think of it, the Master said there was a witness.
+Did this woman see the whole thing from start to finish...?
+What should I do?
+Should I run? ...No, rather than that, I should try to draw out information about what happened then.
+If I can prove that I didn't kill anyone, everything will be resolved.
+—No, is that even possible? First, I’d need to convince her that I'm not a killer.
+After all, she probably reported me to the police precisely because she's convinced I killed that woman.
 $???
-“—I wonder what’s going through that head of yours?”
-The woman’s lips curled into a thin, knowing smirk.
-Damn it—neither of us has a clue what the other is thinking.
-Is she planning to blackmail me? Or is she going to hand me over to the police? The only reason I don't feel the latter is likely is because of the sheer, intoxicating danger she exudes.
+“—I wonder what you're thinking about?”
+A thin smile played on the woman's lips.
+Dammit—it goes both ways that we don't know what the other is thinking.
+Does she plan to blackmail me? Or does she intend to take me to the police? The reason I don't feel much of a premonition for the latter is likely due to the woman's bewitching aura.
 $Sousuke
-“...What are you getting at?”
+“...What are you trying to say?”
 $???
 “Heh...”
-The woman gave a slight wave of her hand. At that, the men behind her moved as one, surrounding me to cut off any hope of escape.
+The woman raised one hand slightly. At that, the men waiting behind her moved, surrounding me as if to ensure I wouldn't escape.
 $Sousuke
 “...Tch.”
-They’d blocked my exit. I glared at her, but she didn't show so much as a flicker of a reaction.
+My path of retreat was cut off. I glared at the woman, but she showed absolutely no reaction.
 $???
-“You’re strong, aren't you?”
+“You're strong, aren't you?”
 $Sousuke
-“...Strong enough to drop these bastards and walk away.”
-I kicked aside a pebble with the toe of my boot and shifted into a fighting stance, keeping half my body toward the woman. I kept a sharp eye on the thugs around me too.
+“...Strong enough to knock you lot down and go home.”
+I brushed away a small stone at my feet with my toe and took a half-body stance against the woman. Naturally, I kept an eye on the men around me as well.
 $???
-“Heh... good. Otherwise, you’d be useless.”
-There was a predatory edge to her smile that set my nerves on edge.
+“Heh... otherwise you'd be useless to me.”
+The woman's smile had a dangerous scent to it.
 Good grief.
-I’d just sworn to myself not to do anything that would draw attention—like getting into another brawl—
+I’d only just sworn a moment ago that I wouldn't do anything conspicuous like fighting—
 $???
-“—I saw you take down those punks earlier.”
+“—I saw you beat down those hoodlums earlier.”
 $Sousuke
-“—Hm?”
-Earlier—?
-...Ah, I see. This woman must have been watching that fight.
-Which meant she’d been tailing me ever since.
+“—Hmm?”
+Earlier...?
+...Ah, I see. It seems this woman saw that fight from before.
+Does that mean she’s been tailing me from there?
 $Sousuke
 “Hah—”
-How pathetic. I’d been working myself into a panic over the worst-case scenario all on my own.
+Ridiculous. It seems I was fantasizing about the worst-case scenario all on my own.
 $???
-“—‘It was nothing,’ is that what you’re thinking? You’ve certainly got plenty of confidence.”
-Misinterpreting my derisive snort, the woman’s mouth twisted just a fraction.
+“—You look like you want to say it wasn't much. Quite the confidence you have.”
+Whether she misunderstood my snort of laughter, the woman's lips twisted just a fraction.
 $Sousuke
-“No—it’s nothing. I’m just a little relieved, that’s all. Don't worry about it.”
+“No—it's nothing, I’m just a little relieved. Don't worry about it.”
 $???
 “What a strange man.”
-Even as she said it, her eyes traveled over me from head to toe, as if she were tasting me with her gaze. It felt like a snake slithering across my skin.
+While saying that, the woman looked me over from head to toe as if licking me with her eyes. It felt like a snake crawling over my body.
 $???
 “—Not bad at all.”
 $Sousuke
-“What’s with you? You’ve been at this for a while now.”
-Being sized up like a piece of meat made my skin crawl.
+“What have you been on about for a while now?”
+It was uncomfortable, feeling like I was being appraised.
 $???
-“How would you like to work for us? I think it’s a job that would suit you perfectly.”
+“Don't you have any intention of working for us? I think it’s a job perfectly suited for you.”
 $Sousuke
-“Suit me perfectly...?”
-I had a bad feeling about this. Actually—given the way this conversation was going, there was no way in hell it was a legitimate job.
+“Perfectly suited for me...?”
+I had a bad feeling. No—given the flow of the conversation so far, I couldn't imagine it being a decent job at all.
 $???
-“Yes. Perfectly suited for someone strong like you.”
-The woman refused to get to the point.
-—Typical.
-The whole situation was thick with the stench of something rotten.
-The men around me were just leering and hadn't made a move—but I knew that would change depending on my answer.
+“Yes. Perfect for someone strong like you.”
+The woman wouldn't speak of the core details.
+—Good grief.
+The air was thick with shadiness.
+The men around her were just smirking and hadn't made a move yet—but that would likely depend on my answer.
 $???
-“Well? What do you say?”
+“How about it?”
 $Sousuke
-“—I can't very well say yes without knowing the job description.”
-There was no need to act submissive with people like this. I’d be as aggressive as I needed to be, and if things turned south, I’d just run.
+“—I can't agree without hearing the job description.”
+There’s no need to act humble toward people like this. I’ll behave as high-handedly as possible and just run if things get dangerous.
 $???
-“Surprisingly cautious, aren't we? Fine, I’ll tell you.”
+“You're unexpectedly cautious. Well fine, I'll tell you.”
 $???
-“We operate under the orders of a certain individual. Our primary work involves debt collection, transport of supplies, and negotiations with landlords.”
+“We move under the orders of a certain individual. We primarily handle debt collection, transport of supplies, and negotiations with landowners.”
 $???
-“We also handle security activities and market management.”
+“There are also security activities and market management, among other things.”
 $Sousuke
 “Hah—”
-Amusing. They used different words for it, but it was all just yakuza work.
-The woman was likely choosing those words on purpose. Her eyes weren't smiling at all.
+Interesting. No matter how you phrase them, they’re all nothing but yakuza jobs.
+The woman is likely phrasing it that way on purpose. Her eyes aren't smiling.
 $???
-“What do you think?”
+“How does it sound?”
 Accept
 Decline
-Honestly—what a pain.
-If I refused, there was no telling what they’d do to me. Better to play along and pretend to accept for now.
+Good grief—how troublesome.
+There’s no telling what kind of treatment I’ll face if I refuse. I should probably pretend to accept for now and play it off.
 $Sousuke
 “—Fine.”
 $???
-“Heh... I always did prefer men who were straightforward.”
-The woman smiled seductively. Once again, I felt that shiver of fear, like I was being stared down by a viper.
+“Heh... men are best when they're honest.”
+The woman smiled glamorously. Again, a chill ran through me as if being glared at by a snake.
 $???
-“I haven't introduced myself yet, have I?”
+“I haven't introduced myself yet.”
 $???
-“I am Souma Aoi. I serve a certain individual.”
+“I am Souma Aoi, and I serve a certain individual.”
 The woman—Aoi—introduced herself and gave a polite bow.
 $Sousuke
-“I’m—”
+“I'm—”
 $Aoi
 “There’s no need to introduce yourself.”
 $Sousuke
 “Hmph...”
-So she wasn't interested, then?
-Well—under the circumstances, that was actually a relief.
+Does that mean she has no interest?
+Well—for me right now, that's a relief.
 $Aoi
-“I look forward to working with you, Kudou Sousuke.”
+“Nice to meet you, Kudou Sousuke.”
 $Sousuke
 “—!?”
 $Aoi
-“Is there a reason to be so surprised? You’re quite famous in these parts, aren't you?—Ever since this morning, anyway.”
+“Is there a reason to be surprised? You're famous in these parts, aren't you?—Since about this morning.”
 $Sousuke
-“...You set me up, didn't you?”
-These bastards—they’d approached me knowing full well that I was being hunted by the law.
+“...You set me up.”
+These people—did they approach me knowing full well that I was being hunted by the authorities?
 $Aoi
-“Set you up? Perish the thought. We’re prepared to offer you sanctuary, you know?”
-Aoi’s smile never wavered. She was clearly enjoying my confusion.
+“Set you up? Perish the thought. We're prepared to harbor you, you know?”
+Aoi’s smile didn't falter. She’s clearly enjoying my confusion.
 $Aoi
-“My boss has plenty of influence with the military and the police. Stopping the investigation into you would be child’s play.”
+“My boss has influence with the military and police, so stopping the investigation into you would be a simple matter.”
 $Sousuke
 “—Hah.”
-Which meant the opposite was also true.
-If I refused, she was implicitly threatening to hand me over to the cops then and there.
+In other words, the reverse is also true.
+She’s implicitly suggesting that if I refuse, she could turn me over to the police just like that.
 $Aoi
-“I’ll make sure you’re well-taken care of. Come with me.”
+“I won't treat you poorly. Come with me.”
 At Aoi’s words—
-I had no choice but to nod, however reluctantly.
-—Danger.
-The alarms in my head were screaming at me not to get involved.
+I had no choice but to nod, albeit reluctantly.
+—It's dangerous.
+The warning bells in my brain are screaming at me not to get involved.
 $Sousuke
-“—Sorry, but you’ll have to find someone else.”
-I gave a slight wave of my hand and turned on my heel, only for the thugs to block my path once more.
+“—Sorry, but look elsewhere.”
+I raised one hand slightly and turned on my heel, only for the hoodlum-like men to stand in my way.
 $???
-“—Did you really think you could just walk away?”
-The woman’s voice was laced with a mocking giggle.
+“—I wonder if you really think you can go home?”
+The woman's voice was laced with a quiet chuckle.
 $Sousuke
-“—I’m just a law-abiding citizen, you know.”
-Even as I said it, I scanned my surroundings. Walls of houses on either side, thugs blocking the path behind me, and the woman standing in front.
-The only way out was to fight my way through—
+“—I'm a law-abiding citizen, you see.”
+Even as I said that, I scanned my surroundings. The walls of private houses were on both sides, the alley behind was blocked by men, and the woman stood in front of me.
+The only way is to break through by force—
 $???
-“A law-abiding citizen—right. You’ve got a lot of nerve, for a murderer.”
+“A law-abiding citizen—I see. You say that well, for a violent criminal.”
 $Sousuke
 “—!?”
 $???
-“Kudou Sousuke—murdered a woman in Ushigome District late last night. A group of military police near Iidabashi Station gave chase, but lost him—”
+“Kudou Sousuke—murdered a woman in Ushigome Ward late last night. A group from the Army Military Police near Iidabashi Station pursued him but lost sight—”
 $Sousuke
 “Were you watching...?”
 $???
-“Hardly. Information like that is easy enough to gather. Along with your address—and the fact that you have a little sister.”
+“Of course not. Information of this level can be gathered in an instant. Naturally, we know your home—and that you have a younger sister.”
 $Sousuke
-“You bitch—!?”
+“You bastard—!?”
 $???
-“Behave yourself. If you come with us, I’ll see that you’re well-treated.”
+“Behave yourself. If you come with us, we won't treat you poorly.”
 $Sousuke
 “Tch—”
 It was a blatant threat.
-After hearing all that, there was no way I could refuse.
-If it were just me being hunted, I could deal with it.
-But I had to prevent Yuzuha from being targeted by these shady characters at all costs.
+There was no way I could refuse after being told all that.
+It would be one thing if I were just being hunted by the authorities.
+I have to avoid Yuzuha being targeted by such shady people at all costs.
 $???
-“I’m feeling generous, so I’ll ask you one more time. —Are you willing to work for us?”
+“I'm kind, so I'll ask you one more time. —Do you intend to work for us?”
 $Sousuke
-“...Fine. I’ll do what you say.”
+“...Fine. I’ll follow you.”
 $???
 “Heh... a wise decision.”
 $Sousuke
-“...Keep your hands off my sister.”
+“...Don't lay a finger on my sister.”
 $???
-“That depends entirely on you.”
+“That depends on you.”
 $Sousuke
-“Damn it...”
-For now... it seemed I had no choice but to obey.
+“Ugh...”
+For now... it seems I have no choice but to obey.
 $???
-“I am Souma Aoi. I serve a certain individual. I’m taking you to see them now, so follow me.”
-With that, the woman—Aoi—started walking without waiting for my reply.
-The men who had been by her side scattered before we reached the main street, and now it was just her and me.
-Without her grabbing my arm or restraining me, we looked like any other pair walking naturally down the street.
+“I am Souma Aoi. I currently serve a certain individual. I'm going to take you to that person now, so follow me.”
+With that, the woman—Aoi—began walking without waiting for my reply.
+The men who had been waiting by Aoi's side scattered in all directions before we reached the main road, and now it was just her and me.
+My arm wasn't grabbed nor was I restrained; to an onlooker, we were just two people walking naturally down the street.
 $Aoi
-“—Not thinking of running, are you?”
+“—I wonder if you're thinking of running away?”
 $Sousuke
-“I’m sure you’ve got your lackeys hidden around here somewhere.”
+“Your underlings are probably hiding around here anyway.”
 $Aoi
-“Actually, I don't. It really is just the two of us.”
+“No, they're not. It’s just the two of us, through and through.”
 $Sousuke
-“As if I’d believe that.”
+“Like I can believe that.”
 $Aoi
-“Believe what you like, I don't particularly care.”
-—Was she really telling the truth?
-Regardless—I didn't want to take any unnecessary risks.
-The calm confidence on her face was terrifying.
-In the end, I couldn't bring myself to run, and I was led to a building on a back street.
-A room on the third floor—it looked like some kind of office.
-An emblem featuring a phoenix on a brow was displayed prominently.
+“It doesn't matter if you believe it or not.”
+—Are they really not here?
+But—I don't want to take any unnecessary risks.
+The composed expression on this woman's face was terrifying.
+In the end, without being able to run away, I was brought to a building in a back alley.
+A room on the third floor—it seemed to be a room used as some kind of office.
+An emblem featuring a phoenix was displayed on the wall.
 $Aoi
 “Wait here.”
-With those parting words, Aoi vanished into another room.
+Leaving me with those words, Aoi disappeared into another room.
 $Sousuke
 “—Good grief.”
-I walked over to the window and looked down at the bustle of the city. This area had escaped the destruction of the earthquake, and the old streets remained.
-A filthy city—for filthy people like us.
-Honestly—it was enough to make me sick.
+I walked over to the window and gazed at the bustle of the city. In this neighborhood that had escaped the damage of the earthquake, the old-fashioned cityscape remained.
+A filthy city—filthy people like us.
+Honestly—it makes me sick.
 $Aoi
 “—Sorry to keep you waiting.”
 $Aoi
 “Boss, this is Kudou Sousuke.”
 $Boss
 “...Hmm.”
-The man sitting in the chair stared intently into my eyes.
-A sharp, mature gaze. He was no ordinary man. Deep, cold eyes that had clearly seen their share of life-and-death struggles.
+The man seated in the chair was staring intently into my eyes.
+A sharp, middle-aged gaze. He’s no ordinary man. Deep, cold eyes that had clearly weathered many life-and-death struggles.
 $Sousuke
 “...Nice to meet you.”
-I gave a slight bow. If I didn't, I felt like I wouldn't be able to look away.
-Just being looked at made my body freeze up, as if I were being pinned in place by his gaze.
-This guy—he was the real deal.
-It felt as if his overwhelming presence were dominating the entire room.
+I bowed my head slightly. If I didn't, I felt as though I wouldn't be able to look away.
+Just being looked at made my body stop moving as if I’d been pinned down.
+This man—he’s the real deal.
+It felt as if an overwhelming presence was dominating the room.
 $Boss
-“...You’re young.”
-I couldn't even find it in me to offer a sarcastic comeback to the man’s murmur.
+“...You're young.”
+I couldn't even manage a quip back at the man's murmur.
 $Boss
 “But—you have good eyes.”
 $Sousuke
-“...Thanks.”
+“...Thank you.”
 $Aoi
-“As reported, I believe he is a talent who meets our initial objectives.”
+“As reported, I believe he is a talent that meets our initial objectives.”
 $Boss
 “...Kudou, was it?”
-The man’s eyes locked onto mine.
+The man's eyes caught me sharply.
 $Boss
-“For now, you’ll work with Souma here on some simple tasks. ...Now, there’s no need to be so tense. We, the ‘Seihoukai,’ welcome promising young men like yourself.”
+“First, I’ll have you do some simple work under this Souma. ...Now, there’s no need to be so guarded. We of the ‘Seihoukai’ welcome promising young men like you.”
 $Boss
-“Souma, prepare a room for him. No matter how much protection we offer, I can't keep every single policeman in check.”
+“Souma, prepare a room for him. No matter how much he’s under our protection, I can't suppress the entire police force, after all.”
 $Aoi
-“As you wish.”
+“Understood.”
 $Boss
 “I look forward to working with you, Kudou-kun.”
 The man held out his right hand.
 $Sousuke
-“...Yes, sir.”
-I shook it. A thick, rugged, heavy hand.
-This was a man I didn't think I could win against, even in a fight.
-He didn't seem like just a simple yakuza boss.
-A soldier—or perhaps—
+“...Yes.”
+I shook it back. A heavy, rugged hand with thick bones.
+This man—I don't think I could win even if I fought him.
+I can't imagine him being a mere yakuza boss.
+Is he a military man—or—
 $Boss
-“See him out.”
+“See him off.”
 $Aoi
-“—Yes, sir.”
+“—Yes.”
 $Aoi
-“Come along, Kudou Sousuke.”
+“Come, Kudou Sousuke.”
 $Sousuke
 “—Yeah.”
-Feeling the man’s piercing gaze on my back, I followed Aoi out of the office.
+While feeling the man's piercing gaze on my back, I followed Aoi and left the office.
 $Sousuke
 “That guy—who is he?”
 $Aoi
-“You’d best watch your tone. Now that you’ve been hired, that man is your boss.”
+“Watch your tone. As long as you've been hired, that person is your boss.”
 $Sousuke
-“‘Boss’—right.”
-So she wasn't going to tell me who he really was.
+“Boss—I see.”
+I suppose she won't tell me his identity.
 $Aoi
-“For the time being, you’ll be staying in a place we’ve prepared for you.”
+“For a while now, you'll be living in a place we've prepared.”
 $Aoi
-“As for the job description... well, I’ll fill you in as we go.”
-She gave a thin smile.
+“As for the job description... well, I’ll be telling you in due time.”
+She gave a thin laugh.
 $Aoi
-“It’s not far, so shall we walk? Follow me.”
+“It's not that far, so let's walk. Follow me.”
 $Sousuke
 “Good grief...”
-I loathed myself for falling into a situation where I had no choice but to follow her.
+I resented myself for having fallen into a situation where I had no choice but to follow her.
 --------------------
 0106
 ********************
-We walked east along the streetcar tracks and past Suidobashi Station before Aoi stopped.
+We walked east along the tram line, and Aoi stopped near where we’d passed Suidobashi Station.
 $Aoi
-“—This is the place.”
+“—Here we are.”
 $Sousuke
-“This is... the Culture Apartment?”
-I was stunned.
-The Ochanomizu Culture Apartment, completed after the earthquake with the promise of a completely Western-style lifestyle.
-Until now, my understanding was that it was a place where only the elite could live, entirely different from the Japanese-style houses where you took off your shoes at the entrance...
-Who the hell were these people, really?
+“This is... the Bunka Apartments?”
+I was surprised.
+The Ochanomizu Bunka Apartments, which were completed after the earthquake with the pitch that you could live a completely Western-style life.
+It was my understanding that it was a place where only a selected few cultured people could live, entirely different from the Japanese houses where you’d take off your shoes at the entrance...
+Really—who are these people?
 $Aoi
-“What are you gawking at?”
+“What are you daydreaming about?”
 $Sousuke
 “Is it really here...?”
 $Aoi
-“Of course it is. I have no reason to trick you.”
+“Of course. There’s no point in me lying to you.”
 $Sousuke
-“But in a place with so much traffic...”
-It didn't seem like a very suitable place for a hideout.
-A main road ran along the Kanda River right in front of us. Furthermore, it was an apartment where people of status lived.
-If someone as suspicious-looking as me were here, even if I weren't reported, it was easy to see how I’d become the talk of the town.
+“But, in a place with so much foot traffic...”
+Wouldn't it be unsuitable for a hideout?
+The main road along the Kanda River was right in front of us. Furthermore, it was an apartment where people of status lived.
+If I, who was clearly a suspicious person, were there, it could easily be inferred that while I might not be reported, it would certainly become the subject of rumors.
 $Aoi
-“—Let’s go inside.”
-Aoi took the lead and walked toward the entrance of the apartment.
-I—I had no choice but to follow.
-The room I was shown was, for lack of a better word—another world.
-A completely Western-style room, like something you’d find in a hotel in Chiyoda. I could hardly believe people actually lived here.
+“—Let's go inside.”
+Aoi took the lead and walked toward the apartment entrance.
+I—had no choice but to follow.
+The room I was led to was, how should I put it—another world.
+A completely Western-style room like a hotel in Chiyoda. I couldn't believe at all that this was normally habitable.
 $Aoi
-“—Well?”
-Aoi spoke with an air of triumph.
+“—How is it?”
+Aoi said proudly.
 $Aoi
-“There’s a lounge and a barber shop downstairs, but you won't be needing those.”
+“There’s a social room and a barbershop downstairs, but you won't need to use those.”
 $Sousuke
-“I imagine not.”
-I couldn't very well let the other residents see me.
+“I suppose not.”
+It wouldn't be good for me to be seen by the other residents.
 $Sousuke
-“So I just stay here and keep quiet?”
+“Should I just stay still here?”
 $Aoi
-“Yes. When there’s work to be done, I’ll come here in the morning.”
+“Yes. When there's work, I'll come here in the morning.”
 $Sousuke
-“Which means if you don't show up in the morning, there’s no work?”
+“In other words, if you don't come in the morning, there’s no work?”
 $Aoi
-“Unless some urgent task comes up, yes. On days when there’s no work, you’re basically free to do as you please.”
+“Unless some urgent work comes up, that's the case. On days without work, you’re basically free to do as you like.”
 $Sousuke
-“Can I go out?”
+“What about going out?”
 $Aoi
-“...At night should be fine. However, even though we’re pulling strings, you need to remember that we can't control everything.”
+“...At night, it should be fine. However, while we’ll be pulling strings, remember that we can't always lay the groundwork for everything.”
 $Aoi
-“Avoid any behavior that would draw attention. —After all, you are a notorious murderer who’s got the whole city in an uproar.”
+“Avoid behaving conspicuously as much as possible. —After all, you're a violent criminal who's been causing quite a stir.”
 $Sousuke
 “Tch—”
-I wondered if these people could really stop the investigation into me.
-I couldn't trust any of it.
-But—there was nothing I could do. Was I just supposed to hide away here and let them use me?
+Can these people really stop the investigation into me?
+I can't trust anything.
+But—there’s nothing I can do. Will I just be a shut-in here, used by these people?
 $Aoi
-“Unlike ordinary houses, this place is made of concrete, so you won't hear a sound from the next room—”
-Aoi touched the upright piano against the far wall.
-—At least I could still play the piano.
+“Unlike ordinary houses, it's made of concrete, so even if someone’s in the next room, they won't hear a sound—”
+Aoi touched the upright piano in the back.
+—I guess it's better that I can play the piano.
 $Aoi
-“...So no matter what happens here, no one will notice.”
+“...So, no matter what happens here, no one will notice.”
 Aoi approached me with a smile.
 $Sousuke
-“What...?”
+“What is it...?”
 $Aoi
-“Heh... not even a voice would reach the room next door.”
-Aoi’s eyes locked onto mine with a sinister glint.
+“Heh... voices won't even reach the next room.”
+Aoi’s eyes caught me bewitchingly.
 $Aoi
-“Yes... no matter what I do to you...”
+“Yes... no matter what you do...”
 $Sousuke
 “...Hmph.”
-—So that was it.
-Was she... inviting me?
+—Is this that?
+Am I being... invited?
 Embrace her
 Not in the mood
 Good grief.
-I’m only human, after all. It’s not like I’m uninterested. And as they say, don't let a good thing go to waste.
+Well, I’m a man too. I don't hate it. It's like a meal served on a platter, after all.
 $Sousuke
 “...Fine. Come here.”
-There happened to be a bed right behind me. I beckoned Aoi toward me, and she approached with a smile.
+There happened to be a bed right behind me. When I beckoned to Aoi, she approached with a smile.
 $Aoi
 “Heh—”
-A sharp, stinging sound echoed through the room.
+A crisp sound echoed in the room.
 $Aoi
-“What on earth gave you the wrong idea?”
-As I clutched my stinging cheek, Aoi shot me a provocative look.
+“I wonder what on earth you've misunderstood?”
+Aoi shot a provocative glance at me as I held my stinging cheek.
 $Sousuke
-“—Hah, then don't go acting so suggestive.”
+“—Hah, then don't go making such suggestive gestures.”
 $Aoi
-“—It seems you’re still confused.”
-With the same hand that had struck me, she grabbed my collar.
+“—It seems you're still misunderstanding.”
+With the same hand that slapped my cheek, she grabbed my collar.
 $Aoi
-“—You have no right to choose, and no say in the matter. Now sit back—and let me have my way with you.”
-With a shove, I was knocked backward onto the bed.
-Aoi began to take off her boots.
-Her slender legs were wrapped in what looked like coarse-knit stockings.
+“—You have neither the right to choose nor the initiative. Just stay still and—let me have my way with you.”
+With a shove, I fell back onto the bed.
+Aoi pulled off her boots.
+Was it coarse-mesh stockings wrapping her slender legs?
 $Aoi
 “Heh...”
-Aoi sat on the sofa and held out her leg toward me.
+Aoi sat on the sofa and held out her leg in front of me.
 $Sousuke
-“...I’m not really in the mood.”
-Too much had happened, and my head was a mess. I didn't have the energy for a tumble between the sheets.
+“...I'm not in the mood for that.”
+So much has happened that my head is in a mess. There’s no way I have the energy for a tryst.
 $Aoi
-“—Oh?”
-The moment I felt Aoi’s gaze grow sharp, her hand connected with my cheek.
+“—I see.”
+The moment I felt Aoi’s gaze grow harsh, my cheek was slapped.
 $Aoi
-“—You’ve got a lot of nerve.”
+“—Quite the cheeky one, aren't you.”
 $Sousuke
-“It’s not like I’m starved for women. I just—I don't like the way you’re doing this.”
+“It's not like I'm starving for women, and how should I put it—it just rubs me the wrong way.”
 $Aoi
 “Haha... what an entertaining man...”
-Aoi laughed, but her eyes remained fixed on me with an unyielding intensity.
+Aoi laughed, but her eyes were glaring at me.
 $Aoi
-“You’ll regret it if you don't do as I say.”
+“You'll regret it if you don't obey me.”
 $Sousuke
-“I’ll do my job, however reluctantly. But anything beyond that is none of your business. It’s called a private life.”
+“I'll obey you regarding work, however reluctantly. But anything else is none of your business. It's called privacy.”
 $Aoi
-“Do you really think your personal will matters here?”
+“I wonder if you really think your personal will matters?”
 $Sousuke
-“I’ll make it matter.”
+“I'll make it matter.”
 $Aoi
 “Hmph...”
 Aoi moved away from me.
 $Aoi
-“—I expect you to do your job.”
+“—I’ll have you do your work.”
 $Sousuke
 “I know.”
 $Aoi
-“...Fine, then. I’ll see you tomorrow.”
-With a sharp glance, Aoi left the room.
+“...Fine then. Well, see you tomorrow.”
+Aoi gave me a sharp glance and left the room.
 $Sousuke
 “What a terrifying woman...”
-I sat on the edge of the bed.
-It felt like a bit of a waste not to have taken that body, but there was no need to invite trouble when I already knew how dangerous she was.
+I sat on the bed.
+I felt it was a bit of a waste not to embrace that body, but there’s no need to take on a challenge knowing full well how dangerous it is.
 --------------------
 0107
 ********************
 $Aoi
-“Come on... take them off for me.”
+“Now... take them off for me.”
 $Sousuke
 “Tch—”
-What a nuisance.
-Her voice was sweet, dripping with a sugary tone. It sounded like she was trying to flatter me, yet she was clearly demanding that I serve her.
+This feels unpleasant.
+A sweet, nasal voice. It’s a voice that seems to flirt with men, yet it’s trying to make a man serve her.
 $Aoi
 “...Hurry up.”
-Aoi’s toes moved, stimulating my groin.
+Aoi's toes moved, stimulating my crotch.
 $Sousuke
-“Ngh...”
+“Ugh...”
 $Aoi
-“Heh... does that feel good? You’re already getting hard, and all I’m doing is using my foot...”
+“Heh... I wonder if it feels good...? Even though I'm only messing with you with my foot, it's getting bigger, you know...?”
 $Sousuke
-“—Hah, well, anyone would get a reaction if they were being handled like that.”
+“—Hah, well of course it’ll get big if it’s being rubbed like that.”
 $Aoi
-“I’m just treading on you, you know? Perhaps you’ve got a bit of a masochistic streak?”
+“I'm only stepping on it, though? Do you have some kind of masochistic streak?”
 $Sousuke
-“—Hardly.”
-I shifted my hips back a step.
+“—Not a chance.”
+I pulled my hips back a step.
 $Aoi
-“—Come here.”
-Aoi’s leg extended, her foot stroking my scrotum from below. I was on edge, feeling as if she might kick me at any moment.
+“—Now.”
+Aoi's leg extended, tickling my scrotum as if scooping it from below. I was on edge, feeling as though I might be kicked at any moment.
 $Sousuke
 “—Tch.”
-I didn't want to get crushed. Reluctantly, I knelt before Aoi.
+I can't let it get crushed. Reluctantly, I knelt before Aoi.
 $Aoi
-“Yes, that’s better.”
-Aoi smiled broadly. It was the condescending smirk of a true sadist.
-I tried not to look at her too much as I placed my hands on her thighs.
+“Yes, that's better.”
+Aoi broke into a broad smile. The downward-looking smile characteristic of a sadist.
+I tried not to look too much as I placed my hands on her thighs.
 $Aoi
 “Heh—”
-I slowly began to strip her.
-Her voluptuous thighs were pale and flawless, without a single blemish. Even her nails were meticulously cared for.
-It was a body perfectly suited for leading men astray.
-Not that I was necessarily going to let myself be led.
-—Actually, the fact that I was doing this meant I already was.
+I slowly began to undress her.
+Her voluptuous thighs were pale and without a single blemish. Even her nails were meticulously cared for.
+Her body was likely ideal for bewitching men.
+That said, it doesn't mean I’ll necessarily be bewitched.
+—No, am I already being bewitched by the very act of doing this?
 $Aoi
 “—What are you thinking about?”
-Aoi’s foot stroked my groin once more.
+Aoi's leg stroked my crotch again.
 $Sousuke
-“...None of your business.”
-I stripped off the other side.
+“...It's nothing.”
+I stripped the other one as well.
 I could see she was wearing red underwear.
 $Aoi
-“...Intrigued?”
+“...Curious?”
 $Sousuke
-“Hah—it’s not like I haven't seen it all before.”
+“Hah—it's not a place I’d be curious about after all this time.”
 $Aoi
-“You do seem quite experienced, don't you?”
+“You seem experienced, after all.”
 $Sousuke
-“Who knows. —There, I’ve taken them off for you.”
+“Who knows. —There, I've taken them off for you.”
 $Aoi
-“Hehe... thank you.”
-Aoi smiled seductively and thrust her bare feet toward my face.
+“Ufufu... thank you.”
+Smiling glamorously, Aoi thrust her bare foot in front of my face.
 $Sousuke
-“Now what...?”
+“What now...?”
 $Aoi
-“—Lick them.”
+“—Lick it.”
 $Sousuke
-“I don't recall having any obligation to go that far—”
-I was about to say I wouldn't, but Aoi’s foot was pressed against my cheek.
+“I’ve no obligation to go that far—”
+Just as I was about to say I didn't, Aoi's foot was pressed against my cheek.
 $Aoi
-“I’m not asking you. —I’m ordering you.”
+“I'm not asking. —I'm commanding.”
 $Sousuke
-“Guh—”
-Perhaps it was—wiser not to resist.
-Hesitantly, I let my tongue travel over the tips of her toes. Aoi’s smooth skin had a slightly bitter taste of sweat.
+“Ugh—”
+Is it... better not to resist?
+Hesitantly, I let my tongue crawl over her toes. Aoi's smooth skin tasted slightly of bitter sweat.
 $Aoi
-“Hehe... yes, that’s it...”
-Between her toes. Her arches. All the way to the back of her heels.
-The path my tongue traveled was left slick with saliva.
-Good grief—I was never very good at this sort of thing.
+“Heh... yes, that's it...”
+Between the toes. The arch. Even to the back of the heel.
+The trail where my tongue passed was slimy with saliva.
+Good grief—I'm not good at this sort of thing.
 $Aoi
-“Come on, lick them properly.”
-She used her other foot to pin my head down.
+“Now, lick it properly.”
+My head was held down by the foot I wasn't licking.
 $Sousuke
-“Ngh...!”
+“Ugh...”
 $Aoi
-“Hehe... I love that look in your eyes. Violent and rebellious, yet unable to resist... there’s nothing I enjoy more than breaking a man like you.”
+“Heh heh... I like that look. Violent and rebellious, yet unable to resist... it’s my pleasure to make a man like that submit.”
 $Sousuke
 “—Hah.”
 $Aoi
-“So I’ll forgive a little bit of acting out. But if you cross the line... you know what will happen, don't you?”
-She hooked her toes under my chin and forced me to look up.
-I met Aoi’s piercing gaze.
-—She was right; there was no guarantee of my safety if I defied her. I just... had to endure it for now.
-Once again, I let my tongue crawl over her legs. Placing my hands on her calves, I moved upward along the faint outline of her veins.
+“So I'll forgive a little bit of mischief. But if you overdo it... you know what happens, right?”
+She placed her toes under my chin and made me look up.
+I clashed with Aoi's piercing gaze.
+—It's true that if I go against her, there's no guarantee for my safety. I have no choice... but to endure this.
+I let my tongue crawl over her leg again. I placed my hand on her calf and moved up along the faintly visible veins.
 $Aoi
-“Yes... there... heh, that’s starting to make me shiver...”
-Aoi reached into the front of her top and began to squeeze her own ample breasts.
+“Yes... there... heh, it's starting to make me tingle...”
+Aoi reached into her own chest and began to knead her ample breasts.
 $Aoi
-“Haa... ah, nnh... higher... ah, y-yes... right there...!”
-I stroked her thighs, my hands grazing the back of her knees.
-I continued my oral ministrations, working my way between her legs.
+“Haa... ugh, nn... further up... heh, ye-yes... there...!”
+While stroking the back of her knee, I rubbed her thigh.
+I continued my lingual caress as if wedging myself between her legs.
 $Aoi
-“Nngh... you really are... quite skilled at this...”
+“Nn... you’re used to this, after all...”
 $Sousuke
-“...Perhaps.”
-Near the secret place hidden by the red fabric, the musky scent of a woman’s arousal wafted toward me.
+“...Who knows.”
+Near the secret place hidden by the red fabric, the musky scent of a woman wafted.
 $Aoi
-“—That’s enough.”
-Just as I was about to begin pleasuring her inner thighs, Aoi placed her hand on my head.
+“—That's enough.”
+Just as I was about to begin caressing her inner thighs, Aoi placed her hand on my head.
 $Aoi
-“Now... it’s my turn to pleasure you.”
-Aoi licked her lips and whispered.
+“Next, I'll... do it for you.”
+Licking her lips with her tongue, Aoi whispered.
 $Aoi
-“Hehe... look at how swollen you are already...”
-Aoi gripped my exposed member.
+“Heh... it's already swollen like this...?”
+Aoi gripped my exposed penis.
 $Sousuke
-“Ngh...!”
-A groan escaped me as she tightened her grip on the base with unyielding strength.
+“Ugh...”
+A groan escaped me as the base was squeezed with a relentless, strong force.
 $Aoi
-“I knew it... you’re exactly what I was looking for. This is going to feel... so good when I take it inside me.”
-She traced the underside of the shaft with her fingertip.
+“I knew it... just as I expected. It’ll feel good... when I insert this.”
+She traced the underside with her fingertips.
 $Sousuke
-“...Hah, so that’s why you wanted me? For this?”
+“...Hah, so your aim in needing me was this thing?”
 $Aoi
-“—Among other things.”
+“—There's more than just that.”
 She dug her nails into the shaft.
 $Sousuke
 “—!”
 $Aoi
-“...But for now, this is what I’m after.”
-She cupped the head of my member and stroked it with her palm.
+“...But right now, this is what I want.”
+The glans was wrapped in her hand and stroked with her palm.
 $Aoi
-“I’ll make sure you’re ready for me.”
-She wrapped her fingers around the shaft and began to move them up and down in a slow, deliberate motion.
+“I'll make it usable.”
+Entwining her fingers around the flesh rod, she began to move them up and down slowly—as if stroking.
 $Sousuke
-“—Ngh.”
-The sensation, somewhere between a touch and a tease with no real pressure, was a frustrating mix of anticipation and pleasure.
+“—Ugh.”
+Without putting in any strength at all, the movement that barely touched me brought a mixture of frustration and pleasure.
 $Aoi
-“Would you like it harder?”
+“I wonder if you want it stronger?”
 $Sousuke
-“Who knows... it’s not just about the friction.”
+“Who knows. It's not like rubbing is the only thing that matters.”
 $Aoi
-“Heh... you’ve got quite the mouth on you.”
-Aoi continued the same movement. Occasionally, her fingertips would brush against the base of the head, sending a jolt of electric stimulation through me.
-She was enjoying tormenting me.
-There was no way I could reach climax with this kind of movement. Aoi knew that, and she was deliberately repeating the almost amateurish motion.
+“Heh... quite the talker.”
+Aoi repeated the same movement. Occasionally her fingertips touched the base of the glans, and an electric shock raced through me each time.
+She’s enjoying tormenting me.
+With this movement, I couldn't possibly reach ejaculation. Knowing that, Aoi intentionally repeated that almost childish movement.
 $Aoi
-“Is it painful? Do you want me to move faster?”
+“Is it painful? Do you want me to move more?”
 $Sousuke
-“...Do whatever you want.”
-If that was the case, it was a battle of wills.
+“...Do as you like.”
+If it’s come to this, it’s a contest of wills.
 $Aoi
-“What a stubborn man... fine, I’ll just keep you... suspended like this until you’re crying and begging me to finish you off.”
+“What a stubborn man... fine, I'll leave you like this until you cry and beg... I'll keep you in suspense.”
 $Sousuke
-“Hah... as if I’d cry.”
+“Hah... who’s going to cry?”
 $Aoi
 “Heh...”
 $Sousuke
 “—!”
-I lurched back involuntarily as Aoi’s finger traced my perineum.
+Aoi traced my perineum with her finger, and I flinched despite myself.
 $Aoi
-“What’s the matter? You seem to be... quite sensitive there.”
+“What’s wrong? You seem to be... feeling it quite a bit.”
 $Sousuke
-“You... you bitch...!”
+“Y-You...!”
 $Aoi
-“—Hehe.”
+“—Heh heh.”
 $Sousuke
-“Guh—!”
-Aoi’s tongue licked the head of my member with a slow, wet stroke.
+“Ugh—!”
+Aoi's tongue licked up the glans.
 $Aoi
-“Look at that... you’re already leaking a bit.”
-She caught the pre-cum with the tip of her tongue and smeared it over the head.
+“Look... a little has started leaking from the tip.”
+She entwined the pre-ejaculatory fluid with the tip of her tongue and smeared it over the glans.
 $Aoi
-“Hehe... well? Do you want me to... make you feel even better?”
+“Heh... look, do you want me to make it feel... even better?”
 $Sousuke
-“...Whatever.”
+“...Do as you please.”
 $Aoi
-“...I was hoping you’d resist a bit more. It takes some of the fun out of it... but fine.”
-With that, Aoi took me into her mouth all at once.
+“...I wanted you to resist more. It takes the fun out of it... but fine.”
+With that, Aoi took the whole thing into her mouth at once.
 $Aoi
-“Mmph... nnh, phew... nngh...”
+“Nmmu... nn, fu... nnn...”
 $Sousuke
-“Ngh...!”
-My member was enveloped in a warm, wet sensation. Her tongue crawled over the head, meticulously pleasuring the underside and the base.
+“Ugh...”
+My penis was wrapped in a warm sensation. Her tongue crawled over the glans, meticulously licking the underside and the base.
 $Aoi
-“Ngh... *slurp*... mmph... ah, nnh...”
-She was clearly experienced; Aoi was targeting every one of a man’s weak points with precision.
+“Nn... slurrp... ppu, ammu... fu, unn...”
+She must be used to this; Aoi accurately attacked a man's weak spots.
 $Aoi
-“Mmm... nnh... phew, *lick*... ngh...!”
-She massaged my scrotum as well, sending waves of numbness through my lower body.
+“Nn-fu... nn... fu, hammu... nku... ugh.”
+My scrotum was also kneaded, and a numbness raced through my lower body.
 —This is bad.
-I tensed my abdomen. If I didn't, I felt like I might climax right then and there.
+I put strength into my lower abdomen. If I didn't, I felt as though I might ejaculate.
 $Aoi
-“Hehe... are you trying to hold it back?”
-Aoi whispered, her fingers trailing from my perineum toward my anus.
+“Ufufu... are you holding back?”
+Aoi whispered, tracing her finger from my perineum to around my anus.
 $Aoi
-“Not yet... you can't come yet. If you do... I’ll kill you.”
-Her voice dropped into a low, menacing tone for those last few words as she squeezed the base of my member.
-Damn it... I didn't like being dominated like this.
-But—when I thought about whether there was anything I could do, I realized I was helpless.
-The best I could do was offer a few biting words.
+“Not yet... you can't let it out yet. If you do... I'll kill you.”
+Putting a menacing edge on only the last words, Aoi gripped the base of my penis.
+Dammit... I don't like being toyed with one-sidedly like this.
+That said—even if I tried to think of what I could do in this state, there was nothing.
+At most, I could only spit out hateful words.
 $Sousuke
-“Hah—isn't it you who’s starting to lose control?”
-Aoi stopped her hand and looked up.
+“Hah—isn't it you who's becoming unable to hold back?”
+Stopping the movement of her hand, Aoi looked up.
 $Aoi
-“—Oh? You noticed, did you...?”
-Her mouth curved into a smirk as she reached a hand toward her own groin.
+“—Oh, you figured it out well...”
+Curling up the corners of her mouth, Aoi reached one hand into her own lower abdomen.
 $Aoi
-“I have to admit... there’s nothing that feels quite as good as making a strong man submit...”
-A wet, squelching sound came from Aoi’s private place.
+“I knew it... it feels good to make a strong man submit...”
+A squelching, wet sound echoed from Aoi's secret place.
 $Aoi
-“Heh... do you want to be inside me?”
+“Heh... do you want to insert it?”
 $Sousuke
-“...You’re the one who wants it, aren't you?”
+“...The one who wants it is you, isn't it?”
 $Aoi
-“Hehe-heh...”
-A dangerous light flared in Aoi’s eyes.
-She climbed on top of me.
+“Heh heh heh...”
+A dangerous light dwelled in Aoi's eyes.
+Aoi leaned over me.
 $Aoi
-“—Be prepared. If you finish before I do—”
-With a wet squelch, I was swallowed into the depths of her.
+“—Prepare yourself. If you finish first—”
+With a squelch, my thing was swallowed inside Aoi.
 $Aoi
-“Nngh... I’ll... I’ll kill you...”
+“Ugh... nn, I-I'll kill you...”
 $Sousuke
-“Ngh...!”
-The interior of her was an indescribable sensation, as if I were being enveloped by countless layers of velvet.
-This—this was going to be difficult.
+“Ugh...”
+Inside Aoi's vagina, the sensation of layers upon layers of folds brought an indescribable feeling.
+This is... intense.
 $Aoi
-“Ah... it’s reaching... so deep... nnh, ah...!”
-Straddling me, Aoi began to move her hips in a twisting motion.
+“Afu... it’s reaching... deep... nn, ku... nn!”
+Straddling me, Aoi moved as if twisting her hips.
 $Aoi
-“Haa... ah, nnh... phew, it’s... it’s so good, the length... and the thickness too...!”
+“Hah... ah, nn... fu, i-it’s good, the length... and the thickness, too...!”
 $Sousuke
-“Ngh... you’re pretty good yourself.”
+“Ugh... you’ve got a good thing yourself.”
 $Aoi
-“Nngh... when I move, it... it rubs against... right there... it feels amazing...!”
-Even as she ground her hips, she occasionally squeezed me tightly with her walls. Each time, I felt my consciousness start to drift, and I had to fight to keep my composure.
-After all, my life was on the line if I climaxed first.
+“Tsu... when I move... it rubs, and... there... it feels so good...!”
+While shaking her hips, she occasionally squeezed hard with her vagina. Each time, I felt like my consciousness might be taken away, and I desperately put strength into myself.
+After all, my life would be in danger if I reached the peak first.
 $Aoi
-“Phew...! Nnh, ngh, haa, ah, haa, you too... you start moving...”
+“Fuu...! Nn, kku, haah, ah, hah, you... move too...”
 $Sousuke
 “Tch—”
-Was this an order too?
-Reluctantly, I began to slowly move my hips.
-Rather than seeking pleasure, my priority was maintaining my own control.
+Is this a command too?
+Reluctantly, I began to move my hips slowly.
+Rather than seeking pleasure, keeping my composure was the priority.
 $Aoi
 “...Are you mocking me?”
-A cold voice came from above. At the same time, I felt a sharp pain in my chest.
+A cool voice came from above. At the same time, a sharp pain in my chest.
 $Sousuke
-“Guh...!”
-Aoi’s index finger nail was digging into my left pectoral.
+“Ugh...”
+The nail of Aoi's index finger was digging into my left chest.
 $Aoi
-“If you can't satisfy me, you might as well be dead.”
-Her finger moved, leaving a jagged red line across my chest.
+“If you can't satisfy me, you'd be better off dead.”
+Her finger moved, and a red streak raced diagonally across my chest.
 $Aoi
 “—Move.”
 $Sousuke
-“Tch...!”
-Fine, then.
-I grabbed Aoi’s hips and began to thrust upward into her.
+“Tch...”
+If it’s come to this, I’ll just throw caution to the wind.
+I placed my hands on Aoi's hips and thrust upward, slamming my hips into hers.
 $Aoi
-“Agh...! Nngh, haa, ah... ngh, phew, nnh... y-yes... I knew you could do it...!”
-Aoi let out a series of high-pitched moans as she massaged her own breasts.
+“Agu...! Nn, hah, ah... ku, fu, nn... ye-yes... you can do it when you try...!”
+Kneading her own breasts, Aoi let out a cry of pleasure.
 $Aoi
-“Nngh, ah, haa! Nnh, phew, ah... m-more... m-move more!”
-My only choice was to make her climax before I did.
-I began to thrust into her with reckless abandon.
+“Hi, kku, ah! Nn, fu, fua... m-more... move more!”
+I had no choice but to make Aoi finish before I did.
+I just shook my hips recklessly.
 $Aoi
-“Nngh, ah, haa, ahh! Haa, haa, ah... ngh! Y-yes... right there... that’s it...!”
-Her walls were twitching and pulsing around me.
+“Nn, ku, fua, augh! Hah, hah, a... kku! Ye-yes... there... it's good!”
+The vaginal walls throbbed and writhed.
 $Aoi
-“Ah... a-ah, agh... haa, nnh, ngh...!”
-Aoi leaned forward, pressing her hands against my chest.
+“Ya... ah, ah, agu... fua, nn, kuu...!”
+Aoi pushed her hands against my chest.
 $Aoi
-“Ah... haa, haa... you’re... you’re not bad.”
+“A... hah, hah... you’re quite good.”
 $Sousuke
-“...I live to please.”
-I reached down to where we were joined and pressed my finger against her clitoris.
-The swollen nub was slick and glistening with her arousal.
+“...Thanks to you.”
+I reached toward the joining area and placed my finger on Aoi's clitoris.
+The plumply swollen area was wet with love juice and shining brilliantly.
 $Aoi
-“Ah... n-no, not there...!”
-Suddenly, Aoi’s demeanor shifted.
+“A... uagh, there... no...”
+Aoi's behavior suddenly became submissive.
 $Sousuke
-“...Is this a weak point?”
+“...Are you weak there?”
 $Aoi
-“As... as if...”
-Even as she denied it, she was thrusting upward against me, making it clear that her clitoris was indeed her weakness.
+“It’s not... like that...”
+While being thrust from below, Aoi denied it. But it was clear that her clitoris was her weak point.
 $Aoi
-“Ngh... ah, nngh...! Ah... haa, haa... nnh...!”
-I stimulated the nub with a bit more intensity.
+“Hi... ku, nggu...! A... hah, hah... nnn...”
+I stimulated her clitoris a little more strongly.
 $Aoi
-“Nngh... ngh, i-if you don't... stop that... ah!”
+“Nn... ku, i-if you don't... stop... afu!”
 $Sousuke
-“...What are you going to do?”
-I pinched the nub between my fingers.
+“...What will you do?”
+I pinched her clitoris.
 $Aoi
-“Nnh... agh, nngh... I’ll... I’ll show you...!”
-With a sudden squeeze, her walls clamped down on my member.
+“U... ku, kuu... I’ll do... this to you!”
+With a squeeze, her vagina tightened, and my penis was constricted.
 $Sousuke
-“Ngh... ah...!”
-I was squeezed from base to tip in a rippling motion, and the urge to climax spiked instantly.
+“Ggu... ugh...”
+Pressed as if writhing from the base to the tip, the sensation of ejaculation rapidly intensified.
 $Aoi
-“Ah, haa... g-go ahead and come... come on, come on, come on!!”
-Aoi’s hips moved up and down, relentlessly grinding against me.
+“Ah, hah... just finish already... look, look, look!!”
+Aoi's hips moved up and down, repeatedly rubbing against my thing.
 $Aoi
-“Ah, phew, nnh... nnh, ngh, haa, ahh... nnh, ngh... ugh!!”
+“Ah, fu, u... nn, ku, hah, afu... nn, gu... uugh!!”
 $Sousuke
-“Ngh... I’m... I’m coming...!”
+“Ugh... it's coming...”
 $Aoi
-“Ah, ah, ngh... nnh, phew, f-fill me, inside me... ah, a-ah, a—ahhh!!”
+“Ah, ah, kuu... nn, fu, le-let it out, inside... a, aah, a—aah!!”
 $Sousuke
-“—Ngh!!”
-At the moment of climax, I tried to pull out, but with her straddling me so firmly, it was impossible.
+“—Ugh!!”
+At the moment of ejaculation, I tried to pull out, but with her firmly on top of me, I couldn't do it.
 $Aoi
-“Ah... hah, it’s coming... it’s so hot...”
-I came forcefully into the depths of her. Perhaps because it had been a while, the volume was overwhelming.
+“A... afu, it’s coming out... it's hot...”
+I ejaculated forcefully toward the depth of her vagina. Perhaps because it had been building up recently, there was an unusually large amount.
 $Aoi
-“Hehe... you really gave me a lot, didn't you...”
+“Nn-fu... you let out a lot for me...”
 $Sousuke
-“Haa... haa...”
-A mixture of her arousal and my seed overflowed from her, soaking into her pubic hair.
+“Haah... haah...”
+The mixture of love juice and semen overflowed, wetting her pubic hair.
 $Aoi
-“I was hoping to be the one in control the whole time... but I suppose I’ll let it slide.”
+“I originally wanted to attack you one-sidedly, but... well, I’ll let it pass.”
 $Sousuke
-“...You enjoyed yourself, didn't you?”
+“...You were feeling it, weren't you.”
 $Aoi
-“—Hmph. I do this because it feels good... isn't that obvious?”
-With those curt words, she leaned her upper body against me.
+“—Hmph. I'm doing this to feel it... so isn't that natural?”
+Saying that bluntly, Aoi leaned her upper body on me.
 $Aoi
-“—That was actually quite good.”
-She whispered, her tongue trailing over my cheek.
+“—It was quite good.”
+She whispered while crawling her tongue over my cheek.
 $Sousuke
-“—Glad you liked it.”
-From my perspective, it was a far cry from pleasure; it felt like sex that I’d been forced into.
+“—Thanks for that.”
+As for me, it was a sexual experience far from pleasure, with a strong sense of being forced into it.
 $Aoi
-“—Do you have a problem?”
-Aoi shifted her hips. My member, still inside her, was squeezed, and it felt as if it might harden again.
+“—Do you have some complaint?”
+Aoi wriggled her hips. My thing, still inserted inside her, was squeezed and seemed as though it might stand again.
 $Aoi
-“Surely... you can go again, can't you?”
+“Of course... you can still go, right?”
 $Sousuke
-“Sorry... but I’m done for now.”
-I pulled my member out of her, quelling the urge to harden.
-With a wet pop, the semen remaining inside her began to leak out.
+“Sorry, but... that's the end.”
+As if to soothe the thing trying to become erect, I pulled my penis out of Aoi.
+With a squelch, the semen remaining in her vagina leaked out.
 $Aoi
-“Ah... you’re such a cold man, honestly...”
+“Ann... what a cold man, really...”
 $Sousuke
-“Suits me just fine.”
+“Cold is fine with me.”
 $Aoi
-“Hehe... I like men who don't try to flatter me.”
+“Heh... I like men who don't try to flatter me.”
 She stroked my cheek.
 $Aoi
-“I enjoy making men like that submit... too.”
+“Making a man like that submit is... also my thing.”
 $Sousuke
 “Give me a break...”
-Climbing off me, Aoi began to straighten her clothes.
+Getting off from on top of me, Aoi adjusted her clothing.
 $Aoi
-“—You start work tomorrow.”
+“—I’ll have you do your work starting tomorrow.”
 $Sousuke
 “...I know.”
-I didn't like it, but I had no choice.
+It’s reluctant, but it can't be helped.
 $Aoi
-“And from now on, you’ll be doing this for me as well. Understood?”
+“And from now on, I’ll have you accompany me in things like this. Understand.”
 $Sousuke
-“—Do I have the right to refuse?”
+“—And my right to refuse?”
 $Aoi
-“I don't recall giving you any rights whatsoever.”
+“I have no intention of giving you any rights whatsoever.”
 $Sousuke
 “—Hah.”
-It seemed I’d been made into her personal plaything.
+I might have been made into a convenient toy.
 $Aoi
-“—Well then, I’ll see you tomorrow.”
+“—Well then, see you tomorrow.”
 Aoi left the room.
 --------------------
 0108
@@ -799,61 +799,61 @@ Aoi left the room.
 $Sousuke
 “Phew...”
 —I’m exhausted.
-In the space of a single day, everything around me had changed.
-I’d lost my job, and I couldn't go home.
-I’d managed to regain those two things, in a sense—but my new employers were far too suspicious.
-Typical.
-It wasn't that I felt lonely being unable to go home.
-I felt bad for Yuzuha, but being alone wasn't so bad.
+In just one day since last night, everything around me has changed.
+I lost my job and can't go home.
+Those two things were quickly recovered, but—the place I’ve been hired is just too shady.
+Good grief.
+It’s not that I’m feeling lonely because I can't go home.
+I feel bad for Yuzuha, but being alone isn't bad either.
 Especially in a situation like this.
-I looked at my right hand.
-I hadn't done anything.
-I hadn't—I hadn't killed anyone.
-I hadn't—at least, I shouldn't have.
-I’d only hit and kicked her.
-And as a result, my fingers were a little sore.
-As a piano player, that was a failure.
-But—I wouldn't be getting any more work as a piano player.
-In that case—it didn't really matter, did it?
+I look at my right hand.
+I didn't do anything.
+Nothing—I didn't kill anyone.
+I didn't—I shouldn't have.
+I only punched and kicked back then.
+Thanks to that, my fingers hurt a little.
+As a piano player, this was a failure.
+But—no more work as a piano player will come.
+In that case—doesn't it not matter?
 $Sousuke
 “............”
-I stared vacantly around the room. In the corner—against the wall—was a black box.
+I stare blankly around the room. In a corner—the black box by the wall.
 ...Good grief.
 $Sousuke
-“—I guess I can't break old habits.”
-I stood up and walked over to the piano. Opening the lid, I touched the pristine white keys.
-The sound rang out quietly in the silent room.
+“—It seems I can't fix a deep-seated habit.”
+I stand up and go over to the piano. I open the lid and touch the pure white keys.
+A sound that rings quietly in the silent room.
 —Nostalgic.
-Even though I’d played just yesterday.
-Sitting on the bench, I placed both hands on the keys.
-My fingers moved of their own accord, playing a familiar melody.
-While I was playing, I could forget everything else.
+Even though I should have played it just yesterday.
+I sit in the chair and place both hands on the keyboard.
+My fingers move of their own accord, playing a familiar melody.
+While I'm playing, I can forget everything.
 Thinking of nothing—
 Feeling nothing—
-If only everything could just disappear—
+If only it could be as though nothing happened—
 My hands stopped.
 $Sousuke
 “............”
-Typical...
-I can't focus.
-The image of a dead woman I hadn't even seen floated into my mind.
-Wait—what if I really *did* see her?
-What if I just forgot?
+Good grief.
+I can't concentrate.
+The corpse of a woman I didn't even see comes to mind.
+No—what if I really had seen it?
+What if I’ve just forgotten?
 $Sousuke
-“...As if that could be true.”
+“...Like hell that's it.”
 I remember.
-I hit the woman; that was a fact.
-But I didn't go so far as to kill her.
-—Are you sure?
+It's a fact that I punched the woman.
+But I didn't go as far as killing her.
+—Really?
 I didn't kill her.
 I didn't kill her.
 I didn't—
 $Sousuke
-“Ngh...!”
-Sweat trailed down my cheek and dripped onto the keys.
-My left arm throbbed.
+“Ugh—”
+Sweat trickles down my cheek and falls drop by drop onto the keys.
+My left arm hurts.
 $Sousuke
 “—Tch.”
-I’ll just go to sleep for today.
-Maybe something will change by tomorrow morning.
-—I only hope it’s a change for the better.
+I'll just sleep today.
+Tomorrow, something might change again.
+—I just hope it's for the better, even if only slightly.

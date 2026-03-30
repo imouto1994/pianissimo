@@ -1,125 +1,125 @@
 --------------------
 0623
 ********************
-Outside, I can hear the sounds of impatient autumn insects.
-Beyond that, it is a remarkably quiet night.
-Qwon isn't here right now—she’s downstairs taking a bath.
+From outside, the sounds of early autumn insects can be heard.
+Otherwise, it is an entirely silent night.
+Qwon is not here right now—she is downstairs taking a bath.
 $Qwon
-“—Please, do not peek.”
+“—Please do not peek.”
 $Sousuke
-“As if I would.”
+“Who would peek?”
 $Qwon
-“...I suppose a woman with a figure like Tachibana-san’s is more to your liking.”
+“……As I thought, you prefer women with a physique like Miss Tachibana’s.”
 $Sousuke
-“...How did you even reach that conclusion?”
-...Well, it was just the usual banter.
-I didn't even feel like picking up one of the books piled against the wall; I just lay there, sprawling across the tatami.
-—Maybe I should just sleep like this.
+“……How did you reach that conclusion?”
+……Well, it’s the usual sort of banter.
+I didn't even feel like picking up the books piled against the wall; I simply sprawled out on the tatami mats.
+—Should I just fall asleep like this?
 I pulled myself up and switched off the light.
-The silence was heavy enough already, but the darkness made the stillness feel even more profound.
-Perhaps it would feel different if there were a wind chime hanging somewhere.
-The sound of footsteps echoed with strange clarity.
+The night was already quiet, but the darkness made the silence feel even more profound.
+Perhaps it would feel different if a wind chime were hanging.
+My footsteps echoed with strange clarity.
 The sliding door opened, and Qwon returned.
-A faint mist of steam rose from her freshly bathed body, carrying the scent of soap with it.
+A faint steam rose from her post-bath body, and the scent of soap seemed to drift through the air.
 $Qwon
-“—Sousuke-san.”
+“—Sousuke.”
 $Sousuke
-“...Yeah?”
-I sat up as she called my name.
+“……Hm?”
+At her call, I sat up.
 $Qwon
-“Please, comb my hair.”
+“Please comb my hair.”
 $Sousuke
-“...Do it yourself.”
-I grumbled, looking at her long, cascading hair.
+“……You can do it yourself, can't you?”
+I grumbled as I looked at Qwon’s long hair.
 $Qwon
-“It is quite a difficult task.”
+“It is quite a task.”
 Qwon pressed the comb into my hand.
 $Sousuke
 “I might snag it, you know?”
 $Qwon
-“If it hurts, I shall be cross.”
+“I shall be angry if it hurts.”
 $Sousuke
-“...You’re something else.”
-Ignoring my complaints, Qwon wedged herself into the space between my legs.
+“……Good grief, you.”
+Ignoring my grumbling, Qwon wedged herself between my legs.
 $Sousuke
-“—Good grief.”
-I gave a wry smile at her forceful behavior and took a lock of her long hair in my hand.
-The damp strands shimmered with a soft luster.
-I touched the teeth of the comb to the hair near the crown of her head.
+“—Well, then.”
+I gave a wry smile at her insistent behavior and took a lock of her long hair in my hand.
+The damp hair gave off a brilliant luster.
+I touched the teeth of the comb near the top of her head.
 $Qwon
-“Ngh... ah...”
+“Ngh…… ah……”
 $Sousuke
-“Don’t make such strange noises.”
-I gave her a playful poke on the back of her head.
+“Don’t make strange noises.”
+I gave Qwon a playful poke on the head from behind.
 $Qwon
-“...How rude.”
-Qwon looked back at me, her cheeks puffing out just a tiny bit.
+“……How rude of you.”
+Qwon turned around, her cheeks puffed out just a little.
 $Sousuke
-“...Just stay still.”
-I started combing, ignoring her pout. The fine, silver-silk strands offered no resistance as they were straightened into place.
-Perhaps she’d used some kind of fragrance, because a sweet scent wafted up every time the comb passed through.
+“……Stay still.”
+Regardless of Qwon’s reaction, I began to comb. The silver-white hair, fine as silk, fell straight without any resistance.
+Perhaps she had used some kind of fragrance; a sweet aroma wafted up every time I combed.
 $Qwon
-“Phew...”
+“Phew……”
 $Sousuke
 “What is it?”
-I asked as she let out a deep breath.
+I asked Qwon as she let out a deep breath.
 $Qwon
 “—It has been a long time since I have had this done for me.”
 Qwon began to speak quietly.
 $Qwon
-“When my sister was still alive, we used to comb each other’s hair. We were identical, so we had no need for a mirror.”
-Qwon closed her eyes, looking nostalgic as she delved into her memories.
+“When my sister was alive, we used to comb each other’s hair. We were identical, so we did not even need a mirror to manage.”
+Qwon closed her eyes nostalgically, as if remembering the past.
 $Qwon
-“My sister’s hair was so beautiful, like threads of silk. It was soft, as if it held a permanent moisture.”
+“My sister’s hair was very beautiful, truly like silken thread. It was so soft, as if it held moisture forever.”
 $Sousuke
-“—Yours is exactly the same.”
+“—Yours is the same, isn't it?”
 $Qwon
-“...Perhaps so. At times—I feel an overwhelming anxiety, wondering if I am truly myself.”
+“……Perhaps so. Sometimes—I feel uneasy, wondering if I am truly myself.”
 $Qwon
-“The one living now... is it truly Mikanagi Qwon, or is it Mikanagi Towa—which one am I?”
+“Is the one living now truly Mikanagi Qwon, or is it Mikanagi Towa—which one am I?”
 $Sousuke
-“...You’re Mikanagi Qwon, aren’t you?”
+“……You’re Mikanagi Qwon, aren't you?”
 $Qwon
-“That is the name I have given you. If that were a lie—”
+“Because that is the name I give to Sousuke. If that were a lie—”
 $Sousuke
-“...I wouldn't be able to tell the difference.”
+“……I wouldn't be able to tell the difference.”
 $Qwon
 “—I suppose not. That is only natural.”
-Qwon’t answer sounded like a fading breath.
+Qwon answered with a sigh.
 $Qwon
-“Perhaps they—wished to take my sister instead.”
+“Perhaps they—might have wanted to take my sister as well.”
 $Sousuke
-“...They?”
+“……They?”
 I stopped combing.
 $Qwon
-“Yes. The ones who killed my parents and took me away—my sister would have had far more utility than I.”
+“Yes. Those who killed my parents and snatched me away—my sister should have had far more utility value than I.”
 $Sousuke
-“Utility...?”
-Did they kidnap her to make her do something? It was hard to imagine it was for ransom. Qwon’s parents—were killed during the break-in.
-The purpose of "them" was—
+“Utility value……?”
+Did they kidnap her to make her do something? A ransom seems unlikely. Qwon’s parents—they were killed during the break-in.
+What was the purpose of “them”—
 $Qwon
-“—I was taken to be a researcher.”
+“—I was kidnapped as a researcher.”
 $Sousuke
 “A researcher?”
 $Qwon
 “Yes—for weapons development.”
-Qwon let the words fall, short and heavy.
+Qwon let the words fall in a short murmur.
 $Qwon
-“As researchers of Western science, we both drew a great deal of attention. They must have believed we would be useful in developing new armaments.”
+“As researchers of Western science, we sisters drew quite a bit of attention. They must have thought we would be useful for developing new weaponry.”
 $Sousuke
-“—Wait. If it’s weapons development, are you saying the opposition is the military?”
+“—Wait. If it’s weapons development, is the opponent the military?”
 $Qwon
-“The military never shows its face, but they are certainly involved. It seems former officers are the ones at the heart of the activity.”
+“The military does not appear in the open, but they are at least involved. It seems former military personnel are at the center of the activities.”
 $Sousuke
-“Why the hell would they want someone like Qwon—”
+“Why the hell would they go after someone like Qwon—”
 $Qwon
-“A chronic shortage of talent, perhaps? Or an overestimation of my abilities—”
+“A chronic shortage of talent, perhaps? Or perhaps an overestimation of my abilities—”
 $Sousuke
-“And that... has been for two years?”
+“That was…… two years ago?”
 $Qwon
-“Yes. Fortunately, I was not treated poorly. Though I was granted no freedom in exchange.”
+“Yes. Fortunately, the treatment was not poor. In exchange, however, there was no freedom.”
 $Qwon
-“I was half-imprisoned—and tasked with the design of a certain weapon.”
+“I was halfway imprisoned—and involved in the design of a certain weapon.”
 I swallowed hard.
 $Sousuke
 “—What kind?”
@@ -127,548 +127,548 @@ Qwon turned around.
 $Qwon
 “—A tool to drive people mad.”
 $Sousuke
-“............!”
+“…………!”
 The words wouldn't come.
 A tool to drive people mad—
 That was—
 $Qwon
-“—The prototype was taken the moment it was finished.”
-—She sounded almost disappointed.
+“—It was taken away just as the prototype was completed.”
+—She sounded regretful.
 $Qwon
-“It was still only theoretical; we hadn’t even conducted sufficient testing.”
-Qwon muttered it with such genuine regret.
+“It was still only theoretical, in a state where sufficient testing had not yet been done.”
+Qwon murmured, sounding truly regretful.
 $Sousuke
-“—Is that thing... functional—?”
+“—Is that thing…… usable—?”
 My throat felt parched.
 $Qwon
-“—Regardless of the efficacy—it was in a usable state.”
-Qwon stated it with conviction.
+“—Regardless of its effectiveness—it was in a usable state.”
+Qwon stated with certainty.
 $Qwon
-“I created something that is fully capable of driving others into a state of insanity.”
+“I created something that could sufficiently drive others into madness.”
 $Sousuke
-“The possibility of that—being used on me...?”
+“The possibility that—it was used on me……?”
 $Qwon
 “The possibility—is entirely plausible.”
 Qwon nodded.
 $Qwon
-“Based on what you have told me, Sousuke-san—the symptoms you experienced during the incidents, the dizziness and the headaches, are exactly as I predicted.”
+“Based on what I have heard of Sousuke’s story so far, the symptoms you experienced in the incident—the dizziness and headaches—are exactly as I predicted.”
 $Qwon
 “However—it differed slightly from my expectations.”
 $Sousuke
-“...Differed how?”
+“……What was different?”
 $Qwon
-“The degree of effectiveness, perhaps—I did not intend for the subject to lose their memories.”
+“The degree of effectiveness, perhaps—it was not in my plans for the subject to have no memories remaining.”
 $Qwon
-“I designed it so that they would retain their normal faculties even in the midst of madness.”
+“Because I made it so that a normal level of perception would remain even within madness.”
 $Qwon
-“However—if this tool was used on you, you would be found innocent. One cannot be held responsible for crimes committed in a state of insanity.”
+“However—if this tool was used on Sousuke, you would be innocent. If one is in a state of insanity, they cannot be held responsible for the crime.”
 $Qwon
-“If that is the case, then the one who used the tool on you is the true culprit.”
+“In that case, the person who used that tool against Sousuke would be the true culprit.”
 $Sousuke
-“...Ayane told me something like that, too...”
+“……Ayane told me that too……”
 That I wasn't guilty.
-She’d said that, trying to cheer me up.
-And yet, even Ayane—
+She said that to try and cheer me up.
+But even Ayane—
 $Sousuke
-“...It’s all bullshit.”
-I didn't want to think about any of this anymore.
+“……This is ridiculous.”
+I didn't want to think about it anymore.
 $Sousuke
-“...I’m going to sleep.”
-I lay down on the futon without waiting for her reply.
-For a split second, I thought I saw a shadow cross Qwon’s face.
+“……I’m going to sleep.”
+Without waiting for Qwon’s reply, I lay down on the futon.
+I felt as if Qwon’s expression clouded over just for a moment.
 $Sousuke
-“...Either way, it doesn't change the fact that I killed her.”
+“……Either way, it doesn't change the fact that I’m the one who killed them.”
 $Qwon
 “—Perhaps not.”
 Qwon nodded quietly.
-It was—the gaze of an observer. She wasn't blaming me for my sins; she was simply accepting things as they were, with cold indifference.
-I wasn't angry. Everything was my responsibility.
-But—the white nape of her neck, right there in front of me.
-I felt as if it were enticing me.
-Slender and fragile, like the stem of a flower.
-The fingers that had been playing with her hair naturally reached for that neck.
-—It felt so normal.
+It was—the perspective of a bystander, neither blaming me for my crime nor judging, simply accepting the reality as it was.
+It didn't make me angry. Everything was my responsibility.
+But—the white nape of the neck before my eyes.
+I felt as if it were inviting me.
+A slender, fragile nape, like the stem of a flower.
+The fingers that had been playing with her hair naturally reached out toward that neck.
+—It was perfectly normal.
 —As if it were nothing at all.
-Slowly, but surely, I began to tighten my grip.
-I could feel Qwon’s pulse, thumping against my fingertips.
-She must have been in pain, yet she made no sound.
-Instead, Qwon relaxed her body and leaned back against me.
+Little by little, but surely, I began to pour strength into my fingertips.
+I could feel Qwon’s heartbeat, thump-thump, thump-thump.
+It must have been painful, yet she made no move to cry out.
+On the contrary, Qwon relaxed her body and leaned back against me.
 Was she—hoping to be killed by me?
-Hesitation. The strength drained slightly from my hands.
+Confusion. The strength left my hands just slightly.
 $Qwon
 “—Please.”
-Even as she struggled for breath, her voice wasn't raspy; she simply urged me on quietly.
+Though it must have been painful, she didn't even let her voice rasp; she simply urged me quietly.
 $Qwon
-“You have the right to do this.”
+“You have the right to do that.”
 $Sousuke
-“Guh... ugh...”
+“Guh…… ugh……”
 —I couldn't do it.
-There was no way I could kill someone while I was still conscious.
-I wasn't—I wasn't strong enough to end a life of my own free will.
+While my consciousness remained, I could never kill someone.
+I—am not strong enough to kill another human being of my own will.
 $Qwon
-“—You are not going to kill me?”
-Qwon’s voice sounded almost regretful.
+“—Will you not kill me?”
+Qwon’s voice sounded somehow disappointed.
 $Sousuke
-“...I can’t.”
-If I strangled her here—I would be validating everything.
-In the body I held tight, I could feel a comforting warmth and a steady heartbeat.
+“……I can’t kill you.”
+If I strangled her here—I would be affirming everything.
+From Qwon’s body as I held her, I felt a comfortable warmth and a steady heartbeat.
 $Sousuke
-“Qwon... I’m sorry...”
+“Qwon…… I’m sorry……”
 $Qwon
 “I do not mind.”
-Despite having just been nearly strangled, Qwon was perfectly calm.
+Despite having almost been killed, Qwon remained perfectly composed.
 $Qwon
-“Just as you wish—the fact remains that part of the responsibility for you killing her lies with me.”
+“As you wish—for it is a fact that a part of the responsibility for you killing her lies with me.”
 $Sousuke
 “—You idiot.”
-I tightened my arms around her.
+I tightened my arms around Qwon.
 $Sousuke
-“You... aren’t to blame.”
-Even if she was the one who made the tool to drive people mad, the people who made her build it—the people who used it—are the ones who should be held responsible.
-Them—or me, the one who carried it out—we are the ones who should bear the sin.
+“You…… aren't at fault.”
+Even if she was the one who made the tool to drive people mad, the person who made her build it—the person who used it—should bear the responsibility.
+It’s them—or me, the one who carried it out—who should bear the guilt.
 $Sousuke
-“You—aren’t the one at fault... Qwon.”
-My voice hitched.
-It hurt.
-Even though I wasn't the one being choked, it felt like I couldn't breathe.
+“You—aren't wrong…… Qwon.”
+My voice caught.
+It was painful.
+Even though I wasn't the one being strangled, it was painful.
 $Qwon
 “—It is alright to cry.”
-Qwon’s voice was right by my ear.
+Qwon’s voice was right next to my ear.
 $Sousuke
-“...I’ve forgotten... how to cry... and the person who would have cried for me... I killed her...”
+“……How to cry…… I forgot…… even the person who would have cried in my stead…… I killed her……”
 $Qwon
 “—I see.”
-Qwon gave her usual, indifferent nod.
-Right now—that detachment was a mercy I was desperately grateful for.
+Qwon’s usual, detached nod.
+Right now—that indifference was unbearably helpful.
 $Sousuke
-“I can’t... I can’t cry...”
-Contradicting my words, something began to overflow from my eyes, hot and unstoppable.
+“I can’t…… cry……”
+Contrary to my words, something was overflowing from both eyelids without end.
 $Sousuke
-“Guh... ugh...”
+“Guh…… ugh……”
 $Qwon
-“—Anything forgotten can surely be remembered. ...Because it has not been truly lost.”
-Qwon’s words echoed deep within my heart, where I had lost Ayane.
+“—Things forgotten can always be remembered. ……Because they have not been lost.”
+Those words of Qwon’s resonated deeply within the bottom of my heart, where I had lost Ayane.
 --------------------
 0661
 ********************
-Night fell, and Ayane wandered into the bar in Kagurazaka.
-She’d thought about going to Sousuke’s place at the Bunka Apartments, but she hesitated to go there every single day.
-Knowing Sousuke, he wouldn't turn her away, but since he was hiding as a suspect, he couldn't exactly have people coming and going constantly.
-Hoping that Sousuke might show up here, she pushed open the door.
-Chika was inside, cleaning up the shop.
+Night had fallen when Ayane arrived at the bar in Kagurazaka on a whim.
+She had considered going to Sousuke’s place in the Bunka Apartments, but she felt somewhat hesitant about visiting every single day.
+Knowing Sousuke, ↓ he wouldn't treat her poorly, but since he was hiding as a suspect, she couldn't well be seen wandering in and out by others.
+Opening the door, she harbored a faint hope that Sousuke might come here if she waited.
+Chika was cleaning inside the shop.
 $Chika
-“—Oh, I’m sorry, we aren’t open today—”
+“—Ah, I’m sorry, we aren't open today—”
 Recognizing Ayane, Chika stopped mid-sentence.
 $Ayane
-“Ah... sorry.”
+“Ah…… I’m sorry.”
 $Chika
-“Um... you’re the one who came with Kudou-san the other day...?”
-As Ayane turned to leave, Chika called out to her.
+“Um…… you were the one here with Kudou-san the other day……?”
+As Ayane turned on her heel to leave, Chika called out to her.
 $Chika
-“Please, come in. Friends of the family are always welcome.”
-Chika smiled and pulled out a stool.
+“Please, come in. If you’re a family member, you’re more than welcome.”
+Chika gave a smile and pulled out a stool.
 $Ayane
-“Th-thank you.”
-Ayane sat down, feeling a bit flustered.
-She was happy to be called "family." She wondered if Chika really thought she was Sousuke’s relative.
-...If she thought Ayane was his sister, that would be a bit complicated, though.
+“Tha…… thank you.”
+Ayane sat down, feeling flustered.
+Part of it was being happy at being called family. Did she truly look like Sousuke’s family?
+……Though if she were thought to be his sister, that would be a bit complicated in its own way.
 $Chika
-“I can’t serve any cocktails, but I can take an order for coffee and maybe a light snack.”
+“I can’t serve cocktails, but I can take orders for coffee and light snacks.”
 $Ayane
-“Oh, just coffee is fine.”
+“Ah, just coffee is fine.”
 $Chika
-“Coming right up.”
-Chika went behind the counter and started preparing the coffee.
-Ayane watched her with a vacant gaze.
+“Yes. Right away.”
+Chika went behind the counter and began preparing the coffee.
+Ayane just watched her aimlessly.
 $Chika
-“Which beans would you like?”
+“What kind of beans would you like?”
 $Ayane
 “Eh?”
-Ayane was confused. She didn't really know anything about where coffee beans came from.
+Ayane was confused. She didn't know much about where coffee beans came from.
 $Ayane
-“Ah... just the regular ones.”
+“Ah…… just the regular kind.”
 $Chika
-“Hehe, let’s go with Mocha then.”
-Chika measured out the beans with a spoon and started grinding them in the mill.
+“Fufu, shall I brew some Mocha, then?”
+Chika measured out the coffee beans with a spoon and began grinding them in the mill.
 $Chika
-“...Oh, please have these while you wait.”
-Chika held out a plate of biscuits.
+“……Ah, please have this while you wait.”
+Chika held out a plate piled with biscuits.
 $Ayane
-“Ah... thank you.”
-Ayane took one and put it in her mouth. A faint, sweet aroma filled her senses.
+“Ah…… thank you.”
+Ayane took one and put it in her mouth. ↓ A faint, sweet aroma filled her mouth.
 $Qwon
-“—Please give me one as well.”
+“—Give one to me as well.”
 $Ayane
 “Eh—?”
-Ayane spun around at the sudden voice.
+Ayane turned at the sudden voice.
 $Ayane
 “You’re—”
 $Qwon
-“Good evening.”
+“Good day.”
 Qwon gave a small bow and sat down next to Ayane.
 $Chika
 “Would you like something to drink too, Qwon-chan?”
 $Qwon
-“A café au lait, please.”
-Qwon picked up a biscuit and popped it into her mouth.
+“Café au lait, please.”
+Qwon picked up a biscuit and put it in her mouth.
 $Chika
 “Here you go.”
 Steaming cups were placed in front of Ayane and Qwon.
 $Ayane
-“Thanks.”
-She pulled the sugar bowl closer and added three spoonfuls.
+“Thank you.”
+She pulled the sugar bowl closer and put in three spoonfuls.
 $Qwon
 “You have a sweet tooth.”
 $Ayane
-“Mmm, it’s not really like that...”
+“Hmm, it’s not exactly like that……”
 Ayane gave a wry smile.
 $Ayane
-“Aren’t you putting any sugar in yours, Qwon-chan?”
+“Aren't you going to put sugar in, Qwon-chan?”
 $Qwon
 “I have no need for it.”
-Even as she said that, the sight of Qwon blowing on her cup to cool it down was quite charming.
-Chika took off her apron and came out from behind the counter.
+Even as she said that, the way Qwon blew on her cup to cool it was endearing.
+Chika, having removed her apron, came out from behind the counter.
 $Chika
-“Well then, I’ll be off for a bit.”
+“Well then, I’ll be stepping out for a bit.”
 $Ayane
-“Wait? Is it okay for us to stay here?”
+“Huh? Is it okay for us to be here?”
 $Chika
-“It’s fine. And you don’t need to pay.”
+“I don’t mind. I won’t take any payment, either.”
 $Ayane
-“But...”
+“But……”
 $Chika
-“It’s lonely when the shop is quiet. Besides, I can’t take money from a friend.”
+“It’s lonely when the shop is quiet. Besides, I couldn't possibly take money from a friend.”
 $Ayane
-“...Thank you.”
-Ayane was incredibly happy that Chika called her a friend.
+“……Thank you.”
+Ayane was very happy that she had called her a friend.
 Chika left the shop.
-The absence of just one person made the space feel suddenly empty.
-Having Qwon next to her was at least some comfort.
-Qwon was sipping her café au lait little by little.
+Just one person leaving made the space feel strangely empty.
+At least having Qwon next to her was some small comfort.
+Qwon was sipping her café au lait, her lips pressed to the cup.
 Noticing Ayane’s gaze, Qwon looked up slightly.
 $Qwon
 “—Is something the matter?”
 $Ayane
-“Ah... no, it’s nothing special...”
+“Ah…… no, it’s nothing in particular……”
 $Qwon
 “I see.”
-Qwon lowered her gaze again.
-Ayane took a sip of her coffee. The sugar had dulled the bitterness, making it just right.
+Qwon lowered her gaze once more.
+Ayane also took a sip of her coffee. ↓ The sugar had dulled the bitterness, making it just the right taste.
 Qwon spoke up.
 $Qwon
-<—Why is it that you remain alive?>
+<—Why are you alive?>
 $Ayane
-“—...!”
-Ayane’s hand froze with the cup halfway to her lips.
+“—!”
+The hand Ayane used to hold her cup stopped.
 She didn't understand the meaning of the question.
-She didn't understand, and yet—it somehow caught in the depths of her heart.
+She didn't understand, and yet—for some reason, it snagged at the bottom of her heart.
 $Ayane
-“The reason... I’m alive?”
-Qwon didn't answer.
+“A reason…… for living?”
+Qwon did not answer.
 $Ayane
-“I’m alive... because I want to learn about all sorts of things, I guess.”
-Deciding that must be what she meant, Ayane started to explain.
+“The reason I’m alive is—surely, because I want to know about many things.”
+Thinking that must have been what she was asking, Ayane began to speak.
 $Ayane
-“That’s why I left the countryside and came to Tokyo. ...Well, there are other reasons, too.”
-Qwon stayed silent, listening quietly.
+“That’s why I left the countryside and came to Tokyo. ……Well, there are other reasons besides that, too.”
+Qwon said nothing, listening quietly.
 $Ayane
-“I thought it’d be fun to study and gather all kinds of knowledge.”
+“I thought it would be fun if I could study different things and accumulate knowledge.”
 $Qwon
-“...How ordinary.”
+“……How ordinary.”
 $Ayane
-“What’s wrong with being ordinary? I don’t want to be special, and I could never be like you anyway, Qwon-chan.”
+“Nothing wrong with being ordinary. I don’t want to be special, and there’s no way I could ever be like you, Qwon-chan.”
 $Qwon
-“Is that meant to be a jab at me?”
+“Is that a slight against me?”
 $Ayane
-“No, not at all. You’re amazing, Qwon-chan. We’re totally different.”
+“It’s nothing like that. You’re amazing, Qwon-chan. You’re totally different from me.”
 $Qwon
-“...I am a mere human. My knowledge is nothing more than things anyone could learn. It is just a collection of facts crammed together without rhyme or reason.”
+“……I am a mere human being. Knowledge is something that can be known by anyone. It is merely something I have crammed in without restraint or context.”
 $Qwon
-“There are many things that even I cannot know.”
+“Even for me, there are many things I cannot know.”
 $Ayane
-“...Like the human heart?”
+“……Like the human heart?”
 $Qwon
-“—I can understand it to a certain extent. But it never goes beyond the realm of conjecture.”
+“—I can understand to a certain extent. But that never goes beyond the realm of inference.”
 $Ayane
-“Yeah, you’re right... no one can ever truly know what’s in someone else’s heart.”
-Ayane muttered the words softly.
+“Yeah, that’s right…… no one can truly understand another person’s heart.”
+Ayane murmured.
 $Qwon
-“...On a side note, I am a complete outsider to matters of love, so please do not bring them up with me.”
+“……As an aside, I am an outsider to matters of love, so please do not bring them up with me.”
 $Ayane
-“Hehe...”
-Ayane let out a little laugh at Qwon’s words.
+“Fufu……”
+Ayane let out a smile at Qwon’s words.
 $Ayane
-“—I want to live my life as fully as I possibly can.”
+“—I want to live as hard as I can, for as long as I can.”
 That was all Ayane could do right now.
 $Ayane
-“If I can come to understand the person I love even just a little bit more, wouldn't that be wonderful?”
+“Wouldn't it be wonderful if I could understand even a little bit more about the person I love?”
 $Qwon
-“...I told you not to bring up matters of love.”
+“……I told you not to bring up matters of love.”
 $Ayane
 “Don’t you have someone you like, Qwon-chan?”
-Ayane ignored her and pressed on.
+Ayane spoke, ignoring Qwon’s request.
 $Qwon
-“As I said...”
-Qwon, who had been almost expressionless until now, looked a bit annoyed.
-Finding that fun and exciting, Ayane showered her with questions.
+“As I said……”
+Qwon, who had remained almost expressionless, looked slightly annoyed.
+Ayane found it fun and endearing, so she pelted her with questions in rapid succession.
 $Ayane
-“The Master is handsome, isn't he? He’s got that cool, mature vibe. Sousuke doesn't have that kind of flavor yet.”
+“The Master is handsome too, isn't he? He’s got that cool, mature man vibe. Sousuke hasn't quite got that flavor yet.”
 $Qwon
-“...Phew.”
+“……Phew.”
 Qwon let out an exasperated sigh.
 $Qwon
-“—I feel as though your presence is upsetting my calculations.”
-Qwon muttered the words with deep feeling.
-Ayane didn't understand the meaning behind them. She didn't understand, but there was no hint of blame in Qwon’s voice.
+“—I feel that your existence is upsetting my calculations.”
+Qwon murmured thoughtfully.
+Ayane didn't understand the meaning hidden in those words. ↓ She didn't understand, but there was no sound of blame in Qwon’s voice.
 $Qwon
-“But I suppose that, too—is interesting.”
-Ayane thought she saw Qwon smile.
+“But, that too—is a form of amusement.”
+To Ayane, it felt as if Qwon had smiled.
 --------------------
 0662
 ********************
-When I visited the bar, Ayane and Mikage were the only ones sitting there together.
+When I visited the bar, only Ayane and Mikage were sitting together inside.
 $Sousuke
-“...Mikage’s here, too?”
+“……Mikage was here too.”
 $Mikage
-“...Got a problem with that?”
-I sat down next to Ayane, ignoring Mikage’s sidelong glare.
+“……Is that a problem?”
+Ignoring Mikage, who glared at me from the corner of her eye, I sat down next to Ayane.
 $Mikage
-“...Don’t worry, I won’t get in your way.”
-Mikage muttered grumpily as she tilted her glass of ice.
+“……Don’t worry, I won’t get in the way of you two.”
+Mikage muttered complainingly and tilted her glass of ice.
 $Sousuke
-“Hm... where’s Chika?”
+“Hm…… where’s Chika?”
 $Ayane
-“Upstairs, maybe? She went out to buy coffee beans, and went straight to the back as soon as she got back.”
+“On the second floor, maybe? She went out once to buy coffee beans and went straight to the back as soon as she got back.”
 $Sousuke
-“Hm... I see.”
-Nothing for it then. I grabbed a bottle from the shelf. Tanqueray gin.
-I went behind the counter, took some ice from the freezer, and dropped it into a glass.
+“Hm…… I see.”
+Nothing could be helped, then. I picked up a bottle of liquor lined up on the counter. It was Tanqueray gin.
+Stepping behind the counter, I took some ice from the freezer and dropped it into a glass.
 $Ayane
-“Is it okay for you to just go back there?”
+“Is it okay to just go in like that?”
 $Sousuke
-“It’s fine.”
-I answered as I poured the gin.
-The ice crackled in the glass.
+“Can’t be helped, can it?”
+I answered as I poured the gin into the glass.
+The ice crackled.
 $Sousuke
-“Do you want something too, Ayane?”
+“Do you want something to drink too, Ayane?”
 $Ayane
-“I’m fine. I still have my coffee.”
+“I’m fine. I still have coffee.”
 Ayane showed me her cup.
 $Sousuke
-“Hm, okay.”
-I tilted my glass. The cold bite was a relief on a hot night.
+“Hm, I see.”
+I tilted the glass. The cold mouthfeel was pleasant on a hot night.
 $Sousuke
-“Anything to snack on...”
+“Is there anything to snack on……”
 $Ayane
-“We have biscuits.”
+“There are biscuits?”
 $Sousuke
-“No... they don't go with alcohol.”
+“No…… those don’t go with alcohol.”
 $Ayane
-“Boo... Sousuke’s so cold.”
+“Ugh…… Sousuke is so cold.”
 $Mikage
-“...Seems the same as always to me.”
-Mikage muttered indifferently.
+“……I think he’s the same as always.”
+Mikage muttered dryly.
 $Sousuke
-“Hm... there are walnuts.”
-I pulled a basket from the corner of the counter toward me.
-Inside were several walnuts in their hard shells.
-As usual, there was no nutcracker in sight.
+“Hm…… are there walnuts?”
+I pulled over the basket sitting at the corner of the counter.
+There were several walnuts covered in hard shells inside.
+As usual, there was no nutcracker in the basket.
 $Ayane
-“No nutcracker dolls?”
+“Is there no nutcracker doll or anything?”
 $Sousuke
-“You’d think there’d be one... well, whatever.”
-I took my knife from my pocket and flicked open the blade.
+“It seems like there should be…… well, whatever.”
+I took my knife out of my pocket and extended the blade.
 $Ayane
 “—Eh?”
 $Sousuke
-“Eh? What...?”
-I looked over at Ayane, who had suddenly stood up, knocking her chair over.
+“What is it?”
+I turned my eyes toward Ayane, who had suddenly knocked her chair over as she stood up.
 $Ayane
-“Ah, I... what’s wrong with me.”
+“Ah, I…… what’s wrong with me?”
 $Mikage
-“Are you okay?”
-Mikage set the chair back up and had Ayane sit down.
+“Are you alright?”
+Mikage righted the fallen chair and sat Ayane back down.
 $Ayane
-“Ah... yeah, thanks, Mikage-san.”
-Ayane looked at my hands, tilting her head in confusion.
+“Ah…… yeah, thanks Mikage-san.”
+Ayane kept tilting her head in confusion while peering at my hands.
 $Ayane
-“That knife... is it yours, Sousuke?”
+“That knife…… is it yours, Sousuke?”
 $Sousuke
-“Hm... yeah.”
-I answered as I cracked a walnut shell.
+“Hm…… yeah.”
+I answered while cracking a walnut shell.
 $Sousuke
-“I’ve had it for a long time, so it’s gotten pretty beat up.”
-Even so, it was still good enough for cracking walnuts.
+“I’ve been using it for a long time, so it’s gotten pretty worn out.”
+Even so, it was useful enough for cracking walnut shells.
 $Ayane
-“I see...”
-Ayane stared at it intently.
+“Hmm……”
+Ayane stared intently at it.
 $Ayane
-“...Can I ask you something?”
+“……Can I ask something?”
 $Sousuke
-“...What?”
+“……What?”
 $Ayane
-“Don’t be mad, okay? ...Is that the same knife you had when the geisha attacked you?”
-—The walnut shell cracked.
+“Don’t be angry. ……Is that the same knife you had when the geisha attacked you?”
+—The walnut cracked.
 $Ayane
-“Ah...”
+“Ah……”
 $Sousuke
-“...Yeah.”
-I nodded, not feeling angry.
+“……Yeah.”
+Without getting angry, I nodded.
 $Ayane
-“...You know, I heard there’s a way to tell if a knife was used in a crime. I think it’s the Renoir reaction—”
+“……You know, I heard there’s a way to find out if that knife was truly used in a crime. I think it was the Renoir reaction.”
 $Qwon
-“—It is the Luminol reaction.”
-The voice came from the back of the shop.
+“—The Luminol reaction.”
+That voice came from the back of the shop.
 $Sousuke
-“Qwon...?”
-Qwon appeared from the hallway next to the piano that led to the kitchen.
+“Qwon……?”
+Qwon emerged from the passage leading to the kitchen, next to the piano.
 $Ayane
-“Right, that’s it. They say if blood gets on it once, no matter how much you wash it, that medicine can tell.”
+“Right, that. They say once blood gets on it, even if you wash it, you can tell if you use that medicine.”
 $Sousuke
-“...Is that true?”
-I looked to Qwon for confirmation, not Ayane.
+“……Is that true?”
+I confirmed with Qwon, not Ayane.
 $Qwon
-“...Yes. I hear it is already being used in criminal investigations in places like England.”
+“……Yes. I have heard it is already being utilized in criminal investigations in places like Britain.”
 $Mikage
-“I wonder if we could ask Takuma the detective to check it for us?”
+“I wonder if we could have Takuma the detective look into it for us?”
 $Qwon
-“I do not believe it is being used in this country yet. Besides, asking the police would be far too much trouble.”
+“I do not believe it is being used in this country yet. Besides, requesting the police is far too much trouble.”
 $Ayane
-“Hmm... so it’s impossible then...”
+“Hmm…… then I guess it’s impossible……”
 $Qwon
-“—I suppose it can’t be helped.”
+“—Good grief.”
 Qwon let out a sigh.
 $Qwon
-“Sousuke-san, let me borrow that knife. I shall conduct the test.”
+“Sousuke, lend me that knife. I shall conduct the test.”
 $Sousuke
-“Qwon...?”
+“Qwon……?”
 $Qwon
-“Luminol is difficult to obtain, but I may be able to find colorless Malachite Green or Benzidine, which yield similar results.”
+“Luminol is difficult to obtain, but I may be able to get hold of colorless malachite or benzidine, which yield similar test results.”
 $Qwon
-“If there is a blood reaction, we would normally need to prove it is human blood and determine the blood type, but for now, we need not worry about that.”
-Saying that, Qwon silently held out her hand.
+“If a blood reaction is detected, properly speaking, we would also have to prove it is human blood and determine the blood type, but for now, we need not think that far ahead.”
+Having said that much, Qwon silently held out her hand to me.
 $Sousuke
-“...I’m counting on you.”
-I pressed the folded knife into her small palm.
+“……I’m counting on you.”
+I pressed the folded knife into her small hand.
 $Qwon
-“—I have one more thing to ask.”
-Qwon opened the blade and spoke while looking at it.
+“—One more thing, I must ask.”
+Qwon opened the blade of the knife and spoke while gazing at it.
 $Qwon
-“Have you ever stabbed a person with this knife, Sousuke-san—?”
+“Has Sousuke ever stabbed a person with this knife—”
 $Sousuke
-“No. And for the record, I’ve never even used it for meat or fish.”
+“No. And as an aside, I’ve never used it to butcher meat or fish, either.”
 $Qwon
-“—Understood.”
-Qwon folded the knife and nodded.
+“—I see.”
+Qwon nodded and closed the knife.
 $Qwon
-“I do not know how long it will take to get the reagents, so I do not believe the results will be immediate.”
+“I do not know how long it will take to obtain the reagents, so do not expect immediate results.”
 $Sousuke
-“...Right.”
+“……Yeah.”
 $Ayane
-“...Please, Qwon-chan.”
+“……I’m counting on you, Qwon-chan.”
 $Qwon
-“...It is not for your sake.”
-With a huff, Qwon puffed out her cheeks and turned away.
+“……It is not for your sake.”
+Pui, Qwon puffed out her cheeks and looked away.
 --------------------
 0663
 ********************
 $Sousuke
-“...Phew.”
-I closed the fallboard of the piano and let out a long breath.
-The clear tone echoed in the room.
+“……Phew.”
+Closing the top board of the piano, I let out a deep breath.
+The clear sound resonated through the room.
 $Sousuke
-“—I guess that’ll do.”
-I sat on the stool after finishing the tuning.
-The pitch had felt a little off, so I fixed it, though I was disgusted by how much dust was inside when I opened the lid.
+“—I guess that’s about right.”
+Having finished tuning the piano, I sat down in the chair.
+I’d thought the pitch was slightly off, so I’d fixed it, but I was disgusted by how much dust had accumulated inside when I opened the board.
 $Sousuke
 “Now then—”
-—Might as well play for a bit.
-I moved my hands idly.
-A melody began to spin out, independent of my mood.
-Without thinking, without being bound by anything.
-I simply played with a vacant mind, letting my fingers move as they pleased.
-Today’s form wasn't bad.
-It didn't have the resonance of a grand piano, but the tone was more than sufficient.
-I felt that a melody played on a whim was truly free.
-The calm was enough to make me forget all the bullshit—
+—Shall I play for the first time in a while?
+I moved my hands randomly.
+Regardless of my mood, I wove a melody.
+Thinking of nothing, bound by nothing.
+I performed with a blank mind, letting my fingers move as they pleased.
+Today’s condition was decent enough.
+It didn't have the resonance of a grand piano, but it was a sufficient tone nonetheless.
+I thought to myself that a melody played on a whim was a form of freedom.
+A sense of calm that made me feel I could forget all the ridiculous occurrences—
 $Ayane
-“Ah...”
+“Ah……”
 $Sousuke
 “—Hm?”
-I looked over without pausing my hands.
+I turned my gaze without resting my hands.
 $Sousuke
 “Oh—Ayane.”
 $Ayane
-“'Oh'? That’s all you have to say?”
-Ayane put her hands on her hips and puffed out her cheeks.
+“What do you mean, ‘Oh’?”
+Ayane puffed out her cheeks, resting her hands on her hips.
 $Sousuke
-“I’m just glad it’s you and not some suspicious types.”
+“I mean I’m glad it’s Ayane and not some suspicious characters.”
 $Ayane
-“I wonder...”
-Ayane muttered under her breath as she came over to stand beside me.
+“I wonder if that’s true……”
+Though she grumbled to herself, Ayane came up beside me.
 $Ayane
-“I thought you might be out, but the door wasn't locked. And I could hear the piano a little.”
+“I thought you might be out, but the door wasn't locked. And I could faintly hear the sound of the piano.”
 $Sousuke
-“...No apology for barging in?”
+“……So, no excuse for entering without permission?”
 $Ayane
-“Hmm—are you doing something you wouldn't want me to see, Sousuke?”
+“Hmm—is Sousuke doing something he’d be troubled by if I suddenly walked in?”
 $Sousuke
-“...As if.”
+“……I’m not.”
 —Probably.
 $Ayane
-“...Am I in the way?”
-Ayane asked tentatively.
+“……Did I disturb you?”
+Ayane asked reservedly.
 $Sousuke
-“No, I was just playing because I was bored.”
+“No, I was just playing the piano because I was bored.”
 $Ayane
 “I see.”
-Relieved, Ayane stepped closer.
+Relieved, Ayane drew closer to me.
 $Ayane
-“...It’s a beautiful melody.”
+“……It’s a beautiful tone.”
 $Sousuke
 “I just finished tuning it, after all.”
 $Ayane
-“That’s not what I mean. ...How do I say it? The songs you play are beautiful, Sousuke.”
+“I don’t mean that. ……How should I put it, the songs Sousuke plays are beautiful.”
 $Sousuke
 “I don’t need flattery.”
 $Ayane
-“It’s not flattery, it’s the truth. I love your piano, Sousuke. I told you that before, didn't I?”
+“It’s not, it’s the truth. I love your piano, Sousuke. I told you before, didn't I?”
 $Sousuke
 “Did you?”
 $Ayane
-“I did! I said your free way of playing was so natural, and it even helped me with my worries.”
+“I did! Your free playing is so natural, it even helped resolve my worries.”
 $Sousuke
-“Ah—yeah, I remember now.”
-That was—when we first met.
+“Ah—you did say something like that.”
+That was—when we first met, I think.
 $Sousuke
-“...I thought you were a refined young lady back then. But it turns out you’re quite a handful.”
+“……Back then, I thought you were a modest young lady. But once the lid was opened, you turned out to be quite the tomboy.”
 $Ayane
-“Hmph... that’s your fault for trying to seduce me out of nowhere. I was surprised, you know?”
-Ayane pouted, looking a bit sulky.
+“Hmph…… It’s because you suddenly tried to seduce me, Sousuke. It really startled me, you know?”
+Ayane pouted, looking sulky.
 $Ayane
-“But it’s strange... your playing. It’s so... peaceful.”
+“But it’s mysterious…… your playing. It somehow makes my heart feel very much at peace.”
 $Sousuke
-“Hmph...”
-—Well, I suppose some people feel that way.
-Even I can be moved by the performance of a famous pianist.
-If my clumsy playing can touch someone, there’s no greater blessing.
-I continued to play for a while.
-Ayane stayed silent, listening quietly.
-—It was a nice atmosphere for a twilight evening.
+“Hmph……”
+—Well, I suppose there are people like that.
+Even I am sometimes moved when I hear the performance of a famous pianist.
+If my clumsy playing can move someone, there is nothing more gratifying.
+I continued to play the piano for a while.
+Ayane remained quiet, listening in silence.
+—In its own way, it was a nice atmosphere for twilight.
 $Sousuke
-“...Hey, Ayane—”
+“……Hey, Ayane—”
 $Ayane
-“Zzz...”
-Ayane was leaning back against the sofa, breathing softly.
+“Suu……”
+Leaning her weight against the sofa, Ayane was letting out the light breathing of sleep.
 $Sousuke
 “Heh—”
-I gave a wry smile and changed the tune.
-I played something quieter, so as not to disturb her.
+I let out a wry smile and changed the tone of the song.
+I played a quiet piece so as not to disturb Ayane.
 $Ayane
-“Mmm...”
-A warm breeze was blowing through.
+“Kuu……”
+A warm breeze was flowing.
 She must have been tired.
-—I have to wonder about someone who comes to a man’s room just to take a nap.
-Normally, wouldn't you be on your guard?
-Well—I guess that’s just like her.
-I continued to play a quiet lullaby until she woke up.
+—Though I have to wonder about someone who falls asleep after coming to a man’s room.
+Normally, wouldn't you be more on guard in a man’s room?
+Well—if I had to say, that was very much like Ayane.
+Until she woke up, I continued to quietly play a lullaby.

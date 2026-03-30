@@ -1,865 +1,865 @@
 --------------------
 0671
 ********************
-It’s been a long time since I set foot outside.
-The air in Kagurazaka hasn't changed a bit.
-It’s decadent, yet thick with a quiet, pulsing vitality.
-With no sign of the police or the Military Police, I hurried along, a small sense of relief blooming in my chest.
-I ducked into an alley and came out in front of "CADENZA."
-The lights were off. Just as I thought, they’re still closed.
-I guess without the Master, there’s not much they can do.
-I gave the door a light push; it wasn't locked and swung open easily.
+It’s been a while since I last stepped outside.
+The air in Kagurazaka hasn’t changed a bit.
+It’s an atmosphere thick with a certain decadence, yet overflowing with a quiet vitality.
+I don't see any police or military police around, so I hurry along with a small sense of relief in my chest.
+I turn into the alley and come out in front of "CADENZA".
+The lights are off. It seems they really aren’t open for business.
+I suppose there’s nothing that can be done if the Master isn't here.
+I give the door a light push; it seems it wasn't locked, as it opens easily.
 $Sousuke
 “Good grief—how careless.”
-Grumbling to myself, I stepped into the dim interior.
-The shop was far too quiet.
-Chika was slumped against the counter, staring vacantly into space.
+Grumbling to myself, I step into the shop, which is lit only by a faint glow.
+The interior is far too quiet.
+Chika is there, leaning against the counter in a daze.
 $Sousuke
 “...Yo.”
 $Chika
 “Hyah!?”
-Chika practically jumped out of her skin.
+Chika’s entire body practically jumps out of her skin.
 $Chika
 “Ah, wa... K-Kudou-san!?”
 $Sousuke
-“...You don’t have to be that surprised.”
+“...You didn't have to be that surprised.”
 $Chika
-“A-anybody would be surprised...!”
+“A-Anyone would normally be surprised!...”
 $Sousuke
-“Master... hasn't come back, has he?”
-I glanced at the empty space behind the bar and took a seat on a stool.
+“The Master... hasn't come back, has he?”
+I glance at the empty counter and take a seat on a stool.
 $Chika
-“We... aren't open right now...”
+“The shop... isn't open, though...”
 $Sousuke
 “Yeah—I know.”
-I nodded at Chika’s words and scanned the room.
-The place looked exactly the same. Even with the Master gone, she must not have missed a day of cleaning; there wasn't a speck of dust on the counter.
+I nod at Chika’s words and lightly scan the room.
+The shop is the same as always. She must not have missed a single day of cleaning even after the Master disappeared; there isn't a speck of dust on the counter.
 $Sousuke
-“...How are you holding up?”
+“...How are you?”
 $Chika
-“...Fine, I suppose. For the most part.”
+“...Yes, I'm alright, for the most part.”
 $Sousuke
-“...Why don’t you leave?”
-I finally asked the question that had been weighing on me.
-Even if she stays here, the Master might never return. I don't know what kind of situation he’s in, but since he’s cut off all contact, it’s a distinct possibility.
+“...Why don't you leave?”
+I ask the question that’s been on my mind.
+The Master might never come back here. Even if I don’t know exactly what the situation is, the fact that he’s cut off all contact makes that a very real possibility.
 $Chika
-“Because... this is my home.”
-Chika whispered, her voice small.
+“Because this is... my home.”
+Chika whispers in a small voice.
 $Chika
 “I have nowhere else to go.”
 $Sousuke
 “...What about your parents' place?”
 $Chika
-“...I don't have one anymore.”
+“...It’s gone now.”
 $Sousuke
-“...Sorry. I shouldn't have asked.”
-I scratched my cheek. Maybe it was because I never really listened to other people’s pasts, but despite knowing her for a long time, I realized I knew nothing about her.
+“...I asked something I shouldn't have.”
+I scratch my cheek. Perhaps because I’ve never really listened to other people's pasts, this was something I knew absolutely nothing about despite our long acquaintance.
 $Chika
-“It’s fine... that’s all in the past. Besides, my life since the Master took me in has been so much fuller and happier.”
+“It’s fine... that was a long time ago. Besides, my life since the Master saved me has been so much more fulfilling and fun.”
 $Sousuke
-“I’m glad to hear that.”
+“Well, that’s good to hear.”
 $Chika
-“Yes. ...Oh, Kudou-san, would you like some coffee?”
+“Yes! ...Ah, Kudou-san, would you like some coffee?”
 $Sousuke
-“Sure—I’ll take a cup.”
+“Sure—I'll have some.”
 $Chika
 “Understood. Please wait just a moment.”
-Chika bustled off toward the kitchen.
-It was probably better for both of us not to dwell on depressing topics.
-Truly—everything is such a mess.
-I stood up and approached the piano.
-The black, polished surface was free of even a single fingerprint. Part of that was because I hadn't touched it in so long, but it was clear she’d been cleaning this, too.
-It didn't even need tuning; the tone was perfect.
-I touched the keys for the first time in ages.
-My sense of the instrument hadn't dulled much at all.
-My fingers began to move of their own accord.
-I guess old habits die hard.
+Chika busily heads off toward the kitchen.
+It’s probably better for both of us if we don’t talk about depressing things.
+Honestly—what a mess.
+I stand up and approach the piano.
+The polished black surface is free of even a single fingerprint. Part of it is because I haven't touched it in a long time, but she must be cleaning this as well.
+A beautiful sound that doesn't even need tuning.
+I play the keys for the first time in a while.
+My sense of touch doesn't seem to be off by much.
+My fingers move of their own accord.
+I suppose it’s just force of habit.
 $Chika
 “...Kudou-san, the coffee is ready, but...”
 $Sousuke
-“Hm... right.”
-I returned to my seat at the counter.
-A steaming cup sat next to a jar of sugar cubes.
+“Mm... I see.”
+I return to my seat at the counter.
+A steaming cup and a jar containing sugar cubes.
 $Chika
-“...Ah, wait... Kudou-san, you... didn't take anything in your coffee, did you...?”
+“...Ah, Kudou-san... you don't put anything in yours, right...?”
 $Sousuke
 “Usually, no—but...”
 Sugar cubes—huh.
 $Sousuke
 “Do you have any brandy?”
 $Chika
-“Eh...? J-just a moment, please.”
-Chika went to search through the bottles of Western liquor lined up against the wall.
+“Eh...? J-Just a moment, please.”
+Chika goes to search through the bottles of Western liquor lined up along the wall of the shop.
 $Chika
 “Let’s see... brandy... brandy...”
 $Sousuke
-“...Please don't trip and break anything.”
-Though, come to think of it, I’d never heard of Chika breaking a single bottle.
+“...Please don't trip and break any bottles.”
+That said, I’ve never heard of Chika breaking a liquor bottle.
 $Chika
-“Will this do...?”
-Chika brought over a bottle glowing with an amber light.
+“Is this one okay...?”
+Chika brings over a bottle glowing with an amber light.
 $Sousuke
-“Cognac, huh... you picked a damn expensive one.”
-The label indicated it was over a century old.
+“Cognac, huh... You’ve picked out quite an expensive-looking one.”
+The label indicates a vintage from over a century ago.
 $Chika
 “...Is it no good?”
 $Sousuke
-“...It’s fine. It’s already open, it’d be a waste not to use it.”
-I poured a small amount into a separate glass. The unique aroma tickled my nose.
+“...Well, it’s fine. The cork is already open, and it would be a waste not to use it.”
+I pour a little from the bottle into a separate glass. The characteristic aroma tickles my nostrils.
 $Chika
-“I just made coffee... and you’re going to drink that?”
-Standing beside me, Chika watched with a look of confusion—and a hint of dissatisfaction.
+“I just brewed coffee... are you going to drink that too?”
+Chika watches from beside me with a look of wonder—and a hint of dissatisfaction.
 $Sousuke
 “I’m not drinking it straight.”
-Swirling the glass, I scooped up a sugar cube with a spoon and balanced it over the cup.
-I let a few drops of brandy drip onto the cube. The white sugar was instantly stained brown.
+While swirling the glass, I scoop up a sugar cube with a spoon and rest it over the cup.
+I let a few drops of brandy fall onto the sugar cube. The white sugar is instantly stained brown.
 $Chika
 “...? What are you doing?”
 $Sousuke
-“Watch.”
-I took a match from my pocket and brought it close to the spoon.
-With a soft *pop*, the sugar caught fire.
+“Doing this.”
+I take a match from my pocket and bring it close to the spoon.
+With a small "pop" sound, the flame catches on the sugar.
 $Chika
-“Eek...”
-Chika let out a small cry of surprise.
-A pale blue flame flickered.
-The flame danced for a few seconds before suddenly winking out.
-Behind it, it left a misshapen, melted lump of sugar.
+“Kya...”
+Chika lets out a small cry of surprise.
+A blue flame flickers.
+The flame continues to burn for several seconds before suddenly going out.
+A crumbling sugar cube is left behind.
 $Chika
 “...It went out.”
 $Sousuke
-“And once I drop this in, it’s finished.”
-I dropped the melted sugar into the coffee and stirred it with the spoon.
-Once it was thoroughly mixed, I lifted the spoon and took a sip.
+“And once I drop this inside, it’s finished.”
+I drop the melted sugar cube into the coffee and stir it with the spoon.
+Once it’s thoroughly mixed, I lift the spoon and take a sip.
 $Sousuke
-“...Mmm. Not bad at all.”
-A faint, elegant fragrance rose with the steam.
+“...Mm, not bad at all.”
+A faint fragrance is carried in the steam.
 $Chika
-“What do you call that drink?”
+“What do you call this drink?”
 $Sousuke
-“It’s called Café Royal. Supposedly, Napoleon himself was fond of it.”
+“It’s called Cafe Royale; apparently it was a favorite of Napoleon himself.”
 $Chika
 “Heh...”
 $Sousuke
-“...Want a sip?”
+“...Want to try some?”
 $Chika
-“Wh-!? M-me!? B-but... I can't handle alcohol...!”
+“Fueh!? M-Me!? B-But, I can't drink alcohol!...”
 $Sousuke
-“I set it on fire, so most of the alcohol burned off. You’ll be fine.”
-I slid the cup over in front of Chika.
+“Most of the alcohol evaporated when I lit it on fire, so it should be fine.”
+I move the cup in front of Chika.
 $Chika
-“I... is that so...?”
-Chika tentatively picked up the cup.
+“I... Is that so...?”
+Chika tentatively picks up the cup.
 $Chika
-“Mmm...”
-After sniffing it for a moment, she plucked up her courage and took a sip.
+“Mnn...”
+After sniffing the aroma for a while, Chika musters her courage and brings the cup to her lips.
 $Sousuke
 “How is it?”
 $Chika
-“...*Hic*.”
+“...Hic.”
 —A hiccup.
-I looked over to see Chika’s face flushed a deep red.
+I look to see Chika’s face dyed a deep crimson.
 $Sousuke
-“Wait... are you drunk?”
+“No way... are you drunk?”
 $Chika
-“I’m perfectly fine!”
-Answering brightly, Chika sat down on the stool right next to mine.
+“That’s not true at allll.”
+Answering brightly, Chika sits down on the stool right next to me.
 $Chika
-“You said the alcohol burned off, didn't you? So I couldn't possibly be drunk!”
+“You said the alcohol evaporated, didn't youuu? So I’m not drunkkk.”
 —She’s drunk.
-She was clearly not her usual self.
-I took a sip of the coffee she’d left. The fragrance remained, but I couldn't taste any alcohol.
+She’s clearly different from the usual Chika.
+I take a sip of the coffee Chika left behind. The fragrance remains, but I can’t taste any alcohol.
 $Chika
-“...An indirect kiss.”
+“...That was an indirect kiss.”
 $Sousuke
-“*Pfft*—!?”
-I nearly choked on the coffee.
+“Pfft—!?”
+I spray my coffee.
 $Sousuke
-“Wh... what?”
+“Wh... What?”
 $Chika
-“My... Kudou-san, you’re so bold...”
+“How... Kudou-san, you’re so bold...”
 $Sousuke
 “...Calm down, Chika.”
-This conversation was heading in a very strange direction.
+It seems the conversation is heading in a strange direction.
 $Chika
-“But I am calm.”
-Chika leaned against me and grabbed my hand.
+“I ammm calm.”
+Chika leans against me and grabs my hand.
 $Chika
-“Look... even my heart is beating so slowly...”
-As she spoke, she tried to press my hand against her chest.
+“See... even my heart is beating so slowly...”
+Saying that, she tries to press my hand against her chest.
 $Sousuke
-“...Now, hold on.”
-I made a show of resisting and pulled my hand back.
-I didn't have a habit of taking advantage of women who’d lost their senses.
+“...Wait a second.”
+I pull my hand back, putting up a front of rejection.
+I have no interest in taking advantage of someone who’s lost their senses.
 $Chika
-“Aww... I guess I really do have to be more like Riho-san...”
-Chika let out a long sigh and reached for the glass that was still sitting on the counter.
+“Auu... I guess I really have to become like Riho-san for it to work...”
+Chika lets out a heavy sigh and picks up the glass still sitting on the counter.
 $Sousuke
 “Hey, that’s—”
 $Chika
-“*Gulp*... *ah*.”
-The brandy in the glass vanished in a single go.
+“Gulp... Phah.”
+The brandy in the glass vanishes in one go.
 $Sousuke
 “...Are you okay?”
-Somehow, Chika’s upper body began to sway slowly.
+Somehow, Chika’s upper body is slowly swaying back and forth.
 $Chika
-“I’m f-fine—this much is n-nothing—”
-Her speech was getting slurred.
+“I’m fine—this much is a piece of cake—”
+Her tone is highly suspicious.
 $Sousuke
-“...Didn't you say you couldn't drink?”
+“...You said you couldn't drink, didn't you.”
 $Chika
-“Huh? Who said that?”
+“Fueh? Who said that?”
 $Sousuke
-“You did.”
+“Uh, you did.”
 $Chika
-“Eh... how could you...”
-Tears began to well up in Chika’s wide eyes.
+“Eh... How could you say that...”
+Tears begin to spill from Chika’s wide-open eyes.
 $Chika
-“I... I would never... say such a thing...!”
+“I... I would never... say such a thing...”
 $Sousuke
-“No... look?”
-—She did.
-But there was no way I could point that out in this situation.
+“No... listen, okay?”
+—She said it.
+But I can't point that out in this situation.
 $Chika
-“Ugh... *sniff*...”
-...Damn it.
-Faced with Chika, who had started crying in earnest, I had no idea what to do.
+“Ugh... *sob*...”
+...Dammit.
+Faced with Chika, who has started crying in earnest, there was nothing I could do.
 $Chika
-“I’m trying so hard, you know...? And yet I’m always failing at everything...”
+“I’m working hard too, you know...? And yet I’m always failing at everything...”
 Good grief—what should I do?
-Comfort her.
-Give her some water.
+Comfort her
+Give her some water
 $Sousuke
-“Seriously—”
-I couldn't just leave her like this.
+“Good god—”
+I can’t just leave her like this.
 $Chika
-“Ugh... *sniff*... *hic*...”
-First, I had to get her to stop crying.
-I gently touched Chika’s head.
-Her body gave a small twitch.
+“Ugh... *sob*... *hic*...”
+I have to make her stop crying first.
+I gently touch Chika’s head.
+Chika’s body gives a small twitch.
 $Sousuke
-“...You’re doing a great job.”
-I truly meant it.
-She’d been protecting the shop all by herself since the Master disappeared.
-She must have been terrified, yet she hadn't uttered a single word of complaint.
-The least I could do—since she was drunk—was show her some appreciation.
+“...You’re doing just fine.”
+I truly mean it.
+She’s protected this shop all by herself after its owner vanished.
+She must have been full of anxiety, and yet she hasn't uttered a single complaint.
+The least I can do is show her some kindness when she’s drunk.
 $Chika
 “Uuu...”
-I stroked Chika’s hair.
-Her long hair, tied up in two bundles on either side of her head, was well-maintained and slid smoothly through my fingers.
-As I continued, Chika’s sobbing eventually began to subside.
+I stroke Chika’s hair.
+The long hair tied into two bunches on either side of her head seems well-maintained, slipping smoothly between my fingers.
+After doing that for a while, Chika seems to have calmed down significantly, though she’s still sobbing occasionally.
 $Sousuke
 “—Chika.”
-I poured some water from the pitcher into a glass and handed it to her.
+I pour water from the pitcher next to the counter into a glass and hand it to Chika.
 $Chika
-“Ugh... *hic*... mmm... *gulp*...”
-Chika drank the water.
-I could hear her throat working as she swallowed.
+“Ugh... fueh... mm... *gulp*...”
+Chika drinks the water.
+I can hear her throat making gulping sounds.
 $Chika
-“...*Phew*.”
-The glass was empty.
+“...Phew.”
+The glass is empty.
 $Sousuke
-“...Feeling better?”
-Chika looked up.
+“...Have you calmed down?”
+Chika looks up.
 $Chika
 “...Ah.”
-Once again, Chika’s face turned bright red.
+Chika’s face turns bright red once again.
 $Chika
 “I-I-I-I-I’m so sorry!!”
 $Sousuke
-“...Looks like you’ve sobered up.”
-As long as she’s back to normal, it’s fine.
+“...It seems you’ve sobered up.”
+If she’s back to normal, then fine.
 $Chika
-“I am so incredibly sorry!!”
-Chika bowed her head deeply.
+“I am truly sorry!!”
+Chika bows her head deeply.
 $Sousuke
-“Well—don’t worry about it so much.”
+“Well—don't worry about it so much.”
 $Chika
-“B-but... I, well... Kudou-san’s hand...!”
-She squeezed her own hands together in front of her chest.
+“B-But... I, uh... Kudou-san’s hand...!”
+She clenches her hands tightly in front of her chest.
 $Sousuke
-“...I didn't touch anything, so relax.”
+“...I didn't touch anything, so rest easy.”
 $Chika
-“—...!!”
-Chika’s face turned red all the way to her ears.
+“—!!”
+Chika’s face turns red all the way to her ears.
 $Chika
-“A-about that, that wasn't exactly—eek!”
-As she pulled away, Chika tripped over the leg of a chair and fell backward.
+“A-Ah, listen, that wasn't particularly—kyah!”
+The moment she pulls back, Chika trips over the leg of the chair and tumbles backward.
 $Sousuke
-“Whoa—you okay?”
-I held out a hand with a wry smile.
+“Hey now—are you okay?”
+I offer her my hand with a wry smile.
 $Chika
-“Ah... s-sorry...!”
-Chika stood up immediately and started dusting off her clothes, but—
-I decided not to mention that her short skirt had flipped up, giving me a glimpse of her cute underwear.
+“Ah... I-I’m sorry...!”
+Chika stands up immediately and brushes off the dirt from her clothes, but—
+I decided not to mention that her short skirt flipped up, revealing her cute underwear.
 --------------------
 0701
 ********************
-I’m just lying on the floor, doing nothing.
-I know I have to do something, but I don't know what.
-No—I know what I should do, but I don't know how to go about it.
-Qwon was sitting against the wall as usual, reading a book.
-I didn't know what she was reading. I wasn't interested. I was certain, at least, that it wasn't the kind of book I’d ever pick up.
+I’m lying on the floor, doing nothing in particular.
+I know I have to do something, yet I don’t know what to do.
+No—I know what I should do, but I didn’t know how to go about it.
+Qwon is sitting by the wall as usual, reading a book.
+I don’t know what kind of book she’s reading. I’m not interested. At the very least, I’m sure it’s the kind of book I would never read.
 $Sousuke
-“...What the hell am I supposed to do?”
-Qwon looked up at the words that escaped my lips.
+“...What should I do, I wonder.”
+Qwon looks up at the words that slip from my mouth.
 $Qwon
-“Should you not simply do as you wish, Sousuke-san?”
+“Why not just do as you please, Sousuke?”
 $Sousuke
-“What I wish to do—huh.”
-—Well, what *do* I want to do?
-Fleeing from the authorities and hiding away in a place like this... what meaning is there in living such a quiet, hollow existence?
+“The thing I want to do—huh.”
+—Now then, what is it that I want to do?
+Fleeing from the authorities and living in hiding in a place like this... what meaning is there in living such a quiet life?
 $Qwon
-“There is something I wish to do.”
-Qwon closed her book and turned toward me.
+“I have something I want to do.”
+Qwon closes her book and turns toward me.
 $Qwon
-“Right now—let’s see, I am hungry.”
+“Right now—let’s see, I’m hungry.”
 $Sousuke
-“...You’re always hungry.”
+“...You’re always like that.”
 $Qwon
-“I am in my growth period, after all.”
+“I’m in my growth period, after all.”
 $Sousuke
-“...You’re going to get fat.”
+“...You’ll get fat.”
 $Qwon
-“My weight is a trivial matter to me. Besides—I have a constitution that does not gain weight easily.”
+“My weight is a trivial matter to me. Besides—I have a constitution that doesn't gain weight.”
 $Sousuke
-“...Mikage would be furious if she heard you say that.”
+“...If Mikage heard you say that, she’d be furious.”
 $Mikage
-“—What about me?”
+“—Did I do something?”
 $Sousuke
-“—...!?”
-The sudden voice nearly made my heart stop.
+“—!?”
+My heart nearly stops at the voice that suddenly speaks up.
 $Sousuke
-“Wh... you were here...?”
+“Wh... k, you were here...?”
 $Mikage
-“...What, is it a crime for me to show up?”
-Irritated by my shock, Mikage puffed out her cheeks.
+“...What, is it wrong for me to come by?”
+Mikage puffs out her cheeks in annoyance, perhaps displeased that I was surprised.
 $Sousuke
-“...I didn't say it was a crime.”
+“...I didn't say it was wrong.”
 $Mikage
-“Then why were you so surprised?”
+“Then why did you jump?”
 $Sousuke
 “...Because you came out of nowhere.”
 $Mikage
 “I can't exactly just wait around downstairs forever, can I?”
 $Sousuke
 “Well—I suppose not.”
-I didn't know what the neighbors thought of this old bookstore right now, but it was best to avoid drawing attention.
+I don’t know what the neighbors think of this old bookstore right now, but it’s best to avoid standing out too much.
 $Sousuke
 “What are you here for?”
 $Mikage
-“I left some groceries in the kitchen. And I bought some biscuits at the Ise-ya nearby.”
-Qwon stood up silently and left the room.
+“I left some groceries in the kitchen. Also, I bought some biscuits at the Iseya nearby.”
+Qwon stands up without a word and leaves the room.
 $Sousuke
 “...She’s so easy to read.”
 $Mikage
-“Well... she can’t be helped.”
-Mikage let out a wry laugh.
+“Well... it can't be helped, I suppose.”
+Mikage lets out a wry chuckle.
 $Sousuke
-“—By the way, Mikage, did you find out anything?”
+“—By the way, Mikage, have you found out anything?”
 $Mikage
-“...Not much. The police and the Military Police still aren't leaking any info, and my fellow reporters are grumbling that they can't write anything in the papers.”
+“...Not much. The police and military police still aren't leaking any information, and my fellow reporters were grumbling about not being able to write a thing for the newspapers.”
 $Sousuke
-“Well, for me, it’s a relief that they aren't writing.”
-At the very least, no articles unfavorable to me were being circulated.
+“Well, for my part, it’s a help if they don’t write anything.”
+At the very least, no articles unfavorable to me will spread.
 $Sousuke
-“That reminds me—Mikage, do you know anything about Qwon?”
+“That’s right—do you know anything about Qwon?”
 $Mikage
 “Eh... Qwon-chan?”
-Qwon hadn't come back yet. I decided to ask while she was gone.
-I told her about Qwon’s past that had come to light when Takuma visited the other day—how she’d been kidnapped by some dangerous people and forced to make strange tools.
-When I finished, Mikage’s expression darkened.
+Qwon hasn't returned yet. I decided to try asking her now.
+I tell her about Qwon’s past that came to light when Takuma visited the other day—how she was kidnapped by a troublesome group and forced to make strange tools.
+When I finish speaking, Mikage’s expression darkens.
 $Mikage
-“To think such a thing happened...”
+“Such a thing happened...”
 $Sousuke
-“...Do you know anything about it?”
+“...Do you know anything?”
 $Mikage
-“I’d have to look into it, but... one thing does bother me. That—tool to drive people mad.”
+“I won't know until I investigate... but there’s one thing that bothers me. Those—tools that drive people mad.”
 $Mikage
-“...Is it really true?”
+“...Is it the truth?”
 $Sousuke
-“That’s—”
+“That is—”
 $Qwon
-“—I have no reason to lie.”
-Qwon’s voice suddenly rang out.
-I didn't know when she’d come back, but she entered the room from behind the sliding door, clutching the package of biscuits.
+“—There is no reason to lie.”
+Qwon’s voice suddenly rings out.
+I don’t know when she came back, but Qwon enters the room from behind the sliding door, clutching the package of biscuits.
 $Qwon
-“I do not claim to be an honest person, but those two points, at least, are the truth as far as I am concerned.”
-With that, Qwon started munching on a biscuit.
+“I do not claim to be an honest person, but at the very least, those two points are the truth as far as I am concerned.”
+With that, Qwon begins to munch on a biscuit.
 $Mikage
-“In that case... is it also true that the tool was used on Sousuke?”
+“If that’s the case... is it also true that such a tool was used on Sousuke?”
 $Qwon
-“That has not been confirmed. However, the probability is extremely high, and considering Sousuke-san’s state at the time, it would be the most logical answer.”
+“That is unconfirmed. However, the possibility is extremely high, and considering Sousuke’s state at the time, it is the most logical answer.”
 $Mikage
-“Could such a thing... really be true? Driving people mad...”
+“Could such a thing... really be true? To drive someone mad...”
 $Qwon
 “You are free to believe it or not.”
-Full of confidence, Qwon stated it flatly to Mikage.
+Qwon speaks directly to Mikage with an air of absolute confidence.
 $Mikage
-“...I see. Assuming it *was* used on Sousuke—what about... when Ayane-san was killed...?”
+“...I see. Assuming that it was used on Sousuke—then, what about when Ayane-san...?”
 $Mikage
-“Because only Sousuke and Ayane-san were in that room, and there was no one else to use the tool—”
+“Because there was no one in the room but Sousuke and Ayane-san, and if there was no one there to use the tool—”
 $Sousuke
-“What if there was someone outside the room—?”
-It was true that the room was locked and no one else was there. But if the tool could be used from just outside the door—
+“If there was someone outside the room—”
+It’s true that the room was locked and no one was there besides the two of us. But if the tool could be used from just outside the door—
 $Qwon
-“What I created was a device that utilizes sound waves. It could easily penetrate a wall such as this.”
-She said, lightly tapping the wall of the room. A dry *thump-thump* echoed.
+“The things I made are devices that utilize sound waves. They can easily pass through a wall like this.”
+Saying that, she lightly taps the wall of the room. A light "kon-kon" sound echoes.
 $Sousuke
-“If I was being manipulated from somewhere I couldn't see—there would have been no way to notice...”
-The culprit could achieve their goal without ever revealing themselves to the victim or the perpetrator.
-Wasn't that the best—and worst—method of murder?
-In fact, I had been manipulated by an invisible culprit into killing Ayane—
+“If I were being controlled from somewhere I couldn't see—there’d be no way to notice it...”
+One could complete their objective without ever showing themselves to the victim or the perpetrator.
+Is that not the best and worst method of murder imaginable?
+In fact, I was controlled by a culprit who didn't show their face, and I killed Ayane—
 $Mikage
 “—Wait.”
-Mikage’s voice brought me back to my senses.
+Mikage’s voice brings me back to my senses.
 $Mikage
-“If that was used, then it means you’re accepting the idea that Sousuke killed her.”
+“If that was used, then it would be affirming the fact that Sousuke killed someone.”
 $Qwon
 “—That is correct.”
 $Mikage
-“Then it’s meaningless! If we can’t prove it wasn't Sousuke who killed her...!”
+“Then it’s meaningless! Unless we can prove that Sousuke didn't kill her...!”
 $Qwon
-“As I said, he did not kill her of his own will.”
+“As I said, it was not by Sousuke’s will that he killed.”
 $Mikage
-“But you’re still saying Sousuke was the one who actually did it, aren't you!?”
+“Even so, you’re saying that the one who actually laid hands on her was Sousuke, aren't you!?”
 $Qwon
 “—Yes.”
-In contrast to the heated Mikage, Qwon remained perfectly calm.
+In contrast to the heated Mikage, Qwon remains entirely calm.
 $Qwon
-“If my tool was used, then Sousuke-san has committed murder twice.”
+“If my tool was used, then Sousuke has committed murder twice.”
 $Sousuke
-“...Yeah.”
-I could only nod.
+“...You’re right.”
+I have no choice but to nod.
 The geisha I first encountered—and Ayane.
-I must have killed them both.
-Fortunately—or unfortunately—the memories are vague, but if I or that geisha were being manipulated, it would make sense.
-No matter how you look at it, the me from back then—
+I must have killed both of them.
+Fortunately—or unfortunately—those memories are vague, but if I and that geisha were being controlled, it would make sense.
+At that time, no matter how I look at it—
 $Sousuke
-“...I can only say that I was insane.”
+“...I can only say that I was mad.”
 $Mikage
 “Sousuke!!”
 $Sousuke
 “—!”
-She slapped my cheek, and for a moment, my vision blurred.
+My cheek is slapped, and for a moment my vision blurs.
 $Mikage
-“Why would you say something like that!? If you admit it, then we can’t go any further, can we!?”
-Mikage shouted at me with such intensity it felt like she was going to grab me.
+“Why would you say such a thing!! If you admit to it, we can't go any further than that, can we!?”
+Mikage yells at me with enough intensity to suggest she might grab me.
 $Mikage
-“Why can’t you consider the possibility that it wasn't you!?”
+“Why can't you think about things from the perspective that you didn't do it!?”
 $Mikage
-“I... I believe that even if you were being manipulated, you would never kill Ayane-san!!”
-I said nothing, staring at Mikage’s face, which looked as if she were about to burst into tears at any moment.
+“I... even if you were being manipulated, I believe that you would never kill Ayane-san!!”
+I couldn't say anything; I just stared at Mikage’s expression, which looked as if she were about to burst into tears.
 $Mikage
 “Say something, you idiot Sousuke!!”
 $Sousuke
 “...I—”
-It would be easy just to say I didn't do it.
+It would be easy just to say I didn't kill her.
 $Sousuke
 “But... I can't find any evidence.”
 $Mikage
-“Evidence!? There’s no solid evidence that you *did* kill her, either! The Military Police are hiding everything... yes, that’s exactly why it’s suspicious!!”
+“Evidence!? There’s no solid evidence that Sousuke killed her either! The military police are hiding everything... that’s right, isn't that suspicious!?”
 $Mikage
-“Why is the Military Police even involved in a murder investigation? And they’ve already decided you’re the culprit... they haven't shown any evidence, either!”
+“Why are the military police even showing up for a murder investigation? And they’ve already decided that Sousuke is the culprit... they haven't even brought forth any evidence either!”
 $Qwon
-“—It is only natural that the investigators do not present evidence. Evidence that only the true culprit could know must be brought out through a confession.”
+“—It is only natural that the investigating side does not present evidence. Evidence that only the true culprit can know must be brought out through a confession.”
 $Mikage
-“...That might be true, but... for us right now, it’s the same as neither side having evidence, isn't it!?”
+“...That might be so... but to us right now, it’s the same as neither side having evidence, isn't it!?”
 $Sousuke
-“...I suppose so.”
-It’s true that other than my vague memories—there was no clear evidence of anything.
-If someone told me the Military Police had framed me, I’d be able to accept it.
-And the Military Police—the military—had some kind of connection with the people who kidnapped Qwon.
+“...I suppose that might be true.”
+It’s true that besides my vague memories—there is no clear evidence for anything.
+If someone told me I was framed by the military police, I’d be able to believe it.
+Those military police—the army—has some kind of connection to the people who kidnapped Qwon.
 $Qwon
-“—Sousuke-san. You are free to theorize as you wish.”
+“—Sousuke. You are free to speculate as you wish.”
 $Sousuke
 “...Yeah, I know.”
-I’m free to think—huh.
-Come to think of it, ever since the incident, I feel like I’d even given up on thinking.
-Maybe it was okay to think of things that were convenient for me, just a little bit.
+Being free to think—huh.
+Come to think of it, since the incident, I feel like I’ve abandoned even the act of thinking.
+Maybe I can try thinking about things in a way that’s convenient for me, just a little.
 $Mikage
-“...Are you ready to think about it?”
+“...Do you feel like thinking about it now?”
 $Sousuke
-“A little... I’ll give it a try.”
-Now then, back then—when Ayane died—was there anything strange?
+“I’ll... go along with it for a bit.”
+Now then, at that time—when Ayane died—wasn't there something strange somewhere?
 —Ayane is dead on the bed.
-—The sheets are covered in blood, and it’s on the futon, too.
-—The windows and door were locked.
-—The time was morning, just after dawn.
-Something strange—
-The window.
-Ayane.
-The sheets.
-Ayane.
-The sheets.
-The window.
-The sheets.
+—The sheets are covered in blood; it’s also on the duvet.
+—The windows and the door were locked.
+—The time was morning, just at dawn.
+The strange part is—
+The window
+Ayane
+The sheets
+Ayane
+The sheets
+The window
+The sheets
 —The window.
 Was it really locked...?
-Distraught as I was at the time, I couldn't verify that much.
-But... it should have been impossible to enter through the window.
-There was nowhere to put a foot outside, and it was quite high off the ground.
-I didn't need to worry about that.
+At that time, when I was in such a state of agitation, I couldn't confirm that much.
+But... it shouldn't be possible to intrude from outside the window.
+There’s nowhere to place one's feet outside, and it’s quite high off the ground.
+I suppose I don’t need to think about this.
 Was there anything strange about Ayane?
-For example—if the fact that she was dead was just a ruse, and after I left the room, she got up and went somewhere—
-No... that won't work. The knife was definitely plunged into her chest.
-It wasn't someone else, either. That was definitely—Ayane’s body.
-There must have been something else... something strange.
-The sheets on the bed... blood had splattered on them.
-There was blood on the duvet that had been tossed onto the floor, too.
-Come to think of it, there was something unnatural.
-Next to Ayane, there was an area with no blood on it.
+For example—suppose her being dead was just a pretense, and after I left the room, she got up and went somewhere—
+No... that’s no good. The knife was definitely plunged into her chest.
+It wasn't someone else either. That was without a doubt—Ayane’s corpse.
+There must have been... something else that was strange.
+The sheets on the bed... blood had splattered onto them.
+The duvet that had been tossed to the floor also had blood on it.
+If I think about it carefully, there was something unnatural.
+Next to Ayane, there was a part with no blood on it.
 What was there—
-Ayane.
-Me.
-The duvet.
+Ayane
+Me
+The duvet
 If Ayane had been there—
-...If she had?
-What would that change?
-Was she there when she was stabbed, and then moved?
+...If she had been?
+What would that change, I wonder?
+Was she there when I stabbed her, and then moved afterward?
 But that wouldn't mean anything.
-It wouldn't prove I didn't kill her.
-—I should have been sleeping there.
-My body blocked the blood splattering from Ayane, creating an unnatural boundary.
+It wouldn't serve as proof that I didn't kill her.
+—I must have been sleeping there.
+My body blocked the fresh blood splattering from Ayane, creating that unnatural boundary.
 When I woke up, I was covered in blood.
-If that wasn't from the spray, but because I’d been showered with blood while sleeping next to her—
-...Wouldn't that at least be proof that I wasn't the one who killed her?
-I felt like the duvet had been there.
-In fact, there was blood on the duvet, too.
-After stripping the duvet from Ayane, she was stabbed.
-Even if that were true—it wouldn't be proof that I didn't kill her.
+If that wasn't from the act of stabbing but because I was showered with blood while sleeping next to her—
+...At the very least, wouldn't that be proof that I didn't kill her?
+I feel like the duvet was there.
+In fact, there was blood on the duvet as well.
+I pulled the duvet off Ayane and then stabbed her.
+Even if that were the case—it wouldn't serve as proof that I didn't kill her.
 $Sousuke
-“...No good.”
-No matter how much I thought about it, I couldn't find any evidence that I wasn't the culprit.
+“...It’s no use.”
+No matter how much I thought about it, it didn't seem like I would be able to find any proof that I wasn't the culprit.
 $Mikage
-“Hey... pull yourself together. You’re the only one who remembers what happened!”
+“Wait... pull yourself together. You’re the only one who remembers what happened, you know?”
 $Sousuke
-“Even I... don't remember.”
+“I don't... really remember it either.”
 As I thought—I killed her.
-That’s why no evidence to the contrary turns up.
+That’s why no evidence to overturn it will come out.
 $Sousuke
-“—It’s possible Ayane was killed while I was sleeping.”
-But there was still a problem with thinking that way.
+“—There is a possibility that Ayane was killed while I was sleeping.”
+But there are still problems with thinking that way.
 $Sousuke
-“...Are you saying I was just sleeping peacefully while Ayane was being killed right next to me...?”
-That was a terrifying thought.
-Right there—at a distance where I could have reached out and touched her—Ayane was suffering in her final moments.
-How did she feel about me, not waking up?
-—It was the same as letting her die.
+“...Are you saying that I was sleeping peacefully even though Ayane was being killed right next to me...?”
+That is a terrifying thought.
+Right by my side—at a distance where I could reach her if I just stretched out my hand—Ayane was tasting the agony of death.
+What did she feel about me, who didn't wake up?
+—It’s the same as having watched her die.
 $Sousuke
-“...I’m a piece of shit.”
+“...What a terrible bastard.”
 $Mikage
 “Sousuke...”
 $Sousuke
-“Even if I didn't do it with my own hands, my responsibility doesn't change.”
-It was a heavy sin.
+“Even if I didn't directly lay hands on her, my responsibility doesn't change.”
+That is a very sinful thing.
 $Mikage
-“But... that doesn't mean you killed her.”
+“But... that doesn't mean Sousuke killed her.”
 $Sousuke
 “...It’s the same thing.”
-I noticed Qwon staring intently at me, but I didn't even have the composure to care.
+I noticed Qwon staring intently at me, but I didn't even have the luxury of paying her any mind right now.
 --------------------
 0702
 ********************
-After finishing my meal, I took a breath while drinking some cold tea.
-Qwon was in the corner of the room as usual, reading a book.
+I finish my meal and take a breather while drinking some cold tea.
+Qwon is reading a book in the corner of the room as usual.
 $Sousuke
 “What are you reading?”
 $Qwon
-“An explanatory book on acoustics.”
-Qwon showed me the cover with text written in a foreign language. I couldn't tell if it was English or something else.
+“It is an explanatory text on acoustics.”
+Qwon shows me the cover with characters written in a foreign language. I can't tell if it’s English or another language.
 $Qwon
-“There are sounds that the human ear cannot hear. They are outside the audible range, but they have properties that other sound waves do not, so they are utilized for various purposes.”
+“There are sounds that the human ear cannot hear. They fall outside the audible range, but since they have properties that other sound waves do not, they are utilized for various purposes.”
 $Sousuke
-“...I have no idea what you’re talking about.”
+“...I don't really understand even if you explain it to me.”
 $Qwon
 “...I see.”
-Qwon hung her head, looking a little disappointed.
+Qwon hangs her head with a somewhat disappointed look.
 $Qwon
-“I believe you would find it interesting if you read it as well, Sousuke-san.”
+“I believe you would find it interesting if you read it as well, Sousuke.”
 $Sousuke
 “I don't think I’d be able to understand the content.”
-I felt bad for her, but I didn't think I’d understand it, nor did I think I’d find it interesting.
-Besides—I didn't think reading a book like that would solve my current situation.
+I feel bad for Qwon, but I doubt I could understand it, and I don't think I’d find it interesting.
+Besides—I didn't think reading a book like that would be able to solve my current situation.
 $Sousuke
 “Hey—Qwon.”
 $Qwon
 “What is it?”
 $Sousuke
-“The culprit who killed Ayane... who do you think it was?”
+“Who do you think... the culprit who killed Ayane is?”
 If I didn't kill her, there must be a true culprit.
 The one who killed Ayane—
 $Qwon
-“...At this stage, there are no suspects other than you, Sousuke-san.”
+“...At this stage, no suspect exists other than you, Sousuke.”
 $Sousuke
 “—I see.”
 Well—I suppose Qwon would say that.
 $Qwon
-“Even if there were suspicious points, if they are only told through your memories, they would be far too weak as evidence.”
+“Even if there were suspicious points, if they are only told through your memories, Sousuke, they would be too weak as evidence.”
 $Qwon
-“Objective evidence—or perhaps a decisive contradiction must be found.”
+“We must find objective evidence—or perhaps a decisive contradiction.”
 $Sousuke
 “Objective evidence, huh...”
 Finding that now would be difficult.
-Besides, I didn't think I was capable of an objective viewpoint.
-In that case, I should find a contradiction, but—
+Moreover, I don't think I’m capable of an objective viewpoint.
+If that’s the case, I should just find a contradiction, but—
 $Qwon
 “—She was killed in a room that was in a so-called locked-room state.”
 $Sousuke
-“...Yeah.”
-It was true that at the time, I unlocked the door and went outside.
+“...You’re right.”
+It’s true that at that time, I unlocked the door to the room and went outside.
 $Qwon
-“In this case, as a premise for evidence that you are not the culprit, we must find evidence of an intrusion from the outside.”
+“In this case, as a prerequisite for proof that you are not the culprit, Sousuke, we must find evidence of an intrusion from the outside.”
 $Sousuke
-“But... I’m the only one who recognized it as a locked-room murder.”
-When I left the room, I unlocked the door—but I left it like that.
-When the police or the Military Police raided the place later, they must have judged it to be just an ordinary murder.
+“But... I’m the only one who perceives it as a locked-room murder.”
+When I left the room, I unlocked it—but I left it just like that.
+When the police or military police broke in later, they would have judged it as just an ordinary murder case.
 If that’s the case—I find something strange.
 $Sousuke
-“...Why were they able to immediately conclude that I was the culprit?”
+“...How were those guys able to decide immediately that I was the culprit?”
 $Qwon
-“Because they knew you were hiding there, most likely.”
-Qwon was likely right.
-No matter how much of a hideout it was, the authorities could easily find out the identity of the person living there if they investigated.
+“It is likely because they knew you were hiding there.”
+Qwon is probably right.
+No matter how much of a hideout I made it, the authorities would be able to find out the identity of the person living there immediately if they investigated.
 $Qwon
-“—Solving the mystery of the locked room should be the priority right now.”
+“—For now, solving the mystery of the locked room should be our priority.”
 $Sousuke
-“...Yeah.”
-It wouldn't be objective evidence, but the scene as I recognized it was undeniably a locked room.
-A way to unlock the door from outside—or perhaps a way to lock it.
+“...You’re right.”
+It won't serve as objective evidence, but the scene as I perceive it was unmistakably a locked room.
+A way to open the door from outside the room—or perhaps, a way to lock it.
 $Qwon
-“—Truth is often surprisingly simple.”
-Placing her index finger against her lips, Qwon muttered suggestively.
+“—The truth is often surprisingly simple.”
+Placing her index finger to her lips, Qwon murmurs suggestively.
 $Qwon
-“For example—well, let me tell you one of the possibilities I’ve considered.
+<For example—well, let me speak of something that can be considered as one possibility.>
 $Qwon
-“A person who knew you were in that room, and furthermore—harbored murderous intent toward the victim—”
+“Someone who knew you were in that room, Sousuke, and furthermore—someone who held murderous intent toward the victim—”
 $Sousuke
 “Murderous intent toward Ayane...?”
-I’d thought all along that I was being framed, but I see, there’s that possibility too.
+I thought all along that I was the one being framed, but I see, there is such a possibility as well.
 $Qwon
-“—What about Tachibana-san? If she harbors feelings for you and found the victim to be a nuisance—the possibility is sufficient.”
+“—How about Tachibana-san? If she is enamored with you, Sousuke, and found the victim to be a nuisance—the possibility is sufficient.”
 $Qwon
-“She can meet you whenever she wants, and she can return the key whenever she wants.”
+“She can meet with you at any time, and she can return the key at any time.”
 $Sousuke
-“—Don't say such ridiculous things.”
-I spoke with quiet anger in my voice.
+“—Don't say such idiotic things.”
+I speak with a quiet rage.
 $Sousuke
-“She was truly grieving when she heard Ayane was dead. I can't believe... that was an act.”
-Mikage, crying and pounding on my chest.
+“When she heard that Ayane had died, she was truly grieving. I don't believe that... was an act.”
+Mikage, who was crying while pounding on my chest.
 $Sousuke
-“Besides... there’s no way she could kill a person.”
-She would never do something so irrational.
+“Besides... there’s no way she could kill someone.”
+There’s no way she would do something so unreasonable.
 $Qwon
-“—I was merely discussing a possibility.”
-Qwon coolly emphasized.
+“—I was merely discussing the possibility.”
+Qwon presses her point calmly.
 $Sousuke
 “...I won't accept such a possibility.”
 $Qwon
-“—How selfish.”
+“—How selfish of you.”
 $Sousuke
 “Selfish, you say?”
-I raised my voice at Qwon’s remark.
+I raise my voice at Qwon’s way of talking.
 $Qwon
-“Yes, exactly. Finding a true culprit other than yourself means, in effect, pinning the crime on another.”
+“Yes, that is correct. To find a true culprit other than yourself means, in effect, to pin the crime on someone else.”
 $Qwon
-“Excluding the possibility that an acquaintance is the culprit is a selfish, irrational, and foolish move that may distance you from the truth.”
+“To exclude the possibility of an acquaintance being the culprit is a selfish, irrational, and foolish move that may distance you from the truth.”
 $Sousuke
 “—Shut up.”
-I glared at Qwon as she spoke at length, but she met my gaze with a firm look of her own.
-I couldn't stare back at those straight, unwavering eyes.
+I glare at Qwon as she speaks eloquently, but she stares back at me with a firm gaze.
+I couldn't glare back at her unwavering, straight gaze.
 $Qwon
-“If you are loath to pin the crime on others, including acquaintances, then you should simply take the blame yourself.”
+“If you are unwilling to pin the crime on others, including acquaintances, then you should bear the crime yourself as you are.”
 $Sousuke
-“...I’m not that noble of a person.”
-—Even as I said that, I still felt a resistance to pinning the crime on someone close to me.
-As Qwon said, if the culprit was someone I knew—how would I be able to act?
+“...I’m not such a virtuous person.”
+—Even as I say that, I still feel a resistance to pinning the crime on those close to me.
+As Qwon says, if the culprit were someone I know—how would I be able to act?
 $Qwon
-“And one more thing—you have been involved in two incidents.”
+“And one more thing—you have been involved in two incidents, Sousuke.”
 $Qwon
-“Not just the murder of that girl, but the incident before that—the one that started everything—the murder of the geisha. You must consider that as well.”
+“We must consider not only the case where she was killed, but also the incident before that—the one that was the catalyst for everything—the geisha murder.”
 $Sousuke
 “That one is—”
-It sounds bad to say I’d forgotten, but honestly, I was so preoccupied with Ayane’s case that I hadn't given it much thought.
-Even though a person died in that incident, too, I’d lowered its priority.
+It sounds bad to say I’d forgotten it, but truthfully I’ve been so trapped by the matter of Ayane that it didn't occur to me.
+Someone died in that incident too, and yet I’d lowered its priority.
 $Sousuke
-“...I guess I am selfish after all.”
+“...Am I selfish after all?”
 $Qwon
-“—I do not say that thinking of things from a self-centered perspective is bad. In fact, it is only normal. The problem is when you think in a way that involves others.”
+“—I will not say it is bad to think of things in a self-centered way. Rather, that is normal. The problem likely lies when you think in a way that involves others.”
 $Qwon
-“I, too—often think in such a way.”
-Qwon muttered in a small voice and stood up.
+“I... often think in such a way as well.”
+Qwon murmurs in a small voice and then lifts her hips.
 $Qwon
-“Let us sleep. There is no meaning in repeating questions with no answers.”
-Even so—I must find the answer.
+“Let’s sleep. There is no meaning in repeating questions that have no answer.”
+Even so—I must definitely find an answer.
 Two murders.
 A culprit other than me.
 I still haven't found the answer.
 --------------------
 0703
 ********************
-The morning sun hit my face, and I woke from my slumber.
+The morning sun hits my face, and I wake from a slumber.
 $Sousuke
-“Mmm...”
-I was still sleepy.
-The morning air was cool for summer, so I decided to indulge in a bit more sleep.
-Turning over, I saw Qwon.
-She was already awake.
-Well—I’m going to keep sleeping. It doesn't matter if Qwon is awake or not.
-Even if Mikage were right there next to me—
+“Mm...”
+I’m still sleepy.
+In the morning air, which feels cool for summer, I decide to indulge in a bit more idle sleep.
+As I roll over, Qwon’s figure enters my sight.
+Is she already awake?
+Well—I’ll sleep a bit more. It doesn't matter if Qwon is awake or not.
+Even if Mikage were right next to me—
 $Sousuke
 “...Hm?”
-Something jogged my brain.
-Why was Mikage—?
+A slight stimulus registers in my brain.
+Why would Mikage be—?
 $Mikage
-“...So—wasn't it like that?”
+“...So—isn't that how it is?”
 $Qwon
 “That is—but, there is also...”
-...My brain didn't seem to be active yet. I couldn't even understand half of what they were saying.
+...It seems my brain hasn't been activated yet. I don't understand even half of what they’re saying.
 $Qwon
-“You are making things far too complicated. There are things that become visible by simplifying the events.”
+“You are perceiving things in a way that is too complex. There are things that can be seen by simplifying the events.”
 $Mikage
 “But—”
-It seemed the two of them were deep in conversation.
+It seems the two of them are deep in conversation.
 $Qwon
-“For example—right there, Sousuke-san is pretending to be asleep. Is it simply because he is too lazy to get up, or is he eavesdropping on our conversation—?”
+“For example—Sousuke is over there pretending to be asleep. Is it simply because it is a nuisance to wake up, or is he eavesdropping on our conversation—”
 $Qwon
-“Or perhaps it is more complex—he is experiencing the morning physiological phenomenon unique to males—”
+“Or is it something more complex—is he experiencing a physiological phenomenon unique to men in the morning—”
 $Sousuke
 “...Hey.”
-Unable to take it any longer, I spoke up.
+Unable to bear it any longer, I speak up.
 $Mikage
 “...Ah, Sousuke...”
 $Sousuke
-“If you’re just going to sit there and talk nonsense while I’m trying to listen—”
-I sat up and wrapped a thin duvet around my waist.
+“You’re just spouting whatever nonsense you want while I’m listening quietly—”
+I sit up and wrap the thin blanket around my waist.
 $Qwon
-“There is no need to be embarrassed. A morning erection is a sign of good health.”
+“There is no need to be embarrassed. A morning erection is a sign of health.”
 $Sousuke
-“...Being explained to indifferently like that is what’s embarrassing.”
+“...It’s the fact that you’re explaining it so matter-of-factly that’s embarrassing.”
 $Qwon
-“...You are quite energetic this morning. Good morning.”
-Qwon actually addressed her greeting to my lower body.
+“...You are energetic from the morning, I see. Good morning.”
+Qwon directed her greeting toward my lower body.
 $Mikage
 “...Sousuke.”
-Mikage’s voice was low. Her face was bright red, but she looked a little scary.
+Mikage’s voice is low. Her face is bright red, but she’s a little scary.
 $Qwon
 “—It must be difficult to handle it yourself while I am here, but please do not have a nocturnal emission. Washing the sheets is a chore.”
 $Sousuke
-“...I won't. What the hell were you talking about, anyway...?”
+“...I won't. What on earth were you talking about, anyway...?”
 $Qwon
-“We were discussing how to handle your sexual desire, Sousuke-san.”
+“We were talking about methods for you to process your sexual desire, Sousuke.”
 $Mikage
-“No, we weren't! I found out a bit about the situation at the scene, so I came to tell you!!”
-Mikage shouted, her ears turning red.
+"That’s not it! I came to tell you because I was able to grasp the situation at the scene just a little!!"
+Mikage yells while turning red all the way to her earlobes.
 $Sousuke
 “The situation at the scene...?”
-...She meant the Bunka Apartments.
+...Do you mean the Bunka Apartments?
 $Mikage
-“...Yes. That morning, it seems the Military Police were dispatched from the MP station near Korakuen following a report from a resident.”
-Near Korakuen—I see. The truck I passed while walking on the tram street that morning must have been them rushing to the scene.
+“...Yes. Apparently, on the morning of that day, a military police unit was dispatched from the military police station near Korakuen following a report from a resident.”
+Near Korakuen—I see, so the truck I passed while walking along the tram line that morning was indeed the group rushing to the scene.
 $Mikage
-“But, when I talked to the people at the apartment, nobody had made a report. In fact, they didn't even seem to know you were living in that room.”
+“But you see, when I asked the people at the apartment, no one had made a report. What’s more, they didn't even seem to know that Sousuke was living in that room.”
 $Sousuke
 “No report was made...?”
-What on earth—could that mean?
+What on earth—does that mean?
 $Qwon
 “—Does that mean the true culprit made the report?”
 $Mikage
-“The possibility is high. To—to pin the crime on Sousuke.”
+“The possibility is sufficient. In order to—pin the crime on Sousuke.”
 $Sousuke
-“But... if I’d been caught, wouldn't there be something strange?”
-If I’d been late getting up that morning and the Military Police had raided the room and arrested me, then nobody would have been able to make the report.
-In that case, the room would be a locked room, and it would be clear that I was the culprit—but...
+“However... if I had been caught, wouldn't something strange have come out?”
+If I had been late waking up that morning and had been arrested when the military police burst into the room, then no one would have been able to make the report.
+In that case, the scene would have been a locked room, and it would have been clear that I was the culprit, but—
 $Qwon
-“Even if there were some discrepancies, the authorities would likely just ignore them.”
+“Even if there were some discrepancies, the current authorities would likely just ignore them.”
 $Qwon
-“Once there is an incident and a culprit has been secured, the credibility of the witness’s report is a trivial matter.”
+“Given that an incident occurred and they were able to secure the culprit, the credibility of a witness’s report is a trivial matter.”
 $Sousuke
-“...Maybe so.”
+“...That might be so.”
 $Mikage
-“And... fingerprints were detected on the key and the knife that were in the room... and apparently they matched the fingerprints left on the weapon in the geisha murder the other day...”
+“Also... apparently, fingerprints were detected from the key and the knife that were in the room... and they matched the fingerprints left on the weapon from the geisha murder the other day, so...”
 $Qwon
-“That is—nothing new.”
-Qwon spoke quietly.
+“That is—a story that is too late now.”
+Qwon speaks quietly.
 $Qwon
-“The fact that Sousuke-san was the culprit should have been clear from the witness information. Saying he is the culprit because the fingerprints matched is getting the order wrong.”
+“The fact that Sousuke is the culprit should have been clear from the witness information. To say that Sousuke is the culprit because the fingerprints matched is the wrong order of things.”
 $Mikage
-“Wouldn't the fact that they were the same fingerprints as the previous case be why they could say the next case was also Sousuke’s doing?”
+“Isn't it because the fingerprints were the same as the previous incident that they were able to say the next incident was also Sousuke’s crime?”
 $Qwon
-“If that was the case, they concluded that Sousuke-san was the culprit far too quickly. They must have found out the occupant of the room was Sousuke-san and issued an emergency alert.”
+“For that, they were too quick to conclude that Sousuke was the culprit. Did they not discover that the owner of the room was Sousuke and place him on an emergency wanted list?”
 $Mikage
-“I see... it’s true, the alert was out before noon that day...”
-Mikage crossed her arms and leaned her chin on her finger, deep in thought.
+“I see... certainly, he was on the wanted list before noon that day...”
+Mikage crosses her arms and rests her finger on her chin, lost in thought.
 $Sousuke
-“So the fingerprints were an afterthought—huh.”
-If you think about it that way, the theory of a conspiracy by the Military Police—the military—becomes even more likely, but—
+“The business about fingerprints was a reason added after the fact—huh.”
+Thinking about it that way, the theory of a conspiracy by the military police—the army—becomes even more likely, but—
 $Sousuke
-“—Wait.”
+“—Wait a minute.”
 Didn't Mikage just say something important?
-The fingerprints were detected on the knife and—
+The things fingerprints were detected from were the knife and—
 $Sousuke
-“Mikage... you said there was a key, too?”
+“Mikage... you said there was a key as well, didn't you?”
 $Mikage
 “...Yes.”
-I hurriedly searched my pocket. Mixed in with a few coins, a brass key came out.
+I hurriedly search my pockets. Mixed in with a bit of small change, a brass key comes out.
 $Mikage
 “A key... you have one?”
 $Sousuke
 “No... this is... the key to the bar.”
-It was the spare key to the bar I’d received from Chika.
+It’s the spare key to the bar I received from Chika.
 Where did the key to the apartment go?
 $Sousuke
-“...The lock to that room can be opened and closed from the inside without a key.”
-When I left the room, I didn't use a key.
-I didn't have the composure to lock up.
+“...The lock to that room can be opened and closed from the inside without using a key.”
+When I left the room, I didn't use a key either.
+I didn't have the luxury of being able to lock up.
 $Sousuke
-“Did I leave the key in the room—?”
+“I left the key in the room...?”
 $Qwon
-“If you did not have the key, Sousuke-san, the story is simple. After killing the victim, the true culprit took the key, left the room and locked it, then returned the key while pretending to be the one who discovered the body.”
+“If you were not in possession of the key, Sousuke, then the matter is simple. After killing the victim, the true culprit took the key, left the room and locked it, and then returned the key while pretending to be the one who first discovered the body.”
 $Mikage
-“But wouldn't that make the method of entry impossible? They wouldn't have had the key at that time...”
+“But with that, wouldn't there be a flaw in the method of intrusion? At that time, they wouldn't have had the key yet...”
 $Qwon
-“...I do not believe Sousuke-san is the type to diligently lock his doors.”
+“...I do not think Sousuke is the type to diligently lock his doors.”
 $Mikage
-“Now that you mention it... the door was unlocked when I first went to his room, too...”
-Did that happen?
+“Come to think of it... when I first went to the room, the door was unlocked as well...”
+Did that happen too?
 $Mikage
-“...If that’s the case, there’s even the possibility of a simple robbery...”
+“...If that’s the case, then even the possibility of a simple thief...”
 $Sousuke
-“No—not a chance. If it were a robbery, there would have been no reason to leave me alive. He would have killed me quickly—and taken the girl.”
+“No—there’s no way. If it were a thief, there’d be no meaning in letting me live. The bastard would just kill me quickly—and take the woman.”
 $Qwon
-“Unless the goal was to frame Sousuke-san, it is certainly an inexplicable situation.”
+“Unless the purpose was to frame you, Sousuke, it is indeed an inexplicable situation.”
 $Mikage
-“In that case, someone knew the door was unlocked... and furthermore, they knew Ayane-san was there...?”
+“Then, knowing that the door was unlocked... and furthermore, they knew that Ayane-san would be there...?”
 $Qwon
-“—And someone capable of killing a person without being noticed by Sousuke-san, who was right there beside them—”
+“—And, someone who is capable of killing a person without being noticed by Sousuke, who was right beside her—”
 $Sousuke
-“That would be—”
+“That person is—”
 —Good grief.
-Isn't there one person who fits that description perfectly among the people I know—?
+Isn't there one person within the range of my acquaintance who is far too suspicious—?
 $Sousuke
 “Souma—Aoi.”
 —If it’s him.
-He knows I was in that apartment.
-He must have been watching me, so there’s a high probability he knew about Ayane’s existence, too.
-And above all—he has deep ties to the military.
+He also knew that I was in that apartment.
+Since he was likely watching me, the possibility is high that he also knew of Ayane’s existence.
+And above all—his connection to the army is deep.
 $Mikage
 “...Who?”
 $Sousuke
-“...The person who hid me when I was suspected of killing the geisha. He does something like working as a debt collector—and he hinted at ties with the military.”
+“...The person who sheltered me when I was suspected of the geisha murder. His job is like a leader of debt collectors—and he hinted at connections to the army.”
 —Tch.
-Even him hiding me during the geisha murder feels suspicious now.
+Even the fact that he sheltered me during the geisha murder feels suspicious now.
 $Mikage
 “...That is certainly suspicious.”
-Mikage muttered Aoi’s name.
+Mikage murmurs Aoi’s name to herself.
 $Mikage
-“I’ll look into it when I get back.”
+“I’ll look into it once I get back.”
 $Sousuke
-“Yeah... can you also check on an organization called Seihoukai?”
+“Yeah... can I also ask you to look into an organization called "Seifoukai"?”
 $Mikage
 “Leave it to me.”
 $Sousuke
 “...Be careful.”
 $Mikage
-“...Yeah.”
+“...Yes.”
